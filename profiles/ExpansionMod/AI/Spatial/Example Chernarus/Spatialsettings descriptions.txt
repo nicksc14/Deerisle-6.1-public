@@ -1,0 +1,212 @@
+Settings and descriptions - 2026-09-09. All durations are seconds; clocks are seconds since game midnight.
+
+	Version = 23;
+		Settings version.
+	Spatial_MinTimer = 1200;
+		minimum timer for group/point ai to spawn. in seconds.
+		standard minimum 300 seconds; values <= -60 enable debug with the absolute seconds value.
+	Spatial_MaxTimer = 2400;
+		maximum time for group/ai to spawn. in seconds.
+	MinDistance = 140;
+		minimum distance away from player for group/point ai to spawn.
+	MaxDistance = 220;
+		maximum distance away from player for group/point ai to spawn.
+	HuntMode = 1;
+		ai pathing/aggression setting.
+		1 - hunt player aggressively.
+		2 - go to players location when ai spawned.
+		3 - idle.
+		4 - run around a bit then stand still.
+		5 - waypoint count = floor(EngageTimer / 2.5 seconds) + 2; legacy waypoint density preserved.
+		6 - follows the player 80-100m, closer 35-50m if player idle.
+	Points_Enabled = 0;
+		default off.
+		1 - uses points for changing groups spawned to 1 group.
+		2 - uses points as the only places group ai can spawn.
+	Locations_Enabled = 0;
+		default off.
+		1 - uses locations for smaller location triggering ai to spawn at a specific location.
+		2 - ignores surface checks and spawns exactly on spawnpos
+	Audio_Enabled = 0;
+		default off.
+		1 - uses locations for smaller location triggering ai to spawn at a specific location.
+		2 - ignores surface checks and spawns exactly on spawnpos
+	EngageTimer = 900;
+		timer for huntmode 1 ai to target the player. in seconds.
+	CleanupTimer = 1800;
+		timer for ai to be removed after spawning, in seconds.
+	PlayerChecks = -5;
+		disabled by default.
+		how many player parties ai will spawn on.
+		if set to a negative number, will not check for groups. (spawns on any player)
+	MaxAI = 20;
+		total amount of spatial ai that can spawn.
+	GroupDifficulty = 1;
+		extra ai per player in the group/party.
+	MinimumPlayerDistance = 0;
+		if set above, refuses spawn if more than MaxSoloPlayers around player.
+    	MaxSoloPlayers = 0;
+		max solo players not in group/party around player.
+	MinimumAge = 3600;
+		bambi/new player minimum age of physical player before ai spawn. in seconds.
+		negative uses absolute value as native playtime seconds; positive uses elapsed birth age seconds including offline time.
+   	ActiveHoursEnabled: 0;
+		0 - disabled
+		1 - all groups use globals below. points, locations and audio can be linked to spawn at set times. if not linked, they will use globals.
+		2 - groups can also be linked the same as 1, and groups without links will not spawn.
+		3 - groups will be based off player age. see notificationsettings for that setting. groups without age will not spawn. 
+   	ActiveStartTime: 50400;
+		global StartTime, seconds since midnight (0..86400).
+    	ActiveStopTime: 57600;
+		global StopTime, seconds since midnight (0..86400); start > stop crosses midnight; equal endpoints disable.
+	"TargetBone": "Neck"
+		internal setting. placeholder.
+	MessageType = 1;
+		0 - no message/notification on spawn.
+		1 - chat message including number of ai.
+		2 - chat message not including number.
+		3 - notification including number of ai.
+		4 - notification not including number.
+		5 - if gps item turned on, notification not including number.
+	MessageTitle = "Spatial AI";
+		notification title if used.
+	MessageText = "AI Spotted in the Area. Be Careful.";
+		message/notification message used.
+	LootWhitelist = {};
+		placeholder - not currently used.
+
+	default off for the following means the checks are done.
+	if you set them to true, it overrides the check so it isnt done.
+		Spatial_InVehicle = false;
+		Spatial_IsBleeding = false;
+		Spatial_IsRestrained = false;
+		Spatial_IsUnconscious = false;
+		Spatial_IsInSafeZone = false; - expansion safezone
+		Spatial_TPSafeZone = false; - traderplus safezone
+		Spatial_InOwnTerritory = false;
+
+
+
+Spatial_Group 
+	Spatial_MinCount
+		minimum amount of ai to spawn when used.
+	Spatial_MaxCount
+		maximum amount of ai to spawn when used.
+	Spatial_Weight
+		likelyhood of group being selected.
+	Spatial_Loadout
+		loadout used.
+	Spatial_Faction
+		faction used.
+	Spatial_Name
+		name of group/identifier for notificationsettings link.
+	Spatial_Lootable
+		default 1.
+		0 - not lootable
+		1 - all lootable
+		2 - randomly lootable
+		3 - leader lootable
+	Spatial_Chance
+		chance to spawn once selected.
+        Spatial_MinAccuracy
+		Minimum accuracy used for these ai.
+        Spatial_MaxAccuracy
+		Maximum accuracy used for these ai.
+        Spatial_UnlimitedReload
+		if the ai have unlimited reloads. - reqs at least 1 extra mag.
+
+Spatial_Point
+	Spatial_Name
+		name of group/identifier for notificationsettings link.
+	Spatial_Safe
+		0 - not a safezone.
+		1 - a safezone.
+	Spatial_Radius
+		distance from position covered.
+	Spatial_ZoneLoadout
+		loadouts used. now an array.
+	Spatial_MinCount
+		minimum amount of ai to spawn when used.
+	Spatial_MaxCount
+		maximum amount of ai to spawn when used.
+	Spatial_HuntMode
+		ai pathing/aggression setting.
+		1 - hunt player aggressively.
+		2 - go to players location when ai spawned.
+		3 - idle.
+		4 - run around a but then stand still.
+		5 - waypoint count = floor(EngageTimer / 2.5 seconds) + 2; legacy waypoint density preserved.
+		6 - follows the player 80-100m, closer 35-50m if player idle.
+	Spatial_Faction
+		faction used.
+	Spatial_Lootable
+		default 1.
+		0 - not lootable
+		1 - all lootable
+		2 - randomly lootable
+		3 - leader lootable
+	Spatial_Chance
+		chance to spawn once selected.
+        Spatial_MinAccuracy
+		Minimum accuracy used for these ai.
+        Spatial_MaxAccuracy
+		Maximum accuracy used for these ai.
+        Spatial_UnlimitedReload
+		if the ai have unlimited reloads. - reqs at least 1 extra mag.
+	Spatial_Position
+		position of the point. (radius determines total area from point.)
+
+Spatial_Location / Spatial_Audio
+	Spatial_Name
+		name of group/identifier for notificationsettings link.
+	Spatial_TriggerRadius
+		radius around triggerposition covered.
+	Spatial_ZoneLoadout
+		loadout used.
+	Spatial_MinCount
+		minimum amount of ai to spawn when used.
+	Spatial_MaxCount
+		maximum amount of ai to spawn when used.
+	Spatial_HuntMode
+		ai pathing/aggression setting.
+		1 - hunt player aggressively.
+		2 - go to players location when ai spawned.
+		3 - idle.
+		4 - run around a but then stand still.
+		5 - waypoint count = floor(EngageTimer / 2.5 seconds) + 2; legacy waypoint density preserved.
+		6 - follows the player 80-100m, closer 35-50m if player idle.
+	Spatial_Faction
+		faction used.
+	Spatial_Lootable
+		default 1.
+		0 - not lootable
+		1 - all lootable
+		2 - randomly lootable
+		3 - leader lootable
+	Spatial_Chance
+		chance to spawn once selected. checked per player entering location.
+        Spatial_MinAccuracy
+		Minimum accuracy used for these ai.
+	Spatial_Timer
+		from spawning a group, how long it will wait until it can spawn another. in seconds.
+	Spatial_SpawnMode
+		0 - single spawnposition or random if more than 1.
+		1 - all spawnpositions
+        Spatial_UnlimitedReload
+		if the ai have unlimited reloads. - reqs at least 1 extra mag.
+		once triggered, how long to delay before checking for players to enter location again.
+	Spatial_TriggerPosition
+		position of the location. (radius determines total area from point.)
+	Spatial_SpawnPosition
+		position that the ai will spawn at. now an array.
+
+
+Spatial_Audio
+	
+	Spatial_Sensitivity: 3.0;
+		the level at which triggers the audio zone. internally increments by 0.25 play around with it.
+		gunfire will always trigger the zone.
+
+Seconds migration: v19-v22 are migrated once to v23. Do not label seconds as an old version.
+CallLater/AddAI require milliseconds internally; only SpatialTime.ToMilliseconds performs that boundary conversion.
+Timer delay range: 0..2147483 seconds; global/engage minimum rules above still apply.

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1305,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交小型欧白鱼、梅花鲈、鲫鱼、银鲫、河鲈和雅罗鱼各1条",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {"Amount": 1, "ClassName": "AP_fish_bleak_small", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_ruffle_small", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_crucian_carp_small", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_prussian_carp_small", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_bass_small", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_chub_small", "QuantityPercent": -1, "MinQuantityPercent": 1}
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

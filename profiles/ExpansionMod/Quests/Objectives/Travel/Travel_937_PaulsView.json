@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 937,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Camp Eagle附近的Paul's View山顶",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9528.296875,
+        102.13501,
+        3730.715088
+    ],
+    "MaxDistance": 80.0,
+    "MarkerName": "Paul's View山顶",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

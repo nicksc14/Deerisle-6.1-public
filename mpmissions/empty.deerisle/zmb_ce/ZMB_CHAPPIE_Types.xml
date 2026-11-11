@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="MOB_Chappie_Trofei">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie2">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie3">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie4">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie5">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie6">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie7">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+	<type name="MOB_Chappie8">
+		<nominal>0</nominal>
+		<restock>0</restock>
+		<lifetime>1800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>		 
+	</type>
+</types>

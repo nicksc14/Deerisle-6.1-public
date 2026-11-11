@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 917,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往港口打捞船区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [6651.026, 5.080, 1258.822],
+    "MaxDistance": 40.0,
+    "MarkerName": "港口打捞船",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

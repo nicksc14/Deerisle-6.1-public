@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4202,
+    "Type": 1,
+    "Title": "[周常] Camp Eagle：外围哨兵清剿",
+    "Descriptions": [
+        "Camp Eagle的外围哨兵已经重新控制南岛高地。回到军营周边，累计击杀20名敌对AI，削弱他们对Eagle港航线的封锁。",
+        "在Camp Eagle军营中心300米范围内击杀20名敌对AI；本任务只使用固定区域击杀统计，不会额外生成任务专属AI。",
+        "Camp Eagle外围的武装哨兵已经受到压制。返回前线行动官处领取15,000 Hryvnia、1份武器零件和500声望。"
+    ],
+    "ObjectiveText": "在Camp Eagle军营300米范围内击杀20名敌对AI",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 15000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_WeaponParts",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 4202,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -1148045308,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        909
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,159 @@
+{
+    "ConfigVersion": "4",
+    "TITLE": "[Azrael Event Outpost]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== MAIN CONFIG",
+    "EnableDebugPrint": 0,
+    "EnableOutpostEvent": 1,
+    "EnableNotificationAfterDoorOpen": 1,
+    "EnableNotificationAfterOutpostSpawn": 0,
+    "OutpostCountMin": 1,
+    "OutpostCountMax": 2,
+    "LockPickDamagePerMove": 2,
+    "LockPickDamageAfterOpen": 20,
+    "FirstWaitTimeMin": 0,
+    "FirstWaitTimeMax": 0,
+    "EveryWaitTimeMin": 0,
+    "EveryWaitTimeMax": 0,
+    "NeedPlayerCountToSpawn": 0,
+    "LockPickList": [
+        "Lockpick",
+        "YourCustomLockpick"
+    ],
+    "text2": "====== REMOVE NEAR ITEMS CONFIG",
+    "DeleteDumpLootInAreaRadius_meter": 10,
+    "DontRemoveObjectsList": [
+        "YourItemClassname1",
+        "YourItemClassname2"
+    ],
+    "text3": "====== OUTPOST LIST",
+    "ATTENTION_BLYAT": "!!!! PLEASE READ SETTINGS.TXT IN MOD ARCHIVE!!!!",
+    "EventOutpostBaseList": [
+        {
+            "OutpostName": "OutpostTestLivonia",
+            "IsActive": 0,
+            "TriggerActivateRadius": 80,
+            "IsContaminatedAreaEvent": 0,
+            "CombineLootPresets": 0,
+            "EnableSecurity": 1,
+            "EnableSecurityWave": 1,
+            "EnableOpenArmoryNoise": 1,
+            "EnableArmoryBomb": 1,
+            "EnableAlarmSiren": 1,
+            "ArmoryKeySpawnInRoom": 1,
+            "DeleteDumpOnServerRestart": 1,
+            "MinSecurityCount": 3,
+            "MaxSecurityCount": 6,
+            "MinSecurityCountInWave": 3,
+            "MaxSecurityCountInWave": 6,
+            "SuperBoxInArmoryChanceSpawn": 1.0,
+            "BoxInFloor2CountMin": 1,
+            "BoxInFloor2CountMax": 3,
+            "LockerInArmoryCountMin": 3,
+            "LockerInArmoryCountMax": 7,
+            "MinLootCount_Floor2": 4,
+            "MaxLootCount_Floor2": 8,
+            "MinLootCount_Armory": 4,
+            "MaxLootCount_Armory": 8,
+            "MinLootCount_Super": 4,
+            "MaxLootCount_Super": 8,
+            "TimeToSecurityRefill_min": 10,
+            "AlarmTimerAfterArmoryOpened_sec": 120,
+            "BombTimerAfterArmoryOpened_sec": 120,
+            "ArmoryLockpickAttemptTimer_sec": 10,
+            "ArmoryLockOpenValueSucces": 30,
+            "ArmoryLockOpenValueMax": 60,
+            "ArmoryCriticalPressTimeMax": 100,
+            "ArmoryCriticalPressTimeToRefill": 20,
+            "SuperLockpickAttemptTimer_sec": 5,
+            "SuperLockOpenValueSucces": 10,
+            "SuperLockOpenValueMax": 20,
+            "SuperCriticalPressTimeMax": 80,
+            "SuperCriticalPressTimeToRefill": 20,
+            "CoordPresets": [
+                "livonia_test1"
+            ],
+            "Floor2LootPresets": [
+                "simple",
+                "custom"
+            ],
+            "ArmoryLootPresets": [
+                "rare",
+                "custom"
+            ],
+            "SuperLootPresets": [
+                "rare"
+            ],
+            "SecurityList": [
+                "ZmbM_HunterOld_Autumn"
+            ],
+            "SecurityWaveList": [
+                "ZmbM_HunterOld_Spring"
+            ]
+        },
+        {
+            "OutpostName": "OutpostTestCherno",
+            "IsActive": 1,
+            "TriggerActivateRadius": 80,
+            "IsContaminatedAreaEvent": 0,
+            "CombineLootPresets": 0,
+            "EnableSecurity": 1,
+            "EnableSecurityWave": 1,
+            "EnableOpenArmoryNoise": 1,
+            "EnableArmoryBomb": 1,
+            "EnableAlarmSiren": 1,
+            "ArmoryKeySpawnInRoom": 1,
+            "DeleteDumpOnServerRestart": 1,
+            "MinSecurityCount": 5,
+            "MaxSecurityCount": 7,
+            "MinSecurityCountInWave": 4,
+            "MaxSecurityCountInWave": 5,
+            "SuperBoxInArmoryChanceSpawn": 1.0,
+            "BoxInFloor2CountMin": 1,
+            "BoxInFloor2CountMax": 3,
+            "LockerInArmoryCountMin": 3,
+            "LockerInArmoryCountMax": 7,
+            "MinLootCount_Floor2": 4,
+            "MaxLootCount_Floor2": 8,
+            "MinLootCount_Armory": 4,
+            "MaxLootCount_Armory": 8,
+            "MinLootCount_Super": 4,
+            "MaxLootCount_Super": 8,
+            "TimeToSecurityRefill_min": 10,
+            "AlarmTimerAfterArmoryOpened_sec": 120,
+            "BombTimerAfterArmoryOpened_sec": 120,
+            "ArmoryLockpickAttemptTimer_sec": 10,
+            "ArmoryLockOpenValueSucces": 30,
+            "ArmoryLockOpenValueMax": 70,
+            "ArmoryCriticalPressTimeMax": 100,
+            "ArmoryCriticalPressTimeToRefill": 20,
+            "SuperLockpickAttemptTimer_sec": 5,
+            "SuperLockOpenValueSucces": 10,
+            "SuperLockOpenValueMax": 20,
+            "SuperCriticalPressTimeMax": 80,
+            "SuperCriticalPressTimeToRefill": 20,
+            "CoordPresets": [
+                "cherno_test_sobor",
+                "cherno_test_south"
+            ],
+            "Floor2LootPresets": [
+                "simple",
+                "custom"
+            ],
+            "ArmoryLootPresets": [
+                "rare",
+                "custom"
+            ],
+            "SuperLootPresets": [
+                "rare"
+            ],
+            "SecurityList": [
+                "ZmbM_HunterOld_Autumn"
+            ],
+            "SecurityWaveList": [
+                "ZmbM_HunterOld_Spring"
+            ]
+        }
+    ]
+}

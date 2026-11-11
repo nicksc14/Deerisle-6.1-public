@@ -1,0 +1,108 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TTC狙击步枪",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "ttc_awm",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttc_beowulf",
+            "MaxPriceThreshold": 114300,
+            "MinPriceThreshold": 96300,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttc_fd338",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttc_gevar43",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ttc_gevar43_green",
+                "ttc_gevar43_tan",
+                "ttc_gevar43_silver"
+            ]
+        },
+        {
+            "ClassName": "ttc_m82",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ttc_m82_tan"
+            ]
+        },
+        {
+            "ClassName": "ttc_mrad",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttcsr25",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ttcsr25_desert",
+                "ttcsr25_snow",
+                "ttcsr25_od"
+            ]
+        },
+        {
+            "ClassName": "ttc_m82_gold",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

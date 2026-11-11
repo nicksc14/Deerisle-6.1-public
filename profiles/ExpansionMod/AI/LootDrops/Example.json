@@ -1,0 +1,307 @@
+[
+  {
+    "ClassName": "Ammo_545x39",
+    "Chance": 0.5,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.800000011920929
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_545x39Tracer",
+    "Chance": 0.5,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_762x39",
+    "Chance": 0.25,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_762x39Tracer",
+    "Chance": 0.25,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_556x45",
+    "Chance": 0.5,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_556x45Tracer",
+    "Chance": 0.5,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_762x54",
+    "Chance": 0.15000000596046449,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_762x54Tracer",
+    "Chance": 0.15000000596046449,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_308Win",
+    "Chance": 0.15000000596046449,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.15
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_308WinTracer",
+    "Chance": 0.15000000596046449,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "FirstAidKit",
+    "Chance": 0.33000001311302187,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [
+      {
+        "ClassName": "BandageDressing",
+        "Chance": 1.0,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "BandageDressing",
+        "Chance": 0.4000000059604645,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "IodineTincture",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.20000000298023225,
+          "Max": 1.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "Morphine",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "Epinephrine",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      }
+    ],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

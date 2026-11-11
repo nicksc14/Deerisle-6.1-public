@@ -1,0 +1,34 @@
+{
+    "DamageAndArea": "-----------------------------------------------------------------------------------",
+    "tickTime": 1000.0,
+    "radius": 15.0,
+    "agentPerTick": 1.0,
+    "shockAppliedOnMutantDeath": 15.0,
+    "bleedChanceAttempt": 1.0,
+    "coughBloodLossChance": 50.0,
+    "coughBloodLoss": 50.0,
+    "Clothes_Protection_List": "-----------------------------------------------------------------------------------",
+    "ClothProtectionList": [
+        "NBCHoodBase",
+        "NBCJacketBase",
+        "NBCPantsBase",
+        "NBCGloves_ColorBase",
+        "NBCBootsBase",
+        "GasMask",
+        "GP5GasMask"
+    ],
+    "ClothProtectionValues": [
+        8.0,
+        25.0,
+        20.0,
+        7.0,
+        10.0,
+        30.0,
+        30.0
+    ],
+    "Protection_Part": "-----------------------------------------------------------------------------------",
+    "pristineProtection": 1.0,
+    "wornProtection": 0.75,
+    "damagedProtection": 0.5,
+    "badlyDamagedProtection": 0.25
+}

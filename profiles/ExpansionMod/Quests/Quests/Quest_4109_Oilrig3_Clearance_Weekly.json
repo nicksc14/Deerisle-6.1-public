@@ -1,0 +1,100 @@
+{
+  "ConfigVersion": 22,
+  "ID": 4109,
+  "Type": 1,
+  "Title": "[周常] 三号钻井平台：击杀30名AI",
+  "Descriptions": [
+    "三号钻井平台存在敌对AI。进入目标区域，累计击杀30名AI。",
+    "在三号钻井平台800米范围内击杀30名敌对AI。",
+    "已完成30名AI击杀。返回前线行动官处领取奖励：20,000金币，或7.62×54、7.62×39、5.45×39、5.56×45普通弹药各200发，五项任选一项。不再奖励声望。"
+  ],
+  "ObjectiveText": "在三号钻井平台800米范围内击杀30名敌对AI",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 20000,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    },
+    {
+      "ClassName": "Ammo_762x54",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    },
+    {
+      "ClassName": "Ammo_762x39",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    },
+    {
+      "ClassName": "Ammo_545x39",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    },
+    {
+      "ClassName": "Ammo_556x45",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
+  "NeedToSelectReward": 1,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    7
+  ],
+  "QuestTurnInIDs": [
+    7
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 4109,
+      "ObjectiveType": 2
+    }
+  ],
+  "QuestColor": -1148045308,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

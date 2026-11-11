@@ -1,0 +1,41 @@
+{
+  "m_Version": 12,
+  "DisplayName": "炫彩消音器皮肤-特殊",
+  "Icon": "Kitchen Knife Big",
+  "Color": "FFE97FFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "cds_sodapipsi_suppressor",
+      "MaxPriceThreshold": 5000000,
+      "MinPriceThreshold": 5000000,
+      "SellPricePercent": 0.2,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cds_sodacola_suppressor",
+        "cds_sodaspite_suppressor",
+        "cds_sodakvass_suppressor",
+        "cds_sodafanda_suppressor"
+      ]
+    },
+    {
+      "ClassName": "cds_teddy_suppressor_pink",
+      "MaxPriceThreshold": 5000000,
+      "MinPriceThreshold": 5000000,
+      "SellPricePercent": 0.2,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cds_teddy_suppressor_white",
+        "cds_teddy_suppressor_beige",
+        "cds_teddy_suppressor_black"
+      ]
+    }
+  ]
+}

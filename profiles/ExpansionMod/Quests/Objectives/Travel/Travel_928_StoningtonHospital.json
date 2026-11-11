@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 928,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Stonington医院",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [6919.763, 49.62015, 2067.024],
+    "MaxDistance": 30.0,
+    "MarkerName": "Stonington医院",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

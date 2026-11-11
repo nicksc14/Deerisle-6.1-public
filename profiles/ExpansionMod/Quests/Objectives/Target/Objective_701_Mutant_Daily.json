@@ -1,0 +1,35 @@
+{
+  "ConfigVersion": 28,
+  "ID": 701,
+  "ObjectiveType": 2,
+    "ObjectiveText": "击杀20只变异感染者",
+  "TimeLimit": -1,
+  "Active": 1,
+  "Position": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "MaxDistance": -1.0,
+  "MinDistance": -1.0,
+  "Amount": 20,
+  "ClassNames": [
+    "Gil_NBC_Green",
+    "Gil_ZmbM_armyofficer",
+    "BM_zombie_psychopath",
+    "AP_zmb_voltage_miltary",
+    "AP_zmb_omon",
+    "SMCS_Snork_Hard",
+    "AP_zmb_ecolog_blue",
+    "AP_zmb_ecolog_grey",
+    "AP_zmb_ecolog_orange",
+    "AP_zmb_ecolog_yellow",
+    "AP_zmb_kamikaze"
+  ],
+  "CountSelfKill": 0,
+  "AllowedWeapons": [],
+  "ExcludedClassNames": [],
+  "CountAIPlayers": 0,
+  "AllowedTargetFactions": [],
+  "AllowedDamageZones": []
+}

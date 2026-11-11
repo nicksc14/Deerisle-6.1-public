@@ -1,0 +1,112 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SNIPER_RIFLES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "asval",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_val_20rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "b95",
+      "MaxPriceThreshold": 4200,
+      "MinPriceThreshold": 2523,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_awm",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_expansion_awm_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "scout",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 183,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_scout_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "sv98",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_sv98_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "svd",
+      "MaxPriceThreshold": 4800,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_svd_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "vikhr",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_vikhr_30rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "vss",
+      "MaxPriceThreshold": 4800,
+      "MinPriceThreshold": 3531,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_vss_10rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

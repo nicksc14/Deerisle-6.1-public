@@ -1,0 +1,87 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MEELE_WEAPONS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "brassknuckles_dull",
+      "MaxPriceThreshold": 258,
+      "MinPriceThreshold": 156,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "brassknuckles_shiny",
+      "MaxPriceThreshold": 1815,
+      "MinPriceThreshold": 1089,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "broom",
+      "MaxPriceThreshold": 285,
+      "MinPriceThreshold": 171,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "broom_birch",
+      "MaxPriceThreshold": 1080,
+      "MinPriceThreshold": 648,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pipe",
+      "MaxPriceThreshold": 609,
+      "MinPriceThreshold": 366,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballbat",
+      "MaxPriceThreshold": 231,
+      "MinPriceThreshold": 138,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mace",
+      "MaxPriceThreshold": 357,
+      "MinPriceThreshold": 213,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

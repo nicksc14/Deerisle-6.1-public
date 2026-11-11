@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCMirek",
+    "Position": [10236.324219, 50.158634, 4977.023926],
+    "Orientation": [4.101206, 0.0, 0.0],
+    "NPCName": "OceanVille 前哨幸存者",
+    "DefaultNPCText": "你是从北边过来的？好久没见到活人了。OceanVille 现在是我的地盘——想继续往前走，先帮我处理掉附近的麻烦。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_004_OceanVille_AP_ATACS",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "",
+    "NPCType": 0,
+    "Active": 1
+}

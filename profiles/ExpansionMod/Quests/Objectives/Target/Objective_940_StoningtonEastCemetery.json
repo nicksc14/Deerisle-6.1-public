@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 940,
+    "ObjectiveType": 2,
+    "ObjectiveText": "在Stonington东部墓地100米范围内击杀1只基础型良子变异体",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8388.091797,
+        29.154806,
+        2173.209717
+    ],
+    "MaxDistance": 100.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "OMI_MobKF_Bloat_Default"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

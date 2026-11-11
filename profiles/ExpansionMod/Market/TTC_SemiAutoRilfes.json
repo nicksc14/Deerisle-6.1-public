@@ -1,0 +1,58 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TTC半自动武器",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ttc_avs36",
+      "MaxPriceThreshold": 47700,
+      "MinPriceThreshold": 40500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_m1a_black",
+      "MaxPriceThreshold": 106800,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_m1a_green",
+        "ttc_m1a_tan",
+        "ttc_m1a_snow"
+      ]
+    },
+    {
+      "ClassName": "ttc_m1garand",
+      "MaxPriceThreshold": 48300,
+      "MinPriceThreshold": 40800,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_svt40",
+      "MaxPriceThreshold": 48300,
+      "MinPriceThreshold": 40800,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

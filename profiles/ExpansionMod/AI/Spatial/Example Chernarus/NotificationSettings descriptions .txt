@@ -1,0 +1,27 @@
+            nofiticationsettings has forced data correction. if the file is formatted correctly,
+	    and it finds the data invalid, it will try to set that string as "null" or type 0 and save.
+
+	    Spatial_Name: 
+			-SpatialSettings Point/Notification matching name.
+			can be used multiple times in SpatialSettings.
+			if a nofiticationsettings match isnt found, it will default to the top of SpatialSettings.
+
+				
+            StartTime: 0.0 
+            StopTime: 86400.0
+			 -if spatialsettings ActiveHoursEnabled is set to 1, these are used to contol when the linked
+				points, locations and audio locations can spawn ingame time, defaulting to the global
+				times found in spatialsettings if not linked.
+			 -if spatialsettings ActiveHoursEnabled is set to 2, groups can also be controlled, and unlinked dont spawn.
+			Version 3: seconds since game midnight, 0..86400. start > stop crosses midnight; equal endpoints disable.
+			
+            AgeTime: 6600
+			 -spatialsettings ActiveHoursEnabled is set to 3, groups linked will check this setting in elapsed seconds since player birth (includes offline time)
+				if no groups are found, it wont spawn any. (no defaults, points, locations and audio locations work normally)
+
+            MessageType: 
+			-message type. see SpatialSettings for options.
+            MessageTitle: title of message
+            MessageText: array of messages, it will choose one at random. if only one, it will only use that one.
+Version 1/2 H.MM fields migrate once to Version 3 seconds. Legacy 1.5 means 1h50m = 6600 seconds.
+AgeTime = 0 means no age delay. Notifications display for 5 seconds.

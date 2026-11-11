@@ -1,0 +1,605 @@
+{
+	"m_Version": 5,
+	"CanBuildAnywhere": 1,
+	"AllowBuildingWithoutATerritory": 1,
+	"DeployableOutsideATerritory": [
+		"ExpansionSatchel",
+		"Fireplace",
+		"TerritoryFlagKit",
+		"MediumTent",
+		"LargeTent",
+		"CarTent",
+		"PartyTent",
+		"ExpansionCamoTentKit",
+		"ExpansionCamoBoxKit",
+		"ShelterKit",
+		"LandMineTrap",
+		"BearTrap",
+		"FishNetTrap",
+		"RabbitSnareTrap",
+		"SmallFishTrap",
+		"TripwireTrap",
+		"ExpansionSafeLarge",
+		"ExpansionSafeMedium",
+		"ExpansionSafeSmall",
+		"SeaChest",
+		"WoodenCrate",
+		"GardenPlot"
+	],
+	"DeployableInsideAEnemyTerritory": [
+		"ExpansionSatchel",
+		"LandMineTrap",
+		"BearTrap",
+		"FishNetTrap",
+		"RabbitSnareTrap",
+		"SmallFishTrap",
+		"TripwireTrap"
+	],
+	"CanCraftVanillaBasebuilding": 0,
+	"CanCraftExpansionBasebuilding": 1,
+	"DestroyFlagOnDismantle": 1,
+	"DismantleOutsideTerritory": 0,
+	"DismantleInsideTerritory": 0,
+	"DismantleAnywhere": 0,
+	"CodelockActionsAnywhere": 0,
+	"CodeLockLength": 4,
+	"DoDamageWhenEnterWrongCodeLock": 1,
+	"DamageWhenEnterWrongCodeLock": 10.0,
+	"RememberCode": 1,
+	"CanCraftTerritoryFlagKit": 1,
+	"SimpleTerritory": 1,
+	"AutomaticFlagOnCreation": 1,
+	"GetTerritoryFlagKitAfterBuild": 0,
+	"BuildZoneRequiredCustomMessage": "你只能在指定的玩家建家区域内建造基地",
+	"Zones": [
+		{
+			"Name": "Armor_Trader",
+			"Center": [
+				3445,
+				0,
+				6424
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在护甲交易区的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "Weapons_Trader",
+			"Center": [
+				9557.93262,
+				0,
+				8937.79883
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在武器交易区的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "Rookie_Trader",
+			"Center": [
+				5619.04199,
+				28.8499985,
+				5378.16406
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在新手交易区的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "Boat_Trader_Spire",
+			"Center": [
+				5223.36719,
+				1.57100403,
+				9303.16602
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在船只交易区的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "Boat_Trader_Rookie",
+			"Center": [
+				7786,
+				1,
+				6831
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在船只交易区的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "Black Market",
+			"Center": [
+				13383,
+				12.9099998,
+				9869
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在黑市商人的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "HeliCarrier",
+			"Center": [
+				15203.1162,
+				0.999773026,
+				8698.68457
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在STAG航母基地的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Submarine",
+			"Center": [
+				15488.68848,
+				2.234968,
+				10865.69531
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在STAG潜艇基地的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Oilrig1",
+			"Center": [
+				3476.36401,
+				-3.41135454,
+				12405.4502
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在一号钻井平台的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Oilrig2",
+			"Center": [
+				1659.37292,
+				41.3319473,
+				12712.9697
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在二号钻井平台的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Oilrig3",
+			"Center": [
+				4136,
+				-11.0500002,
+				15484
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在三号钻井平台的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Oilrig4",
+			"Center": [
+				11855,
+				-20.0300007,
+				6605
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在四号钻井平台的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Subway",
+			"Center": [
+				11443.8984,
+				15.2694283,
+				10138.7002
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在终点地下站的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Tunnel",
+			"Center": [
+				5890.18848,
+				5.90500116,
+				13505.5645
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在终点隧道的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Lance",
+			"Center": [
+				4076.29541,
+				7.32025146,
+				5225.96582
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在暴徒营地的[500米]范围内建造基地"
+		},
+		{
+			"Name": "ParisBunker",
+			"Center": [
+				2750.52588,
+				25.9443722,
+				3417.89502
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在S.T.A.G指挥部的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Valley",
+			"Center": [
+				8429.7041,
+				128.377518,
+				12268.7148
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在S.T.A.G军事堡垒的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Alcatraz",
+			"Center": [
+				15780,
+				16.4921894,
+				4780
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在监狱岛的[500米]范围内建造基地"
+		},
+		{
+			"Name": "UGPrison",
+			"Center": [
+				5856.52393,
+				44.8083534,
+				4870.89453
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在地下监狱的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Lab",
+			"Center": [
+				6389.91797,
+				38.9749985,
+				9069.59668
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在医疗实验室的[500米]范围内建造基地"
+		},
+		{
+			"Name": "ShuiLao",
+			"Center": [
+				2607.87231,
+				40.6771126,
+				13913.1992
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在荒废水牢的[500米]范围内建造基地"
+		},
+		{
+			"Name": "ShiLuo",
+			"Center": [
+				9215.71484,
+				36.5279808,
+				14952.8604
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在失落堡垒的[500米]范围内建造基地"
+		},
+		{
+			"Name": "JiMi",
+			"Center": [
+				14397.4063,
+				2.59091997,
+				6876.69971
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在机密堡垒的[500米]范围内建造基地"
+		},
+		{
+			"Name": "KMUC",
+			"Center": [
+				7181.66699,
+				547.694824,
+				12078.3301
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在KMUC地堡的[500米]范围内建造基地"
+		},
+		{
+			"Name": "HaiXia",
+			"Center": [
+				3344.89673,
+				48.9224243,
+				11115.8184
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在海峡堡垒的[500米]范围内建造基地"
+		},
+		{
+			"Name": "SEUG",
+			"Center": [
+				9846.66602,
+				-7.59985399,
+				2553.33301
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在SEUG灯塔堡垒的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Milo",
+			"Center": [
+				6481.080566,
+				71.297371,
+				4288.969238
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在S.T.A.G迈罗山军营的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Waldoboro",
+			"Center": [
+				8144.42822,
+				7.550468,
+				9742.09473
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在沃博罗堡垒的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Turbine",
+			"Center": [
+				1390.0,
+				5.35,
+				6991.0
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在时代新能源地堡的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Fisherman_SafeZone",
+			"Center": [
+				10450.660156,
+				2.855675,
+				5641.042969
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在渔夫小镇安全区的[1千米]范围内建造基地"
+		},
+		{
+			"Name": "Teleporter_T4_LostIsland",
+			"Center": [
+				3770.26172,
+				9.01090622,
+				9110.49023
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T4失落岛传送点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Extraction_T4_LostIsland",
+			"Center": [
+				8952.05469,
+				58.5008583,
+				15477.2422
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T4失落岛撤离点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Teleporter_T2_SouthHeaven",
+			"Center": [
+				7521.69336,
+				87.6949615,
+				4598.90576
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T2天堂南岛传送点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Extraction_T2_SouthHeaven",
+			"Center": [
+				1191.67139,
+				28.0466728,
+				13252.5986
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T2天堂南岛撤离点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Teleporter_T3_NorthHeaven",
+			"Center": [
+				4637.21484,
+				20.5699539,
+				7073.10596
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T3天堂北岛传送点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Extraction_T3_NorthHeaven",
+			"Center": [
+				1238.51025,
+				40.2441254,
+				15663.1484
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T3天堂北岛撤离点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Teleporter_T5_Alcatraz",
+			"Center": [
+				2544.90308,
+				35.1249733,
+				3510.6897
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T5 Alcatraz传送点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Extraction_T5_Alcatraz",
+			"Center": [
+				15764.4707,
+				31.1906948,
+				5063.29492
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T5 Alcatraz撤离点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Spawn_T2_South",
+			"Center": [
+				392.273895,
+				7.00000191,
+				12627.1836
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T2南岛复活点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Spawn_T3_North",
+			"Center": [
+				1148.45996,
+				2.1111989,
+				14747.0
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T3北岛复活点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Spawn_T4_LostIsland",
+			"Center": [
+				10143.5566,
+				8.10737133,
+				15632.5664
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T4失落岛复活点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Spawn_T5_Alcatraz",
+			"Center": [
+				14984.1631,
+				2.00572991,
+				5670.89209
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T5 Alcatraz复活点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "Spawn_T1_Crater",
+			"Center": [
+				13031.2373,
+				25.0826683,
+				1819.24854
+			],
+			"Radius": 300,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在跑刀T1陨石坑复活点的[300米]范围内建造基地"
+		},
+		{
+			"Name": "StoningtonPrisonIsland",
+			"Center": [
+				5706.567287436781,
+				30.449053655172417,
+				704.6543543333333
+			],
+			"Radius": 500,
+			"Items": [],
+			"IsWhitelist": 1,
+			"CustomMessage": "你不能在斯托宁顿监狱地堡的[500米]范围内建造基地"
+		},
+		{
+			"Name": "Player_Base_Build_Zone",
+			"Center": [
+				9625.178711,
+				37.755501,
+				1217.310547
+			],
+			"Radius": 1000,
+			"Items": [],
+			"IsWhitelist": 0,
+			"CustomMessage": ""
+		}
+	],
+	"ZonesAreNoBuildZones": 0,
+	"CodelockAttachMode": 1,
+	"DismantleFlagMode": 1,
+	"FlagMenuMode": 1,
+	"PreventItemAccessThroughObstructingItems": 1,
+	"EnableVirtualStorage": 0,
+	"VirtualStorageExcludedContainers": [
+		"ExpansionAirdropContainerBase"
+	]
+}

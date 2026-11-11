@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10,
+    "ClassName": "ExpansionQuestNPCPeter",
+    "Position": [
+        5639.501465,
+        28.758717,
+        5390.420410
+    ],
+    "Orientation": [
+        118.725235,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "埃里克·霍尔姆｜鹿岛渔业教官",
+    "DefaultNPCText": "先拿上《渔夫之书》，从普通淡水鱼开始。我会按T1普通、T2运动、T3专业的顺序发给你更好的渔具；每完成一个阶段，还会开放对应的每周渔获合同，最后再挑战淡水大师、海岸专家、深海猎手和钓鱼大师。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_010_Fisheries_Ghost_Black",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

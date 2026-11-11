@@ -1,0 +1,32 @@
+Azrael Maul Infected
+
+Описание / Description
+
+--RUS
+
+Инфицированный "Кувалда" - уникальный моб, способный наносить урон на расстоянии при помощи ударной волны, создаваемой сильным ударом по земле своей огромной кувалдой. Ударная волна может отбросить игроков, животных и транспортные средства и нанести им урон в зависимости от расстояния до эпицентра удара. Все удары происходят с соответствующей анимацией. Инфицированный имеет 3 вариации и свои настройки для каждой: строитель, военный, полицейский.
+
+Особенности:
+Кувалда:
+- Использование соответствующих анимация для атак в ближнем бою, а так же для специальной атаки (ударная волна).
+- Каждые несколько секунд Кувалда будет стараться нанести вам урон ударной волной, если вы находитесь в указанном радиусе (радиус активации и радиус урона настраиваются).
+- Если в радиусе поражения ударной волны окажутся зомби, животные, транспорт, игроки - они получат урон и импульс в зависимости от расстояния. Вы можете выключить воздействие на выбранную категорию или настроить множитель урона для нее.
+- Все события сопровождаются красивым визуальными эффектами и звуками.
+- Возможность использовать большой молот инфицированного.
+- Подробная настройка лута, появляющегося после смерти инфицированного.
+- Возможность настройки следующих параметров: радиус атаки, радиус поражения, минимальные и максимальные значения урона по здоровью, шоку, импульс в зависимости от удаленности от эпицентра, шанс увеличенного урона по ногам, шанс что двигатель автомобиля заглохнет, урон ботам, количество здоровья для перехода в режим ярости, модификаторы урона в режиме ярости и другое.
+
+
+--ENG
+
+The Infected "Maul" is a unique mob capable of dealing damage from a distance using a shockwave created by slamming its massive sledgehammer into the ground. The shockwave can knock back players, animals, and vehicles, dealing damage depending on the distance to the shockwave's epicenter. All attacks are accompanied by a corresponding animation. The Infected has three variations, each with its own settings: Builder, Military, and Police.
+
+Features:
+Maul:
+- Uses the corresponding animation for melee attacks, as well as for its special attack (shockwave).
+- Every few seconds, the Maul will attempt to damage you with a shockwave if you are within the specified radius (activation and damage radius are adjustable).
+- If zombies, animals, vehicles, or players are within the shockwave's radius, they will receive damage and a pulse based on the distance. You can disable the effect on a selected category or adjust the damage multiplier for it.
+- All events are accompanied by beautiful visual effects and sounds.
+- Ability to use the Infected's large hammer.
+- Detailed loot customization for the infected's death.
+- Ability to customize the following parameters: attack radius, damage radius, minimum and maximum damage to health, shock, impulse depending on distance from the epicenter, chance of increased damage to legs, chance of vehicle engine stalling, damage to bots, health requirement for entering enrage mode, damage modifiers in enrage mode, and more.

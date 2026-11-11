@@ -1,0 +1,87 @@
+{
+    "ConfigVersion": 22,
+    "ID": 937,
+    "Type": 1,
+    "Title": "Paul's View高地警戒",
+    "Descriptions": [
+        "Camp Eagle附近的Paul's View可以俯瞰沿岸航线，但山顶的感染者会袭击经过的幸存者。",
+        "抵达地图标记的山顶，在100米范围内击杀6只普通感染者。",
+        "高地观察线已恢复。带上这些弹药和食物，后面的路会更危险。"
+    ],
+    "ObjectiveText": "前往Paul's View山顶并击杀6只普通感染者",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "BakedBeansCan",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AmmoBox_762x39_20Rnd",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 937,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 937,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

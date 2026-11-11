@@ -1,0 +1,233 @@
+[
+  {
+    "ClassName": "expansiongoldbar",
+    "Chance": 0.1,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_diamond",
+    "Chance": 0.025,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_satcom",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_quantum",
+    "Chance": 0.025,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_militaryuav",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_missile",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_reactor",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "df_collect_experimental",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "weaponcleaningkit",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "electronicrepairkit",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_556x45",
+    "Chance": 0.06885008490516231,
+    "Quantity": {
+      "Min": 0.25,
+      "Max": 0.4
+    },
+    "Health": [
+      {
+        "Min": 0.85,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_545x39",
+    "Chance": 0.06885008490516231,
+    "Quantity": {
+      "Min": 0.25,
+      "Max": 0.4
+    },
+    "Health": [
+      {
+        "Min": 0.85,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_762x39",
+    "Chance": 0.06885008490516231,
+    "Quantity": {
+      "Min": 0.25,
+      "Max": 0.4
+    },
+    "Health": [
+      {
+        "Min": 0.85,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_762x54",
+    "Chance": 0.06885008490516231,
+    "Quantity": {
+      "Min": 0.25,
+      "Max": 0.4
+    },
+    "Health": [
+      {
+        "Min": 0.85,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Ammo_308Win",
+    "Chance": 0.06885008490516231,
+    "Quantity": {
+      "Min": 0.25,
+      "Max": 0.4
+    },
+    "Health": [
+      {
+        "Min": 0.85,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

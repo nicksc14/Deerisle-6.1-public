@@ -1,0 +1,186 @@
+{
+  "m_Version": 12,
+  "DisplayName": "生活杂物与零件回收",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "QPK_Soap",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 360,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Shampoo",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_ToothPaste",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 360,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_ToothPaste2",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 360,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_TualetPaper",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Matches",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Household",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Wires",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Capacitors",
+      "MaxPriceThreshold": 1920,
+      "MinPriceThreshold": 1920,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_CPU",
+      "MaxPriceThreshold": 2880,
+      "MinPriceThreshold": 2880,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Hose",
+      "MaxPriceThreshold": 960,
+      "MinPriceThreshold": 960,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Securedtape",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Screw",
+      "MaxPriceThreshold": 720,
+      "MinPriceThreshold": 720,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Model_Nuts",
+      "MaxPriceThreshold": 720,
+      "MinPriceThreshold": 720,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Sewing",
+      "MaxPriceThreshold": 720,
+      "MinPriceThreshold": 720,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Paracord",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

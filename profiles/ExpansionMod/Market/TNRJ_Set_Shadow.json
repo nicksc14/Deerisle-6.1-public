@@ -1,0 +1,87 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 暗影套装",
+  "Icon": "Deliver",
+  "Color": "7FFFFFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "TNRJ_Shadow_Belt",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TNRJ_Shadow_Boots",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TNRJ_Shadow_Gloves",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TNRJ_Shadow_Jacket",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TNRJ_Shadow_Mask",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TNRJ_Shadow_Pants",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TNRJ_Shadow_Vest",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

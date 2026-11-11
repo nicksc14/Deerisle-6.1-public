@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 3,
+    "EnablePlayerAutoStack": 1,
+    "EnableStorageAutoStack": 1,
+    "OnlyStackNewLoot": 1,
+    "EnableCleanup": 1,
+    "StackCooldownMs": 2000,
+    "SplitCooldownMs": 10000,
+    "StackDelayMs": 300,
+    "CleanupIntervalMs": 60000,
+    "Blacklist": []
+}

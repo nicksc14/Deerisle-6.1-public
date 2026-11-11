@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "AJ枪械弹药",
+  "Icon": "Gun",
+  "Color": "0094FFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ajw_ammo_300wm",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_ammo_338",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_ammo_762x25",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_ammo_8mm",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_ammobox_338mm_10rnd",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

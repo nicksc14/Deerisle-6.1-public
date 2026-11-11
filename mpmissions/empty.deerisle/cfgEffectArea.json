@@ -1,0 +1,219 @@
+{
+    "Areas": [
+		{ 	"AreaName": "Arctica",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "ContaminatedTrigger",
+			"Data": {
+				"Pos": [ 13221, 10, 15552 ],
+				"Radius": 200,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 40,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "BarringerCrater",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "ContaminatedTrigger",
+			"Data": {
+				"Pos": [ 13999, 50, 2157 ],
+				"Radius": 400,
+				"PosHeight": 60,
+				"NegHeight": 50,
+				"InnerRingCount": 5,
+				"InnerPartDist": 40,
+				"OuterRingToggle": true,
+				"OuterPartDist": 50,
+				"OuterOffset": 0,
+				"VerticalLayers": 2,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{
+			"AreaName": "Ice Lake",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 12848, 0, 12958 ],
+				"Radius": 60,
+				"PosHeight": 30,
+				"NegHeight": 60,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "RareHunt_Tiger_Ridge",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 6288.309570, 0, 10437.160156 ],
+				"Radius": 650,
+				"PosHeight": 220,
+				"NegHeight": 200,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "RareHunt_FirePoltergeist_VolcanicScar",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 15041.013672, 0, 1280.370117 ],
+				"Radius": 650,
+				"PosHeight": 220,
+				"NegHeight": 200,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "RareHunt_Panther_NightMarsh",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 13555.557617, 0, 6255.710938 ],
+				"Radius": 650,
+				"PosHeight": 220,
+				"NegHeight": 200,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "RareHunt_Camel_Wasteland",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 13139.492188, 0, 2989.765381 ],
+				"Radius": 650,
+				"PosHeight": 220,
+				"NegHeight": 200,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "RareHunt_Rhino_Wilds",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 3718.496094, 0, 9709.746094 ],
+				"Radius": 650,
+				"PosHeight": 220,
+				"NegHeight": 200,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "RareHunt_Yeti_Snowfield",
+			"Type": "SpookyArea23",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [ 13706.966797, 0, 13599.615234 ],
+				"Radius": 650,
+				"PosHeight": 220,
+				"NegHeight": 200,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		}
+    ],
+    "SafePositions": []
+}

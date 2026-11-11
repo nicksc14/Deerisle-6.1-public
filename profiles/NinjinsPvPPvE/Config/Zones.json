@@ -1,0 +1,2961 @@
+{
+    "Zones": [
+        {
+            "name": "Dungeon_HeliCarrier",
+            "displayName": "STAG航母基地",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "STAG航母基地",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 500,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "STAG航母基地",
+            "Expansion3DIcon": "Info",
+            "center": [
+                15203.1162,
+                0.999773026,
+                8698.68457
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Submarine",
+            "displayName": "STAG潜艇基地",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "STAG潜艇基地",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 500,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "STAG潜艇基地",
+            "Expansion3DIcon": "Info",
+            "center": [
+                15488.68848,
+                2.234968,
+                10865.69531
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Oilrig1",
+            "displayName": "一号钻井平台",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "一号钻井平台",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "一号钻井平台",
+            "Expansion3DIcon": "Info",
+            "center": [
+                3476.36401,
+                -3.41135454,
+                12405.4502
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Oilrig2",
+            "displayName": "二号钻井平台",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "二号钻井平台",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "二号钻井平台",
+            "Expansion3DIcon": "Info",
+            "center": [
+                1659.37292,
+                41.3319473,
+                12712.9697
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Oilrig3",
+            "displayName": "三号钻井平台",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "三号钻井平台",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "三号钻井平台",
+            "Expansion3DIcon": "Info",
+            "center": [
+                4136,
+                -11.0500002,
+                15484
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Oilrig4",
+            "displayName": "四号钻井平台",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "四号钻井平台",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 300,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "四号钻井平台",
+            "Expansion3DIcon": "Info",
+            "center": [
+                11855,
+                -20.0300007,
+                6605
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Subway",
+            "displayName": "终点地下站",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "终点地下站",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "终点地下站",
+            "Expansion3DIcon": "Info",
+            "center": [
+                11443.8984,
+                15.2694283,
+                10138.7002
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Tunnel",
+            "displayName": "终点隧道",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "终点隧道",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "终点隧道",
+            "Expansion3DIcon": "Info",
+            "center": [
+                5890.18848,
+                5.90500116,
+                13505.5645
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Lance",
+            "displayName": "暴徒营地",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "暴徒营地",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "暴徒营地",
+            "Expansion3DIcon": "Info",
+            "center": [
+                4076.29541,
+                7.32025146,
+                5225.96582
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_ParisBunker",
+            "displayName": "S.T.A.G指挥部",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "S.T.A.G指挥部",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "S.T.A.G指挥部",
+            "Expansion3DIcon": "Info",
+            "center": [
+                2750.52588,
+                25.9443722,
+                3417.89502
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Valley",
+            "displayName": "S.T.A.G军事堡垒",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "S.T.A.G军事堡垒",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "S.T.A.G军事堡垒",
+            "Expansion3DIcon": "Info",
+            "center": [
+                8429.7041,
+                128.377518,
+                12268.7148
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Alcatraz",
+            "displayName": "监狱岛",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "监狱岛",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "监狱岛",
+            "Expansion3DIcon": "Info",
+            "center": [
+                15780,
+                16.4921894,
+                4780
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_UGPrison",
+            "displayName": "地下监狱",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "地下监狱",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "地下监狱",
+            "Expansion3DIcon": "Info",
+            "center": [
+                5856.52393,
+                44.8083534,
+                4870.89453
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Lab",
+            "displayName": "医疗实验室",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "医疗实验室",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "医疗实验室",
+            "Expansion3DIcon": "Info",
+            "center": [
+                6389.91797,
+                38.9749985,
+                9069.59668
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_ShuiLao",
+            "displayName": "荒废水牢",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "荒废水牢",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "荒废水牢",
+            "Expansion3DIcon": "Info",
+            "center": [
+                2607.87231,
+                40.6771126,
+                13913.1992
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_ShiLuo",
+            "displayName": "失落堡垒",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "失落堡垒",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 500,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "失落堡垒",
+            "Expansion3DIcon": "Info",
+            "center": [
+                9215.71484,
+                36.5279808,
+                14952.8604
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_JiMi",
+            "displayName": "机密堡垒",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "机密堡垒",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 500,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "机密堡垒",
+            "Expansion3DIcon": "Info",
+            "center": [
+                14397.4063,
+                2.59091997,
+                6876.69971
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_KMUC",
+            "displayName": "KMUC地堡",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "KMUC地堡",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 300,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "KMUC地堡",
+            "Expansion3DIcon": "Info",
+            "center": [
+                7165.955566,
+                587.781616,
+                11613.468750
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_HaiXia",
+            "displayName": "海峡堡垒",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "海峡堡垒",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "海峡堡垒",
+            "Expansion3DIcon": "Info",
+            "center": [
+                3344.89673,
+                48.9224243,
+                11115.8184
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_SEUG",
+            "displayName": "SEUG灯塔堡垒",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "SEUG灯塔堡垒",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "SEUG灯塔堡垒",
+            "Expansion3DIcon": "Info",
+            "center": [
+                9846.66602,
+                -7.59985399,
+                2553.33301
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Milo",
+            "displayName": "S.T.A.G迈罗山军营",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "S.T.A.G迈罗山军营",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "S.T.A.G迈罗山军营",
+            "Expansion3DIcon": "Info",
+            "center": [
+                6481.080566,
+                71.297371,
+                4288.969238
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Waldoboro",
+            "displayName": "沃博罗堡垒",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "沃博罗堡垒",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 200,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "沃博罗堡垒",
+            "Expansion3DIcon": "Info",
+            "center": [
+                8144.42822,
+                7.550468,
+                9742.09473
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_Turbine",
+            "displayName": "时代新能源地堡",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "时代新能源地堡",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 500,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "时代新能源地堡",
+            "Expansion3DIcon": "Info",
+            "center": [
+                1390.0,
+                5.35,
+                6991.0
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        },
+        {
+            "name": "Dungeon_StoningtonPrisonIsland",
+            "displayName": "斯托宁顿监狱地堡",
+            "ZonelabelOffsetX_Meters": 0.0,
+            "ZonelabelOffsetZ_Meters": 0.0,
+            "ZoneLabelColor": -65536,
+            "type": 1,
+            "priority": 10,
+            "NoLogOut": 0,
+            "NoLogOutTeleportPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Hide": 1,
+            "HideWhenNested": 0,
+            "enableCustomMessages": 1,
+            "customTitle": "斯托宁顿监狱地堡",
+            "customMessageEnter": "已进入副本区域，区域内开启队友伤害，请注意射界与队友站位！",
+            "customMessageExit": "已离开副本区域。",
+            "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+            "notificationColor": -16711936,
+            "dayConfigs": [
+                {
+                    "dayName": "Monday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Tuesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Wednesday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Thursday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Friday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Saturday",
+                    "startHour": 0,
+                    "endHour": 24
+                },
+                {
+                    "dayName": "Sunday",
+                    "startHour": 0,
+                    "endHour": 24
+                }
+            ],
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "forceFirstPerson": 0,
+            "UsesDisallowedVehicles": 0,
+            "allowedWeapons": [],
+            "blacklistedWeapons": [],
+            "shape": 0,
+            "drawShape": 0,
+            "drawStrikeZone": 0,
+            "radius": 500,
+            "noBuildRadius": 0.0,
+            "DrawNoBuildShape": 0,
+            "EnableExpansion3DMarker": 0,
+            "OnlyAllowExpansion2DMarker": 0,
+            "ExpansionMarkerName": "斯托宁顿监狱地堡",
+            "Expansion3DIcon": "Info",
+            "center": [
+                5706.567287436781,
+                30.449053655172417,
+                704.6543543333333
+            ],
+            "ignoreHeightCheck": 1,
+            "zoneMinHeight": 0.0,
+            "zoneMaxHeight": 0.0,
+            "vertices": []
+        }
+    ],
+    "OldVanillaMi8": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Old Mi8 Crash Zone",
+        "customMessageEnter": "You entered the Old Mi8 crash zone!",
+        "customMessageExit": "You exited the Old Mi8 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -6946561,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 150,
+        "zoneGreen": 0,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Custom Zone",
+        "Expansion3DIcon": "Compass",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "AirdropDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Airdrop Zone",
+        "customMessageEnter": "Entered Airdrop Zone",
+        "customMessageExit": "Exited Airdrop Zone",
+        "customIcon": "NinjinsPvPPvE/gui/airdrop.edds",
+        "notificationColor": -65281,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 0,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Airdrop Zone",
+        "Expansion3DIcon": "Airdrop",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "VanillaMi8Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Mi8 Crash Zone",
+        "customMessageEnter": "You entered the Mi8 crash zone!",
+        "customMessageExit": "You exited the Mi8 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -65536,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 0,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Mi8 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "VanillaUH1YWreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "UH1Y Crash Zone",
+        "customMessageEnter": "You entered the UH1Y crash zone!",
+        "customMessageExit": "You exited the UH1Y crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -16711936,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 0,
+        "zoneGreen": 255,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "UH1Y Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "CJ187C130Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "CJ187 C130 Crash Zone",
+        "customMessageEnter": "You entered the CJ187 C130 crash zone!",
+        "customMessageExit": "You exited the CJ187 C130 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -39936,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 100,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "CJ187 C130 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "CJ187Mi8Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "CJ187 Mi8 Crash Zone",
+        "customMessageEnter": "You entered the CJ187 Mi8 crash zone!",
+        "customMessageExit": "You exited the CJ187 Mi8 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -52586,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 50,
+        "zoneBlue": 150,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "CJ187 Mi8 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "CJ187UH1Wreck": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "CJ187 UH1 Crash Zone",
+        "customMessageEnter": "You entered the CJ187 UH1 crash zone!",
+        "customMessageExit": "You exited the CJ187 UH1 crash zone!",
+        "customIcon": "NinjinsPvPPvE/gui/helicopter.edds",
+        "notificationColor": -16738561,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 0,
+        "zoneGreen": 150,
+        "zoneBlue": 255,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "CJ187 UH1 Zone",
+        "Expansion3DIcon": "Helicopter",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "ContaminatedZoneDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "Contaminated Zone",
+        "customMessageEnter": "You have entered a contaminated PvP zone!",
+        "customMessageExit": "You have exited the contaminated PvP zone!",
+        "customIcon": "NinjinsPvPPvE/gui/gas.edds",
+        "notificationColor": -12517568,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 64,
+        "zoneGreen": 255,
+        "zoneBlue": 64,
+        "forceFirstPerson": 1,
+        "radius": 120.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Contaminated Area",
+        "Expansion3DIcon": "Gas Mask",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "FlagZoneDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 0,
+        "customTitle": "Territory Flag Zone",
+        "customMessageEnter": "You have entered a territory flag PvP zone!",
+        "customMessageExit": "You have left the territory flag PvP zone!",
+        "customIcon": "NinjinsPvPPvE/gui/flag.edds",
+        "notificationColor": -23296,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 165,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 100.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Territory Flag Zone",
+        "Expansion3DIcon": "Flag",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "RAHQZoneDefaults": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 0,
+        "customTitle": "RA Territory HQ Zone",
+        "customMessageEnter": "You have entered an RA Territory HQ zone!",
+        "customMessageExit": "You have left the RA Territory HQ zone!",
+        "customIcon": "NinjinsPvPPvE/gui/shield.edds",
+        "notificationColor": -3644366,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 200,
+        "zoneGreen": 100,
+        "zoneBlue": 50,
+        "forceFirstPerson": 1,
+        "radius": 50.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "RA HQ Zone",
+        "Expansion3DIcon": "Shield",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    },
+    "AIDynamicMission": {
+        "zoneMinHeight": 0.0,
+        "zoneMaxHeight": 0.0,
+        "ignoreHeightCheck": 1,
+        "ZonelabelOffsetX_Meters": 0.0,
+        "ZonelabelOffsetZ_Meters": 0.0,
+        "ZoneLabelColor": -65536,
+        "type": 2,
+        "priority": 10,
+        "NoLogOut": 0,
+        "NoLogOutTeleportPos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Hide": 1,
+        "HideWhenNested": 0,
+        "DrawNoBuildShape": 0,
+        "enableCustomMessages": 1,
+        "customTitle": "AI Dynamic Mission Zone",
+        "customMessageEnter": "You entered an AI PvP mission zone!",
+        "customMessageExit": "You exited the AI PvP mission zone!",
+        "customIcon": "NinjinsPvPPvE/gui/guns.edds",
+        "notificationColor": -32768,
+        "dayConfigs": [
+            {
+                "dayName": "Monday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Tuesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Wednesday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Thursday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Friday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Saturday",
+                "startHour": 0,
+                "endHour": 24
+            },
+            {
+                "dayName": "Sunday",
+                "startHour": 0,
+                "endHour": 24
+            }
+        ],
+        "zoneAlpha": 255,
+        "zoneRed": 255,
+        "zoneGreen": 128,
+        "zoneBlue": 0,
+        "forceFirstPerson": 1,
+        "radius": 150.0,
+        "offsetMinMultiplier": 0.0,
+        "offsetMaxMultiplier": 0.0,
+        "EnableExpansion3DMarker": 0,
+        "OnlyAllowExpansion2DMarker": 0,
+        "ExpansionMarkerName": "Ai Mission",
+        "Expansion3DIcon": "Gun",
+        "drawShape": 0,
+        "drawStrikeZone": 0,
+        "UsesDisallowedVehicles": 0,
+        "allowedWeapons": [],
+        "blacklistedWeapons": []
+    }
+}

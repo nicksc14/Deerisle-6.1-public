@@ -1,0 +1,591 @@
+{
+  "m_Version": 7,
+  "SpawnLocations": [
+    {
+      "Name": "[初始推荐区域]渔夫小镇",
+      "Positions": [
+        [
+          10450.660156, 
+          2.855675, 
+          5641.042969
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "[新手城]斯多宁顿",
+      "Positions": [
+        [
+          6178.00977,
+          16.0100002,
+          1084.37
+        ],
+        [
+          6682.87012,
+          2.75999999,
+          1399.62
+        ],
+        [
+          7130.18994,
+          3.82411098,
+          1393.95996
+        ],
+        [
+          7370.77979,
+          13.5431004,
+          1630.78003
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "西布鲁克镇",
+      "Positions": [
+        [
+          3551.81616,
+          26.2373695,
+          6901.5332
+        ],
+        [
+          3091.13208,
+          14.7426758,
+          6664.16699
+        ],
+        [
+          3061.52026,
+          18.0696754,
+          6057.67334
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "巴厘岛",
+      "Positions": [
+        [
+          2556.70361,
+          17.1116524,
+          3823.13379
+        ],
+        [
+          3168.44702,
+          1.68401718,
+          3316.08716
+        ],
+        [
+          2362.37598,
+          2.58685303,
+          2839.36108
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "东布鲁克镇",
+      "Positions": [
+        [
+          10483.7725,
+          24.8850002,
+          7782.62744
+        ],
+        [
+          10255.6992,
+          12.8265572,
+          8063.03418
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "沃尔多波镇",
+      "Positions": [
+        [
+          9176.26074,
+          5.15500116,
+          9051.95117
+        ],
+        [
+          8138.60645,
+          9.85710239,
+          8978.76563
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "乔治城机场",
+      "Positions": [
+        [
+          4777.22949,
+          37.2597466,
+          4151.43213
+        ],
+        [
+          4584.58105,
+          12.7960958,
+          4281.30908
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "波特兰",
+      "Positions": [
+        [
+          6529.77344,
+          28.6993828,
+          13981.3662
+        ],
+        [
+          6589.67578,
+          37.2749977,
+          14606.3506
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "海湾镇",
+      "Positions": [
+        [
+          10224.5654,
+          10.0194588,
+          11831.958
+        ],
+        [
+          10270,
+          5.27038622,
+          12232.5
+        ],
+        [
+          10500,
+          5.62713623,
+          11857.5
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "桑迪湾",
+      "Positions": [
+        [
+          5446.76074,
+          25.6970406,
+          7281.39404
+        ],
+        [
+          5327.73242,
+          8.01334476,
+          7714.89551
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "山下镇",
+      "Positions": [
+        [
+          7165.7749,
+          12.6713247,
+          8579.2959
+        ],
+        [
+          7195.0918,
+          6.47037601,
+          8364.89648
+        ],
+        [
+          7376.97559,
+          6.74945211,
+          8710.28516
+        ]
+      ],
+      "UseCooldown": 0
+    },
+    {
+      "Name": "T2天堂南岛复活点",
+      "Positions": [
+        [
+          392.273895,
+          7.00000191,
+          12627.1836
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "T3天堂北岛复活点",
+      "Positions": [
+        [
+          1148.45996,
+          2.1111989,
+          14747
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "T4失落岛复活点",
+      "Positions": [
+        [
+          10143.5566,
+          8.10737133,
+          15632.5664
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "T5Alcatraz恶魔岛复活点",
+      "Positions": [
+        [
+          14984.1631,
+          2.00572991,
+          5670.89209
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "T1陨石坑岛复活点",
+      "Positions": [
+        [
+          13031.2373,
+          25.0826683,
+          1819.24854
+        ]
+      ],
+      "UseCooldown": 1
+    }
+  ],
+  "StartingClothing": {
+    "EnableCustomClothing": 1,
+    "SetRandomHealth": 1,
+    "Headgear": [
+      "AP_head_beanie1_black",
+      "AP_head_beanie1_red",
+      "AP_head_beanie1_blue",
+      "AP_head_beanie1_brown",
+      "AP_head_beanie2_tan",
+      "AP_head_beanie2_atacs",
+      "AP_head_beanie2_black",
+      "AP_head_beanie2_green",
+      "AP_head_beanie2_mc",
+      "AP_head_beanie2_ucp",
+      "AP_head_beanie3_black",
+      "AP_head_beanie3_camo",
+      "AP_head_beanie3_green",
+      "AP_head_beanie3_hacking",
+      "AP_head_beanie3_winter",
+      "AP_head_old_hat_brown",
+      "AP_head_old_hat_black",
+      "AP_head_old_cap_khaki",
+      "AP_head_boonie_tac_tan",
+      "AP_head_boonie_tac_atacs",
+      "AP_head_boonie_tac_black",
+      "AP_head_boonie_tac_green",
+      "AP_head_boonie_tac_mc",
+      "AP_head_boonie_tac_ucp",
+      "AP_head_cap_civ_green",
+      "AP_head_cap_civ_blue",
+      "AP_head_cap_civ_red",
+      "AP_head_cap_civ_black",
+      "AP_head_cap_civ_cell",
+      "AP_head_cap_civ_cell2",
+      "AP_head_cap_civ2_brown",
+      "AP_head_cap_civ2_red",
+      "AP_head_cap_civ2_green",
+      "AP_head_cap_civ2_black"
+    ],
+    "Glasses": [
+      "AP_eyewear_glasstac_sand",
+      "AP_eyewear_glasstac_green",
+      "AP_eyewear_glasstac_black",
+      "AP_eyewear_battle_sand",
+      "AP_eyewear_battle_green",
+      "AP_eyewear_battle_black",
+      "AP_eyewear_pirate",
+      "AP_eyewear_oldglass"
+    ],
+    "Masks": [
+      "AP_mask_bandmask_tan",
+      "AP_mask_bandmask_atacs",
+      "AP_mask_bandmask_black",
+      "AP_mask_bandmask_green",
+      "AP_mask_bandmask_mc",
+      "AP_mask_bandmask_ucp",
+      "AP_mask_facescarf_sand",
+      "AP_mask_facescarf_green",
+      "AP_mask_facescarf_black",
+      "AP_mask_facescarf_white",
+      "AP_mask_facescarf_camo"
+    ],
+    "Tops": [
+      "AP_tops_shirt_civ_green",
+      "AP_tops_shirt_civ_black",
+      "AP_tops_shirt_civ_blue",
+      "AP_tops_shirt_civ_cell",
+      "AP_tops_shirt_civ_cell2",
+      "AP_tops_shirt_civ_cell3",
+      "AP_tops_shirt_civ_flower",
+      "AP_tops_shirt_civ_mix",
+      "AP_tops_shirt_civ_mix2",
+      "AP_tops_polo_red",
+      "AP_tops_polo_black",
+      "AP_tops_polo_blue",
+      "AP_tops_polo_bonfire",
+      "AP_tops_polo_hohloma",
+      "AP_tops_polo_rainbomb",
+      "AP_tops_polo_mix",
+      "AP_tops_sweater_saw",
+      "AP_tops_sweater_mil",
+      "AP_tops_sweater_cpd",
+      "AP_tops_turtleneck_black",
+      "AP_tops_turtleneck_blue",
+      "AP_tops_turtleneck_green",
+      "AP_tops_turtleneck_grey",
+      "AP_tops_bomber_green",
+      "AP_tops_bomber_blue",
+      "AP_tops_bomber_red",
+      "AP_tops_bomber_black",
+      "AP_tops_sweatervest_brown",
+      "AP_tops_sweatervest_blue",
+      "AP_tops_sweatervest_green",
+      "AP_tops_sweatervest_red",
+      "AP_tops_sweatervest_worn",
+      "AP_tops_civil1_blue",
+      "AP_tops_civil1_green",
+      "AP_tops_civil1_red",
+      "AP_tops_civil2_blue",
+      "AP_tops_civil2_green",
+      "AP_tops_civil2_red",
+      "AP_tops_civil2_camo1",
+      "AP_tops_civil2_camo2",
+      "AP_tops_civil2_print1",
+      "AP_tops_civil2_print2",
+      "AP_tops_civil3_brown",
+      "AP_tops_civil3_black",
+      "AP_tops_civil4_khaki",
+      "AP_tops_civil4_green",
+      "AP_tops_civil4_blue",
+      "AP_tops_civil4_black",
+      "AP_tops_coat_brown",
+      "AP_tops_coat_black",
+      "AP_tops_patagonia_mc",
+      "AP_tops_patagonia_mcarid",
+      "AP_tops_patagonia_black",
+      "AP_tops_patagonia_green",
+      "AP_tops_tf141_black",
+      "AP_tops_tf141_green",
+      "AP_tops_tf141_grey",
+      "AP_tops_tf141_flek",
+      "AP_tops_tf141_city",
+      "AP_tops_mudshirt_grey",
+      "AP_tops_mudshirt_blue",
+      "AP_tops_mudshirt_brown",
+      "AP_tops_mudshirt2_grey",
+      "AP_tops_mudshirt2_red",
+      "AP_tops_mudshirt2_blue",
+      "AP_tops_mudshirt2_black",
+      "AP_tops_negan_classic",
+      "AP_tops_brutal_khaki",
+      "AP_tops_vatnik_brown",
+      "AP_tops_vatnik_black",
+      "AP_tops_vatnik_green",
+      "AP_tops_vatnik_camo",
+      "AP_tops_greatcoat_grey",
+      "AP_tops_greatcoat_light",
+      "AP_tops_greatcoat_brown",
+      "AP_tops_greatcoat_black",
+      "AP_tops_greatcoat_roll_grey",
+      "AP_tops_greatcoat_roll_light",
+      "AP_tops_greatcoat_roll_brown",
+      "AP_tops_greatcoat_roll_black"
+    ],
+    "Vests": [],
+    "Gloves": [
+      "WoolGloves_Black",
+      "WoolGloves_Green",
+      "WoolGloves_Tan",
+      "WoolGloves_White",
+      "WoolGlovesFingerless_White",
+      "WoolGlovesFingerless_Tan",
+      "WoolGlovesFingerless_Green"
+    ],
+    "Pants": [
+      "AP_pants_civil1_brown",
+      "AP_pants_civil1_black",
+      "AP_pants_civil1_blue",
+      "AP_pants_civil1_green",
+      "AP_pants_civil1_velvet",
+      "AP_pants_civil1_brownlight",
+      "AP_pants_civil1_light",
+      "AP_pants_civil1_cell",
+      "AP_pants_office_grey",
+      "AP_pants_office_black",
+      "AP_pants_office_brown",
+      "AP_pants_office_worn",
+      "AP_pants_jeans_blue",
+      "AP_pants_jeans_darkblue",
+      "AP_pants_jeans_black",
+      "AP_pants_oldwork_blue",
+      "AP_pants_oldwork_black",
+      "AP_pants_oldwork_green",
+      "AP_pants_oldwork_khaki",
+      "AP_pants_patagonia_mc",
+      "AP_pants_patagonia_black",
+      "AP_pants_stranger_dirt",
+      "AP_pants_stranger_forest",
+      "AP_pants_stranger_sand",
+      "AP_pants_stranger_winter"
+    ],
+    "Belts": [],
+    "Shoes": [
+      "AthleticShoes_Blue",
+      "AthleticShoes_Grey",
+      "AthleticShoes_Brown",
+      "AthleticShoes_Green",
+      "AthleticShoes_Black"
+    ],
+    "Armbands": [],
+    "Backpacks": [
+      "AssaultBag_Black",
+      "AssaultBag_Green",
+      "AssaultBag_Ttsko",
+      "AssaultBag_Winter",
+      "HuntingBag",
+      "HuntingBag_Hannah",
+      "CoyoteBag_Brown",
+      "CoyoteBag_Green",
+      "CoyoteBag_Winter"
+    ]
+  },
+  "EnableSpawnSelection": 1,
+  "SpawnOnTerritory": 1,
+  "StartingGear": {
+    "EnableStartingGear": 1,
+    "UseUpperGear": 1,
+    "UsePantsGear": 1,
+    "UseBackpackGear": 1,
+    "UseVestGear": 0,
+    "UsePrimaryWeapon": 1,
+    "UseSecondaryWeapon": 0,
+    "ApplyEnergySources": 1,
+    "SetRandomHealth": 0,
+    "UpperGear": [
+      {
+        "ClassName": "BandageDressing",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "BandageDressing",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Apple",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Apple",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Lunchmeat",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Lunchmeat",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Heatpack",
+        "Quantity": -1,
+        "Attachments": []
+      }
+    ],
+    "PantsGear": [
+      {
+        "ClassName": "CombatKnife",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Roadflare",
+        "Quantity": -1,
+        "Attachments": []
+      }
+    ],
+    "BackpackGear": [
+      {
+        "ClassName": "FNX45",
+        "Quantity": -1,
+        "Attachments": [
+          "Mag_FNX45_15Rnd",
+          "PistolSuppressor"
+        ]
+      },
+      {
+        "ClassName": "Mag_FNX45_15Rnd",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Mag_FNX45_15Rnd",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Mag_STANAG_60Rnd",
+        "Quantity": -1,
+        "Attachments": []
+      }
+    ],
+    "VestGear": [
+
+    ],
+    "PrimaryWeapon": {
+      "ClassName": "M4A1",
+      "Quantity": -1,
+      "Attachments": [
+        "M4_RISHndgrd",
+        "M4_MPBttstck",
+        "ACOGOptic",
+        "M4_Suppressor",
+        "UniversalLight",
+        "Battery9V",
+        "Mag_STANAG_60Rnd"
+      ]
+    },
+    "SecondaryWeapon": {}
+  },
+  "UseLoadouts": 0,
+  "MaleLoadouts": [
+    {
+      "Loadout": "PlayerSurvivorLoadout",
+      "Chance": 1.0
+    }
+  ],
+  "FemaleLoadouts": [
+    {
+      "Loadout": "PlayerSurvivorLoadout",
+      "Chance": 1.0
+    }
+  ],
+  "SpawnHealthValue": 100.0,
+  "SpawnEnergyValue": 500.0,
+  "SpawnWaterValue": 500.0,
+  "EnableRespawnCooldowns": 1,
+  "RespawnCooldown": 120,
+  "TerritoryRespawnCooldown": 240,
+  "PunishMultispawn": 1,
+  "PunishCooldown": 120,
+  "PunishTimeframe": 300,
+  "CreateDeathMarker": 1,
+  "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}

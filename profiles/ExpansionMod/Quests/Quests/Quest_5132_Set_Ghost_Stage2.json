@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5132,
+    "Type": 1,
+    "Title": "幽灵·失踪研究所2",
+    "Descriptions": [
+        "失踪研究所第2阶段：全图击杀200只生态研究所感染者（蓝、灰、橙、黄）。本阶段仅统计接取后的符合条件击杀。完成后返回战备军需官，领取本阶段固定部件。",
+        "当前目标：全图击杀200只生态研究所感染者（蓝、灰、橙、黄）。满足条件后返回战备军需官提交。",
+        "目标已完成。提交任务后领取本阶段的固定套装部件；本任务每个玩家存档只能完成一次。"
+    ],
+    "ObjectiveText": "全图击杀200只生态研究所感染者（蓝、灰、橙、黄）",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TNRJ_Ghost_Boots500",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TNRJ_Ghost_Gloves500",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        12
+    ],
+    "QuestTurnInIDs": [
+        12
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 51321,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        5131
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

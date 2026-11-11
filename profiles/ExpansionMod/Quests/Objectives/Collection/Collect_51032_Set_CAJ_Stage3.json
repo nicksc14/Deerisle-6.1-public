@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 51032,
+    "ObjectiveType": 4,
+    "ObjectiveText": "交付芳纶布80单位、武器零件120单位（非毁坏）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 80,
+            "ClassName": "QPK_Cloth_Aramid",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 120,
+            "ClassName": "QPK_WeaponParts",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

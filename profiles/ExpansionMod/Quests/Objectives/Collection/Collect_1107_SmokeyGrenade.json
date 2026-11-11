@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1107,
+    "ObjectiveType": 4,
+    "ObjectiveText": "一次性上交1枚神庙烟雾弹进行登记",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "jmc_grenade_smokey",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

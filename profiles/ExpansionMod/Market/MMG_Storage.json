@@ -1,0 +1,150 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MMG Storage 事件容器回收",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 100.0,
+  "Items": [
+    {
+      "ClassName": "mmg_solo_locker_yellow_kit",
+      "MaxPriceThreshold": 108000,
+      "MinPriceThreshold": 108000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_solo_locker_blue_kit",
+        "mmg_solo_locker_red_kit",
+        "mmg_solo_locker_grey_kit",
+        "mmg_solo_locker_purple_kit",
+        "mmg_solo_locker_green_kit"
+      ]
+    },
+    {
+      "ClassName": "mmg_planter_box_kit",
+      "MaxPriceThreshold": 48000,
+      "MinPriceThreshold": 48000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_gun_rack_kit_blue",
+      "MaxPriceThreshold": 132000,
+      "MinPriceThreshold": 132000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_gun_rack_kit_green",
+        "mmg_gun_rack_kit_tan"
+      ]
+    },
+    {
+      "ClassName": "mmg_lockable_gun_rack_kit_grey",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_gear_stand_kit",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_fridge_kit_beige",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_fridge_kit_blue"
+      ]
+    },
+    {
+      "ClassName": "mmg_craftable_tent_kit",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_equipment_locker_green_kit",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_equipment_locker_black_kit",
+        "mmg_equipment_locker_grey_kit"
+      ]
+    },
+    {
+      "ClassName": "mmg_locker02_blue_kit",
+      "MaxPriceThreshold": 240000,
+      "MinPriceThreshold": 240000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_locker02_green_kit",
+        "mmg_locker02_tan_kit"
+      ]
+    },
+    {
+      "ClassName": "mmg_gun_wall_kit_wooden",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_gun_wall_kit_metal"
+      ]
+    },
+    {
+      "ClassName": "mmg_greenhouse_kit",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

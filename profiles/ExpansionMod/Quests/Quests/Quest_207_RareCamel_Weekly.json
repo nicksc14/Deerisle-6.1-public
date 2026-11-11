@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 207,
+    "Type": 1,
+    "Title": "[周常] 荒原驼王：长龄踪迹",
+    "Descriptions": [
+        "鹿岛捕猎协会正在追踪一只长期在荒地活动的老年雄驼。它的耐力和领地意识远高于普通单峰驼。公共猎区不会为任何猎人保留目标；通常2至3小时后才会再次出现。",
+        "前往标记的驼王猎区，在范围内搜寻并击杀1只“单峰驼｜长龄驼王”，随后剥取一张完整骆驼皮。",
+        "长龄驼王已经倒下。带着完整骆驼皮返回鹿岛捕猎协会负责人处，完成这份捕猎合同。"
+    ],
+    "ObjectiveText": "追踪并猎杀长龄驼王，带回1张完整骆驼皮",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [11],
+    "QuestTurnInIDs": [11],
+    "IsAchievement": 0,
+    "Objectives": [
+        {"ConfigVersion": 28, "ID": 2071, "ObjectiveType": 3},
+        {"ConfigVersion": 28, "ID": 2072, "ObjectiveType": 2},
+        {"ConfigVersion": 28, "ID": 2073, "ObjectiveType": 4}
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 1500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [215],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,13 @@
+{
+    "MinEvents": 0,
+    "MaxEvents": 1,
+    "SpawnCheckInterval": 60.0,
+    "MinPlayersToSpawn": 1,
+    "RespawnDelay": 1800.0,
+    "Presets": [
+        {
+            "Preset": "deerisle_btr_hard",
+            "Chance": 100.0
+        }
+    ]
+}

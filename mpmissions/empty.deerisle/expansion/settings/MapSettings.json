@@ -1,0 +1,733 @@
+{
+	"m_Version": 5,
+	"EnableMap": 1,
+	"UseMapOnMapItem": 1,
+	"ShowPlayerPosition": 1,
+	"ShowMapStats": 1,
+	"NeedPenItemForCreateMarker": 0,
+	"NeedGPSItemForCreateMarker": 0,
+	"CanCreateMarker": 1,
+	"CanCreate3DMarker": 1,
+	"CanOpenMapWithKeyBinding": 1,
+	"ShowDistanceOnPersonalMarkers": 1,
+	"EnableHUDGPS": 1,
+	"NeedGPSItemForKeyBinding": 1,
+	"NeedMapItemForKeyBinding": 0,
+	"EnableServerMarkers": 1,
+	"ShowNameOnServerMarkers": 1,
+	"ShowDistanceOnServerMarkers": 1,
+	"ServerMarkers": [
+		{
+			"m_UID": "Run T4 Lost Island Teleporter",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T4｜失落岛进入点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				3770.26172,
+				9.01090622,
+				9110.49023
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T4 Lost Island Extraction",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T4｜失落岛撤离点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				8952.05469,
+				58.5008583,
+				15477.2422
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T2 South Heaven Teleporter",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T2｜天堂南岛进入点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				7521.69336,
+				87.6949615,
+				4598.90576
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T2 South Heaven Extraction",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T2｜天堂南岛撤离点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				1191.67139,
+				28.0466728,
+				13252.5986
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T3 North Heaven Teleporter",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T3｜天堂北岛进入点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				4637.21484,
+				20.5699539,
+				7073.10596
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T3 North Heaven Extraction",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T3｜天堂北岛撤离点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				1238.51025,
+				40.2441254,
+				15663.1484
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T5 Alcatraz Teleporter",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T5｜Alcatraz进入点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				2544.90308,
+				35.1249733,
+				3510.6897
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T5 Alcatraz Extraction",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T5｜Alcatraz撤离点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				15764.4707,
+				31.1906948,
+				5063.29492
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T1 Crater Teleporter",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T1｜陨石坑岛进入点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				5974.39208984375,
+				13.5269193649292,
+				4984.693359375
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T1 Crater Extraction",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀T1｜陨石坑岛撤离点",
+			"m_IconName": "Helicopter",
+			"m_Color": -16266505,
+			"m_Position": [
+				12687.7802734375,
+				43.17007064819336,
+				2048.874755859375
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T1 Barringer Area",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀区域T1｜陨石坑外围",
+			"m_IconName": "Group",
+			"m_Color": -16266505,
+			"m_Position": [
+				12896.47,
+				15.0,
+				1309.08
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T2 South Heaven Area",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀区域T2｜天堂南岛",
+			"m_IconName": "Group",
+			"m_Color": -16266505,
+			"m_Position": [
+				945.451599,
+				51.204998,
+				12646.503906
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T3 North Heaven Area",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀区域T3｜天堂北岛",
+			"m_IconName": "Group",
+			"m_Color": -16266505,
+			"m_Position": [
+				1237.76001,
+				16.891193,
+				15273.299805
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T4 Lost Island Area",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀区域T4｜失落岛",
+			"m_IconName": "Group",
+			"m_Color": -16266505,
+			"m_Position": [
+				9975.663086,
+				49.794353,
+				15115.107422
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Run T5 Alcatraz Area",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "跑刀区域T5｜Alcatraz恶魔岛",
+			"m_IconName": "Group",
+			"m_Color": -16266505,
+			"m_Position": [
+				15757.852539,
+				57.523796,
+				4813.666992
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Black Market",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "黑市商人",
+			"m_IconName": "Trader",
+			"m_Color": -38400,
+			"m_Position": [
+				13383,
+				12.9099998,
+				9869
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Weapons_Trader",
+			"m_Visibility": 6,
+			"m_Is3D": 1,
+			"m_Text": "武器交易区",
+			"m_IconName": "Trader",
+			"m_Color": -13710223,
+			"m_Position": [
+				9557.93262,
+				22.9244976,
+				8937.79883
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Armor_Trader",
+			"m_Visibility": 6,
+			"m_Is3D": 1,
+			"m_Text": "护甲交易区",
+			"m_IconName": "Trader",
+			"m_Color": -13710223,
+			"m_Position": [
+				3445,
+				20.4300003,
+				6424
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "ServerMarker_Trader_Rookie",
+			"m_Visibility": 6,
+			"m_Is3D": 1,
+			"m_Text": "中心交易区",
+			"m_IconName": "Trader",
+			"m_Color": -13710223,
+			"m_Position": [
+				5619.04199,
+				28.8499985,
+				5378.16406
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "ServerMarker_Trader_Boat_Spire",
+			"m_Visibility": 6,
+			"m_Is3D": 1,
+			"m_Text": "船只商店",
+			"m_IconName": "Boat",
+			"m_Color": -13710223,
+			"m_Position": [
+				5223.36719,
+				1.57100403,
+				9303.16602
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "ServerMarker_Trader_Boat_Rookie",
+			"m_Visibility": 6,
+			"m_Is3D": 1,
+			"m_Text": "船只商店",
+			"m_IconName": "Boat",
+			"m_Color": -13710223,
+			"m_Position": [
+				7786,
+				2.67687535,
+				6831
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "HeliCarrier",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "STAG航母基地[噩梦]",
+			"m_IconName": "Group",
+			"m_Color": -65532,
+			"m_Position": [
+				15203.1162,
+				0.999773026,
+				8698.68457
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Submarine",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "STAG潜艇基地[噩梦]",
+			"m_IconName": "Group",
+			"m_Color": -65532,
+			"m_Position": [
+				15488.68848,
+				2.234968,
+				10865.69531
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Oilrig1",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "一号钻井平台[困难]",
+			"m_IconName": "Group",
+			"m_Color": -11731200,
+			"m_Position": [
+				3476.36401,
+				-3.41135454,
+				12405.4502
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Oilrig2",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "二号钻井平台[困难]",
+			"m_IconName": "Group",
+			"m_Color": -11731200,
+			"m_Position": [
+				1659.37292,
+				41.3319473,
+				12712.9697
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Oilrig3",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "三号钻井平台[困难]",
+			"m_IconName": "Group",
+			"m_Color": -11731200,
+			"m_Position": [
+				4136,
+				-11.0500002,
+				15484
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Oilrig4",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "四号钻井平台[极难]",
+			"m_IconName": "Group",
+			"m_Color": -32897,
+			"m_Position": [
+				11855,
+				-20.0300007,
+				6605
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Subway",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "终点地下站[中等]",
+			"m_IconName": "Group",
+			"m_Color": -16739073,
+			"m_Position": [
+				11443.8984,
+				15.2694283,
+				10138.7002
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Tunnel",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "终点隧道[中等]",
+			"m_IconName": "Group",
+			"m_Color": -16739073,
+			"m_Position": [
+				5890.18848,
+				5.90500116,
+				13505.5645
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "HaiXia",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "海峡堡垒[艰难]",
+			"m_IconName": "Group",
+			"m_Color": -10240,
+			"m_Position": [
+				3344.89673,
+				48.9224243,
+				11115.8184
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Lance",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "暴徒营地[简单]",
+			"m_IconName": "Group",
+			"m_Color": -16777216,
+			"m_Position": [
+				4076.29541,
+				7.32025528,
+				5225.96582
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "ParisBunker",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "S.T.A.G指挥部[中等]",
+			"m_IconName": "Group",
+			"m_Color": -16739073,
+			"m_Position": [
+				2750.52588,
+				25.9443722,
+				3417.89502
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Valley",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "S.T.A.G军事堡垒[艰难]",
+			"m_IconName": "Group",
+			"m_Color": -10240,
+			"m_Position": [
+				8429.7041,
+				128.377518,
+				12268.7148
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Milo",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "S.T.A.G迈罗山军营[困难]",
+			"m_IconName": "Group",
+			"m_Color": -11731200,
+			"m_Position": [
+				6481.08057,
+				71.2973709,
+				4288.96924
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Waldoboro",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "沃博罗堡垒[困难]",
+			"m_IconName": "Group",
+			"m_Color": -11731200,
+			"m_Position": [
+				8144.42822,
+				7.550468,
+				9742.09473
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Alcatraz",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "监狱岛[特殊传送]",
+			"m_IconName": "Group",
+			"m_Color": -5111553,
+			"m_Position": [
+				15780,
+				16.4921894,
+				4780
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "UGPrison",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "地下监狱[简单]",
+			"m_IconName": "Group",
+			"m_Color": -16777216,
+			"m_Position": [
+				5856.52393,
+				44.8083534,
+				4870.89453
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Lab",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "医疗实验室[简单]",
+			"m_IconName": "Group",
+			"m_Color": -16777216,
+			"m_Position": [
+				6389.91797,
+				38.9749985,
+				9069.59668
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "ShuiLao",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "荒废水牢[艰难]",
+			"m_IconName": "Group",
+			"m_Color": -10240,
+			"m_Position": [
+				2607.87231,
+				40.6771126,
+				13913.1992
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "ShiLuo",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "失落堡垒[极难]",
+			"m_IconName": "Group",
+			"m_Color": -32897,
+			"m_Position": [
+				9215.71484,
+				36.5279808,
+				14952.8604
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "JiMi",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "机密堡垒[极难]",
+			"m_IconName": "Group",
+			"m_Color": -32897,
+			"m_Position": [
+				14397.4063,
+				2.59091997,
+				6876.69971
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "KMUC",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "KMUC地堡[噩梦]",
+			"m_IconName": "Group",
+			"m_Color": -65532,
+			"m_Position": [
+				7232,
+				602.090027,
+				11744
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "SEUG",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "SEUG灯塔堡垒[艰难]",
+			"m_IconName": "Group",
+			"m_Color": -10240,
+			"m_Position": [
+				9846.66602,
+				-7.59985399,
+				2553.33301
+			],
+			"m_Locked": 0,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "NPC_NoviceSurvivorGuide",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "鹿岛幸存者向导",
+			"m_IconName": "Persona",
+			"m_Color": -19406,
+			"m_Position": [
+				10446.127,
+				3.95372105,
+				5636.91211
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "Turbine",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "时代新能源地堡[极难]",
+			"m_IconName": "Group",
+			"m_Color": -32897,
+			"m_Position": [
+				1390.0,
+				5.35,
+				6991.0
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "StoningtonPrisonIsland",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "斯托宁顿监狱地堡[极难]",
+			"m_IconName": "Group",
+			"m_Color": -32897,
+			"m_Position": [
+				5706.567287436781,
+				30.449053655172417,
+				704.6543543333333
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		},
+		{
+			"m_UID": "CQB",
+			"m_Visibility": 4,
+			"m_Is3D": 0,
+			"m_Text": "赤狱堡垒[红卡 CQB·极难]",
+			"m_IconName": "Group",
+			"m_Color": -32897,
+			"m_Position": [
+				3333.78125,
+				2.929032,
+				5532.912109
+			],
+			"m_Locked": 1,
+			"m_Persist": 1
+		}
+	],
+	"EnableHUDCompass": 1,
+	"NeedCompassItemForHUDCompass": 1,
+	"NeedGPSItemForHUDCompass": 1,
+	"CompassColor": -1,
+	"CreateDeathMarker": 1,
+	"PlayerLocationNotifier": 1,
+	"CompassBadgesColor": -1946157056
+}

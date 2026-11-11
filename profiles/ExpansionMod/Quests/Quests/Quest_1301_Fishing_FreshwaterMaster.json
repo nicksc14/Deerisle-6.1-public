@@ -1,0 +1,60 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1301,
+    "Type": 1,
+    "Title": "钓鱼之路 IV：淡水大师",
+    "Descriptions": [
+        "你已经完成普通鱼种识别、中型鱼练习和大型鱼试炼。现在用T3专业钓具带回四种淡水奖杯鱼，正式申请淡水大师认证。",
+        "提交奖杯级普通鲤、草鱼、狗鱼和鲶鱼各1条。提交的鱼会被消耗。",
+        "四种淡水奖杯鱼全部确认。这个专属渔获箱属于真正掌握淡水钓法的人。"
+    ],
+    "ObjectiveText": "提交四种淡水奖杯鱼各1条",
+    "FollowUpQuest": 1302,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "HC_AP_fishing_box_freshwater_master",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [10],
+    "QuestTurnInIDs": [10],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1301,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [1300],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

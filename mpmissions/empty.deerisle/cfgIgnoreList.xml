@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ignore>
+	<type name="Bandage"></type>
+	<type name="BandanaMask_BlackPattern"></type>
+	<type name="BandanaMask_CamoPattern"></type>
+	<type name="BandanaMask_GreenPattern"></type>
+	<type name="BandanaMask_PolkaPattern"></type>
+	<type name="BandanaMask_RedPattern"></type>
+	<type name="CattleProd"></type>
+	<type name="DallasMask"></type>
+	<type name="EngineOil"></type>
+	<type name="HescoBox"></type>
+	<type name="EasterEgg"></type>
+	<type name="HoxtonMask"></type>
+	<type name="StunBaton"></type>
+	<type name="TransitBus"></type>
+	<type name="WolfMask"></type>
+	<type name="Spear"></type>
+	<type name="Wreck_Mi8"></type>
+	<type name="InteractiveDoor_Enter"></type>
+	<type name="InteractiveDoor_Exit"></type>
+	<!--HM_Events_Assets-->
+	<type name="HM_Bunker_Box"></type>
+	<type name="Land_HM_BunkerPart1"></type>
+	<type name="Land_HM_BunkerPart2"></type>
+	<type name="Land_HM_BunkerPart3"></type>
+	<type name="Land_HM_BunkerPart4"></type>
+	<type name="HM_Ambulance"></type>
+	<type name="HM_Bag"></type>
+	<type name="HM_Secure"></type>
+	<!--Trash_Bin-->
+	<type name="TrashBin_Static"></type>
+	<type name="TrashBin_Static_Large"></type>
+	<!--HM_Safezone_Assets-->
+	<type name="HM_SF_Arcade"></type>
+	<type name="HM_SF_Trash"></type>
+	<type name="HM_SF_CCTV"></type>
+	<type name="HM_SF_Claw"></type>
+	<type name="HM_SF_Generator"></type>
+	<type name="HM_SF_Sign_Base"></type>
+	<type name="HM_SF_Sign_Atm"></type>
+	<type name="HM_SF_Sign_BM"></type>
+	<type name="HM_SF_Sign_Cars"></type>
+	<type name="HM_SF_Sign_Clothes"></type>
+	<type name="HM_SF_Sign_Food"></type>
+	<type name="HM_SF_Sign_Garage"></type>
+	<type name="HM_SF_Sign_Gear"></type>
+	<type name="HM_SF_Sign_Helis"></type>
+	<type name="HM_SF_Sign_Meds"></type>
+	<type name="HM_SF_Sign_Others"></type>
+	<type name="HM_SF_Sign_Tools"></type>
+	<type name="HM_SF_Sign_Trader"></type>
+	<type name="HM_SF_Sign_Vehicles"></type>
+	<type name="HM_SF_Sign_Vip"></type>
+	<type name="HM_SF_Sign_Weapons"></type>
+	<type name="HM_SF_SmallTrash_Black"></type>
+	<type name="HM_SF_SmallTrash_Blue"></type>
+	<type name="HM_SF_SmallTrash_Grey"></type>
+	<type name="HM_SF_SmallTrash_Green"></type>
+	<type name="HM_SF_SolarPanel"></type>
+	<type name="HM_SF_Speaker"></type>
+	<type name="HM_SF_Table"></type>
+	<type name="HM_SF_Vending_01"></type>
+	<type name="HM_SF_Vending_02"></type>
+	<type name="HM_SF_Trader_Ammo"></type>
+	<type name="HM_SF_Trader_Cars"></type>
+	<type name="HM_SF_Trader_Clothes"></type>
+	<type name="HM_SF_Trader_Food"></type>
+	<type name="HM_SF_Trader_Gear"></type>
+	<type name="HM_SF_Trader_Helis"></type>
+	<type name="HM_SF_Trader_Meds"></type>
+	<type name="HM_SF_Trader_Others"></type>
+	<type name="HM_SF_Trader_Tools"></type>
+	<type name="HM_SF_Trader_Vehicles"></type>
+	<type name="HM_SF_Trader_Vip"></type>
+	<type name="HM_SF_Trader_Weapons"></type>
+</ignore>

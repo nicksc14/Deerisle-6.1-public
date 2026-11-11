@@ -1,0 +1,302 @@
+{
+    "version": "4",
+    "enable": 1,
+    "minTimeBefore": 10,
+    "minTimeBeforeWhenNoOtherPlayerIsOnline": 10,
+    "enabledInPVPZones": 0,
+    "damageConfig": {
+        "maxWounds": 0,
+        "minWounds": 0,
+        "health": 1.0,
+        "blood": 1.0,
+        "shock": 1.0
+    },
+    "blacklistAreas": [
+        {
+            "position": [
+                4076.29541,
+                7.32025146,
+                5225.96582
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                5856.52393,
+                44.8083534,
+                4870.89453
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                6389.91797,
+                38.9749985,
+                9069.59668
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                2750.52588,
+                25.9443722,
+                3417.89502
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                11443.8984,
+                15.2694283,
+                10138.7002
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                5890.18848,
+                5.90500116,
+                13505.5645
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                3476.36401,
+                -3.41135454,
+                12405.4502
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                1659.37292,
+                41.3319473,
+                12712.9697
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                4136.0,
+                -11.0500002,
+                15484.0
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                6481.080566,
+                71.297371,
+                4288.969238
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                8144.42822,
+                7.550468,
+                9742.09473
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                3344.89673,
+                48.9224243,
+                11115.8184
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                2607.87231,
+                40.6771126,
+                13913.1992
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                9846.66602,
+                -7.59985399,
+                2553.33301
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                8429.7041,
+                128.377518,
+                12268.7148
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                11855.0,
+                -20.0300007,
+                6605.0
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                9215.71484,
+                36.5279808,
+                14952.8604
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                14397.4063,
+                2.59091997,
+                6876.69971
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                1390.0,
+                5.35,
+                6991.0
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                15377.67,
+                135.236577,
+                15046.805
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                15488.68848,
+                2.234968,
+                10865.69531
+            ],
+            "radius": 500
+        },
+        {
+            "position": [
+                15203.1162,
+                0.999773026,
+                8698.68457
+            ],
+            "radius": 500
+        }
+    ],
+    "saveItemInHand": 1,
+    "putItemInHand": 1,
+    "canSelectRespawnLocation": 0,
+    "enableSlotSave": 0,
+    "slotsToSave": [
+        {
+            "slotName": "Headgear",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Mask",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Eyewear",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Body",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Vest",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Gloves",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Back",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Armband",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Hips",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Legs",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Feet",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Shoulder",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Melee",
+            "saveCargo": 1
+        }
+    ],
+    "spawnPoints": [
+        {
+            "id": "i3poo8lbrj",
+            "orientation": [
+                46.99998474121094,
+                0.0,
+                0.0
+            ],
+            "point": [
+                5167.31982421875,
+                34.614078521728519,
+                7683.70361328125
+            ],
+            "name": "",
+            "currencyType": "default",
+            "price": 200000
+        },
+        {
+            "id": "m305m0mtkj",
+            "orientation": [
+                -162.0,
+                0.0,
+                0.0
+            ],
+            "point": [
+                4644.38720703125,
+                25.812368392944337,
+                7912.640625
+            ],
+            "name": "",
+            "currencyType": "default",
+            "price": 200000
+        },
+        {
+            "id": "ktyjf8n3pt",
+            "orientation": [
+                -27.0,
+                0.0,
+                0.0
+            ],
+            "point": [
+                5108.453125,
+                62.799591064453128,
+                7991.50390625
+            ],
+            "name": "",
+            "currencyType": "default",
+            "price": 200000
+        }
+    ],
+    "currencyType": "deprecated",
+    "price": -1
+}

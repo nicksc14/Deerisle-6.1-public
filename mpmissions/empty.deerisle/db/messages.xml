@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+	<message>
+		<delay>0</delay>
+		<repeat>60</repeat>
+		<onconnect>1</onconnect>
+		<text>欢迎来到HEROCLAN DayZ PvE, Q群:1077849150.按B键打开面板.&#x20;</text>
+	</message>
+	<message>
+		<delay>0</delay>
+		<repeat>45</repeat>
+		<text>存车方法：对准自己的领地旗帜按F。制作领地旗教程：按B键打开制作指引，查看Base Building旗杆套件教程。</text>
+	</message>
+	<message>
+		<delay>0</delay>
+		<repeat>90</repeat>
+		<text>挑战副本请及时在全服频道报备, 严禁抢夺他人物资. 违规首次警告, 再犯或恶意抢夺将封禁. 如果遇到物资抢夺或者恶意击杀行为,请截图私聊管理员.</text>
+	</message>
+	<message>
+		<delay>0</delay>
+		<repeat>90</repeat>
+		<text>新手请找鹿岛幸存者向导领取任务, 提交1个绷带换取初始装备. 接取任务后请仔细阅读任务要求.</text>
+	</message>
+	<message>
+		<delay>0</delay>
+		<repeat>90</repeat>
+		<text>建家请前往地图标注的[唯一建家区]社区岛屿, 在指定范围内建造. 中心交易区设有传送装置. 按B键打开制作指引, 查看领地旗制作教程.</text>
+	</message>
+</messages>

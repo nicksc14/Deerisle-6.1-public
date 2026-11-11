@@ -1,0 +1,76 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Inedia T1 基础药品",
+  "Icon": "Deliver",
+  "Color": "63C7FFFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "InediaPain_Tramadol",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 225000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_Sorbifer",
+      "MaxPriceThreshold": 135000,
+      "MinPriceThreshold": 135000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_Tranexam",
+      "MaxPriceThreshold": 162000,
+      "MinPriceThreshold": 162000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_Vikasol",
+      "MaxPriceThreshold": 108000,
+      "MinPriceThreshold": 108000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_Metoclopramide",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_Calcium",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

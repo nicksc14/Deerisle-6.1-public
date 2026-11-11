@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 914,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交5卷绷带、3支吗啡和2罐培根罐头",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "BandageDressing",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 50
+        },
+        {
+            "Amount": 3,
+            "ClassName": "Morphine",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 2,
+            "ClassName": "TacticalBaconCan",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

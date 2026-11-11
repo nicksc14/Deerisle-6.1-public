@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 206,
+    "Type": 1,
+    "Title": "[周常] 黑沼猎王：夜幕潜踪",
+    "Descriptions": [
+        "鹿岛捕猎协会收到多起黑色大型猫科动物伏击幸存者的报告。目标几乎不在开阔地停留，会利用林缘和低能见度区域发动突袭。公共猎区不会为任何猎人保留目标；通常2至3小时后才会再次出现。",
+        "前往标记的黑豹猎区，在范围内搜寻并击杀1只“黑豹｜夜幕猎王”，随后剥取一张完整黑豹皮。",
+        "夜幕猎王已经倒下。带着完整黑豹皮返回鹿岛捕猎协会负责人处，完成这份捕猎合同。"
+    ],
+    "ObjectiveText": "追踪并猎杀夜幕猎王，带回1张完整黑豹皮",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [11],
+    "QuestTurnInIDs": [11],
+    "IsAchievement": 0,
+    "Objectives": [
+        {"ConfigVersion": 28, "ID": 2061, "ObjectiveType": 3},
+        {"ConfigVersion": 28, "ID": 2062, "ObjectiveType": 2},
+        {"ConfigVersion": 28, "ID": 2063, "ObjectiveType": 4}
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 1500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [215],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

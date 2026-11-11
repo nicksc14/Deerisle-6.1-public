@@ -1,0 +1,18 @@
+{
+    "version": "2",
+    "enable": 1,
+    "minTimeBefore": 180,
+    "minTimeBeforeWhenNoOtherPlayerIsOnline": 60,
+    "enabledInPVPZones": 1,
+    "damageConfig": {
+        "maxWounds": 2,
+        "minWounds": 2,
+        "health": 0.5,
+        "blood": 0.5,
+        "shock": 0.5
+    },
+    "blacklistAreas": [],
+    "minMedicCountForHospitalTimer": 1,
+    "currencyType": "default",
+    "price": -1
+}

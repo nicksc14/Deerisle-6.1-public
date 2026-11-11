@@ -1,0 +1,82 @@
+{
+  "ConfigVersion": 22,
+  "ID": 101,
+  "Type": 1,
+    "Title": "[日常] 击杀50只感染者",
+  "Descriptions": [
+        "中心任务板发布每日感染者清理合同。",
+        "在鹿岛任意区域击杀50只任务白名单内的感染者。",
+        "已完成50只感染者击杀。返回中心任务板领取奖励。"
+  ],
+    "ObjectiveText": "击杀50只感染者",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "Ammo_762x54",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "Ammo_308Win",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "Ammo_556x45",
+      "Amount": 200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    }
+  ],
+  "NeedToSelectReward": 1,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 101,
+      "ObjectiveType": 2
+    }
+  ],
+  "QuestColor": -43691,
+  "ReputationReward": 500,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

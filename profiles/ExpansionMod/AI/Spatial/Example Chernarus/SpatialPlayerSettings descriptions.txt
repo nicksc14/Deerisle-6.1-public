@@ -1,0 +1,2 @@
+            UID = player UID
+            Player_Birthday = Unix timestamp in seconds of respawn/spawn; used to calculate elapsed player age in seconds.

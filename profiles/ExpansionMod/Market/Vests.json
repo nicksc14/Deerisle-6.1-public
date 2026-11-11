@@ -1,0 +1,180 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VESTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "reflexvest",
+      "MaxPriceThreshold": 522,
+      "MinPriceThreshold": 312,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "policevest",
+      "MaxPriceThreshold": 660,
+      "MinPriceThreshold": 396,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pressvest_blue",
+      "MaxPriceThreshold": 2523,
+      "MinPriceThreshold": 1515,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "pressvest_lightblue"
+      ]
+    },
+    {
+      "ClassName": "ukassvest_black",
+      "MaxPriceThreshold": 1026,
+      "MinPriceThreshold": 615,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ukassvest_khaki",
+        "ukassvest_olive",
+        "ukassvest_camo",
+        "ukassvest_winter"
+      ]
+    },
+    {
+      "ClassName": "ukassvest_camo",
+      "MaxPriceThreshold": 1062,
+      "MinPriceThreshold": 636,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ukassvest_winter",
+      "MaxPriceThreshold": 1080,
+      "MinPriceThreshold": 648,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "smershvest",
+      "MaxPriceThreshold": 5490,
+      "MinPriceThreshold": 3294,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "highcapacityvest_black",
+      "MaxPriceThreshold": 7107,
+      "MinPriceThreshold": 4263,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "highcapacityvest_olive"
+      ]
+    },
+    {
+      "ClassName": "highcapacityvest_olive",
+      "MaxPriceThreshold": 7833,
+      "MinPriceThreshold": 4698,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "platecarriervest",
+      "MaxPriceThreshold": 7227,
+      "MinPriceThreshold": 4338,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "platecarriervest_green",
+        "platecarriervest_black",
+        "platecarriervest_camo",
+        "platecarriervest_winter"
+      ]
+    },
+    {
+      "ClassName": "platecarriervest_camo",
+      "MaxPriceThreshold": 7107,
+      "MinPriceThreshold": 4263,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "platecarriervest_winter",
+      "MaxPriceThreshold": 1080,
+      "MinPriceThreshold": 648,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "huntingvest",
+      "MaxPriceThreshold": 645,
+      "MinPriceThreshold": 387,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "huntingvest_winter"
+      ]
+    },
+    {
+      "ClassName": "chestplate",
+      "MaxPriceThreshold": 354,
+      "MinPriceThreshold": 213,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

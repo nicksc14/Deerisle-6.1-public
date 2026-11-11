@@ -1,0 +1,20 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "QPK 制作材料商人",
+  "Position": [
+    5623.5625,
+    28.734995,
+    5394.646484
+  ],
+  "Radius": 1,
+  "BuyPricePercent": 100,
+  "SellPricePercent": 15,
+  "Stock": {
+    "qpk_bolts": 1,
+    "qpk_cloth_aramid": 1,
+    "qpk_metalparts": 1,
+    "qpk_weaponparts": 1,
+    "qpk_militarycable": 1,
+    "qpk_poxeram": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "DisableVehicleAutoMarker": 0,
+    "DisableVehicleEngineDamageOnRedline": 1,
+    "DisableVehicleEngineDamageOnWater": 1,
+    "DisableVehicleBodyDamageOnShooting": 1,
+    "DisableVehicleDoorsDamageOnShooting": 1,
+    "DisableVehicleWheelsDamageOnCrash": 1,
+    "DisableVehicleDamageOnCrash": 1,
+    "DisableCrewDamageOnCrash": 1,
+    "DisablePlayerDamageOnHitByVehicle": 1,
+    "DisableZombieDamageOnHitByVehicle": 1,
+    "DisableAnimalDamageOnHitByVehicle": 1
+}

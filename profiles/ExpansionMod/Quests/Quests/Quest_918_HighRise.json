@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 918,
+    "Type": 1,
+    "Title": "Stonington区域巡查：警察局",
+    "Descriptions": [
+        "Stonington警察局位于城区核心，是熟悉新城建筑布局的重要地标。按地图标记前往警察局。",
+        "进入警察局标记范围即可完成巡查。建筑内会由CJ LootChest刷新公共补给箱，但任务不要求你必须打开箱子。",
+        "警察局区域已确认。Stonington档案鉴定员玛拉·维斯就在警察局附近，可以顺路去查看她的委托。所有Stonington巡查任务都可任选，完成或放弃任何一项都不会锁住其他任务。"
+    ],
+    "ObjectiveText": "前往Stonington警察局",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 918,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

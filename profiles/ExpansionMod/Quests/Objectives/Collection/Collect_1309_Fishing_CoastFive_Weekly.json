@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1309,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交大型鲭鱼、海鲈鱼、齿鲷、鱿鱼和鲉鱼各1条",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {"Amount": 1, "ClassName": "AP_fish_sea_scumbria_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_sea_seabass_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_sea_dentex_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_sea_squid_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_sea_scorpionfish_large", "QuantityPercent": -1, "MinQuantityPercent": 1}
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

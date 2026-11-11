@@ -1,0 +1,21 @@
+[
+  {
+    "ClassName": "CJ_Key102",
+    "Chance": 0,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

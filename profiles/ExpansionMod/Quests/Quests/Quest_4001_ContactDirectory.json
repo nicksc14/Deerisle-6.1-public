@@ -1,0 +1,74 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4001,
+    "Type": 1,
+    "Title": "鹿岛联络人名册",
+    "Descriptions": [
+        "中心安全区只能处理一部分委托。鹿岛各地还有五名外围联络人，分别负责新手生存、海岛远征、前线战斗、变异样本以及稀有收藏鉴定。拿上这份联络人名册，按地图标记去认识他们。",
+        "五处联络点可以按任意顺序拜访：幸存者向导负责新手生存、初始装备与新手岛探索；老摆渡人负责水路交通与海岛远征；机场前线行动官负责AI与变异体清剿；隔离研究主管负责变异样本；Stonington档案鉴定员负责稀有物品与收藏。鹿岛渔业教官与鹿岛捕猎协会都在中心任务区附近，分别负责钓鱼与捕猎合同，不需要远行。",
+        "外围联络网络已经记录完成。今后可以直接前往对应联络人处查看任务；这份名册只负责导航，不会限制或解锁他们的任务。"
+    ],
+    "ObjectiveText": "拜访鹿岛五名外围任务联络人",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 40011,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 40012,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 40013,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 40014,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 40015,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

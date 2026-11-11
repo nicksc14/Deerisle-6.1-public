@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 9311,
+    "Type": 1,
+    "Title": "[团队] Stonington城郊协同清道",
+    "Descriptions": [
+        "这是城郊清道的可选团队版本。只有加入Expansion队伍后才能接取，队伍成员可共同推进目标。",
+        "前往Stonington城市外围，在500米范围内与队友共同击杀15只普通感染者。",
+        "城郊道路已清理。这项团队任务不是其他新手任务的前置。"
+    ],
+    "ObjectiveText": "团队在Stonington城郊500米内击杀15只普通感染者",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 3000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 911,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 911,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 150,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

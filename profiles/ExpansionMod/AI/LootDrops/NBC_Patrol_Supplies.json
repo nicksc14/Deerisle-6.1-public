@@ -1,0 +1,59 @@
+[
+  {
+    "ClassName": "GasMask_Filter",
+    "Chance": 0.55,
+    "Quantity": {
+      "Min": 0.4,
+      "Max": 0.9
+    },
+    "Health": [
+      {
+        "Min": 0.5,
+        "Max": 0.9,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "AntiChemInjector",
+    "Chance": 0.15,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.5,
+        "Max": 0.9,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "DisinfectantAlcohol",
+    "Chance": 0.25,
+    "Quantity": {
+      "Min": 0.25,
+      "Max": 0.75
+    },
+    "Health": [
+      {
+        "Min": 0.5,
+        "Max": 0.9,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

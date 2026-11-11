@@ -1,0 +1,76 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - DMT标准热成像瞄具",
+  "Icon": "Gun",
+  "Color": "FF6A00FF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "DMT_FLIR_Rangefinder",
+      "MaxPriceThreshold": 21000000,
+      "MinPriceThreshold": 21000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DMT_FLIR_StarlightOptic",
+      "MaxPriceThreshold": 21000000,
+      "MinPriceThreshold": 21000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DMT_FLIR_KazuarOptic",
+      "MaxPriceThreshold": 21000000,
+      "MinPriceThreshold": 21000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DMT_FLIR_HuntingOptic",
+      "MaxPriceThreshold": 21000000,
+      "MinPriceThreshold": 21000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DMT_FLIR_ACOGOptic",
+      "MaxPriceThreshold": 21000000,
+      "MinPriceThreshold": 21000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DMT_FLIR_ACOGOptic_6x",
+      "MaxPriceThreshold": 21000000,
+      "MinPriceThreshold": 21000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1115,
+    "Type": 1,
+    "Title": "[周常] 良子谱系样本：首领与大胃袋",
+    "Descriptions": [
+        "首领良子与大胃袋良子表现出不同的强化方向。研究部门需要两组头手样本做并行对照。",
+        "分别击杀并切割首领良子和大胃袋良子，上交两种变体的专属头部、手部各1件；共4件样本交付时全部收走。",
+        "首领与大胃袋良子的对照样本已经完成登记并入库。"
+    ],
+    "ObjectiveText": "切割首领良子和大胃袋良子，上交两种专属头手样本",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 12000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [8],
+    "QuestTurnInIDs": [8],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1115,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -507638398,
+    "ReputationReward": 300,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

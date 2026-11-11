@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1102,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交蓝色原型武器、弹匣和蓝色瞄具各1件",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "jmc_Prototype_Blue",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "jmc_Prototype_Mag",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "jmc_Prototype_Optic_Blue",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

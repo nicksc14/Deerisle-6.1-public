@@ -1,0 +1,344 @@
+{
+    "ConfigVersion": "3",
+    "TITLE": "[Azrael Event Foresters]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== MAIN CONFIG",
+    "EnableDebugPrint": 0,
+    "EnableForesterCampEvent": 1,
+    "SpawnAllCampsMode": 1,
+    "EnableSignalAfterFinish": 1,
+    "DisableEventAnimalCarDamage": 1,
+    "DisableEventZombieCarDamage": 1,
+    "CampCountMin": 7,
+    "CampCountMax": 7,
+    "text2": "====== REMOVE NEAR ITEMS CONFIG",
+    "DeleteDumpLootInArea": 0,
+    "DeleteDumpLootInAreaRadius_meter": 10,
+    "DontRemoveObjectsList": [],
+    "text3": "====== CAMP LIST",
+    "EventForesterCampList": [
+        {
+            "CampName": "DeerisleForester_01",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_green",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_01"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        },
+        {
+            "CampName": "DeerisleForester_02",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_brown",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_02"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        },
+        {
+            "CampName": "DeerisleForester_03",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_camo",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_03"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        },
+        {
+            "CampName": "DeerisleForester_04",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_green",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_04"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        },
+        {
+            "CampName": "DeerisleForester_05",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_grey",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_05"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        },
+        {
+            "CampName": "DeerisleForester_06",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_camo",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_06"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        },
+        {
+            "CampName": "DeerisleForester_07",
+            "IsActive": 1,
+            "TriggerActivateRadius": 50,
+            "CombineLootPresets": 0,
+            "SpawnAllLoot": 0,
+            "EnableBonfire": 1,
+            "EnableZombie": 1,
+            "EnableEscortCage": 1,
+            "EnableSpawnTraps": 1,
+            "RadiusCageSpawnMax": 12,
+            "RadiusCageOpen": 20,
+            "MinCageCount": 2,
+            "MaxCageCount": 3,
+            "RadiusTrapsSpawnMin": 8,
+            "RadiusTrapsSpawnMax": 25,
+            "MinTrapsCount": 6,
+            "MaxTrapsCount": 10,
+            "MinZombieCount": 2,
+            "MaxZombieCount": 4,
+            "MinLootItemCount": 4,
+            "MaxLootItemCount": 8,
+            "TimeToZombieRefill": 10,
+            "TimeToDeleteCampAfterActivate": 10,
+            "TentClassname": "AP_forester_camp_brown",
+            "CageWolfClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "CoordPresets": [
+                "deerisle_camp_pool_07"
+            ],
+            "LootPresets": [
+                "deerisle_supplies"
+            ],
+            "ZombieList": [
+                "AP_zmb_forester",
+                "AP_zmb_armoredz",
+                "AP_zmb_skinny1",
+                "AP_zmb_skinny2",
+                "AP_zmb_skinny3",
+                "AP_zmb_fat1_1",
+                "AP_zmb_fat1_2",
+                "AP_zmb_fat1_3"
+            ]
+        }
+    ]
+}

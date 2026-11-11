@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1208,
+    "Type": 1,
+    "Title": "跑刀T1：巴林杰陨石坑进入点勘察",
+    "Descriptions": [
+        "跑刀T1位于巴林杰陨石坑区域。先在主岛找到地图标记的进入传送点，为后续行动确认路线。",
+        "前往跑刀T1巴林杰陨石坑进入传送点，进入标记范围即可完成。",
+        "已确认跑刀T1巴林杰陨石坑进入点。这项勘察任务只负责导航，不发放额外奖励。"
+    ],
+    "ObjectiveText": "前往跑刀T1巴林杰陨石坑进入传送点",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [5],
+    "QuestTurnInIDs": [5],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1208,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40012,
+    "ObjectiveType": 3,
+    "ObjectiveText": "拜访老摆渡人，了解海岛远征与高阶区域探索委托",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9780.095703,
+        13.731700,
+        4327.179688
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "海岛远征任务｜老摆渡人",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

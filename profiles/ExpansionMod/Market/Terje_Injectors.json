@@ -1,0 +1,153 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Terje医疗注射器",
+  "Icon": "Deliver",
+  "Color": "FF006EFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "terjeinjectoramfitalicyne",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectoramoxiclav",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorerythropoietin",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorerytromixelin",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorneirox",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectornovichek",
+      "MaxPriceThreshold": 450000,
+      "MinPriceThreshold": 450000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorpromidol",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorpropital",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorrabinucoline",
+      "MaxPriceThreshold": 270000,
+      "MinPriceThreshold": 270000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorreanimatal",
+      "MaxPriceThreshold": 600000,
+      "MinPriceThreshold": 600000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorstomaproxidal",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectortopoizomeraza",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "terjeinjectorzivirol",
+      "MaxPriceThreshold": 360000,
+      "MinPriceThreshold": 360000,
+      "SellPricePercent": 2.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

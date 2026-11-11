@@ -1,0 +1,34 @@
+{
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Boots_And_Shoes:1",
+    "Coats_And_Jackets:1",
+    "Pants_And_Shorts:1",
+    "Blouses_And_Suits:1",
+    "Shirts_And_TShirts:1",
+    "Skirts_And_Dresses:1"
+  ],
+  "Items": {
+    "nbcbootsgray": 1,
+    "nbcbootsyellow": 1,
+    "nbcbootswhite": 1,
+    "nbcjacketgray": 1,
+    "nbcjacketyellow": 1,
+    "nbcjacketwhite": 1,
+    "nbcpantsgray": 1,
+    "nbcpantsyellow": 1,
+    "nbcpantswhite": 1
+  }
+}

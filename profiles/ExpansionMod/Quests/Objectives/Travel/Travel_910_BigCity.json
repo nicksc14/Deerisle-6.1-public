@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 910,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往新城废墟寻找STAG前线联络官",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [6885.20752, 56.545044, 1966.208374],
+    "MaxDistance": 100.0,
+    "MarkerName": "STAG前线联络官",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

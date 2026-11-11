@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="MMG_tactical_shirt_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_striker_helmet_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_combatpants_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_MK_III_Armor_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_falcon_b1_belt_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_balaclava_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_assault_pack_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_ammo_pouch_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_Mag_Pouch_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_tactical_pouch_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="MMG_tactical_gloves_city">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+</types>

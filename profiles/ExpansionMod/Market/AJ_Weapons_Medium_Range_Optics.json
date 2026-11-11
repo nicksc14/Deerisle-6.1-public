@@ -1,0 +1,120 @@
+{
+  "m_Version": 12,
+  "DisplayName": "AJ中距离瞄准镜",
+  "Icon": "Gun",
+  "Color": "0094FFFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ajw_bd_car15_optic",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 9600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_accupower",
+      "MaxPriceThreshold": 26100,
+      "MinPriceThreshold": 21600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_acog_acss",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_acog_chevron",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_acog_horseshoe",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_eotechvudu",
+      "MaxPriceThreshold": 27900,
+      "MinPriceThreshold": 23100,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_hamr",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_k98",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_leupoldholodevo",
+      "MaxPriceThreshold": 27900,
+      "MinPriceThreshold": 23100,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_vortex",
+      "MaxPriceThreshold": 49800,
+      "MinPriceThreshold": 49800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

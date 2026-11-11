@@ -1,0 +1,142 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 高级MMG服装 (Red Rose无损)",
+  "Icon": "Deliver",
+  "Color": "7FFFFFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "mmg_ammo_pouch_red_rose",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_assault_pack_red_rose",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_balaclava_red_rose",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_combatpants_red_rose",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_falcon_b1_belt_red_rose",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_mag_pouch_red_rose",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_med_pouch_red_rose",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_mk_iii_armor_red_rose",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_striker_helmet_red_rose",
+      "MaxPriceThreshold": 11000000,
+      "MinPriceThreshold": 11000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_tactical_gloves_red_rose",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_tactical_pouch_red_rose",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_tactical_shirt_red_rose",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

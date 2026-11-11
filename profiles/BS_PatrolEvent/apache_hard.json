@@ -1,0 +1,551 @@
+{
+    "ConfigVersion": 3,
+    "AutoUpdateConfig": 1,
+    "EventSettings": {
+        "EnableEvent": 0,
+        "MinPlayersToStart": 1,
+        "CrateBurningTime": 30,
+        "WreckDespawnTime": 30,
+        "SpawnTime": 5,
+        "RespawnTime": 60
+    },
+    "HelicopterSettings": {
+        "HelicopterClassName": "BS_AH64D_Apache",
+        "HelicopterHealth": 16000,
+        "AggroWhilePatrolling": 0,
+        "PatrolAggroRange": 300.0,
+        "PatrolAggroPursue": 0,
+        "PatrolRoutes": [
+            {
+                "RouteName": "Sunset Cross",
+                "SpawnPosition": "6975.118164 136.654240 6123.989746",
+                "Waypoints": [
+                    "6580.119141 117.129890 6099.654297",
+                    "6287.803223 118.694763 6446.545898",
+                    "6632.390137 119.277405 6668.468262"
+                ]
+            },
+            {
+                "RouteName": "Warren cove",
+                "SpawnPosition": "7330.829590 122.027247 5167.215332",
+                "Waypoints": [
+                    "7012.827148 146.788647 4971.536133",
+                    "6683.095215 148.297422 5737.989746",
+                    "7050.398926 165.420124 6028.994629"
+                ]
+            },
+            {
+                "RouteName": "ParisTown Island",
+                "SpawnPosition": "3452.941650 124.797766 4919.732422",
+                "Waypoints": [
+                    "3158.927979 131.879734 4575.153320",
+                    "3401.222656 120.099106 4309.864746",
+                    "3584.083984 124.282492 4675.050293"
+                ]
+            },
+            {
+                "RouteName": "Waldoboro",
+                "SpawnPosition": "8840.929688 106.965513 9411.342773",
+                "Waypoints": [
+                    "8877.928711 121.798557 9795.471680",
+                    "9177.306641 113.121827 10005.734375",
+                    "9360.232422 112.771198 9553.790039"
+                ]
+            },
+            {
+                "RouteName": "GerogesTown Airfield",
+                "SpawnPosition": "5177.945801 223.991196 3106.222412",
+                "Waypoints": [
+                    "5051.370605 223.991196 3650.908447",
+                    "5319.931152 213.049831 4106.341797",
+                    "5854.532227 223.991196 3771.917969"
+                ]
+            }
+        ]
+    },
+    "Notifications": {
+        "EnableSpawnNotification": 1,
+        "SpawnNotificationKey": "#STR_BS_Heli_Spawn_Alert",
+        "EnableCrashNotification": 1,
+        "CrashNotificationKey": "#STR_BS_Heli_Crash_Alert",
+        "EnableDespawnNotification": 1,
+        "DespawnNotificationKey": "#STR_BS_Heli_Despawn_Alert",
+        "NotificationIcon": "BS_Event_Logo/Logo/BS_Patrol_Noti.paa",
+        "NotificationTitleKey": "#STR_BS_Heli_Title"
+    },
+    "WreckSettings": {
+        "WreckClassName": "BS_AH64D_Crashed",
+        "CrateCount": 5,
+        "CrateClassNames": [
+            "BS_Military_Medium"
+        ],
+        "CrateSpawnRadiusMin": 10.0,
+        "CrateSpawnRadiusMax": 15.0
+    },
+    "LootPresets": [],
+    "SearchLightSettings": {
+        "Brightness": 35.0,
+        "Radius": 500.0,
+        "ConeAngle": 45.0
+    },
+    "MarkerSettings": {
+        "EnableHeliMarker": 1,
+        "EnableWreckMarker": 1,
+        "Enable3DMarker": 1,
+        "Enable2DMarker": 1
+    },
+    "LootCategories": {
+        "HeavyAmmo": {
+            "Min": 4,
+            "Max": 6,
+            "Items": [
+                {
+                    "LootClass": "AJW_Ammo_50BMG",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "GCGN_Ammo_50Cal",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "TTC_Ammo_50BMG",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.8
+                },
+                {
+                    "LootClass": "TTC_Ammobox_50BMG_10rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.6
+                },
+                {
+                    "LootClass": "SNAFU_Ammo_145Cal",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.5
+                },
+                {
+                    "LootClass": "GCGN_Ammo_408Chey",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.65
+                },
+                {
+                    "LootClass": "TTC_Ammo_338",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.8
+                },
+                {
+                    "LootClass": "AJW_Ammo_338",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.8
+                },
+                {
+                    "LootClass": "SNAFU_Ammo_338",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.8
+                },
+                {
+                    "LootClass": "TTC_AmmoBox_338mm_10Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.6
+                },
+                {
+                    "LootClass": "AJW_AmmoBox_338mm_10Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.6
+                },
+                {
+                    "LootClass": "AJW_Mag_M60_100rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.45
+                },
+                {
+                    "LootClass": "AJW_Mag_M82_10rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.55
+                },
+                {
+                    "LootClass": "GCGN_M82_Mag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.55
+                },
+                {
+                    "LootClass": "SNAFUAX50_Mag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.5
+                },
+                {
+                    "LootClass": "SNAFUAlligator_5rdMag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.35
+                },
+                {
+                    "LootClass": "SNAFUGM6Lynx_5rdMag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.5
+                },
+                {
+                    "LootClass": "SNAFUM96_5rdMag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.45
+                },
+                {
+                    "LootClass": "SNAFU_AS50_Mag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.45
+                },
+                {
+                    "LootClass": "TTC_338mag_10rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.6
+                },
+                {
+                    "LootClass": "TTC_M82_5rnd_Mag",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.5
+                }
+            ]
+        },
+        "Maintenance": {
+            "Min": 3,
+            "Max": 5,
+            "Items": [
+                {
+                    "LootClass": "ap_kit_repair_armor",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "WeaponCleaningKit",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "ElectronicRepairKit",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.85
+                },
+                {
+                    "LootClass": "EpoxyPutty",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.8
+                },
+                {
+                    "LootClass": "LeatherSewingKit",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.65
+                },
+                {
+                    "LootClass": "DuctTape",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.7
+                },
+                {
+                    "LootClass": "Blowtorch",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.55
+                },
+                {
+                    "LootClass": "Battery9V",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.8
+                },
+                {
+                    "LootClass": "AJW_Optic_Leupold_M3A",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.45
+                },
+                {
+                    "LootClass": "HuntingOptic",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.5
+                }
+            ]
+        },
+        "CombatMedical": {
+            "Min": 2,
+            "Max": 4,
+            "Items": [
+                {
+                    "LootClass": "TerjeBandageHemostatic",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "TerjeFirstAidKitLarge",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.75
+                },
+                {
+                    "LootClass": "TerjeSurgicalKit",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.65
+                },
+                {
+                    "LootClass": "TerjeSurgicalTool_Ceramic",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.4
+                },
+                {
+                    "LootClass": "TerjeInjectorPropital",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.65
+                },
+                {
+                    "LootClass": "TerjeInjectorZivirol",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.5
+                },
+                {
+                    "LootClass": "TerjeInjectorNovichek",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.35
+                },
+                {
+                    "LootClass": "TerjeInjectorReanimatal",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.4
+                },
+                {
+                    "LootClass": "TerjeAmpouleNeirocetal",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.35
+                },
+                {
+                    "LootClass": "Defibrillator",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.25
+                }
+            ]
+        },
+        "A6Arsenal": {
+            "Min": 1,
+            "Max": 1,
+            "Items": [
+                {
+                    "LootClass": "AP_vest_redut_green",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "AP_vest_wardrum_full_camo",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "FOG_Vest_Gen4_Black",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "FOG_Vest_Osprey_RG",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "FOG_Vest_Thor_Tan",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "AJW_AK50_MCB",
+                    "LootAttachments": [
+                        "AJW_Mag_M82_10rnd"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "AJW_M60E6_FDE",
+                    "LootAttachments": [
+                        "AJW_Mag_M60_100rnd"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "AJW_M82A1CQ_OD",
+                    "LootAttachments": [
+                        "AJW_Mag_M82_10rnd"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "GCGN_M82_Barret",
+                    "LootAttachments": [
+                        "GCGN_M82_Mag"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SNAFUAX50_GUN",
+                    "LootAttachments": [
+                        "SNAFUAX50_Mag"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SNAFUAlligator",
+                    "LootAttachments": [
+                        "SNAFUAlligator_5rdMag"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SNAFUGM6Lynx",
+                    "LootAttachments": [
+                        "SNAFUGM6Lynx_5rdMag"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SNAFUM96",
+                    "LootAttachments": [
+                        "SNAFUM96_5rdMag"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SNAFU_AS50_GUN",
+                    "LootAttachments": [
+                        "SNAFU_AS50_Mag"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "TTC_FD338",
+                    "LootAttachments": [
+                        "TTC_338mag_10rnd",
+                        "HuntingOptic"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "TTC_M82_gold",
+                    "LootAttachments": [
+                        "TTC_M82_5rnd_Mag",
+                        "HuntingOptic"
+                    ],
+                    "SpawnChance": 1.0
+                }
+            ]
+        }
+    },
+    "LootCrates": [
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "",
+            "Presets": [
+                "HeavyAmmo"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "",
+            "Presets": [
+                "HeavyAmmo"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "",
+            "Presets": [
+                "Maintenance"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "",
+            "Presets": [
+                "CombatMedical"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "",
+            "Presets": [
+                "A6Arsenal"
+            ]
+        }
+    ],
+    "CrashDefenders": {
+        "EnableDefenders": 1,
+        "DespawnRadius": 800.0,
+        "DespawnCheckInterval": 60.0,
+        "DespawnWithWreck": 1,
+        "Defenders": [
+            {
+                "ClassName": "ZmbM_SoldierNormal",
+                "Count": 14,
+                "AdditionalNight": 6,
+                "SpawnRadius": 25.0,
+                "IsExpansionBot": 0,
+                "ExpansionFaction": "",
+                "ExpansionLoadout": "",
+                "ExpansionUnlimitedAmmo": 0,
+                "ExpansionCanBeLooted": 1
+            },
+            {
+                "ClassName": "eAI_SurvivorM_Mirek",
+                "Count": 2,
+                "AdditionalNight": 1,
+                "SpawnRadius": 35.0,
+                "IsExpansionBot": 1,
+                "ExpansionFaction": "Shamans",
+                "ExpansionLoadout": "Gorka_SpecOps_Field_A4",
+                "ExpansionUnlimitedAmmo": 1,
+                "ExpansionCanBeLooted": 1
+            }
+        ]
+    },
+    "Difficulty": {
+        "TurretFireCooldown": 0.07000000029802322,
+        "TurretMaxRange": 500.0,
+        "TurretAccuracy": 0.7,
+        "TurretMissAngle": 1.0,
+        "TurretBurstShots": 20,
+        "TurretBurstCooldown": 5.0,
+        "TurretAttackCooldown": 15.0,
+        "TurretAmmoType": "Bullet_308Win",
+        "MissileCooldown": 5,
+        "MissileMinRange": 50.0,
+        "MissileMaxRange": 300.0,
+        "MissileSpeed": 70.0,
+        "MissileMaxSpeed": 120.0,
+        "MissileAcceleration": 40.0,
+        "MissileDoubleShotChance": 0.25,
+        "MissileAngleThreshold": 0.8500000238418579,
+        "FlareCooldown": 10.0,
+        "FlareDeployChance": 0.5,
+        "CombatOrbitSpeed": 30.0,
+        "CombatOrbitAltitude": 75.0,
+        "CombatOrbitRadius": 100.0,
+        "CombatOrbitDuration": 4.0,
+        "CombatPullBackSpeed": 40.0,
+        "CombatPullBackAltitude": 90.0,
+        "CombatPullBackDuration": 2.5,
+        "CombatUTurnSpeed": 38.0,
+        "CombatUTurnAltitude": 70.0,
+        "CombatAttackRunSpeed": 60.0,
+        "CombatAttackRunAltitude": 45.0,
+        "CombatAttackRunAgility": 3.0,
+        "CombatAttackRunDuration": 5.0,
+        "CombatAttackRunMinDist": 60.0,
+        "LostSightTimeout": 200.0,
+        "CrashDamageRadius": 15.0,
+        "CrashDamageMax": 100.0,
+        "PatrolSpeed": 25.0,
+        "PatrolAltitude": 70.0,
+        "SuppressionDamageThreshold": 150.0,
+        "SuppressionDuration": 8.0,
+        "SuppressionMissileRate": 1.5,
+        "SuppressionSpread": 8.0,
+        "SuppressionNoLOSTime": 5.0,
+        "SuppressionMultiAttackerBonus": 1.5
+    },
+    "SafeZones": [
+        {
+            "Name": "Rookie Trader",
+            "Position": "5619 28 5378",
+            "Radius": 200.0
+        }
+    ]
+}

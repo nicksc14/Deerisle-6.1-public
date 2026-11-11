@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 6,
+    "ID": 6,
+    "ClassName": "ExpansionQuestNPCJose",
+    "Position": [6885.20752, 56.545044, 1966.208374],
+    "Orientation": [17.797665, 0.0, 0.0],
+    "NPCName": "STAG 前线联络官",
+    "DefaultNPCText": "新面孔。能从北边一路走到这里，你不是普通的流浪者。STAG工业在这座城设了前哨，我们需要有能力的人手。完成我交代的任务，我会给你一封去交易区的推荐信。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_006_STAGLiaison_FOG_M81",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "",
+    "NPCType": 0,
+    "Active": 1
+}

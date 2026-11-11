@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 51132,
+    "ObjectiveType": 4,
+    "ObjectiveText": "缴交1件非毁坏状态的单峰驼皮",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "CamelPelt",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

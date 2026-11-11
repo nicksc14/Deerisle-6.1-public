@@ -1,0 +1,6 @@
+{
+    "disableWeaponRaiseAgainstZombies": 1,
+    "disableWeaponRaiseAgainstAnimals": 1,
+    "disableSoftWeaponRaiseMultiplier": 0,
+    "softWeaponRaiseMultiplier": 0.6499999761581421
+}

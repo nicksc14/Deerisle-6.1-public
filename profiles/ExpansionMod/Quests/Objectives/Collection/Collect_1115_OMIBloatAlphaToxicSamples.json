@@ -1,0 +1,37 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1115,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交首领良子与大胃袋良子的头部、手部各×1（全部需要）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "OMI_MobKF_Bloat_TrofeiHead_Alpha",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "OMI_MobKF_Bloat_TrofeiHand_Alpha",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "OMI_MobKF_Bloat_TrofeiHead_Toxic",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "OMI_MobKF_Bloat_TrofeiHand_Toxic",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40013,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Gerogetown机场航站楼高层，拜访S.T.A.G.前线行动官",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5626.381836,
+        88.838058,
+        3698.475342
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "AI与变异体清剿任务｜S.T.A.G.前线行动官",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

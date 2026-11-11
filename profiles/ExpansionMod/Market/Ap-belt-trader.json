@@ -1,0 +1,163 @@
+{
+  "m_Version": 12,
+  "DisplayName": "新手 - AP腰带",
+  "Icon": "Deliver",
+  "Color": "0094FFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ap_belt_equipbelt",
+      "MaxPriceThreshold": 22800,
+      "MinPriceThreshold": 18900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_belt_hippack_leather",
+      "MaxPriceThreshold": 31800,
+      "MinPriceThreshold": 26400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_belt_hippack_mil_sand",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 37500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_belt_hippack_mil_green",
+        "ap_belt_hippack_mil_black",
+        "ap_belt_hippack_mil_camo",
+        "ap_belt_hippack_mil_emr",
+        "ap_belt_hippack_mil_mc",
+        "ap_belt_hippack_mil_ucp"
+      ]
+    },
+    {
+      "ClassName": "ap_belt_hippack_sport_blue",
+      "MaxPriceThreshold": 31800,
+      "MinPriceThreshold": 26400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_belt_hippack_sport_green",
+        "ap_belt_hippack_sport_violet",
+        "ap_belt_hippack_sport_grey",
+        "ap_belt_hippack_sport_camo1",
+        "ap_belt_hippack_sport_camo2"
+      ]
+    },
+    {
+      "ClassName": "ap_belt_leather1",
+      "MaxPriceThreshold": 13800,
+      "MinPriceThreshold": 11400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_belt_sovet",
+      "MaxPriceThreshold": 22800,
+      "MinPriceThreshold": 18900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_belt_tactical1",
+      "MaxPriceThreshold": 58800,
+      "MinPriceThreshold": 48900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_belt_textile1",
+      "MaxPriceThreshold": 13800,
+      "MinPriceThreshold": 11400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_belt_tyrtac_green",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 60000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_belt_tyrtac_sand",
+        "ap_belt_tyrtac_black",
+        "ap_belt_tyrtac_camo",
+        "ap_belt_tyrtac_atacs"
+      ]
+    },
+    {
+      "ClassName": "ap_belt_waist_sand",
+      "MaxPriceThreshold": 58800,
+      "MinPriceThreshold": 48900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_belt_waist_green",
+        "ap_belt_waist_black",
+        "ap_belt_waist_atacs",
+        "ap_belt_waist_mc",
+        "ap_belt_waist_winter",
+        "ap_belt_waist_violet",
+        "ap_belt_waist_red"
+      ]
+    },
+    {
+      "ClassName": "ap_belt_warbelt_camo",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 60000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_belt_warbelt_sand",
+        "ap_belt_warbelt_sand2",
+        "ap_belt_warbelt_green",
+        "ap_belt_warbelt_black",
+        "ap_belt_warbelt_white"
+      ]
+    }
+  ]
+}

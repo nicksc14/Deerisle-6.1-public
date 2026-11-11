@@ -1,0 +1,190 @@
+{
+    "ConfigVersion": 22,
+    "ID": 902,
+    "Type": 1,
+    "Title": "S.T.A.G.精英作战装备包",
+    "Descriptions": [
+        "你已经通过Stonington生存考核，证明了自己的持续作战能力。这是我的联络信——带去中心交易区，交给S.T.A.G.工业首席安全官。",
+        "沿地图标记前往中心交易区，把联络信交给S.T.A.G.工业首席安全官。",
+        "信已收到。你已经完成Stonington的100击杀考核，这套S.T.A.G.精英作战装备是对这段生存经历的奖励。中心交易区还有独立的日常、周常和专业联络人。"
+    ],
+    "ObjectiveText": "将联络信交给中心交易区的S.T.A.G.工业首席安全官并领取精英作战装备",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionQuestItemPaper",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "SNAFUMDARRIF_Black",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_Tango6T_Black",
+                "SNAFU_LStandardized_Suppressor_Black",
+                "SNAFU_FGKAC_Grip",
+                "SNAFUMDAR_30rndMagB"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUM1A_Green",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HElcan",
+                "Snafu_ScarH_SIL_Black",
+                "SNAFUM1A_20rdMag",
+                "SNAFU_AtlasBipod"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SSM_Backpack_4",
+            "Amount": 1,
+            "Attachments": [
+                "TerjeFirstAidKitAdvance_Black",
+                "Pot",
+                "SNAFUM1A_20rdMag",
+                "SNAFUM1A_20rdMag",
+                "SNAFUM1A_20rdMag",
+                "SNAFUM1A_20rdMag",
+                "SNAFU_CMAG30556_Black",
+                "SNAFU_CMAG30556_Black",
+                "SNAFU_CMAG30556_Black",
+                "SNAFU_CMAG30556_Black",
+                "TerjeInjectorReanimatal",
+                "Morphine",
+                "Ammo_556x45",
+                "Ammo_308Win",
+                "TerjeSurgicalKit",
+                "TerjePillsPainkillerTablets",
+                "TerjePillsPainkillerTablets",
+                "Heatpack",
+                "Heatpack",
+                "BandageDressing",
+                "BandageDressing"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_vest_aac_black",
+            "Amount": 1,
+            "Attachments": [
+                "AP_bigpouch_utility_black",
+                "AP_pouch_utility2_black",
+                "AP_pouch_mag_2_black",
+                "AP_pouch_mag_2_black",
+                "AP_pouch_utility3_black",
+                "AP_pouch_utility3_black",
+                "AP_pouch_backpanel3_black"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_tops_gorka_khaki",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "mmg_cargobelt_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_pants_battle1_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_boots_lowa_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_gloves_combat_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_helm_mich2000_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 902,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 1000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [919],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

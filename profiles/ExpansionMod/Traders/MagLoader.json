@@ -1,0 +1,22 @@
+{
+  "m_Version": 13,
+  "DisplayName": "装弹器&消音器",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "hm_plus_bitcoin"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "MagLoader:0",
+    "Bitcoin_CDS_Suppressor:0",
+    "Bitcoin_CDS_Supp_Special:0",
+    "Bitcoin_DMT_Standard_FLIR:0"
+  ],
+  "Items": {}
+}

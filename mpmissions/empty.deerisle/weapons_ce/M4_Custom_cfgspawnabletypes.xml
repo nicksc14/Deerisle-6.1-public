@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <type name="OS_W_M4_Custom">
+        <attachments chance="1.00">
+            <item name="OS_A_EXPS3" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="OS_A_Grip_SHIFT" chance="0.40" />
+			<item name="OS_A_Grip_B25U" chance="0.30" />
+			<item name="OS_A_Grip_SE5" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="OS_Mag_Stanag_60Rnd_Round" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="OS_WP_Suppressor_Thor" chance="1.00" />
+        </attachments>
+        </type>
+</spawnabletypes>

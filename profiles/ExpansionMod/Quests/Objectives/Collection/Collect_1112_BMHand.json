@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1112,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交6个BM手部",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 6,
+            "ClassName": "BM_hand",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

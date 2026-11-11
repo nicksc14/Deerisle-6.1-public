@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2022,
+    "ObjectiveType": 3,
+    "ObjectiveText": "巡检Stonington联络点",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6885.20752,
+        56.545044,
+        1966.208374
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "Stonington联络点",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

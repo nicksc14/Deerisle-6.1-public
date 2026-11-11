@@ -1,0 +1,513 @@
+{
+    "ModType": "",
+    "ET": "",
+    "StaticLogo": 0,
+    "AdvertiseMe": 0,
+    "AdvertiseWebhook": "",
+    "ConfigVersion": 6.0,
+    "DebugMode": 0,
+    "DeleteLogsOnRestart": 1,
+    "ServerName": "My DayZ Server",
+    "FoXyNoFlyZone_Discord": {
+        "DiscordID": "",
+        "BotName": "FoXyBoT",
+        "Webhook": "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "ServerDetails": {
+            "AirTrafficControl": 1,
+            "UseEmbeds": 1,
+            "EmbedColor": 14177041,
+            "EmbedLogoURL": [
+                "https://i.ibb.co/hJZpLR5w/logo.png"
+            ],
+            "ServerIP": "XXX.XXX.XXX.XXX",
+            "ServerPort": "2302",
+            "ServerDetails": ":helicopter: FoXyNoFlyZone in effect on %ServerName%",
+            "DiscordInviteLink": "https://discord.com/invite/3QGdkpaFyh"
+        }
+    },
+    "Settings": {
+        "ScanIntervalCheck": 5.0,
+        "NotificationDuration": 1,
+        "EnforcementCooldown": 30,
+        "PilotSeat": 0,
+        "AircraftParts": [
+            "Falcon_Battery",
+            "Fighter_Battery",
+            "Interceptor_Battery",
+            "Nomad_Battery",
+            "Olympus_Battery",
+            "Pirate_Battery",
+            "Scarab_Battery",
+            "Stalker_Battery",
+            "ExpansionHelicopterBattery",
+            "ExpansionIgniterPlug",
+            "ExpansionHydraulicHoses",
+            "AviationBattery",
+            "AviationIgniterPlug",
+            "AviationHydraulicHoses",
+            "AviationWiringHarness",
+            "mosquito_electrical_wires",
+            "mosquito_oil_filter",
+            "mosquito_drive_belt"
+        ],
+        "AdminSettings": {
+            "Command": "!nfz",
+            "AdminSteamID": []
+        },
+        "NoFlyZones": {
+            "Spire_Trade": {
+                "Coordinates": [
+                    5117.53369140625,
+                    59.589271545410156,
+                    7987.23974609375
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "Hill_Trader": {
+                "Coordinates": [
+                    7529.1357421875,
+                    89.1981201171875,
+                    4610.044921875
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "钻井平台1": {
+                "Coordinates": [
+                    1659.3729248046875,
+                    5,
+                    12712.9697265625
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "钻井平台2": {
+                "Coordinates": [
+                    3476.364013671875,
+                    5,
+                    12405.4501953125
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "钻井平台3": {
+                "Coordinates": [
+                    4136.0,
+                    -11.050000190734863,
+                    15478.0
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "终点地下站": {
+                "Coordinates": [
+                    11443.8984375,
+                    15.269428253173828,
+                    10138.7001953125
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "终点隧道": {
+                "Coordinates": [
+                    5890.188477,
+                    5.905001,
+                    13505.564453
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "S.T.A.G指挥部": {
+                "Coordinates": [
+                    2750.52587890625,
+                    25.944372177124023,
+                    3417.89501953125
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "S.T.A.G军事堡垒": {
+                "Coordinates": [
+                    8429.704102,
+                    128.377518,
+                    12268.714844
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "监狱岛": {
+                "Coordinates": [
+                    15780.0,
+                    16.492189407348633,
+                    4780.0
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "地下监狱": {
+                "Coordinates": [
+                    5856.523926,
+                    44.808353,
+                    4870.894531
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "荒废水牢": {
+                "Coordinates": [
+                    2607.872314,
+                    40.677113,
+                    13913.199219
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "失落堡垒": {
+                "Coordinates": [
+                    9215.71484375,
+                    36.52798080444336,
+                    14952.8603515625
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            },
+            "机密堡垒": {
+                "Coordinates": [
+                    14397.40625,
+                    2.59092,
+                    6876.699707
+                ],
+                "ZoneRange": 500.0,
+                "MinAltitude": 0.0,
+                "MaxAltitude": 0.0,
+                "AltitudeType": "WORLD",
+                "ActiveStartTime": "",
+                "ActiveEndTime": "",
+                "WarningTime": 30,
+                "DestroyAircraft": 0,
+                "DestroyParts": 0,
+                "Whitelist": [],
+                "EnablePlayerDamage": 1,
+                "DamageAmount": 25.0,
+                "PlayerDamageType": [
+                    "Health"
+                ],
+                "DamageOccupants": [
+                    "Pilot"
+                ],
+                "PunishTime": [
+                    "OnDestroy"
+                ]
+            }
+        }
+    },
+    "NoFlyZoneMarkers": {
+        "EnableMarkers": 0,
+        "ShowOnMap": 0,
+        "Show3D": 0,
+        "ShowOnlyWhenViolated": 0,
+        "NoFlyMarkerColor": -2354116,
+        "NoFlyMarkerIcon": "Exclamationmark",
+        "MarkerDisplayRadius": 0.0
+    },
+    "Messages": {
+        "AsciiArt": [
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠙⠻⢶⣄⡀⠀⠀⠀⢀⣤⡶⠛⠛⡇",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣇⠀⠀⣙⣿⣦⣤⣴⣿⣁⠀⠀⣸⠇",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣡⣾⣿⣿⣿⣿⣿⣿⣿⣷⣌⠋",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣷⣄⡈⢻⣿⡟⢁⣠⣾⣿⣦",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⠘⣿⠃⣿⣿⣿⣿⡇",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠈⠛⣰⠿⣆⠛⠁⠀⡀",
+            "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣦⠀⠘⠛⠋⠀⣴⣿⠁",
+            "⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⡇⠀⠀⠀⢸⣿⣏",
+            "⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠀⠀⠀⠾⢿⣿",
+            "⠀⣠⣿⣿⣿⣿⣿⣿⡿⠟⠋⣁⣠⣤⣤⡶⠶⠶⣤⣄⠈",
+            "⢰⣿⣿⣮⣉⣉⣉⣤⣴⣶⣿⣿⣋⡥⠄⠀⠀⠀⠀⠉⢻⣄",
+            "⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣋⣁⣤⣀⣀⣤⣤⣤⣤⣄⣿⡄",
+            "⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠋⠉⠁⠀⠀⠀⠀⠈⠛⠃",
+            "⠀⠀⠀⠀⠉⠉⠉⠉⠉"
+        ],
+        "Color": -2354116,
+        "ImageSet": "expansion_notification_iconset",
+        "Icon": "icon_error",
+        "OnEnter": {
+            "Header": "禁飞区",
+            "Message": "您已进入禁飞区！请立即离开！",
+            "Discord": "**%Username%** 驾驶 **%Vehicle%** [**%VehicleClassname%**] 进入了 **%ZoneName%** 禁飞区（警告时间：**%WarningTime%** 秒）"
+        },
+        "OnExit": {
+            "Header": "禁飞区",
+            "Message": "您已离开禁飞区！感谢配合！",
+            "Discord": "**%Username%** 已离开 **%ZoneName%** 禁飞区"
+        },
+        "OnCount": {
+            "Header": "禁飞区：警告！！",
+            "Message": "请立即离开禁飞区！剩余时间：%TimeRemaining% 秒",
+            "Discord": ""
+        },
+        "OnDisable": {
+            "Header": "禁飞区：已启用！！",
+            "Message": "您的飞行器已被禁用！",
+            "Discord": "**%Username%** 的 **%Vehicle%** [**%VehicleClassname%**] 在 **%ZoneName%** 禁飞区被禁用！"
+        },
+        "OnPlayerKilled": {
+            "Header": "禁飞区：致命！！",
+            "Message": "您已被禁飞区执法系统击杀！",
+            "Discord": "**%Username%** 在 **%ZoneName%** 区域驾驶 **%Vehicle%** [**%VehicleClassname%**] 时被禁飞区执法系统击杀"
+        },
+        "OnPlayerDamaged": {
+            "Header": "禁飞区：受损！！",
+            "Message": "您已被禁飞区执法系统损伤！",
+            "Discord": "**%Username%** 在 **%ZoneName%** 区域驾驶 **%Vehicle%** [**%VehicleClassname%**] 时被禁飞区执法系统造成损伤（损伤量：**%DamageAmount%** %PlayerDamageType%）"
+        }
+    }
+}

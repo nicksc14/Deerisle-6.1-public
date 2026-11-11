@@ -1,0 +1,9 @@
+{
+    "DoNotChangeUpdateVersion": 1.0,
+    "MagazineAndBulletDamageActive": 0,
+    "MagLoaderBoxDamagePercentOnUse": 0.0,
+    "ReloadTimeSecondsPerBullet": 0.10000000149011612,
+    "UnloadTimeSecondsPerBullet": 0.10000000149011612,
+    "RepairRuinedItemsActive": 1,
+    "ConsumeAmountForKitPerUse": 25.0
+}

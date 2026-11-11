@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 918,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Stonington警察局",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [7094.934, 48.670, 1928.688],
+    "MaxDistance": 40.0,
+    "MarkerName": "警察局",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <!--AMG G63-->
+    <type name="JGC_G63W463">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>9000</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="JGC_G63W463_Grey">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>9000</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="JGC_G63W463_red">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>9000</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="JGC_G63W463_white">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>9000</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="JGC_G63W463_Gold">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>9000</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <!--Sprinter-->
+    <type name="MBM_Sprinter_Red">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Black">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Gray">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Purple">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Green">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Orange">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Blue">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_mebradmoddingBlack">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_BlackCargo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_FreeCandyCargo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_mebradsmodsCargo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_FandaCargo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_PipsiCargo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_ColaCargo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Wheel_Gray">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Wheel_Black">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Wheel_Orange">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Wheel_Blue">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_Wheel_Red">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Red">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Red">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Red">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Red">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Red">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Black">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Black">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Black">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Black">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Black">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Gray">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Gray">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Gray">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Gray">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Gray">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Purple">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Purple">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Purple">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Purple">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Purple">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Green">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Green">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Green">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Green">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Green">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Orange">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Orange">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Orange">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Orange">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Orange">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_Blue">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_Blue">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_Blue">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_Blue">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_Blue">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_driver_BlackCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_codriver_BlackCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_BlackCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_BlackCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_BlackCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_FandaCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_FandaCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_FandaCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_PipsiCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_PipsiCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_PipsiCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo1_ColaCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo2_ColaCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="MBM_Sprinter_doors_cargo3_ColaCargo">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+</types>

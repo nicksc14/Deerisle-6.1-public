@@ -1,0 +1,260 @@
+{
+    "m_DNAConfig_Mob_System": [
+        {
+            "dna_DefaultMob": "wolf",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "wolf",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "bear",
+            "dna_MobType": "Animal_UrsusArctos_Crackhead"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "SMCS_Snork_Hard"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_omon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "InfectedSoldierHardJMCWinter"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "Gil_NBC_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "BM_zombie_psychopath"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "AP_zmb_voltage_miltary"
+        },
+        {
+            "dna_DefaultMob": "bossYellow",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossGreen",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossBlue",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossPurple",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossRed",
+            "dna_MobType": ""
+        }
+    ]
+}

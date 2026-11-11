@@ -1,0 +1,75 @@
+{
+    "version": "3",
+    "enable": 0,
+    "minTimeBefore": 180,
+    "minTimeBeforeWhenNoOtherPlayerIsOnline": 60,
+    "enabledInPVPZones": 1,
+    "damageConfig": {
+        "maxWounds": 2,
+        "minWounds": 1,
+        "health": 0.699999988079071,
+        "blood": 0.699999988079071,
+        "shock": 0.699999988079071
+    },
+    "blacklistAreas": [],
+    "saveItemInHand": 1,
+    "putItemInHand": 1,
+    "canSelectRespawnLocation": 0,
+    "enableSlotSave": 0,
+    "slotsToSave": [
+        {
+            "slotName": "Headgear",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Mask",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Eyewear",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Body",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Vest",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Gloves",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Back",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Armband",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Hips",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Legs",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Feet",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Shoulder",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Melee",
+            "saveCargo": 1
+        }
+    ],
+    "currencyType": "default",
+    "price": -1
+}

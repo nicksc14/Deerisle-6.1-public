@@ -1,0 +1,836 @@
+{
+  "Difficulty": "boss",
+  "Settings": {
+    "Event": {
+      "BTRClassName": "BS_BTR_Patrol",
+      "WreckClassName": "BS_BTR_Wreck",
+      "MinPlayersToSpawn": 1,
+      "SpawnCheckInterval": 60.0,
+      "RespawnDelay": 1800.0,
+      "PatrolDuration": 3600.0,
+      "WreckLifetime": 1800.0
+    },
+    "Health": {
+      "MaxHealth": 20000.0,
+      "ArmorMultiplier": 1.0,
+      "BulletDamageMultiplier": 0.1,
+      "ExplosionRadius": 15.0,
+      "DeathExplosionAmmo": "Explosion_40mm_Ammo"
+    },
+    "Movement": {
+      "PatrolSpeed": 8.0,
+      "CombatSpeed": 5.0,
+      "MaxSpeed": 12.0,
+      "Acceleration": 3.0,
+      "Deceleration": 5.0,
+      "TerrainSampleDistance": 15.0,
+      "MaxSlopeAngle": 35.0,
+      "EnableObstacleAvoidance": 1,
+      "ObstacleCheckDistance": 20.0,
+      "WaypointReachDistance": 20.0,
+      "PlowThroughVegetation": 1,
+      "CrushEntities": 1,
+      "CrushMinSpeed": 2.0
+    },
+    "Turret": {
+      "YawSpeed": 60.0,
+      "PitchSpeed": 40.0,
+      "MaxYaw": 180.0,
+      "MaxPitch": 90.0,
+      "MinPitch": -10.0,
+      "FireCooldown": 0.15000000596046448,
+      "Accuracy": 0.7,
+      "MissAngle": 1.0,
+      "MaxRange": 500.0,
+      "CoaxAccuracy": 0.3499999940395355,
+      "CoaxMissAngle": 4.0,
+      "CoaxMaxRange": 250.0,
+      "AmmoClass": "Bullet_762x39",
+      "DamageMultiplier": 1.5,
+      "BurstSize": 8,
+      "ReloadTime": 3.0,
+      "StopToShoot": 1,
+      "CoaxOnly": 0,
+      "ExplosiveCannon": 1,
+      "CannonExplosionAmmo": "Explosion_40mm_Ammo",
+      "FellTreesRadius": 6.0
+    },
+    "Grenade": {
+      "Enabled": 0,
+      "Cooldown": 2.0,
+      "Range": 150.0,
+      "MinRange": 30.0,
+      "Speed": 700,
+      "ExplosionAmmo": "Explosion_40mm_Ammo",
+      "FellTreesRadius": 6.0
+    },
+    "Combat": {
+      "DetectionRadius": 250.0,
+      "EngageRadius": 200.0,
+      "DisengageRadius": 500.0,
+      "LostSightTimeout": 60.0,
+      "OrbitRadius": 80.0,
+      "OrbitSpeed": 4.0,
+      "AggroWhilePatrolling": 0,
+      "PatrolAggroRange": 150.0,
+      "PatrolScanInterval": 1.0,
+      "EnableSuppression": 1,
+      "SuppressionSpread": 6.0,
+      "SuppressionDuration": 12.0,
+      "ChasePlayers": 1,
+      "CloseRangeAutoLOS": 0.0,
+      "IgnoreGodmodePlayers": 1,
+      "SnapDistance": 4.0
+    },
+    "Faction": {
+      "Name": "Hostile",
+      "AttackPlayers": 1,
+      "AttackOtherBTRs": 1,
+      "Enemies": [
+        "ALL"
+      ],
+      "Allies": []
+    },
+    "Markers": {
+      "EnableMapMarker": 1,
+      "Enable3DMarker": 1,
+      "Enable2DMarker": 1,
+      "ShowHealthOnMarker": 1,
+      "Name": "鹿岛 BTR-82A 终局巡逻",
+      "IconName": "BTR BS",
+      "IconPath": "BTR_82A/icon/iconbtr.paa",
+      "KeepMarkerOnWreck": 0,
+      "PatrolMarkerColor": "255,255,50,0",
+      "WreckMarkerColor": "255,140,140,140"
+    },
+    "Notifications": {
+      "Enable": 1,
+      "Title": "#STR_BS_BTR_notif_title",
+      "SpawnMsg": "#STR_BS_BTR_spawn",
+      "DestroyedMsg": "#STR_BS_BTR_destroyed",
+      "DespawnMsg": "#STR_BS_BTR_despawn",
+      "Icon": "BTR_82A/icon/iconbtr.paa",
+      "EnablePlayerKilled": 1,
+      "ShowVictimName": 1,
+      "PlayerKilledMsg": "#STR_BS_BTR_player_killed",
+      "PlayerKilledNoNameMsg": "#STR_BS_BTR_player_killed_anon",
+      "ShowKillerName": 1,
+      "DestroyedByMsg": "#STR_BS_BTR_destroyed_by"
+    },
+    "Effects": {
+      "EnableWheelDust": 1
+    },
+    "SmokeScreen": {
+      "Enabled": 1,
+      "TriggerAtHealth": 0.6499999761581421,
+      "RepeatEvery": 0.20000000298023224,
+      "MaxDeployments": 3,
+      "Cooldown": 12.0,
+      "Duration": 16.0,
+      "EmitterCount": 5,
+      "HunkerDown": 1,
+      "AccuracyWhileSmoked": 0.3499999940395355
+    },
+    "Loot": {
+      "UseCrateLoot": 1,
+      "CrateBurningTimeMin": 30,
+      "CrateBurningTimeMax": 30,
+      "CrateSpawnRadiusMin": 10.0,
+      "CrateSpawnRadiusMax": 15.0,
+      "CratesMin": 5,
+      "CratesMax": 5,
+      "CrateClasses": [
+        "BS_Tank_Box2_Black"
+      ],
+      "LootCategories": {
+        "BMGAmmo": {
+          "Min": 5,
+          "Max": 8,
+          "Items": [
+            {
+              "LootClass": "AJW_Ammo_50BMG",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "GCGN_Ammo_50Cal",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "TTC_Ammo_50BMG",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            }
+          ]
+        },
+        "Maintenance": {
+          "Min": 3,
+          "Max": 5,
+          "Items": [
+            {
+              "LootClass": "ap_kit_repair_armor",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "WeaponCleaningKit",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "ElectronicRepairKit",
+              "LootAttachments": [],
+              "SpawnChance": 0.85
+            },
+            {
+              "LootClass": "EpoxyPutty",
+              "LootAttachments": [],
+              "SpawnChance": 0.8
+            },
+            {
+              "LootClass": "LeatherSewingKit",
+              "LootAttachments": [],
+              "SpawnChance": 0.65
+            },
+            {
+              "LootClass": "DuctTape",
+              "LootAttachments": [],
+              "SpawnChance": 0.7
+            },
+            {
+              "LootClass": "Blowtorch",
+              "LootAttachments": [],
+              "SpawnChance": 0.55
+            },
+            {
+              "LootClass": "Battery9V",
+              "LootAttachments": [],
+              "SpawnChance": 0.8
+            },
+            {
+              "LootClass": "AJW_Optic_Leupold_M3A",
+              "LootAttachments": [],
+              "SpawnChance": 0.45
+            },
+            {
+              "LootClass": "HuntingOptic",
+              "LootAttachments": [],
+              "SpawnChance": 0.5
+            }
+          ]
+        },
+        "CombatMedical": {
+          "Min": 2,
+          "Max": 4,
+          "Items": [
+            {
+              "LootClass": "TerjeBandageHemostatic",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "TerjeFirstAidKitLarge",
+              "LootAttachments": [],
+              "SpawnChance": 0.75
+            },
+            {
+              "LootClass": "TerjeSurgicalKit",
+              "LootAttachments": [],
+              "SpawnChance": 0.65
+            },
+            {
+              "LootClass": "TerjeSurgicalTool_Ceramic",
+              "LootAttachments": [],
+              "SpawnChance": 0.4
+            },
+            {
+              "LootClass": "TerjeInjectorPropital",
+              "LootAttachments": [],
+              "SpawnChance": 0.65
+            },
+            {
+              "LootClass": "TerjeInjectorZivirol",
+              "LootAttachments": [],
+              "SpawnChance": 0.5
+            },
+            {
+              "LootClass": "TerjeInjectorNovichek",
+              "LootAttachments": [],
+              "SpawnChance": 0.35
+            },
+            {
+              "LootClass": "TerjeInjectorReanimatal",
+              "LootAttachments": [],
+              "SpawnChance": 0.4
+            },
+            {
+              "LootClass": "TerjeAmpouleNeirocetal",
+              "LootAttachments": [],
+              "SpawnChance": 0.35
+            },
+            {
+              "LootClass": "Defibrillator",
+              "LootAttachments": [],
+              "SpawnChance": 0.25
+            }
+          ]
+        },
+        "A6Arsenal": {
+          "Min": 2,
+          "Max": 2,
+          "Items": [
+            {
+              "LootClass": "AP_vest_redut_green",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "AP_vest_wardrum_full_camo",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "FOG_Vest_Gen4_Black",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "FOG_Vest_Osprey_RG",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "FOG_Vest_Thor_Tan",
+              "LootAttachments": [],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "AJW_AK50_MCB",
+              "LootAttachments": [
+                "AJW_Mag_M82_10rnd"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "AJW_M60E6_FDE",
+              "LootAttachments": [
+                "AJW_Mag_M60_100rnd"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "AJW_M82A1CQ_OD",
+              "LootAttachments": [
+                "AJW_Mag_M82_10rnd"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "GCGN_M82_Barret",
+              "LootAttachments": [
+                "GCGN_M82_Mag"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "SNAFUAX50_GUN",
+              "LootAttachments": [
+                "SNAFUAX50_Mag"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "SNAFUAlligator",
+              "LootAttachments": [
+                "SNAFUAlligator_5rdMag"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "SNAFUGM6Lynx",
+              "LootAttachments": [
+                "SNAFUGM6Lynx_5rdMag"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "SNAFUM96",
+              "LootAttachments": [
+                "SNAFUM96_5rdMag"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "SNAFU_AS50_GUN",
+              "LootAttachments": [
+                "SNAFU_AS50_Mag"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "TTC_FD338",
+              "LootAttachments": [
+                "TTC_338mag_10rnd",
+                "HuntingOptic"
+              ],
+              "SpawnChance": 1.0
+            },
+            {
+              "LootClass": "TTC_M82_gold",
+              "LootAttachments": [
+                "TTC_M82_5rnd_Mag",
+                "HuntingOptic"
+              ],
+              "SpawnChance": 1.0
+            }
+          ]
+        },
+        "RareGPU": {
+          "Min": 1,
+          "Max": 1,
+          "Items": [
+            {
+              "LootClass": "HM_Plus_GPU",
+              "LootAttachments": [],
+              "SpawnChance": 0.05
+            }
+          ]
+        },
+        "RareM79": {
+          "Min": 1,
+          "Max": 1,
+          "Items": [
+            {
+              "LootClass": "M79",
+              "LootAttachments": [],
+              "SpawnChance": 0.2
+            }
+          ]
+        },
+        "Rare40mmHE": {
+          "Min": 1,
+          "Max": 1,
+          "Items": [
+            {
+              "LootClass": "Ammo_40mm_Explosive",
+              "LootAttachments": [],
+              "SpawnChance": 0.2
+            }
+          ]
+        }
+      },
+      "LootCrates": [
+        {
+          "ClassName": "BS_Tank_Box2_Black",
+          "LBPresetName": "",
+          "Presets": [
+            "BMGAmmo"
+          ]
+        },
+        {
+          "ClassName": "BS_Tank_Box2_Black",
+          "LBPresetName": "",
+          "Presets": [
+            "BMGAmmo"
+          ]
+        },
+        {
+          "ClassName": "BS_Tank_Box2_Black",
+          "LBPresetName": "",
+          "Presets": [
+            "Maintenance",
+            "RareGPU"
+          ]
+        },
+        {
+          "ClassName": "BS_Tank_Box2_Black",
+          "LBPresetName": "",
+          "Presets": [
+            "CombatMedical"
+          ]
+        },
+        {
+          "ClassName": "BS_Tank_Box2_Black",
+          "LBPresetName": "",
+          "Presets": [
+            "A6Arsenal",
+            "RareM79",
+            "Rare40mmHE"
+          ]
+        }
+      ],
+      "DeathLoot": []
+    },
+    "Defenders": {
+      "EnableDefenders": 1,
+      "DespawnRadius": 800.0,
+      "DespawnCheckInterval": 60.0,
+      "Defenders": [
+        {
+          "ClassName": "ZmbM_SoldierNormal",
+          "Count": 14,
+          "AdditionalNight": 6,
+          "SpawnRadius": 25.0,
+          "IsExpansionBot": 0,
+          "ExpansionFaction": "",
+          "ExpansionLoadout": "",
+          "ExpansionUnlimitedAmmo": 0,
+          "ExpansionCanBeLooted": 1,
+          "DamageMultiplier": 1.0,
+          "DamageReceivedMultiplier": 1.0
+        },
+        {
+          "ClassName": "eAI_SurvivorM_Mirek",
+          "Count": 2,
+          "AdditionalNight": 1,
+          "SpawnRadius": 35.0,
+          "IsExpansionBot": 1,
+          "ExpansionFaction": "Shamans",
+          "ExpansionLoadout": "AI_BTR_GUARD",
+          "ExpansionUnlimitedAmmo": 1,
+          "ExpansionCanBeLooted": 1,
+          "DamageMultiplier": 1.0,
+          "DamageReceivedMultiplier": 1.0
+        }
+      ]
+    }
+  },
+  "PatrolRoutes": [
+    {
+      "RouteName": "Georgestown Airfield DeerIsle",
+      "Waypoints": [
+        [
+          5253.368652,
+          74.025009,
+          3928.094482
+        ],
+        [
+          5349.718262,
+          62.317909,
+          4131.80127
+        ],
+        [
+          5275.350098,
+          48.303001,
+          4281.810059
+        ],
+        [
+          5326.058105,
+          12.917556,
+          4556.285645
+        ],
+        [
+          5471.109863,
+          5.707332,
+          4558.140137
+        ],
+        [
+          5704.72998,
+          8.19608,
+          4457.029785
+        ],
+        [
+          5879.036133,
+          22.015989,
+          4344.764648
+        ],
+        [
+          5746.129883,
+          35.296398,
+          4331.080078
+        ],
+        [
+          5712.290039,
+          39.379799,
+          4287.459961
+        ],
+        [
+          5746.569824,
+          47.044998,
+          4235.189941
+        ],
+        [
+          5856.299805,
+          55.3437,
+          4230.850098
+        ],
+        [
+          5888.830078,
+          64.9757,
+          4185.27002
+        ],
+        [
+          5855.950195,
+          78.866402,
+          4138.009766
+        ],
+        [
+          5721.799805,
+          76.268501,
+          4107.509766
+        ],
+        [
+          5684.490234,
+          75.905602,
+          4070.080078
+        ],
+        [
+          5575.27002,
+          74.0,
+          4052.77002
+        ],
+        [
+          5530.350098,
+          74.0,
+          4009.530029
+        ],
+        [
+          5500.120117,
+          74.0,
+          3840.459961
+        ],
+        [
+          5282.47998,
+          74.0,
+          3923.439941
+        ]
+      ]
+    },
+    {
+      "RouteName": "Powerplant to Westbrook DeerIsle",
+      "Waypoints": [
+        [
+          3669.178467,
+          20.454983,
+          6536.712891
+        ],
+        [
+          3858.75,
+          34.319801,
+          6605.799805
+        ],
+        [
+          4261.169922,
+          41.624298,
+          6729.189941
+        ],
+        [
+          4512.319824,
+          35.025902,
+          6873.02002
+        ],
+        [
+          4650.169922,
+          20.43,
+          6893.240234
+        ],
+        [
+          4865.629883,
+          25.68,
+          6758.990234
+        ],
+        [
+          4996.160156,
+          29.119801,
+          6535.870117
+        ],
+        [
+          4997.060059,
+          8.57116,
+          6337.490234
+        ],
+        [
+          4834.430176,
+          8.66741,
+          6277.319824
+        ],
+        [
+          4730.490234,
+          12.6819,
+          6332.910156
+        ],
+        [
+          4660.259766,
+          13.1036,
+          6371.430176
+        ],
+        [
+          4489.209961,
+          6.37,
+          6261.290039
+        ],
+        [
+          4273.97998,
+          7.03426,
+          6221.580078
+        ],
+        [
+          3975.639893,
+          13.7205,
+          6413.370117
+        ],
+        [
+          3766.570068,
+          20.43,
+          6380.959961
+        ]
+      ]
+    },
+    {
+      "RouteName": "Waldoboro City DeerIsle",
+      "Waypoints": [
+        [
+          8315.354492,
+          5.154992,
+          8877.117188
+        ],
+        [
+          8336.019531,
+          5.13,
+          9323.629883
+        ],
+        [
+          8963.969727,
+          6.635,
+          9409.549805
+        ],
+        [
+          9111.509766,
+          6.647654,
+          9492.570313
+        ],
+        [
+          9110.365234,
+          5.177767,
+          9336.386719
+        ],
+        [
+          9001.25,
+          5.13,
+          9116.389648
+        ],
+        [
+          8932.009766,
+          5.13,
+          8837.349609
+        ],
+        [
+          8608.030273,
+          5.13,
+          9030.080078
+        ],
+        [
+          8530.30957,
+          5.13,
+          9049.30957
+        ],
+        [
+          8433.790039,
+          5.13,
+          9020.05957
+        ],
+        [
+          8363.459961,
+          5.13,
+          8936.719727
+        ]
+      ]
+    },
+    {
+      "RouteName": "Stonington DeerIsle",
+      "Waypoints": [
+        [
+          6938.745117,
+          42.124996,
+          2252.113281
+        ],
+        [
+          7194.680176,
+          34.190399,
+          2230.090088
+        ],
+        [
+          7238.310059,
+          23.9853,
+          1955.160034
+        ],
+        [
+          7147.220215,
+          7.962601,
+          1586.27002
+        ],
+        [
+          7000.890137,
+          7.39782,
+          1525.430054
+        ],
+        [
+          6948.919922,
+          3.6003,
+          1505.589966
+        ],
+        [
+          6901.97998,
+          2.8449,
+          1521.410034
+        ],
+        [
+          6810.720215,
+          2.76,
+          1519.300049
+        ],
+        [
+          6754.410156,
+          2.76,
+          1475.650024
+        ],
+        [
+          6678.450195,
+          2.76,
+          1465.099976
+        ],
+        [
+          6651.399902,
+          16.7076,
+          1549.660034
+        ],
+        [
+          6652.629883,
+          18.7267,
+          1614.609985
+        ],
+        [
+          6528.649902,
+          31.167498,
+          1824.130005
+        ],
+        [
+          6499.319824,
+          31.574984,
+          1902.339966
+        ],
+        [
+          6475.0,
+          31.574965,
+          1977.160034
+        ],
+        [
+          6497.299805,
+          31.574999,
+          2052.300049
+        ],
+        [
+          6606.029785,
+          41.226299,
+          2134.790039
+        ],
+        [
+          6797.069824,
+          42.099998,
+          2228.639893
+        ]
+      ]
+    }
+  ]
+}

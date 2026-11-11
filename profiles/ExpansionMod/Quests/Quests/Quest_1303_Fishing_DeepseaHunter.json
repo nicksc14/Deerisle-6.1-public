@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1303,
+    "Type": 1,
+    "Title": "钓鱼之路 VI：深海猎手",
+    "Descriptions": [
+        "顶级渔具不等于胜利。前往三号钻井平台奖杯区，在高风险海域面对会让满配装备过载的深海巨物。",
+        "抵达三号钻井平台，并提交奖杯级金枪鱼1条、大型蓝鲨1条和大型鮟鱇鱼2条。提交的鱼会被消耗。",
+        "你已经证明自己能在危险海域控制真正的巨物。这件深海猎手背心是你的专属证明。"
+    ],
+    "ObjectiveText": "抵达三号钻井平台并提交4条深海目标鱼",
+    "FollowUpQuest": 1304,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "HC_AP_vest_fisher_deepsea_hunter",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [10],
+    "QuestTurnInIDs": [10],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1303,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1303,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -33024,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [1302],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

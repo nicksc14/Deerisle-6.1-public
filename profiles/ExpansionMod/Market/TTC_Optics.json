@@ -1,0 +1,192 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TTC瞄准镜",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ttc_aimpoint2000",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 9600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_bugbuster",
+      "MaxPriceThreshold": 39300,
+      "MinPriceThreshold": 32400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_elcan",
+      "MaxPriceThreshold": 30600,
+      "MinPriceThreshold": 25200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_elcan_ak",
+      "MaxPriceThreshold": 30600,
+      "MinPriceThreshold": 25200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_eotechvudu_ak_optic",
+      "MaxPriceThreshold": 26100,
+      "MinPriceThreshold": 21600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_eotechvudu_tan_ak_optic",
+        "ttc_eotechvudu_white_ak_optic"
+      ]
+    },
+    {
+      "ClassName": "ttc_eotechvudu_optic",
+      "MaxPriceThreshold": 26100,
+      "MinPriceThreshold": 21600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_eotechvudu_tan_optic",
+        "ttc_eotechvudu_white_optic"
+      ]
+    },
+    {
+      "ClassName": "ttc_g28_optic",
+      "MaxPriceThreshold": 60900,
+      "MinPriceThreshold": 50400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_g3_optic",
+      "MaxPriceThreshold": 39300,
+      "MinPriceThreshold": 32400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_hamr",
+      "MaxPriceThreshold": 30600,
+      "MinPriceThreshold": 25200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_hamr_ak",
+      "MaxPriceThreshold": 26100,
+      "MinPriceThreshold": 21600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_holo",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 9600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_pistol_optic",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 9600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_razor",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 9600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_svt40_optic",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_vortexrhdamg_optic",
+      "MaxPriceThreshold": 56700,
+      "MinPriceThreshold": 46800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_vortexse_optic",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

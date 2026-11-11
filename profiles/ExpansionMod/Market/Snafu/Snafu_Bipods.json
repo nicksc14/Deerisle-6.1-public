@@ -1,0 +1,87 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SNAFU脚架",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "snafu_atlasbipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_bipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_m249bipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_modbipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_npkpbipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_pkpbipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_vsskbipod",
+      "MaxPriceThreshold": 13200,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Infected Tesla Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "SECTION1": "====== 1. Zombie Settings ======",
+    "cfg_MinStartWaveDist": 2,
+    "cfg_MaxStartWaveDist": 20,
+    "cfg_MaxChrgDamageDist": 10,
+    "cfg_MeleeReverseDamageDist": 3.0,
+    "cfg_CheckHeight": 0,
+    "cfg_CheckHeightValue": 1.5,
+    "cfg_TimeChrgAttackRepeat": 5,
+    "cfg_EnableAnimalsDamageWithElectro": 1,
+    "cfg_EnableOtherZombieElectrification": 1,
+    "m_TimeToElectroFuzzingStop": 10,
+    "SECTION2": "====== 2. Player Settings ======",
+    "cfg_DontAttackPlrUncon": 1,
+    "cfg_WaveShockDmgModif": 100.0,
+    "cfg_WaveHealthDmgModif": 20.0,
+    "cfg_ReverseShockDmgMin": 20.0,
+    "cfg_ReverseShockDmgMax": 40.0,
+    "cfg_ReverseHealthDmgMin": 10.0,
+    "cfg_ReverseHealthDmgMax": 20.0,
+    "SECTION3": "====== 3. Cut Head Settings ======",
+    "cfg_CutHeadToolsList": [
+        "CombatKnife",
+        "Hatchet",
+        "HuntingKnife"
+    ],
+    "SECTION4": "====== 4. Electrical Device Settings ======",
+    "cfg_EnableElectronicDestroy": 1,
+    "cfg_DeathDistanceForElectricalDevice": 5,
+    "cfg_ElectronicDestroyList": [
+        "NVGoggles",
+        "Battery9V",
+        "PersonalRadio",
+        "BaseRadio",
+        "Megaphone",
+        "Rangefinder",
+        "Flashlight",
+        "RemoteDetonator",
+        "RemoteDetonatorReceiver",
+        "RemoteDetonatorTrigger",
+        "GPSReceiver",
+        "BatteryCharger",
+        "PowerGenerator",
+        "Spotlight",
+        "XmasLights",
+        "UniversalLight",
+        "TLRLight",
+        "PistolOptic",
+        "KobraOptic",
+        "KazuarOptic",
+        "StarlightOptic",
+        "Headtorch_Grey",
+        "Headtorch_Black"
+    ],
+    "SECTION5": "====== 5. Protection Settings ======",
+    "cfg_EnableEquipElectroProtection": 1,
+    "cfg_EnableEquipWetModifier": 1,
+    "m_ZMBVOLTAGEprotectEquip": [
+        {
+            "cfg_equip_Name": "NBCHoodBase",
+            "cfg_equip_Protection": 0.20000000298023225
+        },
+        {
+            "cfg_equip_Name": "NBCJacketBase",
+            "cfg_equip_Protection": 0.20000000298023225
+        },
+        {
+            "cfg_equip_Name": "NBCPantsBase",
+            "cfg_equip_Protection": 0.20000000298023225
+        },
+        {
+            "cfg_equip_Name": "NBCBootsBase",
+            "cfg_equip_Protection": 0.20000000298023225
+        },
+        {
+            "cfg_equip_Name": "NBCGloves_ColorBase",
+            "cfg_equip_Protection": 0.20000000298023225
+        },
+        {
+            "cfg_equip_Name": "Wellies_ColorBase",
+            "cfg_equip_Protection": 0.20000000298023225
+        }
+    ],
+    "SECTION6": "====== 6. Loot Settings ======",
+    "m_ZMBVOLTAGELoot": [
+        {
+            "cfg_loot_Name": "AmmoBox_308Win_20Rnd",
+            "cfg_loot_Chance": 0.2000000059604645,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.30000001192092898,
+            "cfg_loot_HealthMax": 0.699999988079071
+        },
+        {
+            "cfg_loot_Name": "AmmoBox_556x45_20Rnd",
+            "cfg_loot_Chance": 0.2000000059604645,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.30000001192092898,
+            "cfg_loot_HealthMax": 0.699999988079071
+        },
+        {
+            "cfg_loot_Name": "AmmoBox_762x54_20Rnd",
+            "cfg_loot_Chance": 0.2000000059604645,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.30000001192092898,
+            "cfg_loot_HealthMax": 0.699999988079071
+        }
+    ]
+}

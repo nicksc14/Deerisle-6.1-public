@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Infected Omon Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "SECTION1": "====== 1. Main Settings ======",
+    "cfg_ExplosiveGrenades": 1,
+    "cfg_ChanceOfUseFrag": 0.5,
+    "cfg_GrenName": "FlashGrenade",
+    "cfg_GrenNameRage": "RGD5Grenade",
+    "cfg_CheckHeight": 0,
+    "cfg_CheckHeightValue": 0.800000011920929,
+    "cfg_MinThrowDist": 5,
+    "cfg_MaxThrowDist": 50,
+    "cfg_MaxThrowForce": 100.0,
+    "cfg_ActivateImmed": 2.0,
+    "cfg_ThrowCheckTimeMin": 5,
+    "cfg_ThrowCheckTimeMax": 10,
+    "cfg_VisorGlassHp": 1500,
+    "cfg_OmonRageDmgEnable": 1,
+    "cfg_OmonRageDmgModif": 0.50000000298023225,
+    "SECTION3": "====== 2. Loot Settings ======",
+    "m_ZmbomonLoot": [
+        {
+            "cfg_loot_Name": "FlashGrenade",
+            "cfg_loot_Chance": 0.2000000238418579,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.5,
+            "cfg_loot_HealthMax": 0.800000011920929
+        },
+        {
+            "cfg_loot_Name": "AmmoBox_308Win_20Rnd",
+            "cfg_loot_Chance": 0.2000000059604645,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.30000001192092898,
+            "cfg_loot_HealthMax": 0.699999988079071
+        },
+        {
+            "cfg_loot_Name": "AmmoBox_556x45_20Rnd",
+            "cfg_loot_Chance": 0.2000000059604645,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.30000001192092898,
+            "cfg_loot_HealthMax": 0.699999988079071
+        },
+        {
+            "cfg_loot_Name": "AmmoBox_762x54_20Rnd",
+            "cfg_loot_Chance": 0.2000000059604645,
+            "cfg_loot_IsStack": 0,
+            "cfg_loot_QuantityMin": 1,
+            "cfg_loot_QuantityMax": 1,
+            "cfg_loot_HealthMin": 0.30000001192092898,
+            "cfg_loot_HealthMax": 0.699999988079071
+        }
+    ]
+}

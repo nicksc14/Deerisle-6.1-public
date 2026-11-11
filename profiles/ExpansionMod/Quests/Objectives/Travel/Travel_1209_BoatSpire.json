@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1209,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往尖顶船只商店",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5223.37,
+        1.57,
+        9303.17
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "尖顶船只商店",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 51822,
+    "ObjectiveType": 4,
+    "ObjectiveText": "交付枪械修理工具8件（每件剩余用量至少50%，非毁坏）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 8,
+            "ClassName": "WeaponCleaningKit",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 50
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

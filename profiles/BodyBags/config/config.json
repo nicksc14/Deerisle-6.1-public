@@ -1,0 +1,43 @@
+{
+    "EnableLogs": 0,
+    "EnablePlayerBodyBags": 0,
+    "BodyBagMaxLifetime": 3600,
+    "BodyBagPlayerCleanupTime": 180,
+    "BodyBagOwnerOnlyAccess": 1,
+    "TakeBodyBags": 1,
+    "AutoDeleteFreshSpawnBodyBags": 0,
+    "TimeMinSurvivalAfterFreshSpawn": 1800,
+    "TimeToDeleteBodyBagAfterFreshSpawn": 900,
+    "EnableVanillaPlusPlusMapDeadPosition": 0,
+    "EnableAI_Expansion": 1,
+    "BodyBagAIMaxLifetime": 1800,
+    "BodyBagAICleanupTime": 10,
+    "EnableNinjins_PVE_PVP": 0,
+    "PVE": {
+        "BodyBagOwnerOnlyAccess": 1,
+        "BodyBagMaxLifetime": 3600,
+        "BodyBagPlayerCleanupTime": 180,
+        "TakeBodyBags": 1,
+        "AutoDeleteFreshSpawnBodyBags": 0,
+        "TimeMinSurvivalAfterFreshSpawn": 1800,
+        "TimeToDeleteBodyBagAfterFreshSpawn": 900
+    },
+    "PVP": {
+        "BodyBagOwnerOnlyAccess": 0,
+        "BodyBagMaxLifetime": 3600,
+        "BodyBagPlayerCleanupTime": 180,
+        "TakeBodyBags": 1,
+        "AutoDeleteFreshSpawnBodyBags": 0,
+        "TimeMinSurvivalAfterFreshSpawn": 1800,
+        "TimeToDeleteBodyBagAfterFreshSpawn": 900
+    },
+    "RAID": {
+        "BodyBagOwnerOnlyAccess": 0,
+        "BodyBagMaxLifetime": 3600,
+        "BodyBagPlayerCleanupTime": 180,
+        "TakeBodyBags": 1,
+        "AutoDeleteFreshSpawnBodyBags": 0,
+        "TimeMinSurvivalAfterFreshSpawn": 1800,
+        "TimeToDeleteBodyBagAfterFreshSpawn": 900
+    }
+}

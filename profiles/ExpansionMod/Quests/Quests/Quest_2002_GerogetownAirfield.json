@@ -1,0 +1,83 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2002,
+    "Type": 1,
+    "Title": "Gerogetown机场失守",
+    "Descriptions": [
+        "Gerogetown机场已经变成两伙武装人员的战场。West雇佣军和East土著会在机场内持续交战。进入战区，分别击杀3名West成员和3名East成员。只有你实际参与击杀的目标才会计数。",
+        "目标区域是Gerogetown机场的暴徒互殴区，中心在地图标记附近，任务只统计300米范围内的目标。两方可以按任意顺序处理，但每一方都必须达到3名。",
+        "两边都受到了打击。机场暂时不会安静太久，但你已经证明能在Expansion AI战区中生存。这里是10,000 Hryvnia，以及从战区回收的1份武器零件和1份芳纶布；它们可用于HP CRAFTER的A1武器或护甲配方，但仍需要其他基础材料和副本阶段核心。下一步去寻找遗留军事地堡中的黑色副本钥匙。"
+    ],
+    "ObjectiveText": "在Gerogetown机场分别击杀3名West雇佣军和3名East土著",
+    "FollowUpQuest": 2003,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_WeaponParts",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_Cloth_Aramid",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20021,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20022,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 300,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}

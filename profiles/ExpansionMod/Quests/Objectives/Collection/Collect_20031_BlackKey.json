@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20031,
+    "ObjectiveType": 4,
+    "ObjectiveText": "找到遗留军事地堡，并带回 1 把黑色堡垒钥匙。",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "CJ_Key200",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,10 @@
+{
+    "version": "3",
+    "logUsePremiumCoinCSV": 0,
+    "logUsePremiumCoinDiscord": 0,
+    "discordUsePremiumCoinWebhookURL": "",
+    "logUsePremiumAPICSV": 0,
+    "logPremiumAPIDiscord": 0,
+    "discordLogPremiumAPIWebhookURL": "",
+    "enableGlobalLogFileRotation": 1
+}

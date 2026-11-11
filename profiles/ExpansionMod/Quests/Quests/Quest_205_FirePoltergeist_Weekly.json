@@ -1,0 +1,85 @@
+{
+    "ConfigVersion": 22,
+    "ID": 205,
+    "Type": 1,
+    "Title": "[周常] 烈焰幽灵：火山焦痕追猎",
+    "Descriptions": [
+        "鹿岛捕猎协会在火山岛西北荒地发现了会移动的高温异常。目击者称火光中央存在一种会追猎附近生物的“烈焰幽灵”。该地属于公共狩猎区，目标可能被其他猎人抢先触发或击杀；通常2至3小时后会再次出现。",
+        "前往火山岛焦痕猎区，在标记范围内搜寻并击杀1只“FirePoltergeist｜烈焰幽灵”，随后拾取并携带1件Poltergeist收藏雕像。不要停留在它释放的火焰异常区内，即使目标已经死亡，残留火焰仍可能继续造成伤害。",
+        "异常热源已经消失。带着Poltergeist收藏雕像返回鹿岛捕猎协会负责人处；登记时上交的雕像会被系统回收，完成核验后将返还1件同类完整收藏雕像。"
+    ],
+    "ObjectiveText": "追踪并击杀1只烈焰幽灵，上交1件Poltergeist收藏雕像",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_PoltergeystCollection",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2051,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2052,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2053,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 1500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        215
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

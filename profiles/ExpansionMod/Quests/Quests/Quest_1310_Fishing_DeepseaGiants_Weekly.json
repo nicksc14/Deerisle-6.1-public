@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1310,
+    "Type": 1,
+    "Title": "[周常] 钓鱼之路：深海巨物",
+    "Descriptions": [
+        "完成“钓鱼之路 VI：深海猎手”后，你可以每周继续提交一组深海巨物记录。",
+        "上交大型鮟鱇鱼1条，并在奖杯级金枪鱼或大型蓝鲨中任选1条上交，共2条；交付时鱼会被收走。",
+        "本周深海巨物记录已经完成。返回鹿岛渔业教官处领取320,000格里夫纳和2,000声望。"
+    ],
+    "ObjectiveText": "上交大型鮟鱇鱼1条，再上交金枪鱼或蓝鲨任选1条",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 320000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [10],
+    "QuestTurnInIDs": [10],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 13101,
+            "ObjectiveType": 4
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 13102,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -33024,
+    "ReputationReward": 2000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [1303],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,20 @@
+{
+    "BurnClothDamage": [
+        {
+            "pristineProtection": 1.0,
+            "wornProtection": 0.75,
+            "damagedProtection": 0.5,
+            "badlyDamagedProtection": 0.25
+        }
+    ],
+    "BurnClothAll": [
+        {
+            "clothName": "GasMask",
+            "protection": 100
+        },
+        {
+            "clothName": "GP5GasMask",
+            "protection": 50
+        }
+    ]
+}

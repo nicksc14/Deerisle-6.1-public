@@ -1,0 +1,110 @@
+{
+    "ConfigVersion": 22,
+    "ID": 909,
+    "Type": 1,
+    "Title": "Camp Eagle哨兵清剿",
+    "Descriptions": [
+        "南边岛上有个大军营叫Camp Eagle，有更多帐篷、营房和军队大楼，被逃兵占了。你要去大陆必须从他们眼皮底下过。过去干掉外围哨兵——不用清空营地，杀够5个就撤。地图标了位置。",
+        "Camp Eagle在南岛高地上。到了再动手，注意利用地形掩护。另外提醒你——天上偶尔有武装直升机巡逻，打下来残骸里有军用物资。听到引擎声就抬头看看。",
+        "干净利落。100发7.62×39弹药可直接给你现在的SKS使用。Tango6T瞄镜和标准化消音器你收好——以后换更好的主武器能直接用。Morphine是强效止痛注射器，一次性使用。Irovit是造血药——失血过多的时候吃，比硬扛快。路线记住了——从Eagle港往西南方向出海，下一站是一座废弃的大城，里面有个STAG的联络官。"
+    ],
+    "ObjectiveText": "前往Camp Eagle军营并击杀5名敌军哨兵",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "SNAFU_Tango6T_Black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_LStandardized_Suppressor_Black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Ammo_762x39",
+            "Amount": 100,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Morphine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TerjePillsIrovit",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "BakedBeansCan",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [5],
+    "QuestTurnInIDs": [5],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 909,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 909,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 400,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

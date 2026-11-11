@@ -1,0 +1,60 @@
+{
+    "ConfigVersion": 22,
+    "ID": 919,
+    "Type": 1,
+    "Title": "Stonington生存考核：击杀100只普通感染者",
+    "Descriptions": [
+        "你可以继续留在Stonington新手城区熟悉地图、搜集物资并累积战斗经验。在标记1000米范围内击杀100只普通感染者。",
+        "任务会累计你在Stonington新手城区1000米范围内击杀的普通感染者。自定义变异体和eAI不计入。",
+        "你已经完成100击杀生存考核。现在可以在我这里接取902“S.T.A.G.精英作战装备包”，将联络信带往中心交易区。"
+    ],
+    "ObjectiveText": "在Stonington新手城区1000米内击杀100只普通感染者",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 919,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

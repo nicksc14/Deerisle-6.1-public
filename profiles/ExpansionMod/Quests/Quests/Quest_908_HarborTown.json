@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 908,
+    "Type": 1,
+    "Title": "通往海港小镇",
+    "Descriptions": [
+        "你能活到现在，说明不是废物。继续往前走——西南边的海港小镇上有个老摆渡人，能带你过海峡去南边的岛。找到他，说是OceanVille的幸存者让你来的。",
+        "沿着西边的路走，海港小镇在两岛之间的海峡边上。码头附近那个总盯着海面的老头就是。",
+        "OceanVille的人让你来的？路线已经认清。这项旅行委托只负责引路，不发放额外奖励。想搭船？可以直接查看我在南边岛上的其他委托。"
+    ],
+    "ObjectiveText": "前往海港小镇寻找老摆渡人",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [4],
+    "QuestTurnInIDs": [5],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 908,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

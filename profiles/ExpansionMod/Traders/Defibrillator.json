@@ -1,0 +1,22 @@
+{
+  "m_Version": 13,
+  "DisplayName": "高级医疗与电气器材商人",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "hm_plus_bitcoin"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Defibrillator:0",
+    "Bitcoin_Inedia_T2_Pills:0",
+    "Bitcoin_Inedia_T2_Tools:0",
+    "Bitcoin_Inedia_T2_Containers:0"
+  ],
+  "Items": {}
+}

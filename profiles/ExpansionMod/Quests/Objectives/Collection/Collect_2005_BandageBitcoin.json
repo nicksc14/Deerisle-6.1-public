@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2005,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交1个普通绷带，换取10枚比特币",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "BandageDressing",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,27 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2031,
+    "ObjectiveType": 2,
+    "ObjectiveText": "消灭6只狼",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 6,
+    "ClassNames": [
+        "Animal_CanisLupus_Grey",
+        "Animal_CanisLupus_White",
+        "Animal_CanisLupus_Winter"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

@@ -1,0 +1,994 @@
+{
+    "lootLists": {
+        "BASEBUILD": [
+            {
+                "name": "WoodenLog",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "WoodenLog",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "WoodenLog",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "WoodenLog",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "WoodenPlank",
+                "attachments": [],
+                "quantity": 5,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Nail",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BarbedWire",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BarbedWire",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BarbedWire",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "MetalWire",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "MetalWire",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "MetalWire",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            }
+        ],
+        "WEAPONS": [
+            {
+                "name": "MakarovIJ70",
+                "attachments": [
+                    "Mag_IJ70_8Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "MKII",
+                "attachments": [
+                    "Mag_MKII_10Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "CZ75",
+                "attachments": [
+                    "Mag_CZ75_15Rnd",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "Glock19",
+                "attachments": [
+                    "Mag_Glock_15Rnd",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "FNX45",
+                "attachments": [
+                    "Mag_FNX45_15Rnd",
+                    "FNP45_MRDSOptic",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "CZ61",
+                "attachments": [
+                    "Mag_CZ61_20Rnd",
+                    "PistolSuppressor"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "Deagle",
+                "attachments": [
+                    "Mag_Deagle_9rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "Deagle_Gold",
+                "attachments": [
+                    "Mag_Deagle_9rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "PP19",
+                "attachments": [
+                    "PistolSuppressor",
+                    "PP19_Bttstck",
+                    "KobraOptic",
+                    "Mag_PP19_64Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "LongHorn",
+                "attachments": [
+                    "PistolOptic"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "MP133Shotgun",
+                "attachments": [
+                    "FNP45_MRDSOptic"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "MP5K",
+                "attachments": [
+                    "MP5_RailHndgrd",
+                    "MP5_PlasticHndgrd",
+                    "MP5k_StockBttstck",
+                    "Mag_MP5_30Rnd",
+                    "ReflexOptic",
+                    "MP5_Compensator"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "UMP45",
+                "attachments": [
+                    "Mag_UMP_25Rnd",
+                    "M68Optic",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "VSS",
+                "attachments": [
+                    "KashtanOptic",
+                    "Mag_VSS_10Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "ASVAL",
+                "attachments": [
+                    "Mag_VAL_20Rnd",
+                    "BUISOptic",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "CZ527",
+                "attachments": [
+                    "HuntingOptic",
+                    "Mag_CZ527_5rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "Winchester70",
+                "attachments": [
+                    "HuntingOptic"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "Mosin9130",
+                "attachments": [
+                    "Mosin_Compensator",
+                    "PUScopeOptic"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "SKS",
+                "attachments": [
+                    "PUScopeOptic"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "AKM",
+                "attachments": [
+                    "AK_PlasticBttstck",
+                    "AK_PlasticHndgrd",
+                    "KashtanOptic",
+                    "AK_Suppressor",
+                    "Mag_AKM_30Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "AK74",
+                "attachments": [
+                    "AK74_WoodBttstck",
+                    "AK74_Hndgrd",
+                    "PSO11Optic",
+                    "Mag_AK74_45Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "AKS74U",
+                "attachments": [
+                    "AKS74U_Bttstck",
+                    "Mag_AK74_30Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "AK101",
+                "attachments": [
+                    "AK_PlasticBttstck",
+                    "AK_PlasticHndgrd",
+                    "KashtanOptic",
+                    "Mag_AK101_30Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "M4A1",
+                "attachments": [
+                    "M4_OEBttstck",
+                    "M4_PlasticHndgrd",
+                    "M4_CarryHandleOptic",
+                    "Mag_CMAG_30Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "M16A2",
+                "attachments": [
+                    "Mag_CMAG_30Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.10000000149011612
+            },
+            {
+                "name": "FAMAS",
+                "attachments": [
+                    "Mag_FNX45_15Rnd",
+                    "FNP45_MRDSOptic",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "M4A1",
+                "attachments": [
+                    "Mag_FAMAS_25Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "Aug",
+                "attachments": [
+                    "Mag_Aug_30Rnd",
+                    "ACOGOptic",
+                    "TLRLight"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "SVD",
+                "attachments": [
+                    "Mag_SVD_10Rnd",
+                    "KashtanOptic"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "FAL",
+                "attachments": [
+                    "Fal_FoldingBttstck",
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.0
+            }
+        ],
+        "TOOLS": [
+            {
+                "name": "Hatchet",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Pliers",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SledgeHammer",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Hammer",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Hacksaw",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "HandSaw",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Pickaxe",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "WoodAxe",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "FirefighterAxe",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Shovel",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            }
+        ],
+        "CLOTHES": [
+            {
+                "name": "Mich2001Helmet",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_BDU",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_Desert",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_Green",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_Navy",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_UN",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_Winter",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BallisticHelmet_Woodland",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "HighCapacityVest_Black",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "HighCapacityVest_Olive",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PlateCarrierVest",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PlateCarrierVest_Black",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PlateCarrierVest_Camo",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PlateCarrierVest_Green",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PlateCarrierVest_Winter",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TacticalGloves_Beige",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TacticalGloves_Black",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TacticalGloves_Green",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TacticalGoggles",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            }
+        ],
+        "AMMO": [
+            {
+                "name": "Ammo_556x45",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.12
+            },
+            {
+                "name": "Ammo_556x45",
+                "attachments": [],
+                "quantity": 5,
+                "spawnChance": 0.04
+            },
+            {
+                "name": "Ammo_556x45",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.015
+            },
+            {
+                "name": "Ammo_762x39",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.12
+            },
+            {
+                "name": "Ammo_762x39",
+                "attachments": [],
+                "quantity": 5,
+                "spawnChance": 0.04
+            },
+            {
+                "name": "Ammo_762x39",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.015
+            },
+            {
+                "name": "Ammo_545x39",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.12
+            },
+            {
+                "name": "Ammo_545x39",
+                "attachments": [],
+                "quantity": 5,
+                "spawnChance": 0.04
+            },
+            {
+                "name": "Ammo_545x39",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.015
+            },
+            {
+                "name": "Ammo_762x54",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.12
+            },
+            {
+                "name": "Ammo_762x54",
+                "attachments": [],
+                "quantity": 5,
+                "spawnChance": 0.04
+            },
+            {
+                "name": "Ammo_762x54",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.015
+            },
+            {
+                "name": "Ammo_308Win",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.12
+            },
+            {
+                "name": "Ammo_308Win",
+                "attachments": [],
+                "quantity": 5,
+                "spawnChance": 0.04
+            },
+            {
+                "name": "Ammo_308Win",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.015
+            },
+            {
+                "name": "SNAFU_Ammo_338",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.03
+            },
+            {
+                "name": "SNAFU_Ammo_338",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.01
+            },
+            {
+                "name": "SNAFU_Ammo_127x55mm",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.01
+            },
+            {
+                "name": "SNAFU_Ammo_127x55mmAP",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.01
+            },
+            {
+                "name": "SNAFU_Ammo_145Cal",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.01
+            },
+            {
+                "name": "TTC_Ammo_50BMG",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.01
+            },
+            {
+                "name": "GCGN_Ammo_50Cal",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.01
+            },
+            {
+                "name": "GCGN_Ammo_408Chey",
+                "attachments": [],
+                "quantity": 3,
+                "spawnChance": 0.01
+            }
+        ],
+        "FOOD": [
+            {
+                "name": "BakedBeansCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "CatFoodCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BakedBeansCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "DogFoodCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PeachesCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PorkCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SardinesCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SpaghettiCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TacticalBaconCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TunaCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "UnknownFoodCan",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SodaCan_Cola",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SodaCan_Fronta",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SodaCan_Kvass",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SodaCan_Pipsi",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SodaCan_Spite",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "WaterBottle",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            }
+        ],
+        "SPECIAL": [
+            {
+                "name": "LandMineTrap",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "NVGoggles",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "Plastic_Explosive",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "ClaymoreMine",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.0
+            },
+            {
+                "name": "FireworksLauncher",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "M79",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.0
+            }
+        ],
+        "MISC": [
+            {
+                "name": "Flashlight",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PetrolLighter",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "AlarmClock_Blue",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "AlarmClock_Red",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "AlarmClock_Green",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "CombinationLock4",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "CombinationLock",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Handcuffs",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "FishingRod",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Camonet",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PersonalRadio",
+                "attachments": [
+                    "Battery9V"
+                ],
+                "quantity": 1,
+                "spawnChance": 0.25
+            }
+        ],
+        "MEDS": [
+            {
+                "name": "BandageDressing",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BloodBagEmpty",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "BloodTestKit",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "ChelatingTablets",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Epinephrine",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Morphine",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "SalineBag",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "StartKitIV",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "Thermometer",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "DisinfectantSpray",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "IodineTincture",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "CharcoalTablets",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PurificationTablets",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "PainkillerTablets",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "TetracyclineAntibiotics",
+                "attachments": [],
+                "quantity": 1,
+                "spawnChance": 0.25
+            },
+            {
+                "name": "VitaminBottle",
+                "attachments": [],
+                "quantity": 10,
+                "spawnChance": 0.25
+            }
+        ]
+    }
+}

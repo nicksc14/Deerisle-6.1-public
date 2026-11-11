@@ -1,0 +1,85 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1109,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交清单中的任意1件高价值稀有物品",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "JMC_Book_ARCTICA",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "JMC_Book_DIARYFROST",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "JMC_Book_DIARYHCRINCI",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "JMC_Book_KMUC",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "JMC_Book_NAMALSK",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_BerserkSword",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_GreatBattleAxe",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_GreatBattleAxe_Phantom",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_KatanaSlim",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_Viking_Axe",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_WarHammer_Brutal_Basic",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_WitcherSword_Basic",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

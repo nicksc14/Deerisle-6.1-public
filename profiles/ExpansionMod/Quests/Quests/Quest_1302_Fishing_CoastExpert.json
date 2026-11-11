@@ -1,0 +1,96 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1302,
+    "Type": 1,
+    "Title": "钓鱼之路 V：海岸专家",
+    "Descriptions": [
+        "鹿岛的海岸鱼种分布在西部深水、东南远海、北极峡湾和钻井平台海域。完成这次调查，才能取得挑战深海巨物的装备。",
+        "提交大型鲭鱼3条、大型海鲈鱼2条、大型齿鲷2条、大型鱿鱼2条和大型鲉鱼2条。提交的鱼会被消耗。",
+        "海岸调查完成。除专属钓鱼帽外，这套顶级渔具将为你打开独立于副本的深海进阶路线。"
+    ],
+    "ObjectiveText": "提交五种大型海鱼，共11条",
+    "FollowUpQuest": 1303,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "HC_AP_hat_fisher_coast_expert",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_fishing_rod_hard",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_fishing_reel_baitcast",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_fishing_line_5",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AP_fishing_hook_d",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [10],
+    "QuestTurnInIDs": [10],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1302,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [1301],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

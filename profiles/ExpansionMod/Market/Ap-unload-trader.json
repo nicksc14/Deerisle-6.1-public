@@ -1,0 +1,132 @@
+{
+  "m_Version": 12,
+  "DisplayName": "新手 - AP战术背心",
+  "Icon": "Deliver",
+  "Color": "0094FFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ap_unload_chestholster",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_unload_chikom_black",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_chikom_sand",
+        "ap_unload_chikom_green",
+        "ap_unload_chikom_emr",
+        "ap_unload_chikom_frog"
+      ]
+    },
+    {
+      "ClassName": "ap_unload_mini_black",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_mini_sand",
+        "ap_unload_mini_green",
+        "ap_unload_mini_atacs",
+        "ap_unload_mini_mc",
+        "ap_unload_mini_ucp",
+        "ap_unload_mini_urban",
+        "ap_unload_mini_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_unload_ronin_black",
+      "MaxPriceThreshold": 40800,
+      "MinPriceThreshold": 33900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_ronin_sand",
+        "ap_unload_ronin_green",
+        "ap_unload_ronin_mc",
+        "ap_unload_ronin_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_unload_smersh_black",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_smersh_sand",
+        "ap_unload_smersh_green"
+      ]
+    },
+    {
+      "ClassName": "ap_unload_strelok_black",
+      "MaxPriceThreshold": 40800,
+      "MinPriceThreshold": 33900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_strelok_sand",
+        "ap_unload_strelok_green",
+        "ap_unload_strelok_emr"
+      ]
+    },
+    {
+      "ClassName": "ap_unload_tarzan_black",
+      "MaxPriceThreshold": 40800,
+      "MinPriceThreshold": 33900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_tarzan_sand",
+        "ap_unload_tarzan_green",
+        "ap_unload_tarzan_emr"
+      ]
+    },
+    {
+      "ClassName": "ap_unload_type56_black",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_unload_type56_sand",
+        "ap_unload_type56_green",
+        "ap_unload_type56_winter",
+        "ap_unload_type56_camo"
+      ]
+    }
+  ]
+}

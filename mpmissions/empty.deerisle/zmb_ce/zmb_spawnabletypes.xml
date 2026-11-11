@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Gil_ZmbM_HermitSkinny">
+		<cargo preset="foodHermit" />
+		<cargo preset="ammoPolice" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="vestsPolice" />
+	</type>
+	<type name="Gil_ZmbM_armyofficer">
+		<cargo preset="foodArmy" />		
+		<attachments preset="Gil_OfficerHat" />
+	</type>
+	<type name="Gil_NBC_Green">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="Donuts_NBC">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="Donuts_NBCI">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.01">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+
+	<!--START OF ZOMBIES  -->
+	<!-- DONUTS NBC -->
+	<type name="Donuts_NBC">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="Donuts_NBCI">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.01">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+
+	<!-- DONUTS ARMY -->
+    <!-- YELLOW CLOTHES -->
+	<type name="Donuts_Zmb_usSoldierIII">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<!-- YELLOW CLOTHES -->
+	<type name="Donuts_Zmb_usSoldierIV">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<!-- BLACK CAMOUFLAGE CLOTHING -->
+	<type name="Donuts_soldier_normalIV">
+		<cargo preset="foodArmy" />		
+		<attachments preset="headtorches" />
+		<attachments preset="OfficerHatArmy" />
+	</type>
+	<!-- BLACK CAMOUFLAGE CLOTHING -->
+	<type name="Donuts_soldier_normalVI">
+		<cargo preset="foodArmy" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<!-- GREEN CAMOUFLAGE CLOTHING -->
+	<type name="Donuts_soldier_normalV">
+		<cargo preset="foodArmy" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="Donuts_soldier_normalIII">
+		<cargo preset="foodArmy" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+
+	<!-- DONUTS ARMY OFFICER NO HANDS -->
+	<type name="Donuts_Armyofficer_No_Arms">
+		<cargo preset="foodArmy" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	
+	<!-- DONUTS CITY -->
+	<type name="Donuts_Clerk">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="Donuts_Zmb_Clerk">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+	</type>
+	<!-- DONUTS CITY RITUAL BLACK CLOTHES GREEN LETTERS -->
+	<type name="Donuts_Ritual">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+	</type>
+	<type name="Donuts_CitizenF">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="Donuts_CitizenFI">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="Donuts_Zmb_CitizenIII">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="Donuts_Zmb_CitizenIV">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+	<type name="Donuts_ZmbM_journalist">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="Donuts_ZmbM_journalistII">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+	</type>
+	<type name="Donuts_ZmbM_journalistIII">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+	</type>
+
+	<!--       DONUTS CLOWN       -->
+	<type name="Donuts_Clown">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+
+	<!--       DONUTS DEVOL USED IN INVOCATION       -->
+	<type name="Donuts_ZmbM_ClownII">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+
+
+	<!--       DONUTS DEVOL USED IN INVOCATION       -->
+	<type name="Donuts_Devol">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+		<attachments preset="bagsCity" />
+	</type>
+
+
+	<!--  DONUTS INDUSTRIAL NO LEGS  -->
+	<type name="Donuts_Bluecollar_No_Legs">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+
+
+    <!--  DONUTS CONSTRUCTION -->
+	<type name="Donuts_Zmb_Constru">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="Donuts_Zmb_ConstruII">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="Donuts_Zmb_ConstruIII">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsIndustrial" />
+		<attachments preset="vestsIndustrial" />
+	</type>
+	
+
+
+    <!-- DONUTS FIREFIGHTER NO LEGS -->
+	<type name="Donuts_Firefighter_No_Legs">
+		<cargo preset="toolsCity" />
+		<attachments preset="hatsFirefighter" />
+	</type>
+
+    <!-- DONUTS FIREFIGHTER RITUAL -->
+	<type name="Donuts_Firefighter_Ritual">
+		<cargo preset="toolsCity" />
+		<attachments preset="hatsFirefighter" />
+	</type>
+
+	<!-- DONUTS FIREFIGHTER NORMAL -->
+	<type name="Donuts_Zmb_FireFight">
+		<cargo preset="toolsCity" />
+		<attachments preset="hatsFirefighter" />
+	</type>
+	<type name="Donuts_Zmb_FireFightI">
+		<cargo preset="toolsCity" />
+		<attachments preset="hatsFirefighter" />
+	</type>
+
+
+	<!-- DONUTS DOCTOR FEMALE -->
+	<type name="Donuts_Zmb_DoctorF">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<type name="Donuts_Zmb_DoctorFI">
+		<cargo preset="toolsMedic" />
+	</type>
+
+	<!-- DONUTS DOCTOR MALE -->
+	<type name="Donuts_doctorIII">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<!-- DONUTS DOCTOR NO ARMS -->
+	<type name="Donuts_ZmbM_Doctor_No_Arms">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<!-- DONUTS DOCTOR NO ARMS -->
+	<type name="Donuts_ZmbM_Doctor_No_Arms2">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<!-- DONUTS DOCTOR NO LEGS -->
+	<type name="Donuts_ZmbM_Doctor_No_Legs">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+
+	<!-- DONUTS CHEF  -->
+	<type name="Donuts_ZmbM_Chef">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+
+	<!-- DONUTS PARAMEDIC FEMALE -->
+	<!-- PINK CLOTHES -->
+	<type name="Donuts_Zmb_ParamedicIII">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+	<!-- YELLOW CLOTHES -->
+	<type name="Donuts_Zmb_ParamedicIV">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+	</type>
+
+    <!--  DONUTS PARAMEDIC MALE -->
+	<!-- RED CLOTHES -->
+	<type name="Donuts_paramedicIII">
+		<cargo preset="toolsMedic" />
+	</type>
+	<!-- ORANGE CLOTHES -->
+	<type name="Donuts_paramedicIV">
+		<cargo preset="toolsMedic" />
+	</type>
+	<!-- ORANGE CLOTHES -->
+	<type name="Donuts_paramedicV">
+		<cargo preset="toolsMedic" />
+	</type>
+	
+	<!-- DONUTS POLICE S.W.A.T MALE -->
+	<type name="Donuts_policemanV">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.10">
+			<item name="Mag_SSG82_5rnd" chance="1.0" />	
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policemanIV">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.10">
+			<item name="Mag_SSG82_5rnd" chance="1.0" />		
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+
+	<!-- DONUTS POLICE S.W.A.T FEMALE -->
+	<type name="Donuts_policewomanIV">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.10">
+			<item name="Mag_SSG82_5rnd" chance="1.0" />	
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+
+	<!-- DONUTS POLICE FBI MALE  -->
+	<type name="Donuts_policemanIII">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+
+	<!-- DONUTS POLICE FBI FEMALE  -->
+	<type name="Donuts_policewomanIII">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+
+	<!-- DONUTS POLICIA FEDERAL FEMALE  -->
+	<type name="Donuts_policewomanV">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+
+    <!-- DONUTS POLICIA CHERNO FEMALE  -->
+	<type name="Donuts_policewomanCherno">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policewomanChernoII">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policewomanClothesBlack">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policewomanClothesBlackII">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policewomanClothesCamufle">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+
+	<!-- DONUTS POLICE CHERNO MALE  -->
+	<type name="Donuts_policemanCherno">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policemanChernoII">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policemanChernoClothesBlack">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policemanChernoClothesBlackII">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="Donuts_policemanClothesCamufle">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	<type name="D">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+			<item name="Mag_SSG82_5rnd" chance="0.50" />
+			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+		</cargo>
+		<attachments preset="hatsPolice" />
+	</type>
+	
+
+
+
+	<!-- DONUTS RELIGIOUS -->
+	<type name="Donuts_Zmb_Padre">
+		<cargo preset="foodHermit" />
+	</type>
+	<type name="Donuts_Zmb_PadreI">
+		<cargo preset="foodHermit" />
+	</type>
+	<type name="Donuts_Zmb_PadreII">
+		<cargo preset="foodHermit" />
+	</type>
+
+	<!--  DONUTS FISHERMAN  -->
+	<type name="Donuts_fishermanIII">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<!--  DONUTS FISHERMAN RITUAL -->
+	<type name="Donuts_Fisherman_Ritual">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+	</type>
+
+    <!-- DONUTS HERMIT -->
+	<type name="Donuts_hermitIII">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+	</type>
+
+    <!-- DONUTS HUNTER MALE -->
+	<type name="Donuts_Zmb_HunterIII">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="Donuts_Zmb_HunterIV">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="Donuts_Zmb_HunterV">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+
+	<!-- DONUTS HUNTER FEMALE -->
+	<type name="Donuts_HunterF">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="Donuts_HunterFI">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+	<type name="Donuts_HunterFII">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<attachments preset="hatsFarm" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="headtorches" />
+		<attachments preset="vestsHunter" />
+	</type>
+
+	<!-- DONUTS VILLAGE  -->
+	<!-- DONUTS FARMER RITUAL -->
+	<type name="Donuts_Farmer_Ritual">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+	</type>
+	<!-- DONUTS FARMER NORMAL -->
+	<type name="Donuts_FarmerI">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+	</type>
+    <!-- DONUTS VILLAGE  JOGGER -->
+	<type name="Donuts_jogger">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+	</type>
+	<type name="Donuts_joggerII">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+	</type>
+    <!-- WITH TATTOO -->
+	<type name="Donuts_Zmb_OldMan">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="hatsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<!-- WITH TATTOO -->
+	<type name="Donuts_Zmb_OldManI">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<!-- WITH TATTOO -->
+	<type name="Donuts_Zmb_OldManII">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="Donuts_ZmbM_ChefNoTshirt">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsFarm" />
+	</type>
+
+	<type name="Donuts_ZmbF_MilkMaidOld">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="Donuts_ZmbF_MilkMaidOldI">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="Donuts_ZmbF_MilkMaidOldII">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+		<attachments preset="hatsFarm" />
+	</type>
+	<type name="Donuts_ZmbF_MilkMaidOldIII">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="helmetsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="Donuts_farmerIV">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<attachments preset="backpacks_T1" />
+	</type>
+	<type name="ZmbM_FaDonuts_farmerIIIrmerFat_Blue">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+	</type>
+	<type name="Donuts_Zmb_HikerIII">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<attachments preset="glassesVillage" />
+	</type>
+
+	<!-- DONUTS PILOTS -->
+	<type name="Donuts_Zmb_CoverallsIII">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<type name="Donuts_Zmb_CoverallsIV">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<type name="Donuts_Zmb_CoverallsV">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
+	<!--END OF ZOMBIES  -->
+</spawnabletypes>

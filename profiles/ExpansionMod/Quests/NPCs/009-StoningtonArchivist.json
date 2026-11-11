@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 9,
+    "ClassName": "ExpansionQuestNPCLinda",
+    "Position": [
+        7091.908203,
+        45.497459,
+        1929.982422
+    ],
+    "Orientation": [
+        54.415863,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "玛拉·维斯｜Stonington 档案鉴定员",
+    "DefaultNPCText": "这座岛遗忘的东西太多了。日记、原型、旧式武器和遗物都能补上灾难史缺失的一页——先让我确认它们没有被伪造。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_009_Archivist_AP_Urban",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

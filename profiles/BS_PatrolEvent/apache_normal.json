@@ -1,0 +1,357 @@
+{
+    "ConfigVersion": 3,
+    "AutoUpdateConfig": 1,
+    "EventSettings": {
+        "EnableEvent": 1,
+        "MinPlayersToStart": 1,
+        "CrateBurningTime": 30,
+        "WreckDespawnTime": 30,
+        "SpawnTime": 5,
+        "RespawnTime": 10
+    },
+    "HelicopterSettings": {
+        "HelicopterClassName": "BS_AH64D_Apache",
+        "HelicopterHealth": 0,
+        "AggroWhilePatrolling": 0,
+        "PatrolAggroRange": 300.0,
+        "PatrolAggroPursue": 0,
+        "PatrolRoutes": [
+            {
+                "RouteName": "Airfield Route",
+                "SpawnPosition": "5213.19 390.0 9080.21",
+                "Waypoints": [
+                    "4205.63 390.2 10859.44",
+                    "3953.76 390.0 10735.22",
+                    "4550.12 390.0 10520.33",
+                    "4246.876953125 390.0 10177.466796875"
+                ]
+            },
+            {
+                "RouteName": "North Route (Tisy)",
+                "SpawnPosition": "1500.0 490.0 14000.0",
+                "Waypoints": [
+                    "1867.295166 494.654358 13845.356445",
+                    "1376.842285 498.748138 13662.819336",
+                    "1677.320923 491.729858 14350.045898"
+                ]
+            }
+        ]
+    },
+    "Notifications": {
+        "EnableSpawnNotification": 1,
+        "SpawnNotificationKey": "#STR_BS_Heli_Spawn_Alert",
+        "EnableCrashNotification": 1,
+        "CrashNotificationKey": "#STR_BS_Heli_Crash_Alert",
+        "EnableDespawnNotification": 1,
+        "DespawnNotificationKey": "#STR_BS_Heli_Despawn_Alert",
+        "NotificationIcon": "BS_Event_Logo/Logo/BS_Patrol_Noti.paa",
+        "NotificationTitleKey": "#STR_BS_Heli_Title"
+    },
+    "WreckSettings": {
+        "WreckClassName": "BS_AH64D_Crashed",
+        "CrateCount": 5,
+        "CrateClassNames": [
+            "BS_Military_Flat",
+            "BS_Military_Medium"
+        ],
+        "CrateSpawnRadiusMin": 4.0,
+        "CrateSpawnRadiusMax": 7.0
+    },
+    "LootPresets": [],
+    "SearchLightSettings": {
+        "Brightness": 35.0,
+        "Radius": 500.0,
+        "ConeAngle": 45.0
+    },
+    "MarkerSettings": {
+        "EnableHeliMarker": 1,
+        "EnableWreckMarker": 1,
+        "Enable3DMarker": 1,
+        "Enable2DMarker": 1
+    },
+    "LootCategories": {
+        "Ammo": {
+            "Min": 3,
+            "Max": 6,
+            "Items": [
+                {
+                    "LootClass": "AmmoBox_556x45_20Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "AmmoBox_308Win_20Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "AmmoBox_545x39_20Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "Mag_STANAG_60Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.6000000238418579
+                },
+                {
+                    "LootClass": "Mag_AKM_Drum75Rnd",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.4000000059604645
+                },
+                {
+                    "LootClass": "M67Grenade",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                }
+            ]
+        },
+        "Medical": {
+            "Min": 2,
+            "Max": 5,
+            "Items": [
+                {
+                    "LootClass": "BloodBagIV",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SalineBagIV",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "BandageDressing",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "Morphine",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "TetracyclineAntibiotics",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                }
+            ]
+        },
+        "Weapons": {
+            "Min": 1,
+            "Max": 2,
+            "Items": [
+                {
+                    "LootClass": "M4A1",
+                    "LootAttachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd"
+                    ],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "SVD",
+                    "LootAttachments": [
+                        "Mag_SVD_10Rnd",
+                        "PSO1Optic"
+                    ],
+                    "SpawnChance": 0.4000000059604645
+                },
+                {
+                    "LootClass": "FAL",
+                    "LootAttachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ],
+                    "SpawnChance": 0.699999988079071
+                }
+            ]
+        },
+        "Supplies": {
+            "Min": 3,
+            "Max": 5,
+            "Items": [
+                {
+                    "LootClass": "TacticalBacon",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "Canteen",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "DuctTape",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "Battery9V",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "Pliers",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "NailBox",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                }
+            ]
+        },
+        "Gear": {
+            "Min": 1,
+            "Max": 2,
+            "Items": [
+                {
+                    "LootClass": "PlateCarrierVest",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "NVGoggles",
+                    "LootAttachments": [],
+                    "SpawnChance": 0.0
+                },
+                {
+                    "LootClass": "Mich2001Helmet",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                },
+                {
+                    "LootClass": "Rangefinder",
+                    "LootAttachments": [],
+                    "SpawnChance": 1.0
+                }
+            ]
+        }
+    },
+    "LootCrates": [
+        {
+            "ClassName": "BS_Military_Flat",
+            "LBPresetName": "LBMaster_Military_Tier4",
+            "Presets": [
+                "Weapons",
+                "Ammo"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "LBMaster_Military_Tier4",
+            "Presets": [
+                "Medical",
+                "Supplies"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Flat",
+            "LBPresetName": "LBMaster_Military_Tier4",
+            "Presets": [
+                "Gear",
+                "Ammo"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Flat",
+            "LBPresetName": "LBMaster_Military_Tier4",
+            "Presets": [
+                "Medical"
+            ]
+        },
+        {
+            "ClassName": "BS_Military_Medium",
+            "LBPresetName": "LBMaster_Military_Tier4",
+            "Presets": [
+                "Weapons",
+                "Ammo"
+            ]
+        }
+    ],
+    "CrashDefenders": {
+        "EnableDefenders": 0,
+        "DespawnRadius": 800.0,
+        "DespawnCheckInterval": 60.0,
+        "DespawnWithWreck": 1,
+        "Defenders": [
+            {
+                "ClassName": "ZmbM_SoldierNormal",
+                "Count": 6,
+                "AdditionalNight": 2,
+                "SpawnRadius": 25.0,
+                "IsExpansionBot": 0,
+                "ExpansionFaction": "",
+                "ExpansionLoadout": "",
+                "ExpansionUnlimitedAmmo": 0,
+                "ExpansionCanBeLooted": 1
+            },
+            {
+                "ClassName": "ZmbM_usSoldier_Heavy_Woodland",
+                "Count": 3,
+                "AdditionalNight": 1,
+                "SpawnRadius": 20.0,
+                "IsExpansionBot": 0,
+                "ExpansionFaction": "",
+                "ExpansionLoadout": "",
+                "ExpansionUnlimitedAmmo": 0,
+                "ExpansionCanBeLooted": 1
+            }
+        ]
+    },
+    "Difficulty": {
+        "TurretFireCooldown": 0.10000000149011612,
+        "TurretMaxRange": 400.0,
+        "TurretAccuracy": 0.6000000238418579,
+        "TurretMissAngle": 1.5,
+        "TurretBurstShots": 20,
+        "TurretBurstCooldown": 4.0,
+        "TurretAttackCooldown": 15.0,
+        "TurretAmmoType": "Bullet_308Win",
+        "MissileCooldown": 4.0,
+        "MissileMinRange": 50.0,
+        "MissileMaxRange": 300.0,
+        "MissileSpeed": 70.0,
+        "MissileMaxSpeed": 120.0,
+        "MissileAcceleration": 40.0,
+        "MissileDoubleShotChance": 0.30000001192092898,
+        "MissileAngleThreshold": 0.8500000238418579,
+        "FlareCooldown": 10.0,
+        "FlareDeployChance": 0.30000001192092898,
+        "CombatOrbitSpeed": 30.0,
+        "CombatOrbitAltitude": 75.0,
+        "CombatOrbitRadius": 140.0,
+        "CombatOrbitDuration": 4.0,
+        "CombatPullBackSpeed": 40.0,
+        "CombatPullBackAltitude": 90.0,
+        "CombatPullBackDuration": 2.5,
+        "CombatUTurnSpeed": 38.0,
+        "CombatUTurnAltitude": 70.0,
+        "CombatAttackRunSpeed": 55.0,
+        "CombatAttackRunAltitude": 45.0,
+        "CombatAttackRunAgility": 3.0,
+        "CombatAttackRunDuration": 5.0,
+        "CombatAttackRunMinDist": 60.0,
+        "LostSightTimeout": 140.0,
+        "CrashDamageRadius": 15.0,
+        "CrashDamageMax": 100.0,
+        "PatrolSpeed": 20.0,
+        "PatrolAltitude": 70.0,
+        "SuppressionDamageThreshold": 150.0,
+        "SuppressionDuration": 8.0,
+        "SuppressionMissileRate": 1.5,
+        "SuppressionSpread": 8.0,
+        "SuppressionNoLOSTime": 5.0,
+        "SuppressionMultiAttackerBonus": 1.5
+    },
+    "SafeZones": [
+        {
+            "Name": "Green Mountain",
+            "Position": "3698.85 402.0 5993.45",
+            "Radius": 150.0
+        }
+    ]
+}

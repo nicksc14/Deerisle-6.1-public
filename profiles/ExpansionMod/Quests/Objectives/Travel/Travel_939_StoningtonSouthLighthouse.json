@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 939,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Stonington南部灯塔",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6452.20459,
+        28.749132,
+        978.97052
+    ],
+    "MaxDistance": 80.0,
+    "MarkerName": "Stonington南部灯塔",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

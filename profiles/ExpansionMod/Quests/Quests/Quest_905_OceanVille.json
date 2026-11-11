@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 905,
+    "Type": 1,
+    "Title": "前往OceanVille",
+    "Descriptions": [
+        "新手岛不是久留之地。南边的OceanVille镇上有个前哨幸存者接应从北边过来的人。沿着主路往南走，找到他。",
+        "OceanVille是新手岛上最大的镇子。往南走，到了就能找到。",
+        "到了。这位就是前哨幸存者，接下来可以直接查看他的任务。这项旅行委托只负责引路，不发放额外奖励。"
+    ],
+    "ObjectiveText": "前往OceanVille与前哨幸存者会合",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [3],
+    "QuestTurnInIDs": [4],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 905,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

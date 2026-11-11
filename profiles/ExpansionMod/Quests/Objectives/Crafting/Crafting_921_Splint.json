@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 921,
+    "ObjectiveType": 11,
+    "ObjectiveText": "准备并提交1副夹板",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "Splint"
+    ],
+    "ExecutionAmount": 1
+}

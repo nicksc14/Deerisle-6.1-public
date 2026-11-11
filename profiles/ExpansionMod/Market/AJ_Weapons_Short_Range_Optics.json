@@ -1,0 +1,109 @@
+{
+  "m_Version": 12,
+  "DisplayName": "AJ短距离瞄准镜",
+  "Icon": "Gun",
+  "Color": "0094FFFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ajw_optic_eotech_exps3_black",
+      "MaxPriceThreshold": 8700,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_eotech_exps3_black_wojack",
+      "MaxPriceThreshold": 33000,
+      "MinPriceThreshold": 33000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_eotech_exps3_fde",
+      "MaxPriceThreshold": 8700,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_eotech_exps3_twotone",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 9600,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_microt2_black",
+      "MaxPriceThreshold": 8700,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_microt2_fde",
+      "MaxPriceThreshold": 8700,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_okp7",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_strikefire_black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 12300,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ajw_optic_strikefire_fde",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 12300,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 100,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

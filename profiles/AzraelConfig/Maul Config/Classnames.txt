@@ -1,0 +1,14 @@
+Azrael Maul Infected
+1.3.1
+
+AP_zmb_maul_worker
+- Строитель / Worker
+
+AP_zmb_maul_army
+- Военный / Military
+
+AP_zmb_maul_swat
+- Полицейский / Police
+
+AP_melee_big_maul
+- Тяжелый молот / Big hammer

@@ -1,0 +1,47 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TTC个人防卫武器",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ttc_aachoney",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_aachoney_b"
+      ]
+    },
+    {
+      "ClassName": "ttc_aachoney_300blk",
+      "MaxPriceThreshold": 66900,
+      "MinPriceThreshold": 56700,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_aachoney_300blk_b"
+      ]
+    },
+    {
+      "ClassName": "ttc_kac",
+      "MaxPriceThreshold": 66900,
+      "MinPriceThreshold": 56700,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

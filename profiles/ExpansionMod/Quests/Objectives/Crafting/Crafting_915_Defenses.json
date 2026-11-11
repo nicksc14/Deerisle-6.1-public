@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 915,
+    "ObjectiveType": 11,
+    "ObjectiveText": "准备并提交1个Expansion领地旗套件",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "TerritoryFlagKit"
+    ],
+    "ExecutionAmount": 1
+}

@@ -1,0 +1,46 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Kamikaze Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "SECTION1": "====== 1. Main Settings ======",
+    "cfg_CanRemoveVestFromZombie": 1,
+    "cfg_CanDisarmVestOnGround": 1,
+    "cfg_CanExplodeRuinedVest": 1,
+    "cfg_CanPlayerActivateJihadVest": 1,
+    "cfg_ChanceSpawnKamikazeTorso": 1.0,
+    "cfg_JihadVestAmmoName_EXAMPLE": "For example: KmkzJihad_light_Ammo, KmkzJihad_medium_Ammo, KmkzJihad_hard_Ammo",
+    "cfg_JihadVestAmmoName": "KmkzJihad_medium_Ammo",
+    "SECTION2": "====== 2. Remains Settings ======",
+    "cfg_KamikazeRemainsCountMin": 1,
+    "cfg_KamikazeRemainsCountMax": 3,
+    "cfg_KamikazeRemainsList": [
+        "Guts",
+        "Guts",
+        "Guts"
+    ],
+    "SECTION3": "====== 3. Disarm Settings ======",
+    "m_DisarmTools": [
+        {
+            "toolName": "Pliers",
+            "toolChance": 0.800000011920929,
+            "toolTime": 4,
+            "toolDamage": 20,
+            "toolQuantity": 0
+        },
+        {
+            "toolName": "Screwdriver",
+            "toolChance": 0.6000000238418579,
+            "toolTime": 6,
+            "toolDamage": 20,
+            "toolQuantity": 0
+        },
+        {
+            "toolName": "ElectronicRepairKit",
+            "toolChance": 0.949999988079071,
+            "toolTime": 3,
+            "toolDamage": 0,
+            "toolQuantity": 20
+        }
+    ]
+}

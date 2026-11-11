@@ -1,0 +1,60 @@
+{
+  "ConfigVersion": 22,
+  "ID": 301,
+  "Type": 1,
+    "Title": "[日常] 击杀20名敌对AI",
+  "Descriptions": [
+        "机场前线行动官发布每日敌对AI击杀合同。",
+        "在鹿岛任意区域击杀20名任务白名单内的敌对AI。",
+        "已完成20名敌对AI击杀。返回机场前线行动官处领取奖励。"
+  ],
+    "ObjectiveText": "击杀20名敌对AI",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 5000,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [7],
+  "QuestTurnInIDs": [7],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 301,
+      "ObjectiveType": 2
+    }
+  ],
+  "QuestColor": -1148045308,
+  "ReputationReward": 500,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

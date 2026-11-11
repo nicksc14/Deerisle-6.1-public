@@ -1,0 +1,36 @@
+{
+    "Creatures": [
+        {
+            "ClassName": "MOB_Chappie",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie2",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie3",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie4",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie5",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie6",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie7",
+            "Health": 3500000.0
+        },
+        {
+            "ClassName": "MOB_Chappie8",
+            "Health": 3500000.0
+        }
+    ]
+}

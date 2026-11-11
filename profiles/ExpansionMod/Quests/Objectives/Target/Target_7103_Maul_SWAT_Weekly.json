@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7103,
+    "ObjectiveType": 2,
+    "ObjectiveText": "击杀1只特警型巨槌感染者",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "AP_zmb_maul_swat"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

@@ -1,0 +1,571 @@
+{
+  "m_Version": 12,
+  "DisplayName": "新手 - AP常规头盔及配件",
+  "Icon": "Deliver",
+  "Color": "0094FFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ap_helm_6b47_emr",
+      "MaxPriceThreshold": 2100,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_6b47_winter",
+        "ap_helm_6b47_sand"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_6b47_nc_green",
+      "MaxPriceThreshold": 2100,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_6b47_nc_sand",
+        "ap_helm_6b47_nc_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_crew_green",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_crew_black",
+        "ap_helm_crew_camo"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_frame_sand",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_frame_green",
+        "ap_helm_frame_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_kiver_black",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_helm_lshz_black",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_lshz_green",
+        "ap_helm_lshz_camo"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_maska_black",
+      "MaxPriceThreshold": 4800,
+      "MinPriceThreshold": 4800,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_maska_green",
+        "ap_helm_maska_skull"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_mich_b1_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_mich_b1_green",
+        "ap_helm_mich_b1_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_mich_b2_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_mich_b2_green",
+        "ap_helm_mich_b2_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_mich_t1_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_mich_t1_green",
+        "ap_helm_mich_t1_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_mich_t2_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_mich_t2_green",
+        "ap_helm_mich_t2_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_mich2000_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_mich2000_khaki",
+        "ap_helm_mich2000_black",
+        "ap_helm_mich2000_winter",
+        "ap_helm_mich2000_snake1",
+        "ap_helm_mich2000_snake2",
+        "ap_helm_mich2000_snake3"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_pilot_green",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_pilot_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_police_green",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_police"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_sfera_sand",
+      "MaxPriceThreshold": 2100,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_helm_sfera_green",
+        "ap_helm_sfera_vsr",
+        "ap_helm_sfera_smog"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_ssh_classic",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_frame_cover_camo",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_frame_cover_sand",
+        "ap_frame_cover_sand2",
+        "ap_frame_cover_green",
+        "ap_frame_cover_black",
+        "ap_frame_cover_white"
+      ]
+    },
+    {
+      "ClassName": "ap_kiver_cover_atacs",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_kiver_cover_black",
+        "ap_kiver_cover_emr",
+        "ap_kiver_cover_mc",
+        "ap_kiver_cover_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_kiver_visor_black",
+      "MaxPriceThreshold": 2100,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_lshz_cover_atacs",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_lshz_cover_black",
+        "ap_lshz_cover_emr",
+        "ap_lshz_cover_mc",
+        "ap_lshz_cover_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_maska_visor_black",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_maska_visor_green",
+        "ap_maska_visor_skull"
+      ]
+    },
+    {
+      "ClassName": "ap_maska_visor_gold",
+      "MaxPriceThreshold": 4800,
+      "MinPriceThreshold": 4800,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_maska_visor_ornament",
+        "ap_maska_visor_smile"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_armorside_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_armorside_green",
+        "ap_mich_armorside_black"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_armorup_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_armorup_green",
+        "ap_mich_armorup_black"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_cover_camo",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_cover_sand",
+        "ap_mich_cover_sand2",
+        "ap_mich_cover_green",
+        "ap_mich_cover_black",
+        "ap_mich_cover_white"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_ear_sand",
+      "MaxPriceThreshold": 2100,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_ear_green",
+        "ap_mich_ear_black"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_mandible_sand",
+      "MaxPriceThreshold": 2100,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_mandible_green",
+        "ap_mich_mandible_black"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_visor_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_visor_green",
+        "ap_mich_visor_black"
+      ]
+    },
+    {
+      "ClassName": "ap_mich_visor_small_sand",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_mich_visor_small_green",
+        "ap_mich_visor_small_black"
+      ]
+    },
+    {
+      "ClassName": "ap_helm_lshz_hc_black",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_altyn_visor_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_altyn_visor_green"
+      ]
+    },
+    {
+      "ClassName": "ap_vulkan_barmit_black",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vulkan_barmit_green"
+      ]
+    },
+    {
+      "ClassName": "ap_vulkan_visor_black",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vulkan_visor_green"
+      ]
+    },
+    {
+      "ClassName": "ap_head_ear_gsh",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 54000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_head_ear_mark_sand",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 54000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_head_ear_mark_green",
+        "ap_head_ear_mark_black"
+      ]
+    },
+    {
+      "ClassName": "ap_head_ear_sordin",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 54000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_head_ear_ztac",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 54000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_helm_altyn_black",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ap_altyn_visor_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_helm_vulkan_black",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ap_vulkan_visor_black",
+        "ap_vulkan_barmit_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_helm_altyn_green",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ap_altyn_visor_green"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_helm_vulkan_green",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ap_vulkan_visor_green",
+        "ap_vulkan_barmit_green"
+      ],
+      "Variants": []
+    }
+  ]
+}

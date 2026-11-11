@@ -1,0 +1,555 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {
+    "Min": 0,
+    "Max": 0
+  },
+  "Health": [],
+  "InventoryAttachments": [],
+  "InventoryCargo": [
+    {
+      "ClassName": "BandageDressing",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [
+        {
+          "Min": 0.8,
+          "Max": 1,
+          "Zone": ""
+        }
+      ],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    }
+  ],
+  "ConstructionPartsBuilt": [],
+  "Sets": [
+    {
+      "ClassName": "WEAPON",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Shoulder",
+          "Items": [
+            {
+              "ClassName": "AKS74U",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.85,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "Mag_AK74_30Rnd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.85,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AKS74U_Bttstck",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.85,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "Mag_AK74_30Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.85,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Mag_AK74_30Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.85,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "WEAPON",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Shoulder",
+          "Items": [
+            {
+              "ClassName": "AK74",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.85,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "Mag_AK74_30Rnd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.85,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AK74_WoodBttstck",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.85,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AK74_Hndgrd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.85,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "Mag_AK74_30Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.85,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Mag_AK74_30Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.85,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "WEAPON",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Shoulder",
+          "Items": [
+            {
+              "ClassName": "M16A2",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.85,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "Mag_STANAG_30Rnd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.85,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "Mag_STANAG_30Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.85,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Mag_STANAG_30Rnd",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.85,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "GEAR",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Body",
+          "Items": [
+            {
+              "ClassName": "TTsKOJacket_Camo",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "Legs",
+          "Items": [
+            {
+              "ClassName": "TTSKOPants",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "Feet",
+          "Items": [
+            {
+              "ClassName": "CombatBoots_Green",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "Headgear",
+          "Items": [
+            {
+              "ClassName": "Mich2001Helmet",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.8,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "Vest",
+          "Items": [
+            {
+              "ClassName": "UKAssVest_Olive",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.8,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        },
+        {
+          "SlotName": "Gloves",
+          "Items": [
+            {
+              "ClassName": "TacticalGloves_Black",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    }
+  ]
+}

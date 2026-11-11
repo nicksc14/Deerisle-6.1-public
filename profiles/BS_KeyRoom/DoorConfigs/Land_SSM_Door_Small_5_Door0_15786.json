@@ -1,0 +1,195 @@
+{
+    "x": 15785.673828125,
+    "y": 4844.787109375,
+    "z": 17.57915687561035,
+    "building_x": 15785.7001953125,
+    "building_y": 4844.77978515625,
+    "building_z": 17.59980010986328,
+    "door_indices": [
+        0
+    ],
+    "use_announcement": 0,
+    "announcement_title": "跑刀区域 T5",
+    "announcement_text": "Alcatraz 恶魔岛的一间钥匙房已被开启。",
+    "announcement_color_rgba": "255,255,165,0",
+    "announcement_duration_seconds": 7,
+    "Location_Name": "RUN_T5_SSM_Door_Small_5_15786_4845",
+    "BuildingClassName": "Land_SSM_Door_Small_5",
+    "keycard_class_name": "",
+    "keycard_class_names": [
+        "BS_keycard_lab_black"
+    ],
+    "sound_accept": "Sound_Door_Accepted",
+    "sound_deny": "Sound_Door_Denied",
+    "showRequiredKeys": 1,
+    "use_alarm": 1,
+    "alarm_sound": "Alarm_Military",
+    "alarm_duration": 45,
+    "alarm_loop_delay": 1.8,
+    "min_unlock_time": 20,
+    "max_unlock_time": 30,
+    "min_restock_time": 7200,
+    "max_restock_time": 7200,
+    "min_containers_to_spawn": -1,
+    "max_containers_to_spawn": -1,
+    "containers_only": 0,
+    "persistCooldownOnRestart": 1,
+    "use_safety_teleport": 1,
+    "safety_teleport_radius": 30.0,
+    "use_custom_teleport_points": 1,
+    "custom_teleport_points": [
+        [
+            15795.71582,
+            9.466924,
+            4334.27002
+        ]
+    ],
+    "containers": [
+        {
+            "referenceName": "RUN_T5_MATERIAL_01",
+            "className": "BS_MilCase1_Tan",
+            "position": [
+                15783.0185546875,
+                16.618221282958984,
+                4845.12255859375
+            ],
+            "orientation": [
+                362.2796936035156,
+                0.0,
+                0.0
+            ],
+            "objectScale": 1.0,
+            "spawnChance": 1.0,
+            "lootPoolName": "RUN_T5_MATERIALS",
+            "randomLootPools": [],
+            "lootMin": 4,
+            "lootMax": 6,
+            "useFixedLoot": 0,
+            "fixedItems": [],
+            "preventDuplicateLoot": 0,
+            "spawnFromAllPools": 0,
+            "lb_preset_name": "",
+            "replacementChance": 0.0,
+            "replacementClassName": "",
+            "replacement_lb_preset_name": "",
+            "replacementLootPoolName": "",
+            "replacementRandomLootPools": [],
+            "replacementLootMin": 0,
+            "replacementLootMax": 0,
+            "replacementUseFixedLoot": 0,
+            "replacementFixedItems": [],
+            "replacementPreventDuplicateLoot": 0,
+            "requiredItem": "",
+            "unlockTime": 3.0,
+            "consumeItem": 1,
+            "open_sound": "",
+            "unlock_sound": "",
+            "unlock_anim_type": "crafting",
+            "min_open_time": 0.0,
+            "max_open_time": 0.0,
+            "skip_open_item": "",
+            "consume_skip_item": 1
+        },
+        {
+            "referenceName": "RUN_T5_SUPPORT_02",
+            "className": "BS_MilCase2_Green",
+            "position": [
+                15785.2998046875,
+                16.63920021057129,
+                4847.2998046875
+            ],
+            "orientation": [
+                269.3819885253906,
+                0.0,
+                0.0
+            ],
+            "objectScale": 1.0,
+            "spawnChance": 1.0,
+            "lootPoolName": "RUN_T5_SUPPORT",
+            "randomLootPools": [],
+            "lootMin": 7,
+            "lootMax": 8,
+            "useFixedLoot": 0,
+            "fixedItems": [],
+            "preventDuplicateLoot": 1,
+            "spawnFromAllPools": 0,
+            "lb_preset_name": "",
+            "replacementChance": 0.0,
+            "replacementClassName": "",
+            "replacement_lb_preset_name": "",
+            "replacementLootPoolName": "",
+            "replacementRandomLootPools": [],
+            "replacementLootMin": 0,
+            "replacementLootMax": 0,
+            "replacementUseFixedLoot": 0,
+            "replacementFixedItems": [],
+            "replacementPreventDuplicateLoot": 0,
+            "requiredItem": "",
+            "unlockTime": 3.0,
+            "consumeItem": 1,
+            "open_sound": "",
+            "unlock_sound": "",
+            "unlock_anim_type": "crafting",
+            "min_open_time": 0.0,
+            "max_open_time": 0.0,
+            "skip_open_item": "",
+            "consume_skip_item": 1
+        }
+    ],
+    "doorSpecificLootPools": [],
+    "aiToSpawnOnOpen": [
+        {
+            "referenceName": "RUN_T5_DOOR_GUARD_01",
+            "className": "eAI_SurvivorM_Mirek|AI_BS_RUN_T5|Shamans",
+            "position": [
+                15786.7001953125,
+                17.59980010986328,
+                4845.77978515625
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnChance": 1.0
+        }
+    ],
+    "min_ai_to_spawn": -1,
+    "max_ai_to_spawn": -1,
+    "spawn_hacked_crate": 0,
+    "hacked_crate_classname": "",
+    "hacked_crate_position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "hacked_crate_orientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "hacked_crate_config_id": "",
+    "unlockOnly": 0,
+    "delay_close_if_player_nearby": 1,
+    "reputationReward": 0,
+    "use_continuous_action": 0,
+    "continuous_action_time": 5.0,
+    "linked_doors": [],
+    "countdown_notifications": [
+        {
+            "timeRemainingSeconds": 120,
+            "title": "T5 钥匙房",
+            "message": "钥匙房将在 2 分钟后关闭。",
+            "color": "255,255,165,0"
+        },
+        {
+            "timeRemainingSeconds": 30,
+            "title": "T5 钥匙房",
+            "message": "钥匙房将在 30 秒后关闭，请立即撤出。",
+            "color": "255,220,53,69"
+        }
+    ],
+    "vehiclesToSpawn": [],
+    "min_vehicles_to_spawn": -1,
+    "max_vehicles_to_spawn": -1
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 908,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往海港小镇寻找老摆渡人",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [9750.0, 6.0, 4345.0],
+    "MaxDistance": 50.0,
+    "MarkerName": "海港小镇·老摆渡人",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

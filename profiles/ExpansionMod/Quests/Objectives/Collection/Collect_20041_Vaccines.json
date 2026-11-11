@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20041,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交 Vaxicam、Zerivax 与 Rabivax 安瓿各 1 支。",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "TerjeAmpouleVaxicam",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "TerjeAmpouleZerivax",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "TerjeAmpouleRabivax",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

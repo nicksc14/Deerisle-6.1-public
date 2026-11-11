@@ -1,0 +1,74 @@
+{
+    "raidingTools": [
+        {
+            "toolClassname": "Pipe",
+            "tier": 1,
+            "raidTimerInSeconds": 60,
+            "damageToTool": 100.0,
+            "raidChance": 25.0
+        },
+        {
+            "toolClassname": "Screwdriver",
+            "tier": 1,
+            "raidTimerInSeconds": 30,
+            "damageToTool": 50.0,
+            "raidChance": 50.0
+        },
+        {
+            "toolClassname": "Hacksaw",
+            "tier": 2,
+            "raidTimerInSeconds": 120,
+            "damageToTool": 100.0,
+            "raidChance": 25.0
+        },
+        {
+            "toolClassname": "Lockpick",
+            "tier": 2,
+            "raidTimerInSeconds": 60,
+            "damageToTool": 50.0,
+            "raidChance": 50.0
+        },
+        {
+            "toolClassname": "SledgeHammer",
+            "tier": 3,
+            "raidTimerInSeconds": 180,
+            "damageToTool": 100.0,
+            "raidChance": 25.0
+        },
+        {
+            "toolClassname": "Crowbar",
+            "tier": 3,
+            "raidTimerInSeconds": 90,
+            "damageToTool": 50.0,
+            "raidChance": 50.0
+        }
+    ],
+    "tier1ObjectsList": [
+        "HM_Auto_Gun_Rack_Black",
+        "HM_Auto_Gun_Rack_Green",
+        "HM_Auto_Gun_Rack_Tan"
+    ],
+    "tier2ObjectsList": [
+        "HM_Auto_Storage_Rust",
+        "HM_Auto_Storage_Camo1",
+        "HM_Auto_Storage_Camo2",
+        "HM_Auto_Storage_Black",
+        "HM_Auto_Storage_Grey",
+        "HM_Auto_Storage_Green",
+        "HM_Auto_Storage_Carbon",
+        "HM_Auto_Storage_2_Rust",
+        "HM_Auto_Storage_2_Camo1",
+        "HM_Auto_Storage_2_Camo2",
+        "HM_Auto_Storage_2_Black",
+        "HM_Auto_Storage_2_Grey",
+        "HM_Auto_Storage_2_Green",
+        "HM_Auto_Storage_2_Carbon"
+    ],
+    "tier3ObjectsList": [
+        "HM_Auto_Loadout",
+        "HM_Hatch",
+        "HM_Bunker"
+    ],
+    "successRaidMessage": "Raid succeeded!",
+    "failedRaidMessage": "Raid failed!"
+}

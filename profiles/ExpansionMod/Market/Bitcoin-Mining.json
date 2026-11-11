@@ -1,0 +1,109 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 矿机道具",
+  "Icon": "Deliver",
+  "Color": "D67FFFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "hm_plus_board",
+      "MaxPriceThreshold": 2700000,
+      "MinPriceThreshold": 2700000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_gpu",
+      "MaxPriceThreshold": 1800000,
+      "MinPriceThreshold": 1800000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_gpu_2080",
+      "MaxPriceThreshold": 2700000,
+      "MinPriceThreshold": 2700000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_gpu_3080",
+      "MaxPriceThreshold": 4200000,
+      "MinPriceThreshold": 4200000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_gpu_4090",
+      "MaxPriceThreshold": 7800000,
+      "MinPriceThreshold": 7800000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_gpu_5090",
+      "MaxPriceThreshold": 13200000,
+      "MinPriceThreshold": 13200000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_pc_kit",
+      "MaxPriceThreshold": 1800000,
+      "MinPriceThreshold": 1800000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_psu",
+      "MaxPriceThreshold": 2700000,
+      "MinPriceThreshold": 2700000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_plus_usb",
+      "MaxPriceThreshold": 1200000,
+      "MinPriceThreshold": 1200000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

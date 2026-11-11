@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 913,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往工业厂房区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [6787.307, 48.527, 2407.068],
+    "MaxDistance": 40.0,
+    "MarkerName": "工业厂房楼顶",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

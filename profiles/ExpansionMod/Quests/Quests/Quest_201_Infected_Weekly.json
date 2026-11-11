@@ -1,0 +1,64 @@
+{
+  "ConfigVersion": 22,
+  "ID": 201,
+  "Type": 1,
+    "Title": "[周常] 击杀300只感染者",
+  "Descriptions": [
+        "中心任务板发布每周感染者清理合同。",
+        "在鹿岛任意区域击杀300只任务白名单内的感染者。",
+        "已完成300只感染者击杀。返回中心任务板领取奖励。"
+  ],
+    "ObjectiveText": "击杀300只感染者",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 15000,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 201,
+      "ObjectiveType": 2
+    }
+  ],
+  "QuestColor": -43691,
+  "ReputationReward": 2000,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

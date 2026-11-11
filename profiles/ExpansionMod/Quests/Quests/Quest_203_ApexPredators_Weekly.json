@@ -1,0 +1,71 @@
+{
+    "ConfigVersion": 22,
+    "ID": 203,
+    "Type": 1,
+    "Title": "[周常] 顶级掠食者管制",
+    "Descriptions": [
+        "本周商路附近的狼群和熊活动明显增加。鹿岛捕猎协会发布了一份全岛公共安全管制合同。",
+        "消灭6只狼和1头熊。",
+        "掠食者威胁已经降低，回到鹿岛捕猎协会负责人处领取风险补贴。"
+    ],
+    "ObjectiveText": "消灭6只狼和1头熊",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2031,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2032,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -43691,
+    "ReputationReward": 750,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        2001
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

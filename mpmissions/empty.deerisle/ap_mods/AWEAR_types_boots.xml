@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+	<!-- AZRAEL WEAR MOD 1.3 -->
+
+	<!-- Added 1.2 -->
+
+	<type name="AP_boots_shoes_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_shoes_worn">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_shoes2_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_shoes2_brown">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals_brown">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals_brown2">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals2_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals2_blue">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals2_brown">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals2_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals2_red">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_sandals2_snake">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_oldwork_brown">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_oldwork_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_oldwork_grey">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_oldwork_light">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	
+	<!-- Added 1.0 -->
+
+	<type name="AP_boots_lowa_sand">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_lowa_sand2">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_lowa_black">			
+        <nominal>1</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>10800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes" />
+		<usage name="Hunting" />
+		<usage name="Military" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+    </type>
+	<type name="AP_boots_lowa_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_lowa_mc">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_crocs_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_crocs_green">			
+        <nominal>1</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>10800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes" />
+		<usage name="Industrial" />
+		<usage name="Firefighter" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+    </type>
+	<type name="AP_boots_crocs_blue">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_crocs_white">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_crocs_camo">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_grey">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_blue">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_red">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_pink">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_slippers_flower">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_higgs_tan">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_salamon_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_salamon_tan">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_salamon_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_salamon_brown">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_salamon_snake">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cromil_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cromil_sand">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cromil_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cromil_jungle">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_kirza_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cowboy_classic">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_raptor_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_raptor_sand">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_raptor_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_raptor_city">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_raptor_jungle">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_airfeet_blue">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_airfeet_green">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_airfeet_red">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_airfeet_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_airfeet_grey">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_army_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cowboy_real_brown">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cowboy_real_black">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+	<type name="AP_boots_cowboy_real_white">			
+        <nominal>0</nominal>					
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
+    </type>
+</types>

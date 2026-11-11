@@ -1,0 +1,9 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "InitialMissionStartDelay": 600000,
+    "TimeBetweenMissions": 1800000,
+    "MinMissions": 2,
+    "MaxMissions": 4,
+    "MinPlayersToStartMissions": 1
+}

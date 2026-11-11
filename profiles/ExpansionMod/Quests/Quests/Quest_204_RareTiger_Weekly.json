@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 22,
+    "ID": 204,
+    "Type": 1,
+    "Title": "[周常] 岛屿虎王：山脊追猎",
+    "Descriptions": [
+        "鹿岛捕猎协会收到多起山林失踪报告。猎人确认灰脊林区出现了一只体型异常的巨型虎。该地属于公共狩猎区，目标可能被其他猎人抢先击杀；通常2至3小时后会再次出现。",
+        "前往灰脊山林，在标记范围内搜寻并击杀“巨型虎｜岛屿虎王”，随后剥取一张完整虎皮。",
+        "虎王已经倒下。带着完整虎皮返回鹿岛捕猎协会负责人处，完成这份稀有狩猎合同。"
+    ],
+    "ObjectiveText": "追踪并猎杀岛屿虎王，带回1张完整虎皮",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2041,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2042,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2043,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 1500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        215
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

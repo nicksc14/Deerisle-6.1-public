@@ -1,0 +1,21 @@
+{
+    "m_Version": 1,
+    "Enabled": 1,
+    "NotifyOnSuccess": 1,
+    "NotifyOnFailure": 1,
+    "TraderRules": [
+        {
+            "TraderFileName": "EXAMPLE_TRADER_FILE_NAME",
+            "Enabled": 1,
+            "DefaultReputationCost": 0,
+            "DefaultMinimumReputationAfterPurchase": 0,
+            "Items": [
+                {
+                    "ClassName": "M4A1",
+                    "ReputationCost": 250,
+                    "MinimumReputationAfterPurchase": 0
+                }
+            ]
+        }
+    ]
+}

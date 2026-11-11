@@ -1,0 +1,125 @@
+{
+    "version": "4",
+    "enable": 1,
+    "minTimeBefore": 10,
+    "minTimeBeforeWhenNoOtherPlayerIsOnline": 10,
+    "enabledInPVPZones": 0,
+    "damageConfig": {
+        "maxWounds": 0,
+        "minWounds": 0,
+        "health": 1.0,
+        "blood": 1.0,
+        "shock": 1.0
+    },
+    "blacklistAreas": [],
+    "saveItemInHand": 1,
+    "putItemInHand": 1,
+    "canSelectRespawnLocation": 0,
+    "enableSlotSave": 0,
+    "slotsToSave": [
+        {
+            "slotName": "Headgear",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Mask",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Eyewear",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Body",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Vest",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Gloves",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Back",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Armband",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Hips",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Legs",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Feet",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Shoulder",
+            "saveCargo": 1
+        },
+        {
+            "slotName": "Melee",
+            "saveCargo": 1
+        }
+    ],
+    "spawnPoints": [
+        {
+            "id": "i3poo8lbrj",
+            "orientation": [
+                46.99998474121094,
+                0.0,
+                0.0
+            ],
+            "point": [
+                5167.31982421875,
+                34.614078521728519,
+                7683.70361328125
+            ],
+            "name": "",
+            "currencyType": "default",
+            "price": 100000
+        },
+        {
+            "id": "m305m0mtkj",
+            "orientation": [
+                -162.0,
+                0.0,
+                0.0
+            ],
+            "point": [
+                4644.38720703125,
+                25.812368392944337,
+                7912.640625
+            ],
+            "name": "",
+            "currencyType": "default",
+            "price": 100000
+        },
+        {
+            "id": "ktyjf8n3pt",
+            "orientation": [
+                -27.0,
+                0.0,
+                0.0
+            ],
+            "point": [
+                5108.453125,
+                62.799591064453128,
+                7991.50390625
+            ],
+            "name": "",
+            "currencyType": "default",
+            "price": 100000
+        }
+    ],
+    "currencyType": "deprecated",
+    "price": -1
+}

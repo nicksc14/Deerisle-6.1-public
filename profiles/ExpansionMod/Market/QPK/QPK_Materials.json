@@ -1,0 +1,76 @@
+{
+  "m_Version": 12,
+  "DisplayName": "QPK 普通制作材料",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "QPK_Bolts",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 6600,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Cloth_Aramid",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 16200,
+      "SellPricePercent": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_MetalParts",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 10800,
+      "SellPricePercent": 1.4,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_WeaponParts",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 27000,
+      "SellPricePercent": 1.8,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_MilitaryCable",
+      "MaxPriceThreshold": 48000,
+      "MinPriceThreshold": 43200,
+      "SellPricePercent": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "QPK_Poxeram",
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 54000,
+      "SellPricePercent": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

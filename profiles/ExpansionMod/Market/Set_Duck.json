@@ -1,0 +1,76 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - HEROCLAN黑市特攻·Duck",
+  "Icon": "Deliver",
+  "Color": "7FFFFFFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "sm_vp_duck_belt",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_vp_duck_boots",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_vp_duck_head",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_vp_duck_pants",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_vp_duck_jacket",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_vp_duck_vest",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="BC_Accupower_Optic">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>43200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="BC_ACOG_ACSS_Optic">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>21600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+  </type>
+  <type name="BC_EoTechVuduOptic">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="BC_HAMROptic">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="BC_HolosunHS507C_Optic">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="BC_LeupoldHoloDEvoOptic">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="BC_Vortex_RazorHD_Optic">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="BC_VortexAMG_UH1_Optic">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>10800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+</types>

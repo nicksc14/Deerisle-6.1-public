@@ -1,0 +1,60 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1110,
+    "Type": 1,
+    "Title": "[日常] 上交3个BM大型头部",
+    "Descriptions": [
+        "档案馆正在征集BM大型头部样本。",
+        "上交3个BM大型头部；交付时全部收走。",
+        "3个BM大型头部已经完成登记并入库。"
+    ],
+    "ObjectiveText": "上交3个BM大型头部",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 12000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [8],
+    "QuestTurnInIDs": [8],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1110,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -507638398,
+    "ReputationReward": 400,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,38 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Inedia T1 基础医疗容器",
+  "Icon": "Deliver",
+  "Color": "63C7FFFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "InediaPain_FirstAidKit_White",
+      "MaxPriceThreshold": 108000,
+      "MinPriceThreshold": 108000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "InediaPain_FirstAidKit_Black",
+        "InediaPain_FirstAidKit_Camouflage"
+      ]
+    },
+    {
+      "ClassName": "InediaPain_FirstAidCase_White",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 225000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "InediaPain_FirstAidCase_Black",
+        "InediaPain_FirstAidCase_Camouflage"
+      ]
+    }
+  ]
+}

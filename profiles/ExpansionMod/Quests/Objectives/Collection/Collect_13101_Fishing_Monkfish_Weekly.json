@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 13101,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交大型鮟鱇鱼1条",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {"Amount": 1, "ClassName": "AP_fish_sea_monkfish_large", "QuantityPercent": -1, "MinQuantityPercent": 1}
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

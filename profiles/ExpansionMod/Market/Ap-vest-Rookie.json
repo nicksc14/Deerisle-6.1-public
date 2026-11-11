@@ -1,0 +1,464 @@
+{
+  "m_Version": 12,
+  "DisplayName": "新手 - AP护甲",
+  "Icon": "Deliver",
+  "Color": "0094FFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ap_vest_2l5_flora",
+      "MaxPriceThreshold": 101100,
+      "MinPriceThreshold": 85200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_vest_6b13_emr",
+      "MaxPriceThreshold": 101100,
+      "MinPriceThreshold": 85200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b13_flora",
+        "ap_vest_6b13_flora2",
+        "ap_vest_6b13_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b45_emr",
+      "MaxPriceThreshold": 106500,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b45_winter",
+        "ap_vest_6b45_sand"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b45h_emr",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b45h_winter",
+        "ap_vest_6b45h_sand"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b46_emr",
+      "MaxPriceThreshold": 65400,
+      "MinPriceThreshold": 55200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b46_sand",
+        "ap_vest_6b46_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_aac_mc",
+      "MaxPriceThreshold": 67500,
+      "MinPriceThreshold": 57000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_aac_sand",
+        "ap_vest_aac_green",
+        "ap_vest_aac_black",
+        "ap_vest_aac_atacs",
+        "ap_vest_aac_ucp",
+        "ap_vest_aac_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_dcs_mc",
+      "MaxPriceThreshold": 110400,
+      "MinPriceThreshold": 93300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_dcs_sand",
+        "ap_vest_dcs_green",
+        "ap_vest_dcs_black",
+        "ap_vest_dcs_atacs",
+        "ap_vest_dcs_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_def_green",
+      "MaxPriceThreshold": 101100,
+      "MinPriceThreshold": 85200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_def_black",
+        "ap_vest_def_sand",
+        "ap_vest_def_camo1",
+        "ap_vest_def_camo2"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_kevlar_sand",
+      "MaxPriceThreshold": 38100,
+      "MinPriceThreshold": 32100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_kevlar_blue",
+        "ap_vest_kevlar_green",
+        "ap_vest_kevlar_camo"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_kgb",
+      "MaxPriceThreshold": 61800,
+      "MinPriceThreshold": 52200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_vest_kirasa_sand",
+      "MaxPriceThreshold": 38100,
+      "MinPriceThreshold": 32100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_kirasa_green",
+        "ap_vest_kirasa_black",
+        "ap_vest_kirasa_press"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_platecarrier_sand",
+      "MaxPriceThreshold": 110400,
+      "MinPriceThreshold": 93300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_platecarrier_sand2",
+        "ap_vest_platecarrier_black",
+        "ap_vest_platecarrier_green",
+        "ap_vest_platecarrier_camo",
+        "ap_vest_platecarrier_white"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_runner_camo",
+      "MaxPriceThreshold": 65400,
+      "MinPriceThreshold": 55200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_runner_sand",
+        "ap_vest_runner_sand2",
+        "ap_vest_runner_green",
+        "ap_vest_runner_black",
+        "ap_vest_runner_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_slick_sand",
+      "MaxPriceThreshold": 104100,
+      "MinPriceThreshold": 87900,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_slick_green",
+        "ap_vest_slick_black",
+        "ap_vest_slick_fleck",
+        "ap_vest_slick_mc"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_tbas_green",
+      "MaxPriceThreshold": 110400,
+      "MinPriceThreshold": 93300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_tbas_sand",
+        "ap_vest_tbas_black",
+        "ap_vest_tbas_mc"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_wardrum_camo",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_wardrum_sand",
+        "ap_vest_wardrum_sand2",
+        "ap_vest_wardrum_green",
+        "ap_vest_wardrum_black",
+        "ap_vest_wardrum_white"
+      ]
+    },
+    {
+      "ClassName": "ap_kit_repair_armor",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_pants_antifrag_green",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_pants_antifrag_black"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_dcs_2_mc",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_dcs_2_sand",
+        "ap_vest_dcs_2_green",
+        "ap_vest_dcs_2_black",
+        "ap_vest_dcs_2_atacs",
+        "ap_vest_dcs_2_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_dcs_3_mc",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_dcs_3_sand",
+        "ap_vest_dcs_3_green",
+        "ap_vest_dcs_3_black",
+        "ap_vest_dcs_3_atacs",
+        "ap_vest_dcs_3_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_redut_green",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_redut_black"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_wardrum_full_camo",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_wardrum_full_sand",
+        "ap_vest_wardrum_full_sand2",
+        "ap_vest_wardrum_full_green",
+        "ap_vest_wardrum_full_black",
+        "ap_vest_wardrum_full_white"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b23_flora",
+      "MaxPriceThreshold": 38100,
+      "MinPriceThreshold": 32100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b23_emr"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_police_classic",
+      "MaxPriceThreshold": 38100,
+      "MinPriceThreshold": 32100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_police_camo",
+        "ap_vest_police_green"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_police_light_blue",
+      "MaxPriceThreshold": 38100,
+      "MinPriceThreshold": 32100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_vest_jpc_sand",
+      "MaxPriceThreshold": 68400,
+      "MinPriceThreshold": 57600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_jpc_black",
+        "ap_vest_jpc_green",
+        "ap_vest_jpc_mc"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_sso_green",
+      "MaxPriceThreshold": 110400,
+      "MinPriceThreshold": 93300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_sso_black",
+        "ap_vest_sso_sand"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b43_emr",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b43_sand",
+        "ap_vest_6b43_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b43_full_emr",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b43_full_sand",
+        "ap_vest_6b43_full_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_6b46h_emr",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_6b46h_sand",
+        "ap_vest_6b46h_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_vest_kevlar_mid_blue",
+      "MaxPriceThreshold": 38100,
+      "MinPriceThreshold": 32100,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_vest_kevlar_mid_camo",
+        "ap_vest_kevlar_mid_sand",
+        "ap_vest_kevlar_mid_un"
+      ]
+    }
+  ]
+}

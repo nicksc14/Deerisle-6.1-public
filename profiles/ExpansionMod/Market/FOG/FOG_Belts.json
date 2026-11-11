@@ -1,0 +1,71 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG - 腰带",
+  "Icon": "Gas Mask",
+  "Color": "FFD800FF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_belt_rtgfb_black",
+      "MaxPriceThreshold": 41100,
+      "MinPriceThreshold": 34200,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_belt_rtgfb_alp",
+        "fog_belt_rtgfb_aor1",
+        "fog_belt_rtgfb_aor2",
+        "fog_belt_rtgfb_cb",
+        "fog_belt_rtgfb_mc",
+        "fog_belt_rtgfb_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_belt_tacticalfanny_blk",
+      "MaxPriceThreshold": 23400,
+      "MinPriceThreshold": 19500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_belt_tacticalfanny_cb",
+        "fog_belt_tacticalfanny_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bison_belt_black",
+      "MaxPriceThreshold": 35400,
+      "MinPriceThreshold": 29400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bison_belt_cb",
+        "fog_bison_belt_mc",
+        "fog_bison_belt_mcb",
+        "fog_bison_belt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_mrb_belt_black",
+      "MaxPriceThreshold": 46800,
+      "MinPriceThreshold": 39000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mrb_belt_rg"
+      ]
+    }
+  ]
+}

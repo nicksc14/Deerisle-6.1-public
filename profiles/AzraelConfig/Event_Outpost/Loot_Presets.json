@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Event Outpost]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== LOOT PRESETS",
+    "EventOutpostLootPresetsList": [
+        {
+            "PresetName": "FOR_EXAMPLE_DONT_USE",
+            "LootList": [
+                "Classname|Quantity(-1 / 99 / 50%)|Attachments And Cargo items|Att & cargo|and more...",
+                "Canteen|100",
+                "Apple|50%",
+                "AKM|-1|AK_WoodBttstck"
+            ]
+        },
+        {
+            "PresetName": "simple",
+            "LootList": [
+                "Rag|3",
+                "Canteen|500",
+                "Apple|50%",
+                "Rice|50%",
+                "AKM|-1|AK_WoodBttstck|KobraOptic|Battery9V|*Mag_AKM_Drum75Rnd",
+                "Battery9V|80%",
+                "CombatKnife|-1",
+                "Flashlight|-1|Battery9V",
+                "Bear_Pink|-1|PetrolLighter|Rag"
+            ]
+        },
+        {
+            "PresetName": "rare",
+            "LootList": [
+                "Canteen|50%",
+                "TacticalBaconCan_Opened|80%",
+                "Mag_AKM_Drum75Rnd|80%",
+                "Mag_AKM_Drum75Rnd|10",
+                "AKM|-1|AK_WoodBttstck|AK_RailHndgrd|AK_Bayonet|UniversalLight|KobraOptic|Battery9V|Battery9V|*Mag_AKM_Drum75Rnd",
+                "FirstAidKit|-1|Morphine|Epinephrine|AntiChemInjector",
+                "PSO1Optic|-1|Battery9V",
+                "GorkaHelmet|-1|GorkaHelmetVisor",
+                "PlateCarrierVest|-1|PlateCarrierPouches|PlateCarrierHolster"
+            ]
+        },
+        {
+            "PresetName": "custom",
+            "LootList": [
+                "Canteen|50%",
+                "Rice|50%",
+                "TacticalBaconCan_Opened|80%",
+                "Apple|50",
+                "M14|-1|ACOGOptic|Battery9V|*Mag_M14_10Rnd",
+                "Mag_M14_10Rnd|80%",
+                "Mag_M14_10Rnd|10"
+            ]
+        }
+    ]
+}

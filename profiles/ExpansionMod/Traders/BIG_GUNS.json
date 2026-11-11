@@ -1,0 +1,21 @@
+{
+    "m_Version": 13,
+    "DisplayName": "高级步枪商人",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "hm_plus_bitcoin"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 1,
+    "Categories": [
+        "Bitcoin-Black_Retext_ALigator:0",
+        "Bitcoin-Black_Retext_Kivaari:0",
+        "Bitcoin-Black_Retext_ScarH:0"
+    ],
+    "Items": {}
+}

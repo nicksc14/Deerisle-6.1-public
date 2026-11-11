@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2082,
+    "ObjectiveType": 2,
+    "ObjectiveText": "在巨犀猎区猎杀1只铁角巨兽",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [3718.496094, 11.404812, 9709.746094],
+    "MaxDistance": 1400.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": ["HCAP_Rhino_T3"],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

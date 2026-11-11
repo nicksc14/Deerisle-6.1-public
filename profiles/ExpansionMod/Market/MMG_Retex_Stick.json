@@ -1,0 +1,142 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 高级MMG服装 (Stick无损)",
+  "Icon": "Deliver",
+  "Color": "7FFFFFFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "mmg_ammo_pouch_stick",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_assault_pack_stick",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_balaclava_stick",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_combatpants_stick",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_falcon_b1_belt_stick",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_mag_pouch_stick",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_med_pouch_stick",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_mk_iii_armor_stick",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_striker_helmet_stick",
+      "MaxPriceThreshold": 11000000,
+      "MinPriceThreshold": 11000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_tactical_gloves_stick",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_tactical_pouch_stick",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_tactical_shirt_stick",
+      "MaxPriceThreshold": 7000000,
+      "MinPriceThreshold": 7000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

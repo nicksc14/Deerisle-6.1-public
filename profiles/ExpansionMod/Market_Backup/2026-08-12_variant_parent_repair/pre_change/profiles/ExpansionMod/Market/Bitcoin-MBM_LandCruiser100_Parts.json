@@ -1,0 +1,159 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 丰田酷路泽配件",
+  "Icon": "Car",
+  "Color": "267F00FF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "mbm_landcruiser_doors_cargo1_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_cargo1_grey",
+        "mbm_landcruiser_doors_cargo1_green",
+        "mbm_landcruiser_doors_cargo1_blue",
+        "mbm_landcruiser_doors_cargo1_black",
+        "mbm_landcruiser_doors_cargo1_orange",
+        "mbm_landcruiser_doors_cargo1_burgundy",
+        "mbm_landcruiser_doors_cargo1_navyblue"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_doors_cargo2_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_cargo2_grey",
+        "mbm_landcruiser_doors_cargo2_green",
+        "mbm_landcruiser_doors_cargo2_blue",
+        "mbm_landcruiser_doors_cargo2_black",
+        "mbm_landcruiser_doors_cargo2_orange",
+        "mbm_landcruiser_doors_cargo2_burgundy",
+        "mbm_landcruiser_doors_cargo2_navyblue"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_doors_codriver_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_codriver_grey",
+        "mbm_landcruiser_doors_codriver_green",
+        "mbm_landcruiser_doors_codriver_blue",
+        "mbm_landcruiser_doors_codriver_black",
+        "mbm_landcruiser_doors_codriver_green",
+        "mbm_landcruiser_doors_codriver_burgundy",
+        "mbm_landcruiser_doors_codriver_navyblue",
+        "mbm_landcruiser_doors_codriver_orange"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_doors_driver_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_driver_grey",
+        "mbm_landcruiser_doors_driver_green",
+        "mbm_landcruiser_doors_driver_blue",
+        "mbm_landcruiser_doors_driver_black",
+        "mbm_landcruiser_doors_driver_blue",
+        "mbm_landcruiser_doors_driver_burgundy",
+        "mbm_landcruiser_doors_driver_navyblue",
+        "mbm_landcruiser_doors_driver_orange"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_doors_hood_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_hood_grey",
+        "mbm_landcruiser_doors_hood_green",
+        "mbm_landcruiser_doors_hood_blue",
+        "mbm_landcruiser_doors_hood_black",
+        "mbm_landcruiser_doors_hood_orange",
+        "mbm_landcruiser_doors_hood_burgundy",
+        "mbm_landcruiser_doors_hood_navyblue"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_doors_trunk_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_trunk_grey",
+        "mbm_landcruiser_doors_trunk_green",
+        "mbm_landcruiser_doors_trunk_blue",
+        "mbm_landcruiser_doors_trunk_black",
+        "mbm_landcruiser_doors_trunk_orange",
+        "mbm_landcruiser_doors_trunk_burgundy",
+        "mbm_landcruiser_doors_trunk_navyblue"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_doors_trunk2_white",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_doors_trunk2_grey",
+        "mbm_landcruiser_doors_trunk2_green",
+        "mbm_landcruiser_doors_trunk2_blue",
+        "mbm_landcruiser_doors_trunk2_black",
+        "mbm_landcruiser_doors_trunk2_orange",
+        "mbm_landcruiser_doors_trunk2_burgundy",
+        "mbm_landcruiser_doors_trunk2_navyblue"
+      ]
+    },
+    {
+      "ClassName": "mbm_landcruiser_wheel",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": 10.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mbm_landcruiser_wheel_black",
+        "mbm_landcruiser_wheel_gunmetal"
+      ]
+    }
+  ]
+}

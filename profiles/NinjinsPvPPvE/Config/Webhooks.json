@@ -1,0 +1,58 @@
+{
+    "Endpoints": [
+        {
+            "WebhookURL": "COPY AND PASTE YOUR WEBHOOK URL HERE!",
+            "Enabled": 1,
+            "Events": {
+                "ZoneEnter": 1,
+                "ZoneExit": 1,
+                "PlayerStateChanged": 0,
+                "PlayerEnteredPvP": 0,
+                "PlayerEnteredPvE": 0,
+                "PlayerEnteredSafeZone": 0,
+                "PlayerEnteredRaidZone": 0,
+                "PlayerExitedPvP": 0,
+                "PlayerExitedPvE": 0,
+                "PlayerExitedSafeZone": 0,
+                "PlayerExitedRaidZone": 0,
+                "ExitTimerStarted": 0,
+                "ExitTimerExpired": 0,
+                "PlayerKilled": 0,
+                "PlayerEnteredForeignTerritory": 0,
+                "PlayerConnected": 0,
+                "PlayerDisconnected": 0
+            },
+            "HidePlayerNames": 1,
+            "HideCoordinates": 1,
+            "HideZoneName": 0,
+            "ZoneName": []
+        },
+        {
+            "WebhookURL": "COPY AND PASTE YOUR WEBHOOK URL HERE!",
+            "Enabled": 1,
+            "Events": {
+                "ZoneEnter": 1,
+                "ZoneExit": 1,
+                "PlayerStateChanged": 1,
+                "PlayerEnteredPvP": 1,
+                "PlayerEnteredPvE": 1,
+                "PlayerEnteredSafeZone": 1,
+                "PlayerEnteredRaidZone": 1,
+                "PlayerExitedPvP": 1,
+                "PlayerExitedPvE": 1,
+                "PlayerExitedSafeZone": 1,
+                "PlayerExitedRaidZone": 1,
+                "ExitTimerStarted": 1,
+                "ExitTimerExpired": 1,
+                "PlayerKilled": 1,
+                "PlayerEnteredForeignTerritory": 1,
+                "PlayerConnected": 1,
+                "PlayerDisconnected": 1
+            },
+            "HidePlayerNames": 0,
+            "HideCoordinates": 0,
+            "HideZoneName": 0,
+            "ZoneName": []
+        }
+    ]
+}

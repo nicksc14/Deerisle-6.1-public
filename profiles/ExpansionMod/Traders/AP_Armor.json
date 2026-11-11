@@ -1,0 +1,37 @@
+{
+    "m_Version": 13,
+    "DisplayName": "高级护甲商人",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "hm_plus_bitcoin"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 1,
+    "Categories": [
+        "MMG_Retex_Canvas:0",
+        "Set_Baby:0",
+        "Set_Duck:0",
+        "Set_Rabbit:0",
+        "TNRJ_Set_CAJ:0",
+        "TNRJ_Set_Dreadwood:0",
+        "TNRJ_Set_Gasman:0",
+        "TNRJ_Set_Ghost:0",
+        "TNRJ_Set_Nova:0",
+        "TNRJ_Set_Quebec:0",
+        "TNRJ_Set_Shadow:0",
+        "TNRJ_Set_Taiga:0",
+        "TNRJ_Set_WoodMan:0",
+        "T800_Rev9:0",
+        "MMG_Retex_City:0",
+        "MMG_Retex_LW:0",
+        "MMG_Retex_RR:0",
+        "MMG_Retex_Stick:0",
+        "Bitcoin-hNz_pathfinder_bag:0"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,24 @@
+{
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Boots_And_Shoes",
+    "Coats_And_Jackets",
+    "Pants_And_Shorts",
+    "Blouses_And_Suits",
+    "Shirts_And_TShirts",
+    "Skirts_And_Dresses"
+  ],
+  "Items": {}
+}

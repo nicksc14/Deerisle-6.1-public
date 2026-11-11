@@ -1,0 +1,109 @@
+{
+  "m_Version": 12,
+  "DisplayName": "[ARCHIVE 2026-08-12] #STR_EXPANSION_MARKET_CATEGORY_MAGAZINES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "mag_mp5_15rnd",
+      "MaxPriceThreshold": 2775,
+      "MinPriceThreshold": 1665,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_akm_palm30rnd",
+      "MaxPriceThreshold": 4530,
+      "MinPriceThreshold": 2720,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_akm_drum75rnd",
+      "MaxPriceThreshold": 19580,
+      "MinPriceThreshold": 11750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_stanagcoupled_30rnd",
+      "MaxPriceThreshold": 440,
+      "MinPriceThreshold": 220,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_stanag_60rnd",
+      "MaxPriceThreshold": 3510,
+      "MinPriceThreshold": 2105,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_cmag_10rnd",
+      "MaxPriceThreshold": 4780,
+      "MinPriceThreshold": 2865,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_cmag_20rnd",
+      "MaxPriceThreshold": 2370,
+      "MinPriceThreshold": 1420,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_cmag_30rnd",
+      "MaxPriceThreshold": 1055,
+      "MinPriceThreshold": 630,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mag_cmag_40rnd",
+      "MaxPriceThreshold": 4515,
+      "MinPriceThreshold": 2710,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

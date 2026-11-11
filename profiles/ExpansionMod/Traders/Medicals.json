@@ -1,0 +1,26 @@
+{
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Medic Box",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Medical:1",
+    "Terje_Injectors:1",
+    "Terje_Ampoules:1",
+    "Inedia_T1_Pills:1",
+    "Inedia_T1_Tools:1",
+    "Inedia_T1_Containers:1"
+  ],
+  "Items": {
+    "terjeinjectorreanimatal": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 916,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往地下水管道入口",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [6854.728, 7.088, 1704.037],
+    "MaxDistance": 50.0,
+    "MarkerName": "地下水管道隐藏军营",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

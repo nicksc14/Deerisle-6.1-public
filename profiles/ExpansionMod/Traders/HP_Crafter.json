@@ -1,0 +1,28 @@
+{
+  "m_Version": 13,
+  "DisplayName": "HP CRAFTER 工作台商人",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Nails",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "HP_Crafter\\HP_Crafter_Workstations:1"
+  ],
+  "Items": {
+    "HP_Crafter_Kit": 1,
+    "HP_Anvil": 1,
+    "HP_Vise": 1,
+    "HP_Drill": 1,
+    "HP_Grinde": 1,
+    "HP_Payalnik": 1,
+    "HP_napilnik": 1,
+    "HP_Oiler": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往跑刀T4失落岛进入传送点",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3770.26171875,
+        9.010906219482422,
+        9110.490234375
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "跑刀T4失落岛进入传送点",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

@@ -1,0 +1,26 @@
+{
+  "m_Version": 13,
+  "DisplayName": "AP WEAR 服装商人",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Clothes",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "AP_WEAR\\AP_WEAR_Boots:1",
+    "AP_WEAR\\AP_WEAR_Eyewear:1",
+    "AP_WEAR\\AP_WEAR_Gloves:1",
+    "AP_WEAR\\AP_WEAR_Headgear:1",
+    "AP_WEAR\\AP_WEAR_Hoods:1",
+    "AP_WEAR\\AP_WEAR_Masks:1",
+    "AP_WEAR\\AP_WEAR_Pants:1",
+    "AP_WEAR\\AP_WEAR_Tops:1"
+  ],
+  "Items": {}
+}

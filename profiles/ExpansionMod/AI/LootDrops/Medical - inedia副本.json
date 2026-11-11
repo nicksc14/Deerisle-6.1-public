@@ -1,0 +1,193 @@
+[
+  {
+    "ClassName": "FirstAidKit",
+    "Chance": 0.5,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [
+      {
+        "ClassName": "BandageDressing",
+        "Chance": 1.0,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "BandageDressing",
+        "Chance": 0.4000000059604645,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "IodineTincture",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.20000000298023225,
+          "Max": 1.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "Morphine",
+        "Chance": 0.1,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "Epinephrine",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.699999988079071,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "InediaPain_Tramadol",
+        "Chance": 0.2,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.6
+        },
+        "Health": [
+          {
+            "Min": 0.5,
+            "Max": 1,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "InediaPain_SurgicalKit",
+        "Chance": 0.2,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.6
+        },
+        "Health": [
+          {
+            "Min": 0.8,
+            "Max": 1,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "InediaPain_Calcium",
+        "Chance": 0.2,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.6
+        },
+        "Health": [
+          {
+            "Min": 0.4,
+            "Max": 1,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      }
+    ],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "InediaPain_SplintKit",
+    "Chance": 0.1,
+    "Quantity": {
+      "Min": 0.4,
+      "Max": 0.6
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

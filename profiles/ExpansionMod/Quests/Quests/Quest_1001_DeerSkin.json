@@ -1,0 +1,60 @@
+{
+  "ConfigVersion": 22,
+  "ID": 1001,
+  "Type": 1,
+    "Title": "[日常] 上交1张鹿皮",
+  "Descriptions": [
+        "鹿岛捕猎协会需要鹿皮用于制作和物资储备。",
+        "上交1张鹿皮；交付时鹿皮会被收走。",
+        "鹿皮已经交付。返回鹿岛捕猎协会领取奖励。"
+  ],
+    "ObjectiveText": "上交1张鹿皮",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 10000,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [11],
+  "QuestTurnInIDs": [11],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 1001,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": -493859501,
+  "ReputationReward": 200,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [2001],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

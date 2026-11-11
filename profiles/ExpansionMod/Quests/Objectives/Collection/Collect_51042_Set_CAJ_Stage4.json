@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 51042,
+    "ObjectiveType": 4,
+    "ObjectiveText": "交付芳纶布120单位、SSM四型背包1件（背包及附件货仓须清空）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 120,
+            "ClassName": "QPK_Cloth_Aramid",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SSM_Backpack_4",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

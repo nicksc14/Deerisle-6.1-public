@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1205,
+    "Type": 1,
+    "Title": "黑市探索",
+    "Descriptions": [
+        "S.T.A.G.监测到岛上有一处地下市场在流通违禁品。我需要你亲自确认黑市的实际位置，但不要与里面的人发生正面冲突。",
+        "前往黑市所在区域，确认非法交易点的位置。",
+        "黑市的位置已经确认。S.T.A.G.会把这一情报记录在案；至于你今后是否和他们交易，后果由你自己承担。"
+    ],
+    "ObjectiveText": "前往黑市商人",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1205,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

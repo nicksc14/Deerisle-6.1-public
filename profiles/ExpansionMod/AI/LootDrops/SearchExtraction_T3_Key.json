@@ -1,0 +1,12 @@
+[
+    {
+        "ClassName": "BS_keycard_lab_blue",
+    "Chance": 0,
+        "Quantity": { "Min": 0, "Max": 0 },
+        "Health": [{ "Min": 1, "Max": 1, "Zone": "" }],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+    }
+]

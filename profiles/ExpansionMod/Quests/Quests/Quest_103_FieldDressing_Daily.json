@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 103,
+    "Type": 1,
+    "Title": "[日常] 完成3次剥皮",
+    "Descriptions": [
+        "中心厨房和医疗站需要稳定的肉类与动物材料。任务不收走你的战利品，但要求完成规范的野外处理。",
+        "对任意常见猎物完成3次剥皮。",
+        "野外勤务记录已经完成，回到鹿岛捕猎协会结算。"
+    ],
+    "ObjectiveText": "对常见猎物完成3次剥皮",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 103,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": -43691,
+    "ReputationReward": 150,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        2001
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

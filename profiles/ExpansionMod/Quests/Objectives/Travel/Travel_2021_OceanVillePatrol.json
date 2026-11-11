@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2021,
+    "ObjectiveType": 3,
+    "ObjectiveText": "巡检OceanVille联络点",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10236.324219,
+        50.158634,
+        4977.023926
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "OceanVille联络点",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

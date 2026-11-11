@@ -1,0 +1,334 @@
+{
+    "KeyCardEntries": [
+        {
+            "ClassName": "BS_Key1",
+            "DisplayAndDescription": "Grey Key (Fire Dept.)|Access key for the Chernogorsk Fire Station.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key2",
+            "DisplayAndDescription": "Grey Key (Police Booth)|Access key for the police booth at Balota Airfield.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key3",
+            "DisplayAndDescription": "Grey Key (Hunting Cabin)|Access key for the hunting cabin on Skalisty Island.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key4",
+            "DisplayAndDescription": "Grey Key (Police Dept.)|Access key for the main Police Department in Elektrozavodsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key5",
+            "DisplayAndDescription": "Grey Key (Police Office)|Access key for an office inside the Elektrozavodsk Police Dept.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key6",
+            "DisplayAndDescription": "Grey Key (Medical)|Access key for a medical clinic in Berezino.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key7",
+            "DisplayAndDescription": "Grey Key (Factory)|Access key to a factory in the industrial area of Berezino.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key8",
+            "DisplayAndDescription": "Grey Key (Garages)|Access to a row of garages in Chernogorsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key9",
+            "DisplayAndDescription": "Grey Key (Industrial)|Access key for the Orlets Factory offices.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key10",
+            "DisplayAndDescription": "Grey Key (Restaurant)|Access key for the restaurant in Svetlojarsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key11",
+            "DisplayAndDescription": "Grey Key (Hospital)|Access key to a medical area in the Chernogorsk Hospital.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key12",
+            "DisplayAndDescription": "Grey Key (ATC Tower)|Access to the Air Traffic Control tower at Krasnostav Airfield.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key13",
+            "DisplayAndDescription": "Grey Key (Pub)|Access to the pub in Severograd.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key14",
+            "DisplayAndDescription": "Grey Key (Guardhouse)|Access to a guardhouse in the Myshkino military tents.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key23",
+            "DisplayAndDescription": "Grey Key (Shop)|Access to the general store in Zelenogorsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey1",
+            "DisplayAndDescription": "Blue Key (Prison)|Access to the prison block at Tisy Military Base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey2",
+            "DisplayAndDescription": "Blue Key (Police HQ)|Access to the main Police HQ in Severograd.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey3",
+            "DisplayAndDescription": "Blue Key (Barracks)|Access to the officer barracks at NWAF.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey4",
+            "DisplayAndDescription": "Blue Key (ATC)|Access to the NEAF ATC Tower.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey1",
+            "DisplayAndDescription": "Green Key (Checkpoint)|Access to the main checkpoint at Pavlovo Military Base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey2",
+            "DisplayAndDescription": "Green Key (Hangar)|Access to a large hangar at NWAF.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey3",
+            "DisplayAndDescription": "Green Key (Radar Command)|Access to the Radar Command building at Tisy.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey4",
+            "DisplayAndDescription": "Green Key (Industrial Barracks)|Access to the Industrial Barracks at the Veresnik military base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey1",
+            "DisplayAndDescription": "Red Key (Fire Station)|Access to the fire station at Tisy Military Base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey2",
+            "DisplayAndDescription": "Red Key (HQ)|Access to the HQ building at Krasnostav Airfield.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey3",
+            "DisplayAndDescription": "Red Key (Medical)|Access to the main hospital at Pavlovo Military.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey4",
+            "DisplayAndDescription": "Red Key (Guard Tower)|Access to a guard tower at a hidden military outpost.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_yellowkey1",
+            "DisplayAndDescription": "Yellow Key (Prison Cells)|Access to the holding cells at Myshkino Tents.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_yellowkey2",
+            "DisplayAndDescription": "Yellow Key (Bunker)|Access to a hidden underground bunker.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_yellowkey3",
+            "DisplayAndDescription": "Yellow Key (Shipwreck)|Access to the captain's quarters on the Rify shipwreck.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_white",
+            "DisplayAndDescription": "T1 陨石坑岛设施访问卡|用于访问陨石坑岛 T1 港口与军事设施内的 BS KeyRoom。单次使用后销毁，不能用于传送。",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_green",
+            "DisplayAndDescription": "T2 天堂南岛设施访问卡|用于访问天堂南岛 T2 南部岛区设施内的 BS KeyRoom。单次使用后销毁，不能用于传送。",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_blue",
+            "DisplayAndDescription": "T3 天堂北岛设施访问卡|用于访问天堂北岛 T3 北部岛区设施内的 BS KeyRoom。单次使用后销毁，不能用于传送。",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_orange",
+            "DisplayAndDescription": "已停用的 BS 区域传送测试卡|该测试卡不接受传送装置的耐久损耗，已停止作为 T1—T5 传送凭证；请改用跑刀传送钥匙。不能开启 BS KeyRoom。",
+            "MaxUses": 0
+        },
+        {
+            "ClassName": "BS_keycard_lab_red",
+            "DisplayAndDescription": "T4 失落岛设施访问卡|用于访问失落岛 T4 岛屿城区设施内的 BS KeyRoom。单次使用后销毁，不能用于传送。",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_violet",
+            "DisplayAndDescription": "Violet Keycard|A mysterious keycard, rumored to open experimental labs.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_yellow",
+            "DisplayAndDescription": "Yellow Keycard|Single-use access to the contaminated area at the Rify shipwreck.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_black",
+            "DisplayAndDescription": "T5 阿尔卡特拉斯设施访问卡|用于访问 Alcatraz T5 监狱岛设施内的 BS KeyRoom。单次使用后销毁，不能用于传送。",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White_Key1",
+            "DisplayAndDescription": "White Key 1|Access key for a location requiring white clearance (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White_Key2",
+            "DisplayAndDescription": "White Key 2|Access key for a location requiring white clearance (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White_Key3",
+            "DisplayAndDescription": "White Key 3|Access key for a location requiring white clearance (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White_Key4",
+            "DisplayAndDescription": "White Key 4|Access key for a location requiring white clearance (4).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Blue_Key1",
+            "DisplayAndDescription": "Blue Key 1|Access key for a location requiring blue clearance (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Blue_Key2",
+            "DisplayAndDescription": "Blue Key 2|Access key for a location requiring blue clearance (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Blue_Key3",
+            "DisplayAndDescription": "Blue Key 3|Access key for a location requiring blue clearance (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Blue_Key4",
+            "DisplayAndDescription": "Blue Key 4|Access key for a location requiring blue clearance (4).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Green_Key1",
+            "DisplayAndDescription": "Green Key 1|Access key for a location requiring green clearance (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Green_Key2",
+            "DisplayAndDescription": "Green Key 2|Access key for a location requiring green clearance (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Green_Key3",
+            "DisplayAndDescription": "Green Key 3|Access key for a location requiring green clearance (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Green_Key4",
+            "DisplayAndDescription": "Green Key 4|Access key for a location requiring green clearance (4).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Red_Key1",
+            "DisplayAndDescription": "Red Key 1|Access key for a location requiring red clearance (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Red_Key2",
+            "DisplayAndDescription": "Red Key 2|Access key for a location requiring red clearance (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Red_Key3",
+            "DisplayAndDescription": "Red Key 3|Access key for a location requiring red clearance (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Red_Key4",
+            "DisplayAndDescription": "Red Key 4|Access key for a location requiring red clearance (4).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Silver_Key1",
+            "DisplayAndDescription": "Silver Key 1|Access key for a location requiring silver clearance (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Silver_Key2",
+            "DisplayAndDescription": "Silver Key 2|Access key for a location requiring silver clearance (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Silver_Key3",
+            "DisplayAndDescription": "Silver Key 3|Access key for a location requiring silver clearance (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White2_Key1",
+            "DisplayAndDescription": "Medic Key 1|Medical access key (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White2_Key2",
+            "DisplayAndDescription": "Medic Key 2|Medical access key (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White2_Key3",
+            "DisplayAndDescription": "Medic Key 3|Medical access key (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_White2_Key4",
+            "DisplayAndDescription": "Medic Key 4|Medical access key (4).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Yellow_Key1",
+            "DisplayAndDescription": "Yellow Key 1|Access key for a location requiring yellow clearance (1).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Yellow_Key2",
+            "DisplayAndDescription": "Yellow Key 2|Access key for a location requiring yellow clearance (2).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Yellow_Key3",
+            "DisplayAndDescription": "Yellow Key 3|Access key for a location requiring yellow clearance (3).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Yellow_Key4",
+            "DisplayAndDescription": "Yellow Key 4|Access key for a location requiring yellow clearance (4).",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_New_Yellow_Key5",
+            "DisplayAndDescription": "Yellow Key 5|Access key for a location requiring yellow clearance (5).",
+            "MaxUses": 1
+        }
+    ]
+}

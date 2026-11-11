@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 924,
+    "Type": 1,
+    "Title": "OceanVille公共补给点",
+    "Descriptions": [
+        "OceanVille城内有一处公共补给点。按地图标记去认路，以后缺少基础物资时可以再回来搜索。",
+        "前往OceanVille城市商店公共补给点。CJ LootChest会在该区域按自身规则刷新箱子，任务本身只验证到达，不要求箱子必须存在或被打开。",
+        "公共补给点已记录。这是导航任务，不发放额外奖励。"
+    ],
+    "ObjectiveText": "前往OceanVille公共补给点",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [4],
+    "QuestTurnInIDs": [4],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 924,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

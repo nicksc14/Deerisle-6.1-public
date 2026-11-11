@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 901,
+    "ObjectiveType": 4,
+    "ObjectiveText": "换取你的新手福利套装！",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "BandageDressing",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

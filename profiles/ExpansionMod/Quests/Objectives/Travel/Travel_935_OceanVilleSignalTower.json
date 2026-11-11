@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 935,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往OceanVille山顶信号塔",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10016.039063,
+        71.002472,
+        4793.562012
+    ],
+    "MaxDistance": 80.0,
+    "MarkerName": "OceanVille山顶信号塔",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

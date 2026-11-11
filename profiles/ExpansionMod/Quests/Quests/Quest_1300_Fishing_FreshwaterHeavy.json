@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1300,
+    "Type": 1,
+    "Title": "钓鱼之路 III：大鱼试炼",
+    "Descriptions": [
+        "接下来要面对淡水中真正有力量的鱼。用T2运动钓具分别制服大型普通鲤、草鱼、狗鱼和鲶鱼，为奖杯级挑战做准备。",
+        "提交大型普通鲤、草鱼、狗鱼和鲶鱼各1条。提交的鱼会被消耗。",
+        "四种大型淡水鱼全部确认。这套T3专业钓具是你挑战“淡水大师”的正式装备。"
+    ],
+    "ObjectiveText": "提交四种大型淡水鱼各1条",
+    "FollowUpQuest": 1301,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {"ClassName": "AP_fishing_rod_prof", "Amount": 1, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0},
+        {"ClassName": "AP_fishing_reel_prof", "Amount": 1, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0},
+        {"ClassName": "AP_fishing_line_3", "Amount": 1, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0},
+        {"ClassName": "AP_fishing_hook_c", "Amount": 1, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0}
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [10],
+    "QuestTurnInIDs": [10],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1300,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [1299],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

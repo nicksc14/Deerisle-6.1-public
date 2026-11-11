@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 907,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Camp Bear军营",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [8743.939453, 12.725, 6030.481445],
+    "MaxDistance": 100.0,
+    "MarkerName": "Camp Bear 暴徒营地",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

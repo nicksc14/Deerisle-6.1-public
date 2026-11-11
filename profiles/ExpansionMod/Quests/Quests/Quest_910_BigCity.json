@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 910,
+    "Type": 1,
+    "Title": "抵达新城废墟",
+    "Descriptions": [
+        "路线记住了——从Eagle港往西南方向出海，绕过暗礁群，你会看到一座废弃的大城。城里Stonington市政大楼楼顶有个STAG工业的前线联络官。找到他。",
+        "城市很大，小心丧尸和武装人员。STAG联络官在市政大楼楼顶——找到他之后告诉他你是一路从新手岛过来的。",
+        "从新手岛一路走到这里——你不是普通流浪者。我是STAG工业前线联络官。这项旅行委托只负责引路，不发放额外奖励。城里的其他任务都可以直接查看和任选，不需要先完成这项引导。"
+    ],
+    "ObjectiveText": "前往新城废墟寻找STAG前线联络官",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [5],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 910,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,44 @@
+{
+    "m_Version": 8,
+    "m_TraderID": 1,
+    "m_ClassName": "ExpansionP2PTraderAIMirek",
+    "m_Position": [
+        5614.329102,
+        29.201323,
+        5407.729004
+    ],
+    "m_Orientation": [
+        94.577873,
+        0.000000,
+        -0.000000
+    ],
+    "m_LoadoutFile": "YellowKingLoadout",
+    "m_VehicleSpawnPosition": [
+        5613.54052734375,
+        28.71001625061035,
+        5366.92578125
+    ],
+    "m_WatercraftSpawnPosition": [
+        7773.341309, 0.563243, 6891.502441
+    ],
+    "m_AircraftSpawnPosition": [
+        5043.450195, 57.895771, 7970.291992
+    ],
+    "m_DisplayName": "交易行",
+    "m_DisplayIcon": "Deliver",
+    "m_Faction": "InvincibleObservers",
+    "m_Waypoints": [],
+    "m_EmoteID": 46,
+    "m_EmoteIsStatic": 0,
+    "m_RequiredFaction": "",
+    "m_UseReputation": 0,
+    "m_MinRequiredReputation": 0,
+    "m_MaxRequiredReputation": 2147483647,
+    "m_RequiredCompletedQuestID": -1,
+    "m_IsGlobalTrader": 0,
+    "m_Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "m_DisplayCurrencyValue": 1,
+    "m_DisplayCurrencyName": ""
+}

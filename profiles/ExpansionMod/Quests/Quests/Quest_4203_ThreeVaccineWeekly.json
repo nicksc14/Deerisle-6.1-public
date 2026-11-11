@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4203,
+    "Type": 1,
+    "Title": "[周常] 疫苗储备：三联补给",
+    "Descriptions": [
+        "隔离研究站需要补充三种无法从当前医疗商人直接购买的疫苗安瓿。带回Vaxicam、Zerivax和Rabivax各1支，用于本周高危暴露人员的应急储备。",
+        "上交Vaxicam、Zerivax和Rabivax疫苗安瓿各1支；三种全部需要，交付时全部收走。",
+        "三联疫苗已经完成登记并进入隔离研究站储备。领取50,000 Hryvnia和500声望。"
+    ],
+    "ObjectiveText": "上交Vaxicam、Zerivax和Rabivax疫苗安瓿各1支",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 50000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        8
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 4203,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -507638398,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        2004
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,27 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Wear Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== Main Settings",
+    "c_AutoOpenHood": 1,
+    "c_AllowHoodClothList": [
+        "Headtorch_ColorBase",
+        "AP_head_beanie1_Base",
+        "AP_head_beanie2_Base",
+        "AP_head_beanie3_Base",
+        "AP_head_cap_tac_Base",
+        "AP_head_cap_civ_Base",
+        "AP_head_cap_civ2_Base",
+        "BaseballCap_ColorBase",
+        "BeanieHat_ColorBase",
+        "Bandana_ColorBase",
+        "RadarCap_ColorBase",
+        "FlatCap_ColorBase",
+        "ZmijovkaCap_ColorBase",
+        "MedicalScrubsHat_ColorBase"
+    ],
+    "text2": "====== Raincoat Settings",
+    "c_RainproofSystemEnable": 1,
+    "c_DamageHoodModifier": 1.0
+}

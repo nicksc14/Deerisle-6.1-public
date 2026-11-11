@@ -1,0 +1,69 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2003,
+    "Type": 1,
+    "Title": "遗留的军事地堡",
+    "Descriptions": [
+        "岛上的遗留军事地堡并不固定开放。找到当前活动的劫掠库，进入其中搜刮并带回一把CJ_Key200黑色副本钥匙。这把钥匙将作为你进入A1黑色堡垒阶段的通行凭证。",
+        "劫掠库属于外部随机事件，任务系统不会给出唯一固定入口。探索地堡并取得CJ_Key200后，把钥匙带回给我核验。交付会消耗原钥匙，任务奖励会返还一把新的同型号钥匙供后续副本使用。",
+        "确认无误。这把新的CJ_Key200交给你，它用于后续A1黑色堡垒阶段。不要把它和普通补给箱钥匙混淆。接下来需要准备一批无法直接从中心医疗商人购买的疫苗。"
+    ],
+    "ObjectiveText": "从遗留军事地堡取得并上交1把CJ_Key200黑色副本钥匙",
+    "FollowUpQuest": 2004,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CJ_Key200",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20031,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 300,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

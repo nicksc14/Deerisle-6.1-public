@@ -1,0 +1,4757 @@
+{
+    "enableDebugLogs": 1,
+    "enablePVEZ": 0,
+    "pvezZoneRadius": 100.0,
+    "pvezZoneName": "Bunker",
+    "pvezZoneShowZoneName": 0,
+    "pvezZoneShowZoneBorder": 1,
+    "timerInSecondsToPreventEarlyAccess": 300,
+    "earlyEntryMessage": "请在重启后5分钟再进入劫掠库",
+    "notifyEveryoneWhenPlayersEnterTheBunker": 0,
+    "notificationTitle": "劫掠库",
+    "notificationText": "玩家已进入劫掠库",
+    "teleportPlayersToSafePositionsOnExit": 0,
+    "safeTeleportationPositionsOnExit": [
+        [
+            5625.017578,
+            28.734999,
+            5407.800781
+        ]
+    ],
+    "bunkerLocations": [
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                3305.0,
+                500.0,
+                303.0
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        3227.132568359375,
+                        20.170007705688477,
+                        8079.986328125
+                    ],
+                    "orientation": [
+                        -143.99998474121094,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                3500.0,
+                600.0,
+                300.0
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        4567.68701171875,
+                        53.44621276855469,
+                        5618.35791015625
+                    ],
+                    "orientation": [
+                        90.64219665527344,
+                        1.306541798840044e-05,
+                        0.00017573568038642406
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                100.0,
+                500.0,
+                5711.0
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        7045.69873046875,
+                        5.260015487670898,
+                        8994.029296875
+                    ],
+                    "orientation": [
+                        166.71270751953125,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                81.158363,
+                500.0,
+                6675.689453
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        7314.29833984375,
+                        18.257200241088867,
+                        7157.89501953125
+                    ],
+                    "orientation": [
+                        -56.56138229370117,
+                        0.0023609751369804144,
+                        0.0007589064771309495
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                243.868103,
+                500.0,
+                8038.936523
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        5613.12548828125,
+                        74.9566650390625,
+                        2964.2744140625
+                    ],
+                    "orientation": [
+                        -116.99996948242188,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                170.394592,
+                500.0,
+                8959.875
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        5436.91748046875,
+                        14.810018539428711,
+                        4994.80322265625
+                    ],
+                    "orientation": [
+                        18.0,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                100.501785,
+                500.0,
+                10782.685547
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        7965.3720703125,
+                        5.129981994628906,
+                        9572.40625
+                    ],
+                    "orientation": [
+                        70.84556579589844,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                16328.607422,
+                500.0,
+                9919.579102
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        1793.2105712890625,
+                        9.189990997314453,
+                        8967.5341796875
+                    ],
+                    "orientation": [
+                        37.799983978271484,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        },
+        {
+            "spawnChance": 1.0,
+            "bunkerPosition": [
+                16296.40918,
+                500.0,
+                6760.504395
+            ],
+            "entrancePositions": [
+                {
+                    "spawnChance": 0.5,
+                    "position": [
+                        2917.325439453125,
+                        22.463253021240234,
+                        3605.6171875
+                    ],
+                    "orientation": [
+                        135.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "enableMarkers": 1,
+            "enable3D": 0,
+            "markerName": "劫掠库",
+            "markerIcon_Expansion": "Shield",
+            "markerColor_Expansion": -16767233,
+            "markerIcon_LBMaster": "flag",
+            "markerCircleRadius_LBMaster": 100.0,
+            "markerColorA_LBMaster": 255,
+            "markerColorR_LBMaster": 255,
+            "markerColorG_LBMaster": 255,
+            "markerColorB_LBMaster": 0,
+            "maxPlayersAllowed": 3,
+            "bunkerFullMessageTitle": "劫掠库事件",
+            "bunkerFullMessage": "这个劫掠库已达到最大3人的数量",
+            "enableKeyToEnter": 1,
+            "enableKeyOpensDoorForEveryone": 1,
+            "doorStaysOpenForSeconds": 60,
+            "keyClassname": "CJ_Key5",
+            "noKeyMessageTitle": "随机劫掠库事件",
+            "noKeyMessage": "你需要[劫掠库入口钥匙]来打开劫掠库大门",
+            "numberOfZombies": 26,
+            "zombiesClassnames": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "InfectedSoldierHardJMCWinter",
+                "Gil_NBC_Green"
+            ],
+            "enableExpansionAISpawnOnServerStart": 0,
+            "timerRespawnExpansionAIEveryAmountOfSeconds": 3600,
+            "enableZombiesSpawnOnServerStart": 1,
+            "timerRespawnZombiesEveryAmountOfSeconds": 1800,
+            "enableLootSpawnOnServerStart": 1,
+            "timerRespawnLootEveryAmountOfSeconds": 86400,
+            "enableExpansionAI": 0,
+            "unlimitedReloadExpansionAI": 1,
+            "canLootBodyExpansionAI": 1,
+            "expansionMinAccuracy": 0.15000000596046448,
+            "expansionMaxAccuracy": 0.30000001192092896,
+            "expansionThreatDistanceLimit": 10.0,
+            "expansionNoiseInvestigationDistanceLimit": 1.0,
+            "expansionMaxFlankingDistance": 10.0,
+            "expansionDamageMultiplier": 0.25,
+            "expansionDamageReceivedMultiplier": 1.0,
+            "factionExpansionAI": "Shamans",
+            "factionLoadoutExpansionAI": "EastLoadout",
+            "numberExpansionAI": 10,
+            "percentageOfLootBoxesSpawn": 50.0,
+            "lootBoxesClassnames": [
+                "HM_Bunker_Box"
+            ],
+            "minmumAmountOfLootPerBox": 3,
+            "maximumAmountOfLootPerBox": 6,
+            "loot": [
+                {
+                    "name": "CJ_Key200",
+                    "quantity": 1,
+                    "chance": 0.6,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "CJ_Key4",
+                    "quantity": 1,
+                    "chance": 0.1,
+                    "minHealth": 1.0,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsCharcoalTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsPainkillerTablets",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsTetracyclineAntibiotics",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsParacetamol",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsIbuprofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsNurofen",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsMagnesiumSulfate",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjePillsAdepress",
+                    "quantity": 1,
+                    "chance": 0.08,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45Tracer",
+                    "quantity": 1,
+                    "chance": 0.4,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_45ACP",
+                    "quantity": 1,
+                    "chance": 0.5,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "AK101_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_FoldingBttstck_Green",
+                        "AK_RailHndgrd_Green"
+                    ]
+                },
+                {
+                    "name": "AKM_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck_Black",
+                        "AK_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "M4A1_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_RISHndgrd_Black",
+                        "M4_MPBttstck_Black"
+                    ]
+                },
+                {
+                    "name": "M4A1_Green",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_MPHndgrd_Green",
+                        "M4_OEBttstck_Green"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AK101_30Rnd_Black"
+                    ]
+                },
+                {
+                    "name": "SNAFUAUG",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUAUG_30rdMag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_40Rnd_Green",
+                        "SNAFU_MCMR10",
+                        "SNAFU_SCQR_Stock"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CMAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "M4_PlasticHndgrd",
+                        "TTC_Aimpoint2000"
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "M4_OEBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FAL_20Rnd",
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "quantity": 1,
+                    "chance": 0.15,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_AK103_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_AKM_30Rnd",
+                        "SNAFU_UBR_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SKS",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG30556_Black",
+                        "SNAFU_SADAR_Stock",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFU_LVOAHG"
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_CMAG40556_Black",
+                        "SNAFU_M4SS_Stock",
+                        "SNAFU_MK47HG"
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "quantity": 1,
+                    "chance": 0.2,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_STANAG_30Rnd"
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "quantity": 1,
+                    "chance": 0.0,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_SG_30Rnd",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "name": "CZ61",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ61_20Rnd"
+                    ]
+                },
+                {
+                    "name": "CZ75",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_CZ75_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "FNX45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_FNX45_15Rnd"
+                    ]
+                },
+                {
+                    "name": "Glock19",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_Glock_15Rnd",
+                        "TLRLight"
+                    ]
+                },
+                {
+                    "name": "MP5K",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_MP5_30Rnd",
+                        "MP5k_StockBttstck",
+                        "MP5_PlasticHndgrd"
+                    ]
+                },
+                {
+                    "name": "UMP45",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "Mag_UMP_25Rnd"
+                    ]
+                },
+                {
+                    "name": "SNAFU_MP9_GUN",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_MP9_30rnd_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFU_PDW_45ACP",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFU_PDW_45ACP_Mag"
+                    ]
+                },
+                {
+                    "name": "SNAFUP90",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "SNAFUP90_50rdMag"
+                    ]
+                },
+                {
+                    "name": "TTC_MP7A1",
+                    "quantity": 1,
+                    "chance": 0.25,
+                    "minHealth": 0.5,
+                    "maxHealth": 1.0,
+                    "attachments": [
+                        "TTC_MP7A1_Mag_40rnd",
+                        "TTC_Holo"
+                    ]
+                }
+            ]
+        }
+    ]
+}

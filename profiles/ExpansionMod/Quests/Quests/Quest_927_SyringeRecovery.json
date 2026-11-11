@@ -1,0 +1,87 @@
+{
+    "ConfigVersion": 22,
+    "ID": 927,
+    "Type": 1,
+    "Title": "废弃针具回收",
+    "Descriptions": [
+        "Stonington的医疗废墟里散落着不少用过的针具。找1支空注射器带回来，我们需要将它从公共区域正确清除。",
+        "上交1支TerjeSyringeEmpty。交付的废弃针具会被任务系统收取。",
+        "废弃针具已收存处理。新注射器和酒精安瓿给你留作医疗储备，食物也一起带上。"
+    ],
+    "ObjectiveText": "上交1支废弃空注射器",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TerjeSyringeNew",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TerjeAmpouleAlcohol",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Pajka",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 927,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

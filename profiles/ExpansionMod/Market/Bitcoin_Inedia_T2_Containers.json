@@ -1,0 +1,38 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - Inedia T2 高级医疗容器",
+  "Icon": "Deliver",
+  "Color": "FF6A00FF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "InediaPain_FirstAidKit_T2_White",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "InediaPain_FirstAidKit_T2_Black",
+        "InediaPain_FirstAidKit_T2_Camouflage"
+      ]
+    },
+    {
+      "ClassName": "InediaPain_FirstAidCase_T2_White",
+      "MaxPriceThreshold": 5000000,
+      "MinPriceThreshold": 5000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "InediaPain_FirstAidCase_T2_Black",
+        "InediaPain_FirstAidCase_T2_Camouflage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+    "ConfigVersion": 22,
+    "ID": 901,
+    "Type": 1,
+    "Title": "获取你的新手初始装备，开始探索鹿岛吧，外来者！",
+    "Descriptions": [
+        "新来的？拿你身上的绷带做个登记，我给你一套基础装备。提醒你一句——这岛上有些战前遗物看着像垃圾，但拿到中心交易区的收藏品商人那里能卖出大价钱。翻到不认识的电子设备、军用仪器别急着扔。",
+        "把1个绷带交给我。",
+        "拿好。SKS配了PU镜，另外给你一件约六成耐久的绿色MMG TT装甲；它能提供基础防护，但需要尽快维修。腰包里是四种基础药片——Analgin止痛、Paracetamol防感染、Vikasol止血、Ibuprofen抗生素。西南方向的墓地需要清理，整理好装备后回来找我。"
+    ],
+    "ObjectiveText": "交给向导1个绷带，领取新手基础装备",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "AP_helm_6b47_nc_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "mmg_tt_vest_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 40,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "SKS",
+            "Amount": 1,
+            "Attachments": [
+                "PUScopeOptic"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "AP_bag_tacticul_black",
+            "Amount": 1,
+            "Attachments": [
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "BandageDressing",
+                "BandageDressing",
+                "Canteen",
+                "CanOpener",
+                "TacticalBaconCan",
+                "Matchbox"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "AP_belt_hippack_mil_mc",
+            "Amount": 1,
+            "Attachments": [
+                "TerjePillsAnalgin",
+                "TerjePillsParacetamol",
+                "TerjePillsVikasol",
+                "TerjePillsIbuprofen"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "MMG_double_magpouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "MMG_ammo_Pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 901,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -19841,
+    "ReputationReward": 1000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

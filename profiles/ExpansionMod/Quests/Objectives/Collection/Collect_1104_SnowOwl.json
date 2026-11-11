@@ -1,0 +1,37 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1104,
+    "ObjectiveType": 4,
+    "ObjectiveText": "一次性上交雪鸮完整套装和20发弹药进行鉴定",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "jmc_SnowOwl",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "jmc_SnowOwl_Mag",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "jmc_SnowOwl_Optic",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 20,
+            "ClassName": "jmc_SnowOwl_Ammo",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

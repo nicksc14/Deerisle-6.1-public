@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+      <type name="AP_vest_6b43_emr">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_emr" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b43_sand">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b43_winter">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_winter" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b43_full_emr">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_emr" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b43_full_sand">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b43_full_winter">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_winter" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b45_emr">
+      </type>
+      <type name="AP_vest_6b45_sand">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b45_winter">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_winter" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b45h_emr">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_emr" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b45h_sand">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b45h_winter">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_holster_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_winter" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b46_emr">
+      </type>
+      <type name="AP_vest_6b46_sand">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b46_winter">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_winter" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b46h_emr">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_emr" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_emr" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b46h_sand">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_6b46h_winter">
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_small_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_mag_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_rus_suhar_new_winter" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_aac_atacs">
+            <attachments chance="0.5">
+                  <item name="AP_PlateCarrierPouches_atacs" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_aac_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_aac_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_aac_mc">
+      </type>
+      <type name="AP_vest_aac_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_sand2" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_aac_ucp">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_ucp" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_ucp" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_aac_winter">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_winter" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_winter" chance="0.5" />
+            </attachments>
+      </type>	  
+      <type name="AP_vest_dcs_2_atacs">
+            <attachments chance="0.5">
+                  <item name="AP_PlateCarrierPouches_atacs" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_2_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_2_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_2_mc">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_mc" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_2_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_sand2" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_2_winter">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_winter" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_winter" chance="0.5" />
+            </attachments>
+      </type>	  
+      <type name="AP_vest_dcs_3_atacs">
+            <attachments chance="0.5">
+                  <item name="AP_PlateCarrierPouches_atacs" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_3_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_3_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_3_mc">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_mc" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_3_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_sand2" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_3_winter">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_winter" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_winter" chance="0.5" />
+            </attachments>
+      </type>	  
+      <type name="AP_vest_dcs_atacs">
+            <attachments chance="0.5">
+                  <item name="AP_PlateCarrierPouches_atacs" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_atacs" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_mc">
+      </type>
+      <type name="AP_vest_dcs_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical2_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_sand2" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_dcs_winter">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_winter" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_winter" chance="0.5" />
+            </attachments>
+      </type>	  
+      <type name="AP_vest_jpc_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_jpc_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_jpc_mc">
+            <attachments chance="0.5">
+			      <item name="AP_PlateCarrierPouches_mc" chance="0.5" />
+				  <item name="AP_bigpouch_mag_close_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_jpc_sand">
+      </type>
+      <type name="AP_vest_platecarrier_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+				  <item name="AP_bigpouch_utility_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_canteen_us_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_platecarrier_camo">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_mc" chance="0.5" />
+				  <item name="AP_PlateCarrierPouches_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+				  <item name="AP_pouch_medical_camo" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_canteen_us_camo" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_platecarrier_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+				  <item name="AP_bigpouch_utility_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_canteen_us_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_platecarrier_sand">
+      </type>
+      
+      <type name="AP_vest_platecarrier_white">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+				  <item name="AP_bigpouch_utility_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_canteen_us_white" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_white" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_runner_black">
+            <attachments chance="0.5">
+				  <item name="AP_pouch_medical_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal2_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_runner_camo">
+      </type>
+      <type name="AP_vest_runner_green">
+            <attachments chance="0.5">
+				  <item name="AP_pouch_medical_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal2_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_runner_sand">
+            <attachments chance="0.5">
+				  <item name="AP_pouch_medical_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal2_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_runner_sand2">
+            <attachments chance="0.5">
+				  <item name="AP_pouch_medical_sand2" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal2_sand2" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_sand2" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_runner_white">
+            <attachments chance="0.5">
+				  <item name="AP_pouch_medical_white" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal2_white" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_utility2_white" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_sso_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+				  <item name="AP_bigpouch_utility_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_sso_green">
+      </type>
+      <type name="AP_vest_sso_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+				  <item name="AP_bigpouch_utility_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_tbas_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+				  <item name="AP_bigpouch_utility_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_tbas_green">
+      </type>
+      <type name="AP_vest_tbas_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+				  <item name="AP_bigpouch_utility_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_tbas_mc">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_mc" chance="0.5" />
+				  <item name="AP_bigpouch_utility_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_camo" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_camo" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_white">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+				  <item name="AP_PlateCarrierPouches_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_white" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_white" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+				  <item name="AP_bigpouch_utility_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+				  <item name="AP_bigpouch_utility_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+				  <item name="AP_bigpouch_utility_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_camo">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+				  <item name="AP_bigpouch_utility_mc" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_camo" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_camo" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_full_white">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_winter" chance="0.5" />
+				  <item name="AP_PlateCarrierPouches_winter" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_white" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_white" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_full_black">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_black" chance="0.5" />
+				  <item name="AP_bigpouch_utility_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_black" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_black" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_full_green">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+				  <item name="AP_bigpouch_utility_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_green" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_full_sand">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_sand" chance="0.5" />
+				  <item name="AP_bigpouch_utility_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_sand" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_sand" chance="0.5" />
+            </attachments>
+      </type>
+      <type name="AP_vest_wardrum_full_camo">
+            <attachments chance="0.5">
+				  <item name="AP_bigpouch_mag_close_green" chance="0.5" />
+				  <item name="AP_bigpouch_utility_green" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_medical_camo" chance="0.5" />
+            </attachments>
+            <attachments chance="0.5">
+                  <item name="AP_pouch_universal_camo" chance="0.5" />
+            </attachments>
+      </type>
+</spawnabletypes>    

@@ -1,0 +1,41 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Event Foresters]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== LOOT PRESETS",
+    "EventLootPresetsList": [
+        {
+            "PresetName": "deerisle_supplies",
+            "LootList": [
+                "BakedBeansCan|-1",
+                "SardinesCan|-1",
+                "TacticalBaconCan|-1",
+                "PeachesCan|-1",
+                "Rice|75%",
+                "PowderedMilk|75%",
+                "HCFC_F09_Sealed|100%",
+                "BandageDressing|100%",
+                "DisinfectantAlcohol|50%",
+                "CharcoalTablets|4",
+                "TetracyclineAntibiotics|4",
+                "VitaminBottle|5",
+                "PainkillerTablets|4",
+                "TerjePillsAnalgin|2",
+                "TerjePillsParacetamol|2",
+                "TerjePillsNimesulid|2",
+                "TerjePillsAmibaktam|2",
+                "TerjePillsAdepress|2",
+                "TerjeSalveFinalgon|30%",
+                "QPK_Bolts|1",
+                "QPK_MetalParts|1",
+                "QPK_Cloth_Aramid|1",
+                "AmmoBox_556x45_20Rnd|-1",
+                "AmmoBox_545x39_20Rnd|-1",
+                "AmmoBox_762x39_20Rnd|-1",
+                "AmmoBox_762x54_20Rnd|-1",
+                "AmmoBox_308Win_20Rnd|-1"
+            ]
+        }
+    ]
+}

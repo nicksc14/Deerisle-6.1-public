@@ -1,0 +1,89 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4201,
+    "Type": 1,
+    "Title": "[周常] Gerogetown机场：双阵营清剿",
+    "Descriptions": [
+        "Gerogetown机场的West雇佣军和East土著再次扩大了交火规模。进入机场战区，分别击杀15名West成员和15名East成员。只有你实际参与击杀的目标才会计数。",
+        "在Gerogetown机场中心300米范围内击杀15名West阵营AI和15名East阵营AI；两项目标可以并行完成。",
+        "本周机场战区的两支武装力量都受到了压制。返回前线行动官处领取10,000 Hryvnia、1份武器零件、1份芳纶布和500声望。"
+    ],
+    "ObjectiveText": "在Gerogetown机场300米范围内分别击杀15名West和15名East阵营AI",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_WeaponParts",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_Cloth_Aramid",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 42011,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 42012,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -1148045308,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        2002
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}

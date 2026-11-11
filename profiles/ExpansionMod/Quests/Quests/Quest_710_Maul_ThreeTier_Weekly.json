@@ -1,0 +1,74 @@
+{
+    "ConfigVersion": 22,
+    "ID": 710,
+    "Type": 1,
+    "Title": "[周常] 巨槌感染者：三级威胁清除",
+    "Descriptions": [
+        "隔离区记录到三种巨槌感染者。它们分别出现在A3、A4和A5副本，血量、抗控能力与冲击波威胁逐级增强。清除工人型3只、军用型2只和特警型1只，为研究组建立完整的威胁记录。",
+        "击杀3只工人型巨槌感染者、2只军用型巨槌感染者和1只特警型巨槌感染者；三个目标可以并行完成，不限制具体副本。",
+        "三级巨槌感染者的活动数据已经完整。返回隔离研究主管处领取50,000 Hryvnia和2,000声望。"
+    ],
+    "ObjectiveText": "分别击杀工人型巨槌感染者3只、军用型2只、特警型1只",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 50000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        8
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 7101,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 7102,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 7103,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -1148045308,
+    "ReputationReward": 2000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

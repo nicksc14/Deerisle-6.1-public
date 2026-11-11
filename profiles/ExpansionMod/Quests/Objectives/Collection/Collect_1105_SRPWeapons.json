@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1105,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交指定的两把稀有近战武器（两种都要）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "SRP_KarambitKnife_Blue",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SRP_GladiusSword_Ornamental",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

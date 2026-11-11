@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 501,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交6个电压感染者头颅",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 6,
+            "ClassName": "AP_part_zmb_voltage_head",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

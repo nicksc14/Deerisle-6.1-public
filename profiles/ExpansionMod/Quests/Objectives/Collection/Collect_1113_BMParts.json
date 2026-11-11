@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1113,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交BM大型头部×2和BM手部×2（全部需要）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "BM_head_big",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 2,
+            "ClassName": "BM_hand",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

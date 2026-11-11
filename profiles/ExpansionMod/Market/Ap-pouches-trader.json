@@ -1,0 +1,597 @@
+{
+    "m_Version": 12,
+    "DisplayName": "新手 - AP弹袋",
+    "Icon": "Deliver",
+    "Color": "0094FFFF",
+    "InitStockPercent": 100.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "ap_bigpouch_mag_close_sand",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_bigpouch_mag_close_green",
+                "ap_bigpouch_mag_close_black",
+                "ap_bigpouch_mag_close_atacs",
+                "ap_bigpouch_mag_close_mc",
+                "ap_bigpouch_mag_close_ucp",
+                "ap_bigpouch_mag_close_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_bigpouch_mag_open_sand",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_bigpouch_mag_open_green",
+                "ap_bigpouch_mag_open_black",
+                "ap_bigpouch_mag_open_atacs",
+                "ap_bigpouch_mag_open_mc",
+                "ap_bigpouch_mag_open_ucp",
+                "ap_bigpouch_mag_open_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_bigpouch_utility_sand",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_bigpouch_utility_green",
+                "ap_bigpouch_utility_black",
+                "ap_bigpouch_utility_atacs",
+                "ap_bigpouch_utility_mc",
+                "ap_bigpouch_utility_ucp",
+                "ap_bigpouch_utility_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_platecarrierpouches_atacs",
+            "MaxPriceThreshold": 90000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_platecarrierpouches_mc",
+                "ap_platecarrierpouches_ucp",
+                "ap_platecarrierpouches_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_backpanel_mc",
+            "MaxPriceThreshold": 90000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_backpanel_green",
+                "ap_pouch_backpanel_black",
+                "ap_pouch_backpanel_sand",
+                "ap_pouch_backpanel_atacs",
+                "ap_pouch_backpanel_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_backpanel2_green",
+            "MaxPriceThreshold": 90000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_backpanel2_sand",
+                "ap_pouch_backpanel2_black",
+                "ap_pouch_backpanel2_atacs",
+                "ap_pouch_backpanel2_mc",
+                "ap_pouch_backpanel2_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_backpanel3_sand",
+            "MaxPriceThreshold": 90000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_backpanel3_green",
+                "ap_pouch_backpanel3_black",
+                "ap_pouch_backpanel3_atacs",
+                "ap_pouch_backpanel3_mc",
+                "ap_pouch_backpanel3_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_bl_big1",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ap_pouch_bl_big2_green",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_bl_big2_black",
+                "ap_pouch_bl_big2_flora"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_bl_grenade",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ap_pouch_bl_holster1",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_bl_holster2"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_bl_magp_sand",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_bl_magp_black"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_bl_sheath1",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_bl_sheath2",
+                "ap_pouch_bl_sheath3",
+                "ap_pouch_bl_sheath4"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_bl_small1_green",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_bl_small1_sand"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_bl_toolpouch",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ap_pouch_camelbag_sand",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_camelbag_green",
+                "ap_pouch_camelbag_black",
+                "ap_pouch_camelbag_mc",
+                "ap_pouch_camelbag_atacs",
+                "ap_pouch_camelbag_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_camelbag2_sand",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_camelbag2_green",
+                "ap_pouch_camelbag2_black"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_grenade_sand",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_grenade_sand2",
+                "ap_pouch_grenade_black",
+                "ap_pouch_grenade_green",
+                "ap_pouch_grenade_camo",
+                "ap_pouch_grenade_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_holster1_sand",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_holster1_green",
+                "ap_pouch_holster1_black"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_mag_1_sand",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_mag_1_sand2",
+                "ap_pouch_mag_1_black",
+                "ap_pouch_mag_1_green",
+                "ap_pouch_mag_1_camo",
+                "ap_pouch_mag_1_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_mag_2_sand",
+            "MaxPriceThreshold": 36000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_mag_2_sand2",
+                "ap_pouch_mag_2_black",
+                "ap_pouch_mag_2_green",
+                "ap_pouch_mag_2_camo",
+                "ap_pouch_mag_2_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_mag_3_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_mag_3_sand2",
+                "ap_pouch_mag_3_black",
+                "ap_pouch_mag_3_green",
+                "ap_pouch_mag_3_camo",
+                "ap_pouch_mag_3_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_mag_4_sand",
+            "MaxPriceThreshold": 54000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_mag_4_sand2",
+                "ap_pouch_mag_4_black",
+                "ap_pouch_mag_4_green",
+                "ap_pouch_mag_4_camo",
+                "ap_pouch_mag_4_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_magdrop_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_magdrop_sand2",
+                "ap_pouch_magdrop_black",
+                "ap_pouch_magdrop_green",
+                "ap_pouch_magdrop_camo",
+                "ap_pouch_magdrop_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_medical_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_medical_sand2",
+                "ap_pouch_medical_black",
+                "ap_pouch_medical_green",
+                "ap_pouch_medical_camo",
+                "ap_pouch_medical_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_medical2_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_medical2_green",
+                "ap_pouch_medical2_black",
+                "ap_pouch_medical2_mc",
+                "ap_pouch_medical2_emr",
+                "ap_pouch_medical2_atacs"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_rus_holster_emr",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_rus_holster_winter"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_rus_mag_emr",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_rus_mag_winter",
+                "ap_pouch_rus_mag_sand"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_rus_small_emr",
+            "MaxPriceThreshold": 27000,
+            "MinPriceThreshold": 22500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_rus_small_winter",
+                "ap_pouch_rus_small_sand"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_rus_suhar_emr",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_rus_suhar_winter",
+                "ap_pouch_rus_suhar_sand"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_universal_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_universal_sand2",
+                "ap_pouch_universal_black",
+                "ap_pouch_universal_green",
+                "ap_pouch_universal_camo",
+                "ap_pouch_universal_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_universal2_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_universal2_sand2",
+                "ap_pouch_universal2_black",
+                "ap_pouch_universal2_green",
+                "ap_pouch_universal2_camo",
+                "ap_pouch_universal2_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_universal3_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_universal3_sand2",
+                "ap_pouch_universal3_black",
+                "ap_pouch_universal3_green",
+                "ap_pouch_universal3_camo",
+                "ap_pouch_universal3_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_universal4_sand",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_universal4_sand2",
+                "ap_pouch_universal4_black",
+                "ap_pouch_universal4_green",
+                "ap_pouch_universal4_camo",
+                "ap_pouch_universal4_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_utility",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_utility_green",
+                "ap_pouch_utility_black"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_utility2_camo",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_utility2_sand",
+                "ap_pouch_utility2_sand2",
+                "ap_pouch_utility2_green",
+                "ap_pouch_utility2_black",
+                "ap_pouch_utility2_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_utility3_camo",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 37500,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_utility3_sand",
+                "ap_pouch_utility3_sand2",
+                "ap_pouch_utility3_green",
+                "ap_pouch_utility3_black",
+                "ap_pouch_utility3_white"
+            ]
+        },
+        {
+            "ClassName": "ap_pouch_rus_suhar_new_emr",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ap_pouch_rus_suhar_new_sand",
+                "ap_pouch_rus_suhar_new_winter"
+            ]
+        }
+    ]
+}

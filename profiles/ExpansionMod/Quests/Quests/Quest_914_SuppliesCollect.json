@@ -1,0 +1,78 @@
+{
+    "ConfigVersion": 22,
+    "ID": 914,
+    "Type": 1,
+    "Title": "城市废墟：上交医疗和生存物资",
+    "Descriptions": [
+        "我和前哨需要补给。去收集5卷绷带（品质要好）、3支吗啡、2罐培根罐头。城里废弃的医疗站和医院里都能找到。这也是对你生存能力的检验。",
+        "绷带去医院废墟最集中，吗啡散落在各医疗点。全岛各处医院里都有公共医疗物资箱不需要钥匙。另外翻东西的时候注意周围，丧尸会趁你翻箱子围过来。",
+        "数量刚好。AFAK是顶级野战手术套件——能做20次手术，远超你之前拿到的普通手术套件。Topoizomeraza注射器是治败血症的——用脏绷带反复处理伤口感染风险很高，这个就是解药。"
+    ],
+    "ObjectiveText": "上交5卷绷带、3支吗啡和2罐培根罐头",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TerjeFirstAidKitAdvance_Black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TerjeInjectorTopoizomeraza",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TerjePillsIbuprofen",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 914,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 250,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

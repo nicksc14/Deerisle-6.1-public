@@ -1,0 +1,24 @@
+{
+    "DisableAllCrashDamage": 1,
+    "MinCrashDamageSpeed": 300.0,
+    "SendCrashLogsToDiscord": 1,
+    "CrashWebhookURL": "",
+    "IgnoreVehicles": [
+        "Expansion_UH1H",
+        "civiliansedan",
+        "expansion_landrover",
+        "expansionbus",
+        "expansiontractor",
+        "expansionuaz",
+        "expansionuazroofless",
+        "expansionuazcargo",
+        "expansionuazcargoroofless",
+        "expansionvodnik",
+        "hatchback_02",
+        "jmc_atv_stag_white",
+        "offroad_02",
+        "offroadhatchback",
+        "sedan_02",
+        "truck_01_covered"
+    ]
+}

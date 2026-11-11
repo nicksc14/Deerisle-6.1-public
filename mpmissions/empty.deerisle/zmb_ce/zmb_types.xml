@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--Gil-Zombies-->
+    <type name="Gil_ZmbM_HermitSkinny">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Gil_ZmbM_armyofficer">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Gil_NBC_Green">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+<!--BM-Zombies-->
+    <type name="BM_zombie_psychopath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="BM_head_big">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="BM_head_small">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="BM_hand">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+<!--AP Zombies-->
+    <type name="AP_document_secret_voltage_cn">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_voltage_miltary">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_part_zmb_voltage_head">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_omon">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_ecolog_yellow">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_ecolog_orange">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_ecolog_blue">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_ecolog_grey">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_kamikaze">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_hlwn_jack">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_hlwn_grave">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_hlwn_guard_pumpkin">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_hlwn_guard_skull">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_maul_worker">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_maul_army">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_maul_swat">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+<!--Snork-->
+    <type name="SMCS_Snork">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="SMCS_Snork_Hard">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+<!--Donuts-zombies-->
+    <type name="Donuts_ZmbM_Doctor_No_Arms"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_Doctor_No_Arms2"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Armyofficer_No_Arms"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_Doctor_No_Legs"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Firefighter_No_Legs"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Firefighter_Ritual"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Bluecollar_No_Legs"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Fisherman_Ritual"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Farmer_Ritual"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_FarmerI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Clerk"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Ritual"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_ChefNoTshirt"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_OldMan"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_OldManI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_OldManII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_journalist"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_journalistII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_journalistIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbF_MilkMaidOld"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbF_MilkMaidOldI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbF_MilkMaidOldII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbF_MilkMaidOldIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Clown"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_ClownII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Devol"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_ZmbM_Chef"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_NBC"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_NBCI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_Padre"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_PadreI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_PadreII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_DoctorF"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_DoctorFI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_Clerk"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_CitizenF"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_CitizenFI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_HunterI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_FireFight"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_FireFigtI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_Constru"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_ConstruII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_ConstruIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_jogger"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_joggerII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_doctorIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_farmerIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_farmerIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_fishermanIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_hermitIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_usSoldierIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_usSoldierIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_HikerIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_ParamedicIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_ParamedicIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_CoverallsIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_CoverallsIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_CoverallsV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_CitizenIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_CitizenIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>   
+        <type name="Donuts_policewomanIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_policewomanIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_policewomanV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_policemanIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_policemanIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_policemanV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_paramedicIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_paramedicIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_paramedicV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_soldier_normalIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_soldier_normalV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_soldier_normalVI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+        <type name="Donuts_soldier_normalIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>  
+<!--     ZOMBIES UPDATA 11/04/2026          -->
+        <type name="Donuts_Zmb_HunterIII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_HunterIV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_Zmb_HunterV"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_HunterF"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_HunterFI"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_HunterFII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+<!--          VEST HUNTER            -->
+        <type name="Donuts_HunterVestWolf"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_HunterVestBear"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+<!--              POLICE                -->
+ <type name="Donuts_policewomanCherno"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policewomanChernoII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policewomanClothesBlack"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policewomanClothesBlackII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policewomanClothesCamufle"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policemanCherno"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policemanChernoII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policemanChernoClothesBlack"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policemanChernoClothesBlackII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policemanClothesCamufle"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="Donuts_policemanClothesCamufleII"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+<!--    ATTACHMENTS      FOR THE ZOMBIES        -->
+        <type name="Donuts_arrowHead"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_butcherHead"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_toolHead"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_arrowBack"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_arrowChest"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_holyAxeChest"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_CudgelZombieBack"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type> 
+        <type name="Donuts_MaczetaZombieChest"> 
+            <nominal>0</nominal>
+            <lifetime>1800</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+<!--Bloat Zombies-->
+        <type name="OMI_MobKF_Bloat_TrofeiHead">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHand">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHead_Alpha">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHand_Alpha">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHead_Toxic">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHand_Toxic">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHead_King">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_TrofeiHand_King">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_BloatBOSS_TrofeiSkull">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_Default">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_Alpha">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_Toxic">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_Toxic_small">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_King">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="OMI_MobKF_Bloat_EliteKing">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+<!--NY Mutants-->
+        <type name="NYMutant">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="NYBurningMutant">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="NYFreezingMutant">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+        <type name="NYMutantToxic">
+            <nominal>0</nominal>
+            <lifetime>3600</lifetime>
+            <restock>0</restock>
+            <min>0</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+
+<!--AP DUMMY - event-spawned infected-->
+    <type name="AP_zmb_armoredz">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_skinny1">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_skinny2">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_skinny3">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_fat1_1">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_fat1_2">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="AP_zmb_fat1_3">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>

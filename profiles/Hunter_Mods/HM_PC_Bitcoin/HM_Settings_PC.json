@@ -1,0 +1,7 @@
+{
+    "miningMultiplier": 0.000030499913625419,
+    "gpuDamagePerTick": 0.010787000060081482,
+    "boardDamagePerTick": 0.010469999819993973,
+    "psuDamagePerTick": 0.010929999098181726,
+    "consumptionPerTick": 0.00000849999671336263
+}

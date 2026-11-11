@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4203,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交Vaxicam、Zerivax和Rabivax疫苗安瓿各1支（全部需要并收走）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "TerjeAmpouleVaxicam",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "TerjeAmpouleZerivax",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "TerjeAmpouleRabivax",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

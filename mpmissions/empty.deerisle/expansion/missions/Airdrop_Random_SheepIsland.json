@@ -1,0 +1,28 @@
+{
+  "m_Version": 3,
+  "Enabled": 1,
+  "Weight": 1,
+  "MissionMaxTime": 1200,
+  "MissionName": "Random_SheepIsland",
+  "Difficulty": 0,
+  "Objective": 0,
+  "Reward": "",
+  "ShowNotification": 1,
+  "Height": 450,
+  "DropZoneHeight": 450,
+  "Speed": 25,
+  "DropZoneSpeed": 25,
+  "Container": "Random",
+  "FallSpeed": 4.5,
+  "DropLocation": {
+    "x": 12532.883,
+    "z": 3681.387,
+    "Name": "Sheep Island",
+    "Radius": 10
+  },
+  "Infected": [],
+  "ItemCount": -1,
+  "InfectedCount": -1,
+  "AirdropPlaneClassName": "",
+  "Loot": []
+}

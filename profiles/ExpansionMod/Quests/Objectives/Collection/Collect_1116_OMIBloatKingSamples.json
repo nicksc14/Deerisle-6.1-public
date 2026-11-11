@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1116,
+    "ObjectiveType": 4,
+    "ObjectiveText": "上交国王良子之首×1和国王良子之手×1（全部需要）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "OMI_MobKF_Bloat_TrofeiHead_King",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "OMI_MobKF_Bloat_TrofeiHand_King",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

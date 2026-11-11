@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 3,
+    "ClassName": "ExpansionQuestNPCQuinn",
+    "Position": [
+        10446.126953125,
+        3.953720998764038,
+        5636.912109375
+    ],
+    "Orientation": [
+        69.37865447998047,
+        0.0,
+        0.0
+    ],
+    "NPCName": "鹿岛幸存者向导",
+    "DefaultNPCText": "嘿，外来者。新手岛不是避风港，只是鹿岛给你的第一道门槛。想活下去就先把脚跟站稳；等你证明自己，我会把你介绍给交易区的老朋友。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_003_NoviceGuide_AP_PMC",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

@@ -1,0 +1,11 @@
+{
+    "IceAll": [
+        {
+            "qtyTempI": 150.0,
+            "qtyShockI": 14.0,
+            "radiusTempI": 20.0,
+            "radiusExplosionI": 20.0,
+            "freezeTimer": 5
+        }
+    ]
+}

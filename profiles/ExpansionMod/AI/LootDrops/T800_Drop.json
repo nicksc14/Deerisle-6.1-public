@@ -1,0 +1,299 @@
+[
+  {
+    "ClassName": "Snafu_pkp_Black_GUN",
+    "Chance": 0.1,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [
+      {
+        "SlotName": "",
+        "Items": [
+          {
+            "ClassName": "Snafu_pkp_250RND_Mag",
+            "Chance": 0.6,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          }
+        ]
+      }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "GCGN_M249",
+    "Chance": 0.1,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [
+      {
+        "SlotName": "",
+        "Items": [
+          {
+            "ClassName": "SNAFU_Trijicon",
+            "Chance": 1.0,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          },
+          {
+            "ClassName": "SNAFU_M249HG",
+            "Chance": 1.0,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          },
+          {
+            "ClassName": "SNAFU_M249Stock",
+            "Chance": 1.0,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          },
+          {
+            "ClassName": "SNAFU_M249Bipod",
+            "Chance": 1.0,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          },
+          {
+            "ClassName": "SNAFU_M249Grip",
+            "Chance": 1.0,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          },
+          {
+            "ClassName": "GCGN_M249_Mag",
+            "Chance": 1.0,
+            "Quantity": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Health": [
+              {
+                "Min": 0.7,
+                "Max": 1.0,
+                "Zone": ""
+              }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+          }
+        ]
+      }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Lipesinoff_Rev9_Head",
+    "Chance": 0.01,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Lipesinoff_Rev9_Mask",
+    "Chance": 0.01,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "Lipesinoff_Rev9_Body",
+    "Chance": 0.01,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "lipesinoff_Rev9_hands",
+    "Chance": 0.01,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "lipesinoff_Rev9_legs",
+    "Chance": 0.01,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "lipesinoff_Rev9_boots",
+    "Chance": 0.01,
+    "Quantity": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

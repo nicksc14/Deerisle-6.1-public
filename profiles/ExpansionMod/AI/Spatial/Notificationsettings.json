@@ -1,0 +1,16 @@
+{
+    "Version": 3,
+    "notification": [
+        {
+            "Spatial_Name": "Raiders",
+            "StartTime": 0,
+            "StopTime": 86400,
+            "AgeTime": 6600,
+            "MessageType": 0,
+            "MessageTitle": "null",
+            "MessageText": [
+                ""
+            ]
+        }
+    ]
+}

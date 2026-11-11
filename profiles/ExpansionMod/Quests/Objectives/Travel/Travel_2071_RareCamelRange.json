@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2071,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往长龄驼王活动区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [13139.492188, 36.731449, 2989.765381],
+    "MaxDistance": 800.0,
+    "MarkerName": "南部荒原｜驼王猎区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

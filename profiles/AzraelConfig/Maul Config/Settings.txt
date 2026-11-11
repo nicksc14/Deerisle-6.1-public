@@ -1,0 +1,179 @@
+Azrael Maul Infected
+1.3.1
+
+Path to Json-Config: $profile:\\AzraelConfig\\ZMB_MAUL_Config.json
+
+
+Конфиг содержит настройки для каждого класснейма зомби.
+The config contains settings for each zombie classname.
+
+
+"cfg_EnableDebug": 0,  // (0 - off, 1 - on)
+	- Включить/выключить дебаг лог
+	- Enable/disable debug log
+
+"====== 0. Zombies Settings ======"
+
+
+"cfg_ZombieClassname": "AP_zmb_maul_worker",  // (classname)
+	- Класснейм зомби, для которого применяются указанные настройки
+	- 
+	
+"///====== 1. Main Settings ======"
+
+"cfg_EnableSpecialAttack": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл специальную атаку
+	- Enable/Disable special attack
+
+"cfg_EnablePlayersDamage": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл урон от ударной волны для игроков
+	- Enable/Disable shockwave damage for players
+
+"cfg_EnableZombiesDamage": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл урон от ударной волны для зомби
+	- Enable/Disable shockwave damage for zombies
+
+"cfg_EnableAnimalsDamage": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл урон от ударной волны для животных
+	- Enable/Disable shockwave damage For animals
+
+"cfg_EnableCarsDamage": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл урон от ударной волны для транспорта
+	- Enable/Disable shockwave damage for vehicles
+
+"cfg_EnablePlayersImpulse": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл импульс от ударной волны для игроков
+	- Enable/Disable shockwave impulse for players
+
+"cfg_EnableZombiesImpulse": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл импульс от ударной волны для зомби
+	- Enable/Disable shockwave impulse for zombies
+
+"cfg_EnableAnimalsImpulse": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл импульс от ударной волны для животных
+	- Enable/Disable shockwave impulse for animals
+
+"cfg_EnableCarsImpulse": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл импульс от ударной волны для транспорта
+	- Enable/Disable shockwave impulse for vehicles
+
+"cfg_EnableDamageToSurvivorBots": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл воздействие специальной атаки для ботов
+	- Enables/disables the special attack for bots
+
+"cfg_AttackPlayerInCar": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл специальную атаку когда игрок в машине
+	- Enables/disables the special attack when the player is in a car
+
+"cfg_AttackOnlyIfTargetHigher": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл специальную атаку только когда игрок находится выше зомби
+	- Enables/disables the special attack only when the player is above the zombie
+
+"cfg_EnablePlayersBzzzSound": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл оглушение игрока
+	- Toggle player stun on/off
+
+
+"///====== 2. Attack Settings ======"
+
+"cfg_MinStartWaveDist": 15.0,  // (float, meters)
+	- Радиус поражения ударной волны
+	- Shockwave damage radius
+
+"cfg_TargetDistanceMin": 3,  // (int, meters)
+"cfg_TargetDistanceMax": 30,  // (int, meters)
+	- Мин. и макс. радиус, в котором зомби проверяет наличие противника для специальной атаки
+	- Min. and max. radius within which the zombie checks for an enemy for a special attack
+
+"cfg_AttackReloadTimeMin": 5,  // (int, seconds)
+"cfg_AttackReloadTimeMax": 8,  // (int, seconds)
+	- Мин. и макс. интервал между попытками произвести специальную атаку
+	- Min. and max. interval between special attack attempts
+
+"cfg_DamageHealthMin": 5.0,  // (float)
+"cfg_DamageHealthMax": 15.0,  // (float)
+	- Мин. и макс. урон по здоровью в зависимости от удаленности цели от эпицентра
+	- Min. and max. Health damage depending on the target's distance from the epicenter
+
+"cfg_DamageShockMin": 5.0,  // (float)
+"cfg_DamageShockMax": 15.0,  // (float)
+	- Мин. и макс. урон по шоку в зависимости от удаленности цели от эпицентра
+	- Min. and max. shock damage depending on the target's distance from the epicenter
+
+"cfg_HitImpulseMin": 7.0,  // (float)
+"cfg_HitImpulseMax": 10.0,  // (float)
+	- Мин. и макс. импульс зависимости от удаленности цели от эпицентра
+	- Min. and max. Impulse dependent on target distance from epicenter
+
+"cfg_DamagePlayersModif": 1.0,  // (float)
+	- Множитель урона для игроков
+	- Damage multiplier for players
+
+"cfg_DamageZombiesModif": 0.5,  // (float)
+	- Множитель урона для зомби
+	- Damage multiplier for zombies
+
+"cfg_DamageAnimalsModif": 1.0,  // (float)
+	- Множитель урона для животных
+	- Damage multiplier for animals
+
+"cfg_DamageCarsModif": 3.0,  // (float)
+	- Множитель урона для транспорта
+	- Damage multiplier for vehicles
+
+"cfg_ImpulseCarsModif": 0.5,  // (float)
+	- Множитель импульса для транспорта
+	- Impulse multiplier for vehicles
+
+"cfg_MinHeightTarget": 0.8,  // (float, meters)
+	- Минимальная разница по высоте между зомби и целью для возможности нанесения специальнйо атаки (только если включен cfg_AttackOnlyIfTargetHigher)
+	- Minimum height difference between a zombie and a target to perform a special attack (only if cfg_AttackOnlyIfTargetHigher is enabled)
+
+"cfg_ChanceOfCarEngineOff01": 0.5,  // (float, 0.0 - 0%, 1.0 - 100%)
+	- Вероятность того что двигатель машины заглохнет при получении урона от специальной атаки
+	- Chance of a car's engine stalling when damaged by a special attack
+
+"cfg_ChanceOfLegDamage01": 0.3,  // (float, 0.0 - 0%, 1.0 - 100%)
+	- Вероятность нанесения повышенного урона по ногам для игроков с целью сломать их
+	- Chance of inflicting increased damage to players' legs, with the goal of breaking them
+
+"///====== 3. Rage Mode Settings ======"
+
+"cfg_RageHealthStart01": 0.2,  // (float, 0.0 - 0%, 1.0 - 100%)
+	- Уровень здоровья зомби в процентах, при достижении которого он перейдет в режим ярости
+	- Zombie health percentage at which it enters Rage Mode
+
+"cfg_RageDamageModifier": 1.0,  // (float)
+	- Множиель урона в режим ярости
+	- Damage multiplier in Rage Mode
+
+"cfg_RageRadiusModifier": 1.0,  // (float)
+	- Множиель радиуса ударной волны в режим ярости
+	- Shockwave radius multiplier in Rage Mode
+
+"cfg_RageAttackReloadModifier": 1.0,  // (float)
+	- Множиель интервала между ударами в специальной атаке в режим ярости
+	- Interval between hits in a special attack in Rage Mode
+
+"///====== 4. Loot Settings ======"
+
+"cfg_ZmbMaulLoot": [
+	{
+		"cfg_loot_Name": "AP_melee_big_maul",  // класснейм предмета / item classname
+		"cfg_loot_Chance": 0.4000000059604645,  // 0.0-1.0 - шанс спавна предмета / chance of item spawn
+		"cfg_loot_IsStack": 0,  // имеет ли параметр количество (яблоко, швейный набор и тд) / does the parameter have a quantity (apple, sewing kit, etc.)
+		"cfg_loot_QuantityMin": 1,  // мин количество предметов/параметра количество // min number of items/parameter quantity
+		"cfg_loot_QuantityMax": 1,  // макс количество предметов/параметра количество // max number of items/parameter quantity
+		"cfg_loot_HealthMin": 0.30000001192092898,  // мин здоровье предмета // min health item
+		"cfg_loot_HealthMax": 0.699999988079071  // макс здоровье предмета // max health item
+	},
+	{
+		"cfg_loot_Name": "TacticalBaconCan_Opened",
+		"cfg_loot_Chance": 0.30000001192092898,
+		"cfg_loot_IsStack": 1,
+		"cfg_loot_QuantityMin": 10,
+		"cfg_loot_QuantityMax": 300,
+		"cfg_loot_HealthMin": 0.30000001192092898,
+		"cfg_loot_HealthMax": 0.699999988079071
+	}
+]

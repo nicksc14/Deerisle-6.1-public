@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 7,
+    "ClassName": "ExpansionQuestNPCDenis",
+    "Position": [
+        5626.381836,
+        88.838058,
+        3698.475342
+    ],
+    "Orientation": [
+        180.0,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "S.T.A.G. 前线行动官",
+    "DefaultNPCText": "机场战区就在楼下。这里只受理 Gerogetown 机场、武装敌对人员、变异感染体与污染区行动。确认装备和撤离路线后再签合同。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_007_STAGForward_FOG_MCB",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

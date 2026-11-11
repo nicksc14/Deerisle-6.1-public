@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 208,
+    "Type": 1,
+    "Title": "[周常] 铁角巨兽：荒野冲锋",
+    "Descriptions": [
+        "鹿岛捕猎协会记录到一头体型异常的巨型犀牛。它会主动冲击接近领地的生物，开阔地上的正面交火极其危险。公共猎区不会为任何猎人保留目标；通常2至3小时后才会再次出现。",
+        "前往标记的铁角猎区，在范围内搜寻并击杀1只“巨型犀牛｜铁角巨兽”，随后取下完整犀牛头战利品。",
+        "铁角巨兽已经倒下。带着完整犀牛头返回鹿岛捕猎协会负责人处，完成这份捕猎合同。"
+    ],
+    "ObjectiveText": "追踪并猎杀铁角巨兽，带回1件完整犀牛头",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [11],
+    "QuestTurnInIDs": [11],
+    "IsAchievement": 0,
+    "Objectives": [
+        {"ConfigVersion": 28, "ID": 2081, "ObjectiveType": 3},
+        {"ConfigVersion": 28, "ID": 2082, "ObjectiveType": 2},
+        {"ConfigVersion": 28, "ID": 2083, "ObjectiveType": 4}
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 1500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [215],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2063,
+    "ObjectiveType": 4,
+    "ObjectiveText": "剥取并携带1张完整黑豹皮",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {"Amount": 1, "ClassName": "PanterPelt", "QuantityPercent": -1, "MinQuantityPercent": -1}
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2093,
+    "ObjectiveType": 4,
+    "ObjectiveText": "取下并携带1件完整雪怪头颅",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {"Amount": 1, "ClassName": "yeti_Head", "QuantityPercent": -1, "MinQuantityPercent": -1}
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

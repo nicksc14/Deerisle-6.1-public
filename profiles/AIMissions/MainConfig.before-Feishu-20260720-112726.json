@@ -1,0 +1,1027 @@
+{
+    "Settings": [
+        {
+            "Config_Version": 4.0,
+            "Minimum_Players": 0,
+            "Bots_Timeout_Radius": 100,
+            "Bots_Timeout_Time": 200,
+            "Cleanup_Radius_Startup": 50,
+            "Cleanup_Radius_Running": 100,
+            "Cleanup_Time_Running": 600,
+            "Missions_Max_Concurrent": 5,
+            "Mission_Start_Delay": 300,
+            "Mission_Starting_Failed_Retry_Delay": 120,
+            "Mission_Time_Between": 1800,
+            "Mission_Time_Limit": 2700,
+            "Mission_Time_Extension_Limit": 900,
+            "Mission_Inner_Radius": 300,
+            "Mission_AI_Spawn_Radius": 200,
+            "Reward_Loot_Weapons_Minimum": 0,
+            "Reward_Loot_Weapons_Maximum": 0,
+            "Reward_Loot_Weapons_Multiplier": 0.0,
+            "Reward_Loot_Armour_Minimum": 0,
+            "Reward_Loot_Armour_Maximum": 0,
+            "Reward_Loot_Armour_Multiplier": 0.0,
+            "Reward_Loot_Misc_Minimum": 16,
+            "Reward_Loot_Misc_Maximum": 24,
+            "Reward_Loot_Misc_Multiplier": 1.0,
+            "Text_MissionTitle": "肃清AI据点",
+            "Notification_StartMessage": "Mission '%1' GOGOGO! 肃清威胁, 夺取物资!",
+            "Notification_WinMessage": "Mission '%1' 完成! Mission Completed!",
+            "Notification_LoseMessage": "Mission '%1' Time Out! 时间不够了！",
+            "Notification_Time": 10,
+            "Notification_Icon": "",
+            "Marker3D_LB_Path": "LBmaster_Groups\\gui\\icons\\player.paa",
+            "Markers_Icon": "DayZExpansion\\Core\\GUI\\icons\\misc\\T_Gun_256x256.edds",
+            "Markers_Show2D": 1,
+            "Markers_Show3D": 1,
+            "Markers_ColourAlpha": 255,
+            "Markers_ColourRed": 0,
+            "Markers_ColourGreen": 255,
+            "Markers_ColourBlue": 255,
+            "Markers_CircleRadius": 350,
+            "Debug_Logging_Enabled": 1,
+            "Debug_Disable_Notifications": 0,
+            "Debug_Disable_Markers": 0,
+            "Debug_Force_Win": 0,
+            "Debug_QuickMode": 0,
+            "Debug_Ignore_Player_Radius": 0
+        }
+    ],
+    "Missions": [
+        {
+            "Name": "建筑工地 正规军据点",
+            "Title": "建筑工地 正规军据点",
+            "Position": [
+                5288.45849609375,
+                19.25,
+                10740.158203125
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "GorkaLoadoutSnafu",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.2999999523162842,
+            "Bots_Damage_Taken_Multiplier": 0.6000000238418579,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Oldtown 正规军据点",
+            "Title": "Oldtown 正规军据点",
+            "Position": [
+                2000.6314697265626,
+                41.06669235229492,
+                9023.1611328125
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "GorkaLoadoutSnafu",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.2999999523162842,
+            "Bots_Damage_Taken_Multiplier": 0.6000000238418579,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Mi8_Crashed",
+                    "Scale": 1.0,
+                    "Position": [
+                        144.06399536132813,
+                        321.1470031738281,
+                        8068.35986328125
+                    ],
+                    "Rotation": [
+                        -69.11962890625,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "EastBrook 正规军据点",
+            "Title": "EastBrook 正规军据点",
+            "Position": [
+                10485.2353515625,
+                33.184200286865237,
+                8009.34765625
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "GorkaLoadoutSnafu",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.399999976158142,
+            "Bots_Damage_Taken_Multiplier": 0.5,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Starks Castle 堡垒军队",
+            "Title": "Starks Castle 堡垒军队",
+            "Position": [
+                5755.8740234375,
+                107.4647216796875,
+                2405.1435546875
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "GorkaLoadoutSnafu",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.600000023841858,
+            "Bots_Damage_Taken_Multiplier": 0.5,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Paristown 郊外部队",
+            "Title": "Paristown 郊外部队",
+            "Position": [
+                3475.631103515625,
+                31.498735427856447,
+                4829.8466796875
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "GorkaLoadoutSnafu",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.2000000476837159,
+            "Bots_Damage_Taken_Multiplier": 0.5,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Westbrook 正规军据点",
+            "Title": "Westbrook 正规军据点",
+            "Position": [
+                3337.70947265625,
+                27.463985443115236,
+                6850.34130859375
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "GorkaLoadoutSnafu",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.399999976158142,
+            "Bots_Damage_Taken_Multiplier": 0.5,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Powerplant 正规军",
+            "Title": "Powerplant 正规军",
+            "Position": [
+                4636.9296875,
+                20.52318572998047,
+                7072.162109375
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "Eastcloadout",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.600000023841858,
+            "Bots_Damage_Taken_Multiplier": 0.4000000059604645,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Waldoboro学校 正规军",
+            "Title": "Waldoboro学校 正规军",
+            "Position": [
+                8657.9892578125,
+                14.593729019165039,
+                8886.6787109375
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "Eastcloadout",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.100000023841858,
+            "Bots_Damage_Taken_Multiplier": 0.699999988079071,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Waldoboro 消防站正规军",
+            "Title": "Waldoboro 消防站正规军",
+            "Position": [
+                9274.96484375,
+                6.769618988037109,
+                9445.5009765625
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "Eastcloadout",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.100000023841858,
+            "Bots_Damage_Taken_Multiplier": 0.6000000238418579,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        },
+        {
+            "Name": "Portland 正规军据点",
+            "Title": "Portland 正规军据点",
+            "Position": [
+                6090.93212890625,
+                5.871199131011963,
+                14540.953125
+            ],
+            "Bots_Count_Minimum": 8,
+            "Bots_Count_Maximum": 10,
+            "Bots_Expansion_Loadout": "Eastcloadout",
+            "Bots_Range": 600,
+            "Bots_Accuracy": 0.800000011920929,
+            "Bots_Damage_Done_Multiplier": 1.5,
+            "Bots_Damage_Taken_Multiplier": 0.4000000059604645,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Allow_Helicopter_Reward": 0,
+            "Reward_Loot_Pool": "Default",
+            "Expansion_AI": {
+                "Faction": "Mercenaries",
+                "Speed": "WALK",
+                "UnderThreatSpeed": "SPRINT",
+                "DefaultStance": "STANDING",
+                "CanBeLooted": 1,
+                "LootDropOnDeath": "",
+                "UnlimitedReload": 1,
+                "AccuracyMin": -1.0,
+                "AccuracyMax": -1.0,
+                "ThreatDistanceLimit": -1.0,
+                "NoiseInvestigationDistanceLimit": 900.0,
+                "SniperProneDistanceThreshold": -1.0,
+                "MaxFlankingDistance": -1.0,
+                "EnableFlankingOutsideCombat": -1,
+                "HeadshotResistance": 0.0,
+                "LeashRadius": -1,
+                "LeashTimeout": -1,
+                "Units": []
+            },
+            "Static_Objects": []
+        }
+    ],
+    "RewardObjects": [
+        {
+            "Reward_Type": 1,
+            "ClassName": "HM_Bag",
+            "Replace_ClassName": "",
+            "Loot_Initial": [],
+            "Loot_Win": []
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "MBM_Sprinter_Orange",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "CarBattery",
+                "CarRadiator",
+                "MBM_Sprinter_Wheel_Orange",
+                "MBM_Sprinter_Wheel_Orange",
+                "MBM_Sprinter_Wheel_Orange",
+                "MBM_Sprinter_Wheel_Orange",
+                "MBM_Sprinter_doors_driver_Orange",
+                "MBM_Sprinter_doors_codriver_Orange",
+                "MBM_Sprinter_doors_cargo1_Orange",
+                "MBM_Sprinter_doors_cargo2_Orange",
+                "MBM_Sprinter_doors_cargo3_Orange"
+            ],
+            "Loot_Win": []
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "MBM_Sprinter_Gray",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "CarBattery",
+                "CarRadiator",
+                "MBM_Sprinter_Wheel_Gray",
+                "MBM_Sprinter_Wheel_Gray",
+                "MBM_Sprinter_Wheel_Gray",
+                "MBM_Sprinter_Wheel_Gray",
+                "MBM_Sprinter_doors_driver_Gray",
+                "MBM_Sprinter_doors_codriver_Gray",
+                "MBM_Sprinter_doors_cargo1_Gray",
+                "MBM_Sprinter_doors_cargo2_Gray",
+                "MBM_Sprinter_doors_cargo3_Gray"
+            ],
+            "Loot_Win": []
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "MBM_Sprinter_Red",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "CarBattery",
+                "CarRadiator",
+                "MBM_Sprinter_Wheel_Red",
+                "MBM_Sprinter_Wheel_Red",
+                "MBM_Sprinter_Wheel_Red",
+                "MBM_Sprinter_Wheel_Red",
+                "MBM_Sprinter_doors_driver_Red",
+                "MBM_Sprinter_doors_codriver_Red",
+                "MBM_Sprinter_doors_cargo1_Red",
+                "MBM_Sprinter_doors_cargo2_Red",
+                "MBM_Sprinter_doors_cargo3_GRed"
+            ],
+            "Loot_Win": []
+        },
+        {
+            "Reward_Type": 3,
+            "ClassName": "EXT_MH6_Green",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "ExpansionHelicopterBattery",
+                "ExpansionIgniterPlug"
+            ],
+            "Loot_Win": []
+        }
+    ],
+    "Loot": [
+        {
+            "Name": "Default",
+            "Weapons_Minimum": -1,
+            "Weapons_Maximum": -1,
+            "Weapons_Multiplier": -1.0,
+            "Armour_Minimum": -1,
+            "Armour_Maximum": -1,
+            "Armour_Multiplier": -1.0,
+            "Misc_Minimum": -1,
+            "Misc_Maximum": -1,
+            "Misc_Multiplier": -1.0,
+            "Weapons": [],
+            "Armour": [],
+            "Misc": [
+                {
+                    "ClassName": "Ammo_556x45",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_556x45Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x39",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x39Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x54",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x54Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_308Win",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_308WinTracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_545x39",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_545x39Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_556x45",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_556x45Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x39",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x39Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x54",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_762x54Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_308Win",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_308WinTracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_545x39",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Ammo_545x39Tracer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_Ammo_300ACC",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_Ammo_300blk",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_Ammo_338",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_Ammo_338",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "GCGN_Ammo_762x51",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_Ammo_46x30",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_Ammo_5_7x28mm",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_Ammo_127x55mm",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_STANAG_30Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_CMAG_40Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_STANAG_60Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_PMAG556_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_CMAG40556_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_CMAG60556_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SNAFU_CMAG60556_Tan",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_AKM_30Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_AKM_Drum75Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_AK74_30Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_FAL_20Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_SVD_10Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_Saiga_Drum20Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "GCGN_Mag_FAL_50Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SA58_DrumMag",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_STANAG_100Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_D60_60Rnd_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_D60_60Rnd_FDE",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_D60_300_60Rnd_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_AKM_Poly_60rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_AK_6L31_60rnd_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_9x39_60Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_545_Promag_73rnd_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_762_X47_50rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_M14_50rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_FALX_50rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_M60_100Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "AJW_Mag_PKM_200Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "GCGN_M249_Mag",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "A2MK48_Magazine",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_AK12_Drum_90rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_AKMod_762x54_65rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_DMR_556Stanag_100rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_DMR_556Pmag_100rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_DMR_762Stanag_40rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_MPX_Mag_60rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TTC_300Cmag_60rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_Expansion_MPX_50Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_Expansion_MP7_40Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "OS_Mag_Stanag_60Rnd_Round",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Mag_CMAG_20Rnd",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BandageDressing",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SalineBag",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Morphine",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Epinephrine",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BloodBagEmpty",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BloodTestKit",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "HM_MRE_01",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "HM_MRE_02",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "HM_MRE_03",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "HM_MRE_04",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "HM_WD40",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "HM_Bars_01",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "TacticalBaconCan",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Canteen",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "RGD5Grenade",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "WeaponCleaningKit",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "DuctTape",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "NailBox",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ]
+        }
+    ]
+}

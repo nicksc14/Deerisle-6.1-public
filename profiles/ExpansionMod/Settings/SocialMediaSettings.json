@@ -1,0 +1,16 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "有问题联系管理员或加游戏群",
+            "m_Text": "QQ群 1077849150"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Twitter",
+            "m_Icon": "set:brand image:x_twitter",
+            "m_URL": "https://www.google.com/"
+        }
+    ]
+}

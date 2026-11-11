@@ -1,0 +1,9 @@
+{
+    "version": "2",
+    "defibrillatorHealthLoss": 50.0,
+    "defibrillatorCanBeRepaired": 1,
+    "minTimeBeforeKillButton": 5,
+    "minTimeBeforePremiumKillButton": 5,
+    "minTimeBeforeKillWhenNoOtherPlayerIsOnline": 5,
+    "minTimeBeforePremiumKillWhenNoOtherPlayerIsOnline": 5
+}

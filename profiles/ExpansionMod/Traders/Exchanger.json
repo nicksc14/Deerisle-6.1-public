@@ -1,0 +1,22 @@
+{
+  "m_Version": 13,
+  "DisplayName": "货币交换机",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Exchange:1"
+  ],
+  "Items": {
+    "expansionbanknotehryvnia": 1,
+    "hm_plus_bitcoin": 1
+  }
+}

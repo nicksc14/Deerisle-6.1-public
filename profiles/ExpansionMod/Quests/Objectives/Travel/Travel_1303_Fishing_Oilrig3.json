@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1303,
+    "ObjectiveType": 3,
+    "ObjectiveText": "抵达三号钻井平台奖杯钓鱼区",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4136.0,
+        25.0,
+        15484.0
+    ],
+    "MaxDistance": 300.0,
+    "MarkerName": "三号钻井平台奖杯钓鱼区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

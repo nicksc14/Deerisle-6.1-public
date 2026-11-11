@@ -1,0 +1,18 @@
+{
+    "Blacklist": [
+        "Jmc_Keycard",
+        "Jmc_Keycard2",
+        "Jmc_Keycard3",
+        "STAG_PunchedCard",
+        "STAG_PunchedCard0",
+        "STAG_PunchedCard2",
+        "STAG_PunchedCard3"
+    ],
+    "AllowRuinedRepair": 0,
+    "TickRateMs": 5000,
+    "RepairAmount": 2.0,
+    "HealPlayerHP": 1.0,
+    "HealPlayerBlood": 20.0,
+    "HealPlayerWater": 20.0,
+    "HealPlayerEnergy": 20.0
+}

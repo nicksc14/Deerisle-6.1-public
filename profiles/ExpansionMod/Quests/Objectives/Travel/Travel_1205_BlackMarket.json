@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1205,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往黑市商人",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        13383.0,
+        12.91,
+        9869.0
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "黑市商人",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

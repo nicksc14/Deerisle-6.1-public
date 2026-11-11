@@ -1,0 +1,12 @@
+{
+    "LockPickChance": 0,
+    "Admins": [],
+    "LockPickTools": [
+        "Lockpick",
+        "Screwdriver"
+    ],
+    "EnableAutoLock": 0,
+    "AutoLockDistance": 500,
+    "EnablePasswordSharing": 1,
+    "EnablePlayerDataTracking": 1
+}

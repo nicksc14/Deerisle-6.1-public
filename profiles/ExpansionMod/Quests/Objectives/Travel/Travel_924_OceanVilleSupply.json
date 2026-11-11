@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 924,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往OceanVille公共补给点",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [10252.300, 44.054, 4909.370],
+    "MaxDistance": 20.0,
+    "MarkerName": "OceanVille公共补给点",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

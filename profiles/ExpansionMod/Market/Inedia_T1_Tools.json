@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Inedia T1 基础医疗工具",
+  "Icon": "Deliver",
+  "Color": "63C7FFFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "InediaPain_HemostaticDressing",
+      "MaxPriceThreshold": 67500,
+      "MinPriceThreshold": 67500,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_SurgicalKit",
+      "MaxPriceThreshold": 270000,
+      "MinPriceThreshold": 270000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_SplintKit",
+      "MaxPriceThreshold": 135000,
+      "MinPriceThreshold": 135000,
+      "SellPricePercent": 1.5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

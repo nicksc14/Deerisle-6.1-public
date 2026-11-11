@@ -1,0 +1,15 @@
+{
+    "BurnAll": [
+        {
+            "qtyTemp": 500.0,
+            "qtyShock": 7.0,
+            "qtyDmg": 6.0,
+            "woundProtection": 60,
+            "woundChance": 20.0,
+            "woundChanceProtetto": 5.0,
+            "radiusTemp": 10.0,
+            "dmgExplosion": 100.0,
+            "radiusExplosion": 10.0
+        }
+    ]
+}

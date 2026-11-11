@@ -1,0 +1,35 @@
+{
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Fishing",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Fish:1",
+    "Fishing:1"
+  ],
+  "Items": {
+    "ap_fishing_bait_bread": 0,
+    "ap_fishing_bait_cheese": 0,
+    "ap_fishing_bait_corn": 0,
+    "ap_fishing_bait_meat": 0,
+    "ap_fishing_bait_cricket": 0,
+    "ap_fishing_bait_grasshopper": 0,
+    "ap_fishing_bait_boilies": 0,
+    "ap_fishing_bait_boilies_pack": 0,
+    "ap_fishing_rod_common": 0,
+    "ap_fishing_reel_common": 0,
+    "ap_fishing_line_1": 0,
+    "ap_fishing_hook_a": 0,
+    "ap_fishing_line_2": 0,
+    "ap_fishing_hook_b": 0
+  }
+}

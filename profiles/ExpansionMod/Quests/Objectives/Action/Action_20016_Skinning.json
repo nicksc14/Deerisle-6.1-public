@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20016,
+    "ObjectiveType": 10,
+    "ObjectiveText": "对任务要求的动物完成5次剥皮",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+        "Animal_OvisAries",
+        "Animal_OvisAriesF",
+        "Animal_CervusElaphus",
+        "Animal_CervusElaphusF",
+        "Animal_CapreolusCapreolus",
+        "Animal_CapreolusCapreolusF",
+        "Animal_BosTaurus_Brown",
+        "Animal_BosTaurus_Spotted",
+        "Animal_BosTaurus_White",
+        "Animal_BosTaurusF_Brown",
+        "Animal_BosTaurusF_Spotted",
+        "Animal_BosTaurusF_White",
+        "Animal_SusDomesticus"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 5
+}

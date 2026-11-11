@@ -1,0 +1,51 @@
+{
+  "m_Version": 12,
+  "DisplayName": "新手 - AP水壶",
+  "Icon": "Deliver",
+  "Color": "0094FFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ap_canteen_sov",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_canteen_sov_camo"
+      ]
+    },
+    {
+      "ClassName": "ap_canteen_us_sand",
+      "MaxPriceThreshold": 13800,
+      "MinPriceThreshold": 11400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_canteen_us_sand2",
+        "ap_canteen_us_black",
+        "ap_canteen_us_green",
+        "ap_canteen_us_camo",
+        "ap_canteen_us_white"
+      ]
+    },
+    {
+      "ClassName": "ap_canteen_us2",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

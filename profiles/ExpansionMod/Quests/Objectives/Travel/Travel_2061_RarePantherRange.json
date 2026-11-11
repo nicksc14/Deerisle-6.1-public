@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2061,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往夜幕猎王活动区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [13555.557617, 31.429253, 6255.710938],
+    "MaxDistance": 800.0,
+    "MarkerName": "黑沼林缘｜黑豹猎区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

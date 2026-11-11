@@ -1,0 +1,27 @@
+{
+    "ConfigVersion": 3,
+    "FormalContractId": "DEERISLE61_FORMAL_WORKBENCH_V1",
+    "DebugMode": 0,
+    "UseElectric": 0,
+    "PowerCost": 0.5,
+    "WorkbenchesClassnames": [
+        "HP_Crafter"
+    ],
+    "ExperiencePerItem": {
+        "Nail": 0.800000011920929,
+        "WoodenStick": 0.5,
+        "MetalPlate": 2.0,
+        "WoodenLog": 1.5
+    },
+    "DefaultExperienceItem": 1.0,
+    "ResourceSaverReturnMultiplier": 1.5,
+    "MaxBulkCraftQty": 25,
+    "MaxCraftDistance": 3.0,
+    "MinCraftTime": 1.0,
+    "MaxCraftTime": 3600.0,
+    "MaxResultCount": 1000,
+    "DisassembleBaseHealthLoss": 0.15000000596046449,
+    "DisassembleFailHealthLoss": 0.15000000596046449,
+    "DisassembleBaseYield": 0.5,
+    "CraftBaseLossOnFail": 0.30000001192092898
+}

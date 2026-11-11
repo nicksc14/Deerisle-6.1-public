@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1204,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往跑刀T5监狱岛进入传送点",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2547.07470703125,
+        35.09999084472656,
+        3529.933349609375
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "跑刀T5监狱岛进入传送点",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

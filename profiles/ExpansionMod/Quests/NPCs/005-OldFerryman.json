@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 6,
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCOliver",
+    "Position": [9780.095703, 13.731700, 4327.179688],
+    "Orientation": [122.556396, 0.000000, -0.000000],
+    "NPCName": "老摆渡人",
+    "DefaultNPCText": "哈，又来个想过海的。我在这条水路上跑了二十年，鹿岛沉了之后还在跑的，大概只剩我了。想搭船？先证明你不是累赘。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_005_OldFerryman_AP_Black",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "",
+    "NPCType": 0,
+    "Active": 1
+}

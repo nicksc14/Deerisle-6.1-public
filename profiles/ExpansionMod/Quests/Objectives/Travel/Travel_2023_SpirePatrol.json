@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2023,
+    "ObjectiveType": 3,
+    "ObjectiveText": "巡检Spire联络点",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5223.37,
+        1.57,
+        9303.17
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "Spire联络点",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

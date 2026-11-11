@@ -1,0 +1,7 @@
+{
+    "MagazineAndBulletDamageActive": 1,
+    "MagLoaderBoxDamagePercentOnUse": 0.009999999776482582,
+    "MagLoaderBoxEnergyConsumedOnUse": 3.0,
+    "ReloadTimeSecondsPerBullet": 0.5,
+    "UnloadTimeSecondsPerBullet": 0.5
+}

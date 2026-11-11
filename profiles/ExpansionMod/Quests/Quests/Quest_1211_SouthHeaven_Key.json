@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1211,
+    "Type": 1,
+    "Title": "T1—T5 跑刀传送钥匙",
+    "Descriptions": [
+        "你已获得 T1—T5 分级区域的访问资格。前往地图标记的 T2 天堂南岛进入点；进入标记范围后任务会自动完成，并由任务系统直接发放一把跑刀传送钥匙。该钥匙用于各区域的进入与撤离，每次传送损耗 25% 耐久；各级设施访问卡只用于开启对应 Tier 的 BS KeyRoom。",
+        "前往地图标记的 T2 天堂南岛进入点，进入标记范围即可自动完成任务并获得跑刀传送钥匙。无需在地面寻找钥匙，也无需返回 NPC。",
+        "已抵达 T2 天堂南岛进入点。任务系统已发放一把跑刀传送钥匙：可用于各区域的进入与撤离，每次传送损耗 25% 耐久。"
+    ],
+    "ObjectiveText": "前往 T2 天堂南岛进入点，取得跑刀传送钥匙",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "CJ_Key4",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1202,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

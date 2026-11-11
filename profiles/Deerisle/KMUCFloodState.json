@@ -1,0 +1,9 @@
+{
+    "INFO_DO_NOT_CHANGE": "ONLY change Enabled, DrainTime and FloodTime. Leave the rest as is!",
+    "KMUCWaterEnabled": 1,
+    "DrainTimeMins": 25.0,
+    "FloodTimeMins": 45.0,
+    "IsFlooded": 1,
+    "IsMoving": 0,
+    "CurrentHeight": 223.3780059814453
+}

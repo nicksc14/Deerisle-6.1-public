@@ -1,0 +1,796 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG - 零件",
+  "Icon": "Gas Mask",
+  "Color": "FFD800FF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_airframe_cover_black",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_airframe_cover_cb",
+        "fog_airframe_cover_mc",
+        "fog_airframe_cover_mcb",
+        "fog_airframe_cover_rg",
+        "fog_airframe_cover_alp",
+        "fog_airframe_cover_aor1",
+        "fog_airframe_cover_aor2"
+      ]
+    },
+    {
+      "ClassName": "fog_amp_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_amp_mc",
+        "fog_amp_tan",
+        "fog_amp_mcb",
+        "fog_amp_mcbt"
+      ]
+    },
+    {
+      "ClassName": "fog_amp_headset_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_amp_headset_tan",
+        "fog_amp_headset_grey",
+        "fog_amp_headset_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_arcteryx_balaclava_cb",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_arcteryx_balaclava_rg",
+        "fog_arcteryx_balaclava_grey",
+        "fog_arcteryx_balaclava_black",
+        "fog_arcteryx_balaclava_white"
+      ]
+    },
+    {
+      "ClassName": "fog_avonm53_clear",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_avonm53_black",
+        "fog_avonm53_red"
+      ]
+    },
+    {
+      "ClassName": "fog_beard_handlebar_brown",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_beard_handlebar_lightbrown",
+        "fog_beard_handlebar_black",
+        "fog_beard_handlebar_grey"
+      ]
+    },
+    {
+      "ClassName": "fog_big_patch_fogonia",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_killcell",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_meltyboys",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_us_colored",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_big_patch_redman",
+        "fog_big_patch_fog_cc",
+        "fog_big_patch_crimeco",
+        "fog_big_patch_us_mc_ir",
+        "fog_big_patch_uk_colored",
+        "fog_big_patch_us_ir",
+        "fog_big_patch_fog_bb",
+        "fog_big_patch_fog_bb_emb",
+        "fog_big_patch_jtac",
+        "fog_big_patch_fbi",
+        "fog_big_patch_medic",
+        "fog_big_patch_shaka",
+        "fog_big_patch_sog",
+        "fog_big_patch_tacp",
+        "fog_big_patch_fogonia",
+        "fog_big_patch_killcell",
+        "fog_big_patch_meltyboys",
+        "fog_big_patch_buccees",
+        "fog_big_patch_tummyhurt",
+        "fog_big_patch_jfk"
+      ]
+    },
+    {
+      "ClassName": "fog_big_patch_us_ir",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_boltcutters",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_boonie_black",
+      "MaxPriceThreshold": 17400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_boonie_mc",
+        "fog_boonie_mcb",
+        "fog_boonie_aor1",
+        "fog_boonie_aor2",
+        "fog_boonie_m81",
+        "fog_boonie_grey",
+        "fog_boonie_khk",
+        "fog_boonie_rg",
+        "fog_boonie_cb"
+      ]
+    },
+    {
+      "ClassName": "fog_c420papr_filter",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_comtac_iv_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac_iv_cb",
+        "fog_comtac_iv_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_comtac3_headphones_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac3_headphones_aj",
+        "fog_comtac3_headphones_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_comtac3_headphones_cb",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac3_headphones_fg",
+        "fog_comtac3_headphones_rg_01",
+        "fog_comtac3_headphones_rg_xpi",
+        "fog_comtac3_headphones_rg_spray",
+        "fog_comtac3_headphones_cb_velcro",
+        "fog_comtac3_headphones_rg_velcro",
+        "fog_comtac3_headphones_fg_velcro",
+        "fog_comtac3_headphones_tan_velcro",
+        "fog_comtac3_headphones_black_velcro"
+      ]
+    },
+    {
+      "ClassName": "fog_comtac3_headset_rg",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac3_headset_cb",
+        "fog_comtac3_headset_aj",
+        "fog_comtac3_headset_rg_01",
+        "fog_comtac3_headset_rg_spray",
+        "fog_comtac3_headset_rg_xpi",
+        "fog_comtac3_headset_fg",
+        "fog_comtac3_headset_black",
+        "fog_comtac3_headset_cb_velcro",
+        "fog_comtac3_headset_rg_velcro",
+        "fog_comtac3_headset_fg_velcro",
+        "fog_comtac3_headset_tan_velcro",
+        "fog_comtac3_headset_black_velcro"
+      ]
+    },
+    {
+      "ClassName": "fog_comtac4_headset_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac4_headset_tan",
+        "fog_comtac4_headset_grey",
+        "fog_comtac4_headset_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_dr_tomahawk_standard",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_dripclava_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_dripclava_grey",
+        "fog_dripclava_white",
+        "fog_dripclava_rg",
+        "fog_dripclava_cb",
+        "fog_dripclava_tan",
+        "fog_dripclava_tan449",
+        "fog_dripclava_red",
+        "fog_dripclava_purple",
+        "fog_dripclava_lime",
+        "fog_dripclava_lblue",
+        "fog_dripclava_mc",
+        "fog_dripclava_lv",
+        "fog_dripclava_lvsupreme"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_cover_mc",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fastmt_cover_mcb",
+        "fog_fastmt_cover_aor1",
+        "fog_fastmt_cover_aor2",
+        "fog_fastmt_cover_alp",
+        "fog_fastmt_cover_rg",
+        "fog_fastmt_cover_black"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_mandable_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fastmt_mandable_tan",
+        "fog_fastmt_mandable_mc",
+        "fog_fastmt_mandable_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_rac_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fastmt_rac_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_rac_tan",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_fc_torus_battpack_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fc_torus_battpack_mcb",
+        "fog_fc_torus_battpack_mc",
+        "fog_fc_torus_battpack_cb",
+        "fog_fc_torus_battpack_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_fleececap_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fleececap_grey",
+        "fog_fleececap_cb",
+        "fog_fleececap_rg",
+        "fog_fleececap_white"
+      ]
+    },
+    {
+      "ClassName": "fog_ghost_headset_tan",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_ghost_mask_new",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghost_mask_black",
+        "fog_ghost_mask_black_white",
+        "fog_ghost_mask_black_gold",
+        "fog_ghost_mask_tan",
+        "fog_ghost_mask_red",
+        "fog_ghost_mask_red_gold",
+        "fog_ghost_mask_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_glasses_ess_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_glasses_ess_fde"
+      ]
+    },
+    {
+      "ClassName": "fog_glasses_pitviper_sunkist",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_glasses_pitviper_gold",
+        "fog_glasses_pitviper_murica",
+        "fog_glasses_pitviper_brights",
+        "fog_glasses_pitviper_tropics",
+        "fog_glasses_pitviper_yellow",
+        "fog_glasses_pitviper_red"
+      ]
+    },
+    {
+      "ClassName": "fog_halfmask_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_halfmask_grey",
+        "fog_halfmask_white",
+        "fog_halfmask_rg",
+        "fog_halfmask_cb"
+      ]
+    },
+    {
+      "ClassName": "fog_hmtl_light_tan",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_hmtl_light_black",
+        "fog_hmtl_light_twotone"
+      ]
+    },
+    {
+      "ClassName": "fog_hooded_cloak_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_hooded_cloak_grey",
+        "fog_hooded_cloak_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_ir_marker",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_m32_headset_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_m32_headset_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_m32_helmet_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_m32_helmet_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_m50_gasmask_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "fog_c420papr_filter"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_manta_strobe_tan",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_mohoc",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_mustache_brown",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_navboard",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_opscore_sotr",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_placard_paraclete_mc",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_ronin_hat",
+      "MaxPriceThreshold": 10800,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ronin_hat_black"
+      ]
+    },
+    {
+      "ClassName": "fog_sf_batterypack_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_sf_batterypack_tan",
+        "fog_sf_batterypack_rg",
+        "fog_sf_batterypack_mc",
+        "fog_sf_batterypack_mcb"
+      ]
+    },
+    {
+      "ClassName": "fog_sf_cover_mc",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_sf_cover_mcb",
+        "fog_sf_cover_black",
+        "fog_sf_cover_aor1",
+        "fog_sf_cover_aor2",
+        "fog_sf_cover_cb",
+        "fog_sf_cover_rg",
+        "fog_sf_cover_mca",
+        "fog_sf_cover_mcal",
+        "fog_sf_cover_mct",
+        "fog_sf_cover_m81"
+      ]
+    },
+    {
+      "ClassName": "fog_small_patch_us_ir",
+      "MaxPriceThreshold": 33600,
+      "MinPriceThreshold": 33600,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_small_patch_us_ir_damaged",
+        "fog_small_patch_us_subdued",
+        "fog_small_patch_uk_subdued"
+      ]
+    },
+    {
+      "ClassName": "fog_sniperhood_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_sniperhood_rg",
+        "fog_sniperhood_cb",
+        "fog_sniperhood_grey",
+        "fog_sniperhood_mc",
+        "fog_sniperhood_mc_black",
+        "fog_sniperhood_mcb",
+        "fog_sniperhood_mct",
+        "fog_sniperhood_mcal",
+        "fog_sniperhood_m81"
+      ]
+    },
+    {
+      "ClassName": "fog_socom_slammer_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_softcap_mc",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 9900,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_strongarm_knife",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_watchcap_black",
+      "MaxPriceThreshold": 50400,
+      "MinPriceThreshold": 42000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_watchcap_grey",
+        "fog_watchcap_red",
+        "fog_watchcap_cb",
+        "fog_watchcap_rg",
+        "fog_watchcap_tan",
+        "fog_watchcap_white"
+      ]
+    }
+  ]
+}

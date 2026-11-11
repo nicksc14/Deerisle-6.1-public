@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5112,
+    "Type": 1,
+    "Title": "枯林·捕猎协会2",
+    "Descriptions": [
+        "捕猎协会第2阶段：全图击杀2只黑豹｜夜幕猎王，并缴交1件非毁坏状态的珍稀黑豹皮。本阶段仅统计接取后的符合条件击杀。完成后返回战备军需官，领取本阶段固定部件。证物可从对应猎物剥解获得，交付时会被消耗。亲自剥取可用兽皮需学习狩猎技能中的皮匠一级；毁坏兽皮不能交付。",
+        "当前目标：全图击杀2只黑豹｜夜幕猎王，并缴交1件非毁坏状态的珍稀黑豹皮。满足条件后返回战备军需官提交。",
+        "目标已完成。提交任务后领取本阶段的固定套装部件；本任务每个玩家存档只能完成一次。"
+    ],
+    "ObjectiveText": "全图击杀2只黑豹｜夜幕猎王，并缴交1件非毁坏状态的珍稀黑豹皮",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TNRJ_Dreadwood_Boots",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TNRJ_Dreadwood_Gloves",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        12
+    ],
+    "QuestTurnInIDs": [
+        12
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 51121,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 51122,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        5111
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

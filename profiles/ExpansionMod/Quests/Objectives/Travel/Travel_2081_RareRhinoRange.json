@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2081,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往铁角巨兽活动区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [3718.496094, 11.404812, 9709.746094],
+    "MaxDistance": 800.0,
+    "MarkerName": "西部湿原｜巨犀猎区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1210,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往新手区船只商店",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7786.0,
+        2.68,
+        6831.0
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "新手区船只商店",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

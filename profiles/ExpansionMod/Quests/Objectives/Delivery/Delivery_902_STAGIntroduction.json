@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 902,
+    "ObjectiveType": 5,
+  "ObjectiveText": "将联络信交给中心交易区的S.T.A.G.工业首席安全官",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItemPaper",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 20.0,
+  "MarkerName": "中心交易区S.T.A.G.工业首席安全官"
+}

@@ -1,0 +1,43 @@
+{
+    "ConfigVersion": 28,
+    "ID": 922,
+    "ObjectiveType": 4,
+    "ObjectiveText": "任选上交1罐原装饮料",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "SodaCan_Pipsi",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SodaCan_Cola",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SodaCan_Spite",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SodaCan_Kvass",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SodaCan_Fronta",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

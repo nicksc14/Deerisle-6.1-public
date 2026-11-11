@@ -1,0 +1,16 @@
+{
+    "LootItems": [
+        {
+            "ItemType": "Heatpack",
+            "Chance": 50
+        },
+        {
+            "ItemType": "QPK_PoltergeystCollection",
+            "Chance": 100
+        },
+        {
+            "ItemType": "SmallStone",
+            "Chance": 100
+        }
+    ]
+}

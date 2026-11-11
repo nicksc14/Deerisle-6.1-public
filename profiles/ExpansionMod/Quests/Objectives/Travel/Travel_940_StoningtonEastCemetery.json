@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 940,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Stonington东部墓地",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8388.091797,
+        29.154806,
+        2173.209717
+    ],
+    "MaxDistance": 80.0,
+    "MarkerName": "Stonington东部墓地",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,50 @@
+{
+    "CantBeDamagedOnGround": [],
+    "CantBeDamagedInPvE": [],
+    "CantBeDamagedInPvP": [],
+    "SZItemWhiteList": [],
+    "NBItemWhiteList": [],
+    "DisallowedVehicles": [
+        "Transport",
+        "ExpansionHelicopterScript",
+        "RFFSHeli_base",
+        "CarScript"
+    ],
+    "BypassZoneChecksGrenades": [
+        "DLT_Paintball_Grenade_Ammo",
+        "DLT_Paintball_Grenade_Ammo_Small",
+        "DLT_Paintball_Grenade_Pink",
+        "DLT_Paintball_Grenade_Green",
+        "DLT_Paintball_Grenade_Orange",
+        "DLT_Paintball_Grenade_Blue",
+        "DLT_Paintball_GrenadeSmall_Pink",
+        "DLT_Paintball_GrenadeSmall_Blue",
+        "DLT_Paintball_GrenadeSmall_Orange",
+        "DLT_Paintball_GrenadeSmall_Green"
+    ],
+    "PvEBlockedExplosivesDamage": [
+        "ExplosivesBase",
+        "Ammo_40mm_Base",
+        "Expansion_C4_Explosion",
+        "Expansion_RPG_Explosion",
+        "Expansion_LAW_Explosion",
+        "Land_FuelStation_Feed",
+        "Land_FuelStation_Feed_Enoch",
+        "Expansion_M203",
+        "LargeGasCanister",
+        "M67Grenade"
+    ],
+    "BlockDeployIfPlayerInPvEState": [],
+    "BlockDeployIfPlayerInPvPState": [],
+    "BlockDeployIfPlayerInRaidState": [],
+    "AllowedAmmoInPvEState": [],
+    "AllowedAmmoInPaintBallState": [
+        "DLT_Bullet_Paintball_Orange",
+        "DLT_Bullet_Paintball_Blue",
+        "DLT_Bullet_Paintball_Green",
+        "DLT_Bullet_Paintball_Pink"
+    ],
+    "AllowedTrapsInPvE": [],
+    "CreateZoneWhenItemSpawned": {},
+    "CreateZoneWhenZombieSpawned": {}
+}

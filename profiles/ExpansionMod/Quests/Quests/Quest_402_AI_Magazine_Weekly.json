@@ -1,0 +1,136 @@
+{
+  "ConfigVersion": 22,
+  "ID": 402,
+  "Type": 1,
+  "Title": "[周常] 战地弹匣补给",
+  "Descriptions": [
+    "机场前线行动官：每周完成一份战地合同，就能按手里的武器领取一份弹匣补给。带上合用的弹匣，再去迎接下一场战斗。",
+    "在鹿岛任意区域累计击杀100名AI，野外与副本均可计数。完成后九选一领取弹匣补给，每份一件。不同枪型的弹匣并不通用，请按武器选择。",
+    "战果已核验，请任选一件：AJW、SNAFU、TTC的100发5.56弹鼓；原版60发STANAG、原版75发AKM；SNAFU75发5.45、TTC90发AK12；AJW200发PKM、TTC65发MAK-54。只发放所选弹匣，不奖励金币或声望。"
+  ],
+  "ObjectiveText": "击杀100名AI，九选一领取弹匣补给",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "AJW_Mag_STANAG_100Rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "SNAFU_BMAG556_Black",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "TTC_DMR_556Stanag_100rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "Mag_STANAG_60Rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "Mag_AKM_Drum75Rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "SNAFU_RPK16_Black_Mag",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "TTC_AK12_Drum_90rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "AJW_Mag_PKM_200Rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    },
+    {
+      "ClassName": "TTC_AKMod_762x54_65rnd",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    }
+  ],
+  "NeedToSelectReward": 1,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    7
+  ],
+  "QuestTurnInIDs": [
+    7
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 401,
+      "ObjectiveType": 2
+    }
+  ],
+  "QuestColor": -1148045308,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

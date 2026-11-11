@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 923,
+    "Type": 1,
+    "Title": "Smallville路况勘察",
+    "Descriptions": [
+        "Smallville是OceanVille西南方向的重要路标。先去确认道路和建筑分布，以后转移时会轻松很多。",
+        "前往Smallville中心区域，进入标记范围即可完成。",
+        "Smallville路线已记录。这是导航任务，不发放额外奖励。"
+    ],
+    "ObjectiveText": "前往Smallville中心区域",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [4],
+    "QuestTurnInIDs": [4],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 923,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="HM_Bars_01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Bars_02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Bars_03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Bars_04">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Bars_05">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Bars_06">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Burn">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Cheetos_01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Cheetos_02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Cheetos_03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Cola">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Cola_Light">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Heineken">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_JD">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Lays_01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Lays_02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Lays_03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Monster_Energy">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Mr_Coffee">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_MRE_01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_MRE_02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_MRE_03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_MRE_04">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Pringles_01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Pringles_02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Pringles_03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Redbull">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Rush">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Snacks_01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Snacks_02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Snacks_03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Snacks_04">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="HM_Tornado">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+</types>

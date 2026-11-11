@@ -1,0 +1,1368 @@
+{
+  "Settings": [
+    {
+      "Config_Version": 4.0,
+      "Minimum_Players": 1,
+      "Bots_Timeout_Radius": 400,
+      "Bots_Timeout_Time": 8,
+      "Cleanup_Radius_Startup": 50,
+      "Cleanup_Radius_Running": 100,
+      "Cleanup_Time_Running": 600,
+      "Missions_Max_Concurrent": 3,
+      "Mission_Start_Delay": 420,
+      "Mission_Starting_Failed_Retry_Delay": 120,
+      "Mission_Time_Between": 1800,
+      "Mission_Time_Limit": 2700,
+      "Mission_Time_Extension_Limit": 900,
+      "Mission_Inner_Radius": 300,
+      "Mission_AI_Spawn_Radius": 650,
+      "Reward_Loot_Weapons_Minimum": 0,
+      "Reward_Loot_Weapons_Maximum": 0,
+      "Reward_Loot_Weapons_Multiplier": 0.0,
+      "Reward_Loot_Armour_Minimum": 0,
+      "Reward_Loot_Armour_Maximum": 0,
+      "Reward_Loot_Armour_Multiplier": 0.0,
+      "Reward_Loot_Misc_Minimum": 0,
+      "Reward_Loot_Misc_Maximum": 0,
+      "Reward_Loot_Misc_Multiplier": 0.0,
+      "Text_MissionTitle": "AI据点任务",
+      "Notification_StartMessage": "AI 据点 '%1' 已被发现：肃清守军并夺取物资。",
+      "Notification_WinMessage": "AI 据点 '%1' 已肃清，奖励箱现已开放。",
+      "Notification_LoseMessage": "AI 据点 '%1' 行动超时，任务已撤销。",
+      "Notification_Time": 10,
+      "Notification_Icon": "",
+      "Marker3D_LB_Path": "LBmaster_Groups\\gui\\icons\\player.paa",
+      "Markers_Icon": "DayZExpansion\\Core\\GUI\\icons\\misc\\T_Gun_256x256.edds",
+      "Markers_Show2D": 1,
+      "Markers_Show3D": 1,
+      "Markers_ColourAlpha": 255,
+      "Markers_ColourRed": 0,
+      "Markers_ColourGreen": 255,
+      "Markers_ColourBlue": 255,
+      "Markers_CircleRadius": 350,
+      "Debug_Logging_Enabled": 1,
+      "Debug_Disable_Notifications": 0,
+      "Debug_Disable_Markers": 0,
+      "Debug_Force_Win": 0,
+      "Debug_QuickMode": 0,
+      "Debug_Ignore_Player_Radius": 0
+    }
+  ],
+  "Missions": [
+    {
+      "Name": "封锁哨站",
+      "Title": "困难 · 封锁哨站",
+      "Position": [
+        5458.499512,
+        11.082777,
+        1084.499146
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "NBCLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "攻坚斯塔克城堡",
+      "Title": "中等 · 斯塔克城堡攻坚",
+      "Position": [
+        5698.282715,
+        108.411598,
+        2404.776611
+      ],
+      "Bots_Count_Minimum": 6,
+      "Bots_Count_Maximum": 8,
+      "Bots_Expansion_Loadout": "BanditLoadout",
+      "Bots_Range": 360,
+      "Bots_Accuracy": 0.32,
+      "Bots_Damage_Done_Multiplier": 0.9,
+      "Bots_Damage_Taken_Multiplier": 1.0,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Medium",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.32,
+        "AccuracyMax": 0.46,
+        "ThreatDistanceLimit": 360.0,
+        "NoiseInvestigationDistanceLimit": 280.0,
+        "SniperProneDistanceThreshold": 320.0,
+        "MaxFlankingDistance": 90.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 320,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": [
+        {
+          "ClassName": "Land_Castle_Wall2_Corner2_nolc",
+          "Scale": 1.0,
+          "Position": [
+            5705.464844,
+            119.231697,
+            2256.564453
+          ],
+          "Rotation": [
+            -171.000122,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ClassName": "Land_Castle_Wall1_20",
+          "Scale": 0.999979,
+          "Position": [
+            5717.485352,
+            116.932571,
+            2491.768555
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "清剿湖畔匪帮",
+      "Title": "简单 · 湖畔匪帮清剿",
+      "Position": [
+        4975.556152,
+        3.89,
+        2125.690674
+      ],
+      "Bots_Count_Minimum": 4,
+      "Bots_Count_Maximum": 5,
+      "Bots_Expansion_Loadout": "NovicePatrolLoadout",
+      "Bots_Range": 280,
+      "Bots_Accuracy": 0.2,
+      "Bots_Damage_Done_Multiplier": 0.75,
+      "Bots_Damage_Taken_Multiplier": 1.15,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 1,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Easy",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.2,
+        "AccuracyMax": 0.32,
+        "ThreatDistanceLimit": 280.0,
+        "NoiseInvestigationDistanceLimit": 220.0,
+        "SniperProneDistanceThreshold": 240.0,
+        "MaxFlankingDistance": 60.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.0,
+        "LeashRadius": 240,
+        "LeashTimeout": 6,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "肃清西南港口打捞队",
+      "Title": "中等 · 西南港口打捞队",
+      "Position": [
+        3786.482178,
+        5.79927,
+        2592.268799
+      ],
+      "Bots_Count_Minimum": 6,
+      "Bots_Count_Maximum": 8,
+      "Bots_Expansion_Loadout": "ScavsLoadout",
+      "Bots_Range": 360,
+      "Bots_Accuracy": 0.32,
+      "Bots_Damage_Done_Multiplier": 0.9,
+      "Bots_Damage_Taken_Multiplier": 1.0,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Medium",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.32,
+        "AccuracyMax": 0.46,
+        "ThreatDistanceLimit": 360.0,
+        "NoiseInvestigationDistanceLimit": 280.0,
+        "SniperProneDistanceThreshold": 320.0,
+        "MaxFlankingDistance": 90.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 320,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "突袭中央机场守备队",
+      "Title": "困难 · 中央机场守备队",
+      "Position": [
+        6029.73584,
+        12.852197,
+        4979.334961
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "WestLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "清剿帕里斯镇武装学校",
+      "Title": "困难 · 帕里斯镇武装学校",
+      "Position": [
+        3963.088623,
+        25.023518,
+        4808.436523
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "GorkaLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "攻克巴厘岛边防哨所",
+      "Title": "困难 · 巴厘岛边防哨所",
+      "Position": [
+        2481.547119,
+        35.100002,
+        3352.190918
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "WestLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "夺取核电站警备区",
+      "Title": "困难 · 核电站警备区",
+      "Position": [
+        4529.831543,
+        25.233059,
+        7162.541016
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "NBCLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "清剿山区盗墓团伙",
+      "Title": "中等 · 山区盗墓团伙",
+      "Position": [
+        7185.508301,
+        60.808624,
+        5956.28418
+      ],
+      "Bots_Count_Minimum": 6,
+      "Bots_Count_Maximum": 8,
+      "Bots_Expansion_Loadout": "BanditLoadout",
+      "Bots_Range": 360,
+      "Bots_Accuracy": 0.32,
+      "Bots_Damage_Done_Multiplier": 0.9,
+      "Bots_Damage_Taken_Multiplier": 1.0,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Medium",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.32,
+        "AccuracyMax": 0.46,
+        "ThreatDistanceLimit": 360.0,
+        "NoiseInvestigationDistanceLimit": 280.0,
+        "SniperProneDistanceThreshold": 320.0,
+        "MaxFlankingDistance": 90.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 320,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "攻占西布鲁克火车站",
+      "Title": "困难 · 西布鲁克火车站",
+      "Position": [
+        3732.833984,
+        9.404935,
+        8807.389648
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "EastLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "肃清旧城自治区警备队",
+      "Title": "困难 · 旧城自治区警备队",
+      "Position": [
+        1996.782593,
+        41.075489,
+        9016.449219
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "GorkaLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "突袭森林木材检查站",
+      "Title": "困难 · 森林木材检查站",
+      "Position": [
+        7048.368164,
+        5.260048,
+        9007.821289
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "BanditAK",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "攻坚东布鲁克工业加工厂",
+      "Title": "困难 · 东布鲁克工业加工厂",
+      "Position": [
+        9518.652344,
+        24.288197,
+        7603.319336
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "EastLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "突袭波特兰行政大楼",
+      "Title": "困难 · 波特兰行政大楼",
+      "Position": [
+        6088.44043,
+        9.476801,
+        14640.342773
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "WestLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "清剿沃尔多博罗高中据点",
+      "Title": "困难 · 沃尔多博罗高中据点",
+      "Position": [
+        8626.800781,
+        7.391199,
+        8876.325195
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "EastLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "清剿沃尔多博罗分校据点",
+      "Title": "困难 · 沃尔多博罗分校据点",
+      "Position": [
+        8850.532227,
+        12.771198,
+        9614.088867
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "EastLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "攻克赛车场安保中心",
+      "Title": "困难 · 赛车场安保中心",
+      "Position": [
+        10015.323242,
+        33.721344,
+        12653.15332
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "WestLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    },
+    {
+      "Name": "攻占东部雷达站",
+      "Title": "困难 · 东部雷达站",
+      "Position": [
+        11655.375,
+        80.849998,
+        8110.104004
+      ],
+      "Bots_Count_Minimum": 8,
+      "Bots_Count_Maximum": 10,
+      "Bots_Expansion_Loadout": "GorkaLoadout",
+      "Bots_Range": 430,
+      "Bots_Accuracy": 0.42,
+      "Bots_Damage_Done_Multiplier": 1.0,
+      "Bots_Damage_Taken_Multiplier": 0.95,
+      "Bots_Drop_Loot": 1,
+      "Bots_Drop_Weapon": 0,
+      "Allow_Crate_Reward": 1,
+      "Allow_Vehicle_Reward": 0,
+      "Allow_Helicopter_Reward": 0,
+      "Reward_Loot_Pool": "Hard",
+      "Expansion_AI": {
+        "Faction": "Mercenaries",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "DefaultStance": "CROUCHED",
+        "CanBeLooted": 1,
+        "LootDropOnDeath": "",
+        "UnlimitedReload": 0,
+        "AccuracyMin": 0.42,
+        "AccuracyMax": 0.56,
+        "ThreatDistanceLimit": 430.0,
+        "NoiseInvestigationDistanceLimit": 330.0,
+        "SniperProneDistanceThreshold": 380.0,
+        "MaxFlankingDistance": 110.0,
+        "EnableFlankingOutsideCombat": 0,
+        "HeadshotResistance": 0.05,
+        "LeashRadius": 380,
+        "LeashTimeout": 8,
+        "Units": []
+      },
+      "Static_Objects": []
+    }
+  ],
+  "RewardObjects": [
+    {
+      "Reward_Type": 1,
+      "ClassName": "HM_Bag",
+      "Replace_ClassName": "",
+      "Loot_Initial": [],
+      "Loot_Win": []
+    }
+  ],
+  "Loot": [
+    {
+      "Name": "Easy",
+      "Weapons_Minimum": 1,
+      "Weapons_Maximum": 1,
+      "Weapons_Multiplier": 0.2,
+      "Armour_Minimum": 0,
+      "Armour_Maximum": 1,
+      "Armour_Multiplier": 0.12,
+      "Misc_Minimum": 4,
+      "Misc_Maximum": 6,
+      "Misc_Multiplier": 1.0,
+      "Weapons": [
+        {
+          "ClassName": "Izh43Shotgun",
+          "Magazine_ClassName": "",
+          "Attach": [],
+          "Loot": [
+            "Ammo_12gaPellets"
+          ]
+        },
+        {
+          "ClassName": "Repeater",
+          "Magazine_ClassName": "",
+          "Attach": [],
+          "Loot": [
+            "Ammo_357"
+          ]
+        },
+        {
+          "ClassName": "CZ527",
+          "Magazine_ClassName": "Mag_CZ527_5rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_CZ527_5rnd"
+          ]
+        },
+        {
+          "ClassName": "SKS",
+          "Magazine_ClassName": "",
+          "Attach": [],
+          "Loot": [
+            "Ammo_762x39"
+          ]
+        },
+        {
+          "ClassName": "UMP45",
+          "Magazine_ClassName": "Mag_UMP_25Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_UMP_25Rnd"
+          ]
+        }
+      ],
+      "Armour": [
+        {
+          "ClassName": "PressVest_Blue",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "PressVest_LightBlue",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "PoliceVest",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "BallisticHelmet_Green",
+          "Attach": [],
+          "Contents": []
+        }
+      ],
+      "Misc": [
+        {
+          "ClassName": "Ammo_12gaPellets",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_762x39",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_380",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_CZ527_5rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_UMP_25Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "BandageDressing",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "SalineBag",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Morphine",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Canteen",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "TacticalBaconCan",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "WeaponCleaningKit",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "DuctTape",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "NailBox",
+          "Attach": [],
+          "Contents": []
+        }
+      ]
+    },
+    {
+      "Name": "Medium",
+      "Weapons_Minimum": 1,
+      "Weapons_Maximum": 2,
+      "Weapons_Multiplier": 0.22,
+      "Armour_Minimum": 1,
+      "Armour_Maximum": 1,
+      "Armour_Multiplier": 0.15,
+      "Misc_Minimum": 6,
+      "Misc_Maximum": 8,
+      "Misc_Multiplier": 1.0,
+      "Weapons": [
+        {
+          "ClassName": "SKS",
+          "Magazine_ClassName": "",
+          "Attach": [],
+          "Loot": [
+            "Ammo_762x39"
+          ]
+        },
+        {
+          "ClassName": "AK74",
+          "Magazine_ClassName": "Mag_AK74_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_AK74_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "AKM",
+          "Magazine_ClassName": "Mag_AKM_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_AKM_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "UMP45",
+          "Magazine_ClassName": "Mag_UMP_25Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_UMP_25Rnd"
+          ]
+        },
+        {
+          "ClassName": "CZ550",
+          "Magazine_ClassName": "Mag_CZ550_4rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_CZ550_4rnd"
+          ]
+        },
+        {
+          "ClassName": "M4A1",
+          "Magazine_ClassName": "Mag_STANAG_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_STANAG_30Rnd"
+          ]
+        }
+      ],
+      "Armour": [
+        {
+          "ClassName": "UKAssVest_Black",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "HighCapacityVest_Black",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "CombatHelmet_Green",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "PressVest_Blue",
+          "Attach": [],
+          "Contents": []
+        }
+      ],
+      "Misc": [
+        {
+          "ClassName": "Ammo_545x39",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_762x39",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_556x45",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_308Win",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_AK74_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_AKM_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_STANAG_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_UMP_25Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "BandageDressing",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "SalineBag",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Morphine",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Epinephrine",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "WeaponCleaningKit",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "DuctTape",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "NailBox",
+          "Attach": [],
+          "Contents": []
+        }
+      ]
+    },
+    {
+      "Name": "Hard",
+      "Weapons_Minimum": 2,
+      "Weapons_Maximum": 2,
+      "Weapons_Multiplier": 0.2,
+      "Armour_Minimum": 1,
+      "Armour_Maximum": 2,
+      "Armour_Multiplier": 0.15,
+      "Misc_Minimum": 9,
+      "Misc_Maximum": 12,
+      "Misc_Multiplier": 1.1,
+      "Weapons": [
+        {
+          "ClassName": "AK101",
+          "Magazine_ClassName": "Mag_AK101_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_AK101_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "AK74",
+          "Magazine_ClassName": "Mag_AK74_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_AK74_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "AKM",
+          "Magazine_ClassName": "Mag_AKM_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_AKM_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "M4A1",
+          "Magazine_ClassName": "Mag_STANAG_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_STANAG_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "M16A2",
+          "Magazine_ClassName": "Mag_STANAG_30Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_STANAG_30Rnd"
+          ]
+        },
+        {
+          "ClassName": "FAL",
+          "Magazine_ClassName": "Mag_FAL_20Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_FAL_20Rnd"
+          ]
+        },
+        {
+          "ClassName": "SVD",
+          "Magazine_ClassName": "Mag_SVD_10Rnd",
+          "Attach": [],
+          "Loot": [
+            "Mag_SVD_10Rnd"
+          ]
+        }
+      ],
+      "Armour": [
+        {
+          "ClassName": "PlateCarrierVest",
+          "Attach": [
+            "PlateCarrierPouches",
+            "PlateCarrierHolster"
+          ],
+          "Contents": []
+        },
+        {
+          "ClassName": "CombatHelmet_Green",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mich2001Helmet",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "UKAssVest_Black",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "HighCapacityVest_Black",
+          "Attach": [],
+          "Contents": []
+        }
+      ],
+      "Misc": [
+        {
+          "ClassName": "Ammo_545x39",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_762x39",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_556x45",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_762x54",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Ammo_308Win",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_AK101_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_AK74_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_AKM_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_STANAG_30Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_FAL_20Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Mag_SVD_10Rnd",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "BandageDressing",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "SalineBag",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Morphine",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "Epinephrine",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "RGD5Grenade",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "WeaponCleaningKit",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "DuctTape",
+          "Attach": [],
+          "Contents": []
+        },
+        {
+          "ClassName": "NailBox",
+          "Attach": [],
+          "Contents": []
+        }
+      ]
+    }
+  ]
+}

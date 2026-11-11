@@ -1,0 +1,1468 @@
+{
+  "enablePVEZ": 0,
+  "pvezZoneRadius": 100.0,
+  "pvezZoneName": "Secure the Zone",
+  "pvezZoneShowZoneName": 0,
+  "pvezZoneShowZoneBorder": 1,
+  "enableMarkers": 1,
+  "enable3D": 0,
+  "markerName": "抵御尸潮",
+  "markerIcon_Expansion": "Ambush",
+  "markerColor_Expansion": -65426,
+  "markerIcon_LBMaster": "heli",
+  "markerColorA_LBMaster": 255,
+  "markerColorR_LBMaster": 255,
+  "markerColorG_LBMaster": 255,
+  "markerColorB_LBMaster": 0,
+  "enableNotifications": 1,
+  "enableTierOnNotifications": 1,
+  "titleNotification": "肃清尸潮",
+  "spawnNotification": "肃清尸潮任务刷新在 ",
+  "startMissionNotification": "击败每一波尸潮获得最后的奖励!猛攻猛攻!",
+  "discordWebhookUrl": "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_LINK_HERE",
+  "discordSpawnNotification": ":warning: Mission available at ",
+  "discordThumbnailUrl": "https://huntermods.online/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F2s7q5UpamTQc3Q5gV7XtNLDfvRoSHFO92bJGW8a73EMdc5kx&w=640&q=75",
+  "discordTierLabel": "Tier",
+  "enableDiscordViewOnMapLink": 1,
+  "discordTierCoordinatesLabel": "Coordinates",
+  "discordViewOnMapLabel": "View on Map",
+  "discordEmbedColor": 15844367,
+  "statusText": "进度",
+  "progressText": "进行中",
+  "finishedText": "完成",
+  "wavesLeftText": "波",
+  "countdownText": "倒数第",
+  "maximumNumberOfMissionsToSpawn": 12,
+  "minimumNumberOfMissionsToSpawn": 8,
+  "delayInSecondsBetweenSpawns": 600,
+  "deleteTimerNoCompletion": 3600,
+  "deleteAfterCompletion": 300,
+  "zonesTypes": [
+    {
+      "typeName": "Tier 1",
+      "numberOfWaves": 3,
+      "delayInSecondsBetweenWaves": 30,
+      "zombiesPerWave": 10,
+      "zombieCountMultiplierPerWave": 1.149999976158142,
+      "zombieCountMultiplierPerPlayer": 1.149999976158142,
+      "zombieList": [
+        "ZmbM_PolicemanFat",
+        "ZmbM_PolicemanSpecForce",
+        "ZmbM_PolicemanSpecForce_Heavy"
+      ],
+      "minimumAmountOfLoot": 15,
+      "maximumAmountOfLoot": 30,
+      "maximumAmountOfLootMultiplierPerPlayer": 1.149999976158142,
+      "lootList": [
+        {
+          "name": "Ammo_556x45",
+          "quantity": 1,
+          "chance": 0.5,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x39",
+          "quantity": 1,
+          "chance": 0.5,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_308Win",
+          "quantity": 1,
+          "chance": 0.4,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x54",
+          "quantity": 1,
+          "chance": 0.4,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_solo_locker_yellow_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_solo_locker_blue_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_solo_locker_red_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_solo_locker_grey_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_solo_locker_purple_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_solo_locker_green_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_planter_box_kit",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "typeName": "Tier 2",
+      "numberOfWaves": 6,
+      "delayInSecondsBetweenWaves": 30,
+      "zombiesPerWave": 12,
+      "zombieCountMultiplierPerWave": 1.149999976158142,
+      "zombieCountMultiplierPerPlayer": 1.149999976158142,
+      "zombieList": [
+        "ZmbM_NBC_Yellow",
+        "ZmbM_NBC_Grey"
+      ],
+      "minimumAmountOfLoot": 25,
+      "maximumAmountOfLoot": 40,
+      "maximumAmountOfLootMultiplierPerPlayer": 1.149999976158142,
+      "lootList": [
+        {
+          "name": "Ammo_556x45",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x39",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_308Win",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x54",
+          "quantity": 1,
+          "chance": 0.5,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "TTC_Ammo_277",
+          "quantity": 1,
+          "chance": 0.5,
+          "minHealth": 0.5,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gun_rack_kit_blue",
+          "quantity": 1,
+          "chance": 0.05,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gun_rack_kit_green",
+          "quantity": 1,
+          "chance": 0.05,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gun_rack_kit_tan",
+          "quantity": 1,
+          "chance": 0.05,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_lockable_gun_rack_kit_grey",
+          "quantity": 1,
+          "chance": 0.04,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gear_stand_kit",
+          "quantity": 1,
+          "chance": 0.05,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_fridge_kit_beige",
+          "quantity": 1,
+          "chance": 0.05,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_fridge_kit_blue",
+          "quantity": 1,
+          "chance": 0.05,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "TTC_M14",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_M14_Mag_20rnd",
+            "HuntingOptic"
+          ]
+        },
+        {
+          "name": "TTC_M14_Camo",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_M14_Mag_20rnd",
+            "TTC_BugBuster"
+          ]
+        },
+        {
+          "name": "SNAFU_M14",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFUM1A_20rdMag"
+          ]
+        },
+        {
+          "name": "SNAFUM1A_Black",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFUM1A_20rdMag"
+          ]
+        },
+        {
+          "name": "SNAFUM1A_Green",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFUM1A_20rdMag",
+            "SNAFU_ModBipod",
+            "Snafu_ScarH_SIL_Tan"
+          ]
+        },
+        {
+          "name": "SNAFUM1A_Tan",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFUM1A_20rdMag",
+            "SNAFU_AtlasBipod",
+            "Snafu_ScarH_SIL_Tan"
+          ]
+        },
+        {
+          "name": "TTC_M1A_Black",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_M14_Mag_20rnd",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_M1A_Green",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_M14_Mag_20rnd",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "SNSA58_Gun",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SA58_30RND_BK",
+            "SA58_Stock",
+            "M4_Suppressor"
+          ]
+        }
+      ]
+    },
+    {
+      "typeName": "Tier 3",
+      "numberOfWaves": 6,
+      "delayInSecondsBetweenWaves": 10,
+      "zombiesPerWave": 12,
+      "zombieCountMultiplierPerWave": 1.149999976158142,
+      "zombieCountMultiplierPerPlayer": 1.149999976158142,
+      "zombieList": [
+        "Gil_NBC_Green",
+        "InfectedSoldierHardJMCWinter",
+        "ZmbM_NBC_Grey",
+        "ZmbM_NBC_Yellow",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_Heavy_Woodland",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_Officer_Convoy",
+        "ZmbM_usSoldier_Officer_Desert"
+      ],
+      "minimumAmountOfLoot": 10,
+      "maximumAmountOfLoot": 16,
+      "maximumAmountOfLootMultiplierPerPlayer": 1.0,
+      "lootList": [
+        {
+          "name": "ExpansionGoldBar",
+          "quantity": 1,
+          "chance": 0.3,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "ExpansionGoldNugget",
+          "quantity": 1,
+          "chance": 0.3,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_556x45",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_556x45",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x39",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_308Win",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x54",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "Ammo_762x54",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "TTC_Ammo_277",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "TTC_M110",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Mag_FAL_20Rnd",
+            "HuntingOptic"
+          ]
+        },
+        {
+          "name": "TTC_M110_Black",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Mag_FAL_20Rnd",
+            "HuntingOptic"
+          ]
+        },
+        {
+          "name": "GCGN_M110_Black",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "GCGN_M110_Mag",
+            "SNAFU_FGKAC_Grip",
+            "SNAFU_EOTech_EXPS3"
+          ]
+        },
+        {
+          "name": "GCGN_M110_Green",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "GCGN_M110_Mag"
+          ]
+        },
+        {
+          "name": "TTCSR25",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Mag_FAL_20Rnd",
+            "TTC_Buttstock2",
+            "HuntingOptic"
+          ]
+        },
+        {
+          "name": "TTCSR25_OD",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Mag_FAL_20Rnd",
+            "TTC_Buttstock2",
+            "HuntingOptic"
+          ]
+        },
+        {
+          "name": "SNAFU_SR25_Gun",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFU_SR25_Mag"
+          ]
+        },
+        {
+          "name": "TTC_M4DMR",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_308Stanag",
+            "TTC_Buttstock3",
+            "TTC_DMR_Hndguard",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_M4DMROD",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_308Stanag",
+            "TTC_Buttstock3",
+            "TTC_DMR_HndguardOD",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_MCX_Spear_Black",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_MCX_Spear_Magazine_20rnd",
+            "TTC_MPXMCXSPEAR_Bttstck",
+            "TTC_Elcan"
+          ]
+        },
+        {
+          "name": "Snafu_ScarH_OD_GUN",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Snafu_ScarH_25RND_Mag_OD"
+          ]
+        },
+        {
+          "name": "Snafu_ScarH_Black_GUN",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Snafu_ScarH_25RND_Mag_BK"
+          ]
+        },
+        {
+          "name": "Snafu_ScarH_DKMC_GUN",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Snafu_ScarH_25RND_Mag_DKMC"
+          ]
+        },
+        {
+          "name": "Snafu_ScarH_Snow_GUN",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "Snafu_ScarH_25RND_Mag_Snow"
+          ]
+        },
+        {
+          "name": "TTC_ModDMR_762",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_DMR_762Stanag_20rnd",
+            "TTC_Buttstock",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_ModDMRCamo_762",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_DMR_762Stanag_20rnd",
+            "TTC_Buttstock",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_ModDMRDigiTan_762",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_DMR_762Stanag_20rnd",
+            "TTC_Buttstock",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_ModDMRTwotone_762",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_DMR_762Stanag_20rnd",
+            "TTC_Buttstock",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "TTC_ModDMRUPC_762",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "TTC_DMR_762Stanag_20rnd",
+            "TTC_Buttstock",
+            "TTC_HAMR"
+          ]
+        },
+        {
+          "name": "SNAFURSASS_dkmc_GUN",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFURSASS_Mag"
+          ]
+        },
+        {
+          "name": "SNAFUMk12",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": [
+            "SNAFU_CMAG30556_Black",
+            "Snafu_ScarH_SIL_Black",
+            "SNAFU_FGKAC_Grip",
+            "SNAFU_AtlasBipod"
+          ]
+        },
+        {
+          "name": "mmg_craftable_tent_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_equipment_locker_green_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_equipment_locker_black_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_equipment_locker_grey_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_locker02_blue_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_locker02_green_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_locker02_tan_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gun_wall_kit_wooden",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gun_wall_kit_metal",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_greenhouse_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_lockable_gun_rack_kit_grey",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_fridge_kit_beige",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "mmg_gear_stand_kit",
+          "quantity": 1,
+          "chance": 0.03,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "ExpansionSafeMini",
+          "quantity": 1,
+          "chance": 0.09,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "ExpansionSafeMedium",
+          "quantity": 1,
+          "chance": 0.036,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "ExpansionSafeLarge",
+          "quantity": 1,
+          "chance": 0.018,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "ElectronicRepairKit",
+          "quantity": 1,
+          "chance": 0.15,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "WeaponCleaningKit",
+          "quantity": 1,
+          "chance": 0.12,
+          "minHealth": 1.0,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "NailBox",
+          "quantity": 1,
+          "chance": 0.6,
+          "minHealth": 0.6,
+          "maxHealth": 1.0,
+          "attachments": []
+        },
+        {
+          "name": "DuctTape",
+          "quantity": 1,
+          "chance": 0.4,
+          "minHealth": 0.5,
+          "maxHealth": 0.85,
+          "attachments": []
+        },
+        {
+          "name": "EpoxyPutty",
+          "quantity": 1,
+          "chance": 0.4,
+          "minHealth": 0.5,
+          "maxHealth": 0.85,
+          "attachments": []
+        },
+        {
+          "name": "QPK_Bolts",
+          "quantity": -10,
+          "chance": 0.12,
+          "minHealth": 0.5,
+          "maxHealth": 0.85,
+          "attachments": []
+        },
+        {
+          "name": "QPK_MetalParts",
+          "quantity": -10,
+          "chance": 0.12,
+          "minHealth": 0.5,
+          "maxHealth": 0.85,
+          "attachments": []
+        },
+        {
+          "name": "QPK_WeaponParts",
+          "quantity": -10,
+          "chance": 0.08,
+          "minHealth": 0.5,
+          "maxHealth": 0.85,
+          "attachments": []
+        },
+        {
+          "name": "QPK_Cloth_Aramid",
+          "quantity": -20,
+          "chance": 0.08,
+          "minHealth": 0.5,
+          "maxHealth": 0.85,
+          "attachments": []
+        },
+        {
+          "name": "MP133Shotgun",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.35,
+          "maxHealth": 0.65,
+          "attachments": []
+        },
+        {
+          "name": "CZ527",
+          "quantity": 1,
+          "chance": 0.2,
+          "minHealth": 0.35,
+          "maxHealth": 0.65,
+          "attachments": [
+            "Mag_CZ527_5rnd"
+          ]
+        },
+        {
+          "name": "SKS",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 0.35,
+          "maxHealth": 0.65,
+          "attachments": []
+        },
+        {
+          "name": "UMP45",
+          "quantity": 1,
+          "chance": 0.0,
+          "minHealth": 0.35,
+          "maxHealth": 0.65,
+          "attachments": [
+            "Mag_UMP_25Rnd"
+          ]
+        },
+        {
+          "name": "AJW_M1897Trench",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.45,
+          "maxHealth": 0.75,
+          "attachments": []
+        },
+        {
+          "name": "AJW_PPSH_Classic",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.45,
+          "maxHealth": 0.75,
+          "attachments": [
+            "AJW_Mag_PPSH_35rnd"
+          ]
+        },
+        {
+          "name": "SNAFU_TP82S",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.45,
+          "maxHealth": 0.75,
+          "attachments": []
+        },
+        {
+          "name": "SNAFU_Trenchgun",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.45,
+          "maxHealth": 0.75,
+          "attachments": []
+        },
+        {
+          "name": "TTC_M1903",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.45,
+          "maxHealth": 0.75,
+          "attachments": []
+        },
+        {
+          "name": "TTC_Maverick",
+          "quantity": 1,
+          "chance": 0.1,
+          "minHealth": 0.45,
+          "maxHealth": 0.75,
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "secureZones": [
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点1",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        5172.018555,
+        20.950008,
+        1159.580078
+      ],
+      "zoneOri": [
+        -178.309052,
+        -0.001748,
+        -2.6e-05
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点2",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        5931.630859,
+        28.943939,
+        1407.11438
+      ],
+      "zoneOri": [
+        7.026106,
+        0.907907,
+        -0.320923
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点4",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        8256.248047,
+        21.113054,
+        2118.982178
+      ],
+      "zoneOri": [
+        15.327386,
+        0.164762,
+        0.493251
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点7",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        5766.110352,
+        108.141197,
+        2477.818359
+      ],
+      "zoneOri": [
+        102.953194,
+        0.0,
+        0.0
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点8",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        4618.635742,
+        13.798658,
+        2147.751953
+      ],
+      "zoneOri": [
+        -86.453529,
+        0.145172,
+        2.304207
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点9",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        4314.520508,
+        23.1912,
+        1977.150391
+      ],
+      "zoneOri": [
+        118.927139,
+        0.0,
+        0.0
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点10",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        4117.011719,
+        9.741916,
+        3088.750244
+      ],
+      "zoneOri": [
+        27.166039,
+        1.091409,
+        0.076614
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点11",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        5721.644043,
+        73.991196,
+        3080.386475
+      ],
+      "zoneOri": [
+        41.606125,
+        0.0,
+        0.0
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点12",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        7466.283691,
+        39.100872,
+        3190.41626
+      ],
+      "zoneOri": [
+        92.783928,
+        2.233087,
+        1.256686
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点13",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        8284.783203,
+        4.517874,
+        3399.453125
+      ],
+      "zoneOri": [
+        -23.917046,
+        0.192899,
+        0.075321
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点20",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        7792.633301,
+        6.656337,
+        3781.865723
+      ],
+      "zoneOri": [
+        150.750031,
+        -0.777203,
+        -2.846242
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点21",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        7033.000977,
+        53.10059,
+        3828.44043
+      ],
+      "zoneOri": [
+        -126.391373,
+        0.511633,
+        0.511216
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点22",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        4220.888672,
+        15.003981,
+        3939.567139
+      ],
+      "zoneOri": [
+        179.406479,
+        0.162535,
+        2.00488
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点23",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        6541.430176,
+        24.865623,
+        4853.506836
+      ],
+      "zoneOri": [
+        101.222374,
+        -0.479512,
+        -0.531645
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点24",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        3526.393066,
+        11.254437,
+        5307.845703
+      ],
+      "zoneOri": [
+        -1.46152,
+        -2.699041,
+        0.78484
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点25",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        4829.761719,
+        7.493796,
+        6245.420898
+      ],
+      "zoneOri": [
+        154.319534,
+        0.0,
+        0.0
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点26",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        6897.562012,
+        2.386682,
+        7102.446777
+      ],
+      "zoneOri": [
+        -120.886337,
+        0.343609,
+        -1.375124
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点27",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        7324.4375,
+        2.581199,
+        7830.58252
+      ],
+      "zoneOri": [
+        -27.396065,
+        0.0,
+        0.0
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点28",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        5619.968262,
+        15.796867,
+        7390.929688
+      ],
+      "zoneOri": [
+        58.051613,
+        -0.63907,
+        0.063333
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点29",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        4037.675781,
+        39.109467,
+        6955.486328
+      ],
+      "zoneOri": [
+        -36.349766,
+        -1.29501,
+        -0.126982
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    },
+    {
+      "minimumPlayersToSpawn": 1,
+      "zoneSpawnChance": 1.0,
+      "zoneName": "尸潮据点30",
+      "zoneDifficulty": "Hard",
+      "zonePos": [
+        3132.353516,
+        10.753865,
+        7840.010742
+      ],
+      "zoneOri": [
+        152.83934,
+        -0.065007,
+        -0.038263
+      ],
+      "spawnWindowStartSecondsAfterServerStart": 0,
+      "spawnWindowEndSecondsAfterServerStart": 480,
+      "playerDetectionRadius": 50.0,
+      "zombieSpawnRadius": 40.0,
+      "zoneTypes": [
+        "Tier 3"
+      ]
+    }
+  ]
+}

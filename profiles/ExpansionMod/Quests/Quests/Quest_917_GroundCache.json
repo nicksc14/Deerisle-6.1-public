@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 917,
+    "Type": 1,
+    "Title": "Stonington区域巡查：港口打捞船",
+    "Descriptions": [
+        "Stonington港口的打捞船是观察港区和搜集生存物资的重要地点。按地图标记前往船上。",
+        "进入港口打捞船的标记范围即可完成巡查。船上会由CJ LootChest刷新公共补给箱，但任务不要求你必须打开箱子。",
+        "港口打捞船区域已确认。你可以独立交付这项任务，不需要先完成地下管道或警察局巡查。"
+    ],
+    "ObjectiveText": "前往Stonington港口打捞船",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 917,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 923,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Smallville中心区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [10355.04, 7.92, 4360.0],
+    "MaxDistance": 100.0,
+    "MarkerName": "Smallville",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

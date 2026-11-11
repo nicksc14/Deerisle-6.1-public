@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 12,
+    "ClassName": "ExpansionQuestNPCDenis",
+    "Position": [
+        5643.910645,
+        28.787533,
+        5393.69043
+    ],
+    "Orientation": [
+        134.166824,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "战备军需官",
+    "DefaultNPCText": "选择你要收集的套装，逐阶段完成清剿任务。每套装备每个档期只发放一次。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_012_Quartermaster_Quebec",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

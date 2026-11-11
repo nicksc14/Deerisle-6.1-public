@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 209,
+    "Type": 1,
+    "Title": "[周常] 雪原巨足：雪怪追猎",
+    "Descriptions": [
+        "鹿岛捕猎协会在东北雪原发现了异常巨大的类人足迹。巡查队判断，一只被称为“大脚雪怪”的强壮生物正在雪林边缘活动。该地属于公共狩猎区，目标可能被其他猎人抢先击杀；通常2至3小时后会再次出现。",
+        "前往标记的雪怪猎区，在范围内搜寻并击杀1只“大脚雪怪｜雪原巨足”，随后取下并携带1件完整雪怪头颅。",
+        "雪原巨足已经倒下。带着完整雪怪头颅返回鹿岛捕猎协会负责人处，完成这份稀有狩猎合同。"
+    ],
+    "ObjectiveText": "追踪并猎杀雪原巨足，带回1件完整雪怪头颅",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [11],
+    "QuestTurnInIDs": [11],
+    "IsAchievement": 0,
+    "Objectives": [
+        {"ConfigVersion": 28, "ID": 2091, "ObjectiveType": 3},
+        {"ConfigVersion": 28, "ID": 2092, "ObjectiveType": 2},
+        {"ConfigVersion": 28, "ID": 2093, "ObjectiveType": 4}
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 1500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [215],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

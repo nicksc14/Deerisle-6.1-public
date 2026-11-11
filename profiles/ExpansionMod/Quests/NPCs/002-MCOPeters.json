@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCQuinn",
+    "Position": [
+        5636.544922,
+        28.758650,
+        5388.079590
+    ],
+    "Orientation": [
+        127.520782,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "S.T.A.G工业首席安全官",
+    "DefaultNPCText": "你好，远道而来的外来者！在这片地界上，你得遵守STAG工业的所有安全条例。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_002_CentralSecurity_Legion",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

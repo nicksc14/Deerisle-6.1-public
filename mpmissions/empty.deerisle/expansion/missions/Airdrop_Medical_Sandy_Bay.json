@@ -1,0 +1,466 @@
+{
+	"m_Version": 3,
+	"Enabled": 1,
+	"Weight": 10.0,
+	"MissionMaxTime": 1800,
+	"MissionName": "Medical Airdrop",
+	"Difficulty": 0,
+	"Objective": 0,
+	"Reward": "",
+	"ShowNotification": 1,
+	"Height": 450.0,
+	"DropZoneHeight": 450.0,
+	"Speed": 25.0,
+	"DropZoneSpeed": 25.0,
+	"Container": "ExpansionAirdropContainer_Medical",
+	"FallSpeed": 4.5,
+	"DropLocation": {
+		"x": 5580.925781,
+		"z": 7375.84375,
+		"Name": "Sandy Bay",
+		"Radius": 0
+	},
+	"Infected": [
+		"ZmbF_DoctorSkinny",
+		"ZmbF_DoctorSkinny",
+		"ZmbF_NurseFat",
+		"ZmbF_NurseFat",
+		"ZmbM_DoctorFat",
+		"ZmbM_DoctorFat",
+		"ZmbF_PatientOld",
+		"ZmbF_PatientOld",
+		"ZmbM_PatientSkinny",
+		"ZmbM_PatientSkinny",
+		"SMCS_Snork",
+		"OMI_MobKF_Bloat_Toxic_small",
+		"NYMutant"
+	],
+	"ItemCount": 16,
+	"InfectedCount": 20,
+	"AirdropPlaneClassName": "ExpansionAirdropStarDestroyer",
+	"Loot": [
+		{
+			"Name": "TerjeBandageHemostatic",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 4,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeSurgicalKit",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeSyringeNew",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 4,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeSalveFinalgon",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeSalveCapsicum",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsMagnesiumSulfate",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleAlcohol",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleAdrenalin",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleAmoxivan",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleNovacaine",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleNeirox",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleVaxicam",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleZerivax",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleRabivax",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeFirstAidKitLarge",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleMorphine",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleKetamin",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleActaparoxetine",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleAmitriptyline",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleFlemoclav",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeAmpouleImipenem",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsParacetamol",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsIbuprofen",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsNurofen",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsAnalgin",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsAmoxiclav",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsTetracyclineAntibiotics",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 2,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsVenlafaxine",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsNoopept",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjePillsVikasol",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorReanimatal",
+			"Attachments": [],
+			"Chance": 0.08,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorPromidol",
+			"Attachments": [],
+			"Chance": 0.08,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorTopoizomeraza",
+			"Attachments": [],
+			"Chance": 0.05,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeExpressTestRabiesPack",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeExpressTestSepsisPack",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeExpressTestVirusZPack",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeStethoscope",
+			"Attachments": [],
+			"Chance": 0.5,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorAmfitalicyne",
+			"Attachments": [],
+			"Chance": 0.05,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorAmoxiclav",
+			"Attachments": [],
+			"Chance": 0.06,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorErythropoietin",
+			"Attachments": [],
+			"Chance": 0.06,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorErytromixelin",
+			"Attachments": [],
+			"Chance": 0.05,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorNeirox",
+			"Attachments": [],
+			"Chance": 0.05,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorNovichek",
+			"Attachments": [],
+			"Chance": 0.02,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorPropital",
+			"Attachments": [],
+			"Chance": 0.04,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorRabinucoline",
+			"Attachments": [],
+			"Chance": 0.05,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorStomaproxidal",
+			"Attachments": [],
+			"Chance": 0.05,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		},
+		{
+			"Name": "TerjeInjectorZivirol",
+			"Attachments": [],
+			"Chance": 0.03,
+			"QuantityPercent": -1,
+			"Max": 1,
+			"Min": 0,
+			"Variants": []
+		}
+	]
+}

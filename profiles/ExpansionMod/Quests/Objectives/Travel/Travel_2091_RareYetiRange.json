@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2091,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往雪原巨足活动区域",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [13706.966797, 3.561638, 13599.615234],
+    "MaxDistance": 800.0,
+    "MarkerName": "东北雪原｜雪怪猎区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

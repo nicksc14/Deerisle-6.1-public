@@ -1,0 +1,22 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20013,
+    "ObjectiveType": 2,
+    "ObjectiveText": "猎取1只狍鹿",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [0.0, 0.0, 0.0],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_CapreolusCapreolus",
+        "Animal_CapreolusCapreolusF"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

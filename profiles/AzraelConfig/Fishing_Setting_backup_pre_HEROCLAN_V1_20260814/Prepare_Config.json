@@ -1,0 +1,2183 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Fishing Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== PREPARE CONFIG",
+    "ATTENTION_BLYAT": "!!!! PLEASE READ GUIDES IN MOD ARCHIVE!!!!",
+    "cfg_AzraelPrepareKnifeList": [
+        {
+            "KnifeClassname": "Iceaxe",
+            "PrepareTimeModifier": 1.5,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "Sickle",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "KukriKnife",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "FangeKnife",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "Hacksaw",
+            "PrepareTimeModifier": 1.5,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "HandSaw",
+            "PrepareTimeModifier": 1.5,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "KitchenKnife",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "SteakKnife",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "StoneKnife",
+            "PrepareTimeModifier": 1.5,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "Cleaver",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "CombatKnife",
+            "PrepareTimeModifier": 0.8999999761581421,
+            "ToolDamageModifier": 0.800000011920929
+        },
+        {
+            "KnifeClassname": "HuntingKnife",
+            "PrepareTimeModifier": 0.800000011920929,
+            "ToolDamageModifier": 0.800000011920929
+        },
+        {
+            "KnifeClassname": "Machete",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "CrudeMachete",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "OrientalMachete",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "WoodAxe",
+            "PrepareTimeModifier": 1.2000000476837159,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "Hatchet",
+            "PrepareTimeModifier": 1.2000000476837159,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "FirefighterAxe",
+            "PrepareTimeModifier": 1.2000000476837159,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "Sword",
+            "PrepareTimeModifier": 1.2000000476837159,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "AK_Bayonet",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "M9A1_Bayonet",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "SKS_Bayonet",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "BoneKnife",
+            "PrepareTimeModifier": 1.2999999523162842,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "Screwdriver",
+            "PrepareTimeModifier": 1.5,
+            "ToolDamageModifier": 1.0
+        },
+        {
+            "KnifeClassname": "SteakKnife",
+            "PrepareTimeModifier": 1.0,
+            "ToolDamageModifier": 1.0
+        }
+    ],
+    "cfg_AzraelPrepareList": [
+        {
+            "FishClassname": "AP_fish_bass_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_bass_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_bass_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_bass_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_bass_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_bass_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_bleak_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 4.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_bleak_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_bleak_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 6.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_bleak_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_bleak_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 8.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_bleak_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_catfish_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_catfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_catfish_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_catfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 4,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_catfish_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_catfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 5,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_catfish_legendary",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 14.0,
+            "PrepareToolDamage": 5.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_catfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 7,
+                    "SpawnAttemptMax": 8,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 3.0,
+                    "QuantityMax": 6.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_chub_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_chub_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_chub_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_chub_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_chub_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_chub_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_common_carp_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_common_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_common_carp_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_common_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_common_carp_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_common_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_common_carp_legendary",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 14.0,
+            "PrepareToolDamage": 5.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_common_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 6,
+                    "SpawnAttemptMax": 6,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 3.0,
+                    "QuantityMax": 6.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_crucian_carp_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_crucian_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_crucian_carp_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_crucian_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_crucian_carp_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_crucian_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_grass_carp_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_grass_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_grass_carp_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_grass_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "Carp",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 2.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": []
+        },
+        {
+            "FishClassname": "AP_fish_grass_carp_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_grass_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_grass_carp_legendary",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 14.0,
+            "PrepareToolDamage": 5.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_grass_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 6,
+                    "SpawnAttemptMax": 8,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 3.0,
+                    "QuantityMax": 6.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_pike_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_pike_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_pike_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_pike_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_pike_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_pike_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_pike_legendary",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 14.0,
+            "PrepareToolDamage": 5.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_pike_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 6,
+                    "SpawnAttemptMax": 8,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_prussian_carp_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_prussian_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_prussian_carp_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_prussian_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_prussian_carp_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_prussian_carp_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_ruffle_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_ruffle_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_ruffle_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_ruffle_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_prussian_carp_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_ruffle_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_dentex_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_dentex_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_dentex_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_dentex_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_dentex_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_dentex_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_monkfish_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_monkfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_monkfish_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_monkfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_monkfish_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_monkfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 3.0,
+                    "QuantityMax": 6.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_orata_beam_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_orata_beam_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_orata_beam_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_orata_beam_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_orata_beam_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_orata_beam_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_sardine_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_sardine_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_sardine_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_sardine_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_sardine_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_sardine_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_scorpionfish_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_scorpionfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_scorpionfish_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_scorpionfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_scorpionfish_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_scorpionfish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_seabass_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_seabass_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_seabass_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_seabass_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_seabass_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_seabass_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_tuna_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_tuna_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 0.699999988079071,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 1.0,
+                    "QuantityMax": 2.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_tuna_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_tuna_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 3,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 2.0,
+                    "QuantityMax": 4.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_tuna_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_tuna_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 4,
+                    "SpawnAttemptMax": 5,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 3.0,
+                    "QuantityMax": 6.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_tuna_legendary",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 14.0,
+            "PrepareToolDamage": 5.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_tuna_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 7,
+                    "SpawnAttemptMax": 8,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 3.0,
+                    "QuantityMax": 6.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_blue_shark_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 15.0,
+            "PrepareToolDamage": 6.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_blue_shark_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 3,
+                    "SpawnAttemptMax": 4,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 5.0,
+                    "QuantityMax": 10.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_blue_shark_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 20.0,
+            "PrepareToolDamage": 8.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_blue_shark_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 5,
+                    "SpawnAttemptMax": 6,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 5.0,
+                    "QuantityMax": 10.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_blue_shark_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 25.0,
+            "PrepareToolDamage": 10.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_blue_shark_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 7,
+                    "SpawnAttemptMax": 9,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                },
+                {
+                    "ItemClassname": "Bone",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 0,
+                    "QuantityMin": 5.0,
+                    "QuantityMax": 10.0,
+                    "HealthMin": 0.5,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_cuttlefish_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_cuttlefish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": 0.10000000149011612,
+                    "QuantityMax": 0.4000000059604645,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_cuttlefish_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 8.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_cuttlefish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": 0.4000000059604645,
+                    "QuantityMax": 0.699999988079071,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_cuttlefish_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 12.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_cuttlefish_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": 0.699999988079071,
+                    "QuantityMax": 1.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_squid_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_squid_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": 0.10000000149011612,
+                    "QuantityMax": 0.4000000059604645,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_squid_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 8.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_squid_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": 0.4000000059604645,
+                    "QuantityMax": 0.699999988079071,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_squid_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 12.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_squid_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": 0.699999988079071,
+                    "QuantityMax": 1.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_scumbria_small",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 5.0,
+            "PrepareToolDamage": 2.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_scumbria_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 1,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_scumbria_medium",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 7.0,
+            "PrepareToolDamage": 2.5,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_scumbria_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 1,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        },
+        {
+            "FishClassname": "AP_fish_sea_scumbria_large",
+            "PrepareNote": "Any information for you",
+            "PrepareTimeSec": 9.0,
+            "PrepareToolDamage": 3.0,
+            "cfg_PrepareItemsList": [
+                {
+                    "ItemClassname": "AP_fillet_scumbria_medium",
+                    "ItemChance": 1.0,
+                    "SpawnAttemptMin": 2,
+                    "SpawnAttemptMax": 2,
+                    "InsertSalmonella": 1,
+                    "BloodyHands": 1,
+                    "QuantityInPercent": 1,
+                    "QuantityMin": -2.0,
+                    "QuantityMax": -2.0,
+                    "HealthMin": 1.0,
+                    "HealthMax": 1.0
+                }
+            ]
+        }
+    ]
+}

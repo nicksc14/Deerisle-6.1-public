@@ -1,0 +1,106 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TTC枪托",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ttc_akmod_bttstk",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_akmod_gold_bttstk",
+        "ttc_akmod_snow_bttstk",
+        "ttc_akmod_multi_bttstk",
+        "ttc_akmod_digi_bttstk",
+        "ttc_akmod_tan_bttstk"
+      ]
+    },
+    {
+      "ClassName": "ttc_buttstock",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_buttstock2",
+        "ttc_buttstock3",
+        "ttc_buttstock_honey",
+        "ttc_buttstock_camo",
+        "ttc_buttstock_digitan",
+        "ttc_buttstock_tan",
+        "ttc_buttstock_upc",
+        "ttc_buttstockhk",
+        "ttc_buttstock_morty",
+        "ttc_buttstock_ak12"
+      ]
+    },
+    {
+      "ClassName": "ttc_buttstock_car15",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_fal_wood_bttstck",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_mpxmcx1_bttstck",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_mpxmcx1_bttstck2"
+      ]
+    },
+    {
+      "ClassName": "ttc_mpxmcx2_bttstck",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_mpxmcxspear_bttstck",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

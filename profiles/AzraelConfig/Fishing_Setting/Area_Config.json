@@ -1,0 +1,82 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Fishing Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== AREA CONFIG",
+    "ATTENTION_BLYAT": "!!!! PLEASE READ GUIDES IN MOD ARCHIVE!!!!",
+    "cfg_AzraelAreaList": [
+        {
+            "AreaName": "Area_Test1",
+            "AreaNote": "Just any information for you",
+            "IsActive": 1,
+            "Area_X": 0.0,
+            "Area_Z": 0.0,
+            "Area_X2": 0.0,
+            "Area_Z2": 0.0,
+            "AreaRadius": 10.0,
+            "OverrideFishList": [
+                {
+                    "FishClassname": "AP_fish_common_carp_legendary",
+                    "OverrideChance": 0.699999988079071,
+                    "OverrideChanceSignal": 0.699999988079071
+                },
+                {
+                    "FishClassname": "AP_fish_pike_legendary",
+                    "OverrideChance": 0.699999988079071,
+                    "OverrideChanceSignal": 0.699999988079071
+                }
+            ],
+            "OverrideJunkList": [
+                {
+                    "JunkClassname": "Rag",
+                    "OverrideChanceJunkSea": 0.699999988079071,
+                    "OverrideChanceJunkPond": 0.699999988079071,
+                    "OverrideChanceSignal": 0.6000000238418579
+                },
+                {
+                    "JunkClassname": "Netting",
+                    "OverrideChanceJunkSea": 0.699999988079071,
+                    "OverrideChanceJunkPond": 0.699999988079071,
+                    "OverrideChanceSignal": 0.6000000238418579
+                }
+            ]
+        },
+        {
+            "AreaName": "Area_Test2",
+            "AreaNote": "Just any information for you",
+            "IsActive": 1,
+            "Area_X": 0.0,
+            "Area_Z": 0.0,
+            "Area_X2": 0.0,
+            "Area_Z2": 0.0,
+            "AreaRadius": 10.0,
+            "OverrideFishList": [
+                {
+                    "FishClassname": "AP_fish_common_carp_legendary",
+                    "OverrideChance": 0.699999988079071,
+                    "OverrideChanceSignal": 0.699999988079071
+                },
+                {
+                    "FishClassname": "AP_fish_pike_legendary",
+                    "OverrideChance": 0.699999988079071,
+                    "OverrideChanceSignal": 0.699999988079071
+                }
+            ],
+            "OverrideJunkList": [
+                {
+                    "JunkClassname": "Rag",
+                    "OverrideChanceJunkSea": 0.699999988079071,
+                    "OverrideChanceJunkPond": 0.699999988079071,
+                    "OverrideChanceSignal": 0.6000000238418579
+                },
+                {
+                    "JunkClassname": "Netting",
+                    "OverrideChanceJunkSea": 0.699999988079071,
+                    "OverrideChanceJunkPond": 0.699999988079071,
+                    "OverrideChanceSignal": 0.6000000238418579
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1187 @@
+{
+	"Triggers": [
+		{
+            "Position": [
+                9254.4609375,
+                45.649147033691409,
+                14968.7255859375
+            ],
+            "Orientation": [
+                83.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                66.0,
+                22.0,
+                26.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9260.99609375,
+                39.12435531616211,
+                14894.611328125
+            ],
+            "Orientation": [
+                -18.000001907348634,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                6.0,
+                6.0,
+                6.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9257.673828125,
+                40.099525451660159,
+                14908.8623046875
+            ],
+            "Orientation": [
+                -17.999984741210939,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.0,
+                7.0,
+                23.0
+            ],
+            "EyeAccommodation": 0.800000011920929,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        9262.1396484375,
+                        39.630001068115237,
+                        14903.8017578125
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": 8.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        9259.2294921875,
+                        37.27716064453125,
+                        14909.919921875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        9253.958984375,
+                        37.29371643066406,
+                        14915.3701171875
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                9240.5380859375,
+                44.995670318603519,
+                14949.4970703125
+            ],
+            "Orientation": [
+                -17.999984741210939,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                45.0,
+                26.0,
+                65.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9239.90625,
+                43.096771240234378,
+                15003.576171875
+            ],
+            "Orientation": [
+                -8.99999713897705,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                31.0,
+                27.0,
+                18.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9184.115234375,
+                40.02799987792969,
+                14979.69140625
+            ],
+            "Orientation": [
+                -8.999977111816407,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                90.0,
+                33.0,
+                55.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9212.423828125,
+                41.11800003051758,
+                14910.4990234375
+            ],
+            "Orientation": [
+                -8.99998950958252,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                30.0,
+                34.0,
+                22.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9189.173828125,
+                39.24599838256836,
+                14913.166015625
+            ],
+            "Orientation": [
+                13.000006675720215,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                41.0,
+                35.0,
+                26.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9141.443359375,
+                38.36399841308594,
+                14937.2451171875
+            ],
+            "Orientation": [
+                -17.9999942779541,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                25.0,
+                29.0,
+                31.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                9188.5400390625,
+                39.2869987487793,
+                14934.880859375
+            ],
+            "Orientation": [
+                81.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                36.0,
+                35.0,
+                76.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [
+                11862.12890625,
+                28.731000900268556,
+                6493.1708984375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                82.0,
+                13.0,
+                124.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11923.490234375,
+                29.358999252319337,
+                6459.7158203125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                46.0,
+                12.0,
+                54.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [
+                14772.37109375,
+                30.64699935913086,
+                8226.0615234375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                28.0,
+                8.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14762.9833984375,
+                20.447999954223634,
+                8229.6064453125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                14.0,
+                9.0,
+                23.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14767.4638671875,
+                18.485000610351564,
+                8210.8935546875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                113.0,
+                12.0,
+                42.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14918.8369140625,
+                19.514999389648439,
+                8203.6357421875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                200.0,
+                10.0,
+                33.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14897.166015625,
+                8.669296264648438,
+                8193.626953125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                46.0,
+                32.0,
+                53.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                15077.466796875,
+                27.261999130249025,
+                8192.791015625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                127.0,
+                25.0,
+                53.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                15146.501953125,
+                35.23500061035156,
+                8232.404296875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                42.0,
+                11.0,
+                34.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                15158.40625,
+                35.79999923706055,
+                8285.970703125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.0,
+                9.0,
+                74.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                15158.2783203125,
+                29.510000228881837,
+                8363.935546875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                29.0,
+                15.0,
+                138.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                15172.947265625,
+                12.822999954223633,
+                8366.1015625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                60.0,
+                26.0,
+                91.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                15176.8466796875,
+                15.805999755859375,
+                8470.154296875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                67.0,
+                40.0,
+                136.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14719.8779296875,
+                26.716999053955079,
+                8324.8857421875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                62.0,
+                25.0,
+                200.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14718.1044921875,
+                33.25199890136719,
+                8492.8154296875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                17.0,
+                8.0,
+                150.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14715.0859375,
+                13.862000465393067,
+                8598.736328125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                87.0,
+                53.0,
+                181.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14791.388671875,
+                12.71399974822998,
+                8650.73046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                107.0,
+                45.0,
+                80.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14917.0576171875,
+                11.607999801635743,
+                8654.0146484375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                199.0,
+                44.0,
+                70.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [
+                1362.4541015625,
+                18.57010269165039,
+                7014.640625
+            ],
+            "Orientation": [
+                39.00498962402344,
+                0.0009999974863603712,
+                0.00003224579631933011
+            ],
+            "Size": [
+                465.0,
+                34.0,
+                85.0
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+			"Position": [
+				14390.25390625,
+				10.003130912780762,
+				6980.26708984375
+			],
+			"Orientation": [
+				173.77415466308595,
+				0.00044947798596695065,
+				-0.00003698263026308268
+			],
+			"Size": [
+				3.000999927520752,
+				4.000999927520752,
+				12.000999450683594
+			],
+			"EyeAccommodation": 1.0,
+			"InterpolationSpeed": 1.0,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [
+				14393.9951171875,
+				9.985894203186036,
+				6986.9794921875
+			],
+			"Orientation": [
+				-3.98252010345459,
+				0.0,
+				0.0
+			],
+			"Size": [
+				4.000999927520752,
+				4.000999927520752,
+				9.000999450683594
+			],
+			"EyeAccommodation": 0.0,
+			"InterpolationSpeed": 1.0,
+			"Breadcrumbs": [
+				{
+					"Position": [
+						14394.6689453125,
+						8.283834457397461,
+						6985.3935546875
+					],
+					"EyeAccommodation": 0.8999999761581421,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				},
+				{
+					"Position": [
+						14394.5927734375,
+						8.283834457397461,
+						6988.6953125
+					],
+					"EyeAccommodation": 0.30000001192092898,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				}
+			]
+		},
+		{
+			"Position": [
+				14355.517578125,
+				26.386646270751954,
+				7066.93017578125
+			],
+			"Orientation": [
+				0.0,
+				0.0,
+				-0.0
+			],
+			"Size": [
+				197.0,
+				37.0,
+				152.0
+			],
+			"EyeAccommodation": 0.9,
+			"InterpolationSpeed": 1.0,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [
+				14305.3310546875,
+				44.862098693847659,
+				7027.41357421875
+			],
+			"Orientation": [
+				0.0,
+				0.0,
+				-0.0
+			],
+			"Size": [
+				8.000999450683594,
+				15.0,
+				7.0
+			],
+			"EyeAccommodation": 1.0,
+			"InterpolationSpeed": 1.0,
+			"Breadcrumbs": [
+				{
+					"Position": [
+						14302.1591796875,
+						41.17966079711914,
+						7027.45068359375
+					],
+					"EyeAccommodation": 0.4000000059604645,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				},
+				{
+					"Position": [
+						14303.041015625,
+						46.00718688964844,
+						7029.0166015625
+					],
+					"EyeAccommodation": 0.800000011920929,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				},
+				{
+					"Position": [
+						14306.552734375,
+						43.61553192138672,
+						7026.162109375
+					],
+					"EyeAccommodation": 0.6000000238418579,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				},
+				{
+					"Position": [
+						14306.591796875,
+						48.57230758666992,
+						7026.06005859375
+					],
+					"EyeAccommodation": 1.0,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				},
+				{
+					"Position": [
+						14308.05859375,
+						38.59064865112305,
+						7027.56640625
+					],
+					"EyeAccommodation": 0.20000000298023225,
+					"UseRaycast": 1,
+					"Radius": -1.0
+				}
+			]
+		},
+		{
+			"Position": [ 15840, 6, 4745 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 80, 6, 10 ],
+			"EyeAccommodation": 0.05,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 15761, 15, 4814 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 56, 36, 228 ],
+			"EyeAccommodation": 0.05,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 15774, 15, 4745 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 76, 24, 10 ],
+			"EyeAccommodation": 0.05,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 6645, 0, 3473 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 80, 320, 80 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": [
+				{
+					"Position": [ 6645, 160, 3473 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 50
+				},
+				{
+					"Position": [ 6645, 150, 3473 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": 50
+				},
+				{
+					"Position": [ 6645, 140, 3473 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": 50
+				},
+				{
+					"Position": [ 6645, 130, 3473 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 50
+				},
+				{
+					"Position": [ 6645, 120, 3473 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 50
+				},
+				{
+					"Position": [ 6645, 105, 3473 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 50
+				},
+				{
+					"Position": [ 6645, 90, 3473 ],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 50
+				}
+			]
+		},
+		{
+			"Position": [ 7175, 220, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.10,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 256, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.11,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 292, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.12,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 328, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.13,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 364, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.14,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 400, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 436, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.17,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 472, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.19,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 508, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 72, 320 ],
+			"EyeAccommodation": 0.21,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7175, 544, 11620 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 320, 73, 320 ],
+			"EyeAccommodation": 0.23,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 7030, 575, 11618 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 8, 20, 8 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": [
+				{
+					"Position": [ 7030, 588, 11618 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 4
+				},
+				{
+					"Position": [ 7030, 586, 11618 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 4
+				},
+				{
+					"Position": [ 7030, 584, 11618 ],
+					"EyeAccommodation": 0.65,
+					"UseRaycast": 0,
+					"Radius": 4
+				},
+				{
+					"Position": [ 7030, 582, 11618 ],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 4
+				},
+				{
+					"Position": [ 7030, 580, 11618 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": 4
+				},
+				{
+					"Position": [ 7030, 578, 11618 ],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 4
+				}
+			]
+		},
+		{
+			"Position": [ 15620, 0, 14750 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 200, 510, 200 ],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 5887, 6, 13560 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 30, 16, 16 ],
+			"EyeAccommodation": 1,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [ 250, 0, 1910 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 500, 300, 152 ],
+			"EyeAccommodation": 0.04,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [ 250, 0, 1760 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 500, 300, 152 ],
+			"EyeAccommodation": 0.04,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [ 250, 0, 1610 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 500, 300, 152 ],
+			"EyeAccommodation": 0.04,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [ 250, 0, 1460 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 500, 300, 152 ],
+			"EyeAccommodation": 0.04,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+
+
+		{
+			"Position": [ 130, 0, 1880 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [ 7294, 600, 11761.5 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 14, 14, 37 ],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [ 5887, 6, 13793 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 30, 16, 450 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": [
+				{
+					"Position": [ 5887, 6, 13568 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13578 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13588 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13598 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13608 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13618 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 14018 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 14008 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13998 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13988 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13978 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 20
+				},
+				{
+					"Position": [ 5887, 6, 13968 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 20
+				}
+			]
+		}
+	]
+}

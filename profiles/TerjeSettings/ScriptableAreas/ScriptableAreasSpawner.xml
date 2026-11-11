@@ -1,0 +1,15 @@
+<Areas>
+  <Area>
+    <Active>0</Active>
+    <Classname>TerjeRadioactiveScriptableArea</Classname>
+    <Position>13020.000000 86.420040 13220.000000</Position>
+    <SpawnChance>1.0</SpawnChance>
+    <Data>
+      <OuterRadius>500</OuterRadius>
+      <InnerRadius>400</InnerRadius>
+      <HeightMin>-100</HeightMin>
+      <HeightMax>100</HeightMax>
+      <Power>2.5</Power>
+    </Data>
+  </Area>
+</Areas>

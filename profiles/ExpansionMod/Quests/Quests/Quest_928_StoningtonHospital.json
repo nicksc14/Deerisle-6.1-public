@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 928,
+    "Type": 1,
+    "Title": "Stonington医院登记",
+    "Descriptions": [
+        "Stonington医院是城区最重要的医疗地标。先按地图标记去认路，日后需要医疗物资时才不会在城里乱转。",
+        "前往Stonington医院公共医疗补给区。CJ LootChest会按自身规则刷新箱子，任务本身只验证到达，不要求箱子必须存在或被打开。",
+        "Stonington医院位置已记录。这是导航任务，不发放额外奖励。"
+    ],
+    "ObjectiveText": "前往Stonington医院",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 928,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

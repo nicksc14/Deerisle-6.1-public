@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+	<!-- ADDED 1.3 -->
+
+	<type name="AP_outpost_chemsign">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_smoke_em_object">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+
+	<!-- ADDED 1.0 -->
+
+	<type name="AP_outpost_alarm_lamp">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_armdoor_green">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="Land_AP_outpost_tower">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_bomb">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_crate_mil">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_locker_green">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_key_armory">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_key_armory_2">
+        <nominal>0</nominal>						
+        <lifetime>21600</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+	<type name="AP_outpost_LandMineTrap">
+        <nominal>0</nominal>						
+        <lifetime>86400</lifetime>					
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<usage name="Military"/>
+    </type>
+</types>

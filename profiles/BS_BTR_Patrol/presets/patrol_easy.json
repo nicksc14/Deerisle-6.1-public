@@ -1,0 +1,371 @@
+{
+    "Difficulty": "easy",
+    "Settings": {
+        "Event": {
+            "BTRClassName": "BS_BTR_Patrol",
+            "WreckClassName": "BS_BTR_Wreck",
+            "MinPlayersToSpawn": 1,
+            "SpawnCheckInterval": 60.0,
+            "RespawnDelay": 900.0,
+            "PatrolDuration": 3600.0,
+            "WreckLifetime": 900.0
+        },
+        "Health": {
+            "MaxHealth": 2000.0,
+            "ArmorMultiplier": 1.0,
+            "BulletDamageMultiplier": 0.0,
+            "ExplosionRadius": 15.0,
+            "DeathExplosionAmmo": "Explosion_40mm_Ammo"
+        },
+        "Movement": {
+            "PatrolSpeed": 8.0,
+            "CombatSpeed": 4.0,
+            "MaxSpeed": 12.0,
+            "Acceleration": 3.0,
+            "Deceleration": 5.0,
+            "TerrainSampleDistance": 15.0,
+            "MaxSlopeAngle": 35.0,
+            "EnableObstacleAvoidance": 0,
+            "ObstacleCheckDistance": 20.0,
+            "WaypointReachDistance": 20.0,
+            "PlowThroughVegetation": 1,
+            "CrushEntities": 1,
+            "CrushMinSpeed": 2.0
+        },
+        "Turret": {
+            "YawSpeed": 60.0,
+            "PitchSpeed": 40.0,
+            "MaxYaw": 180.0,
+            "MaxPitch": 90.0,
+            "MinPitch": -10.0,
+            "FireCooldown": 0.4000000059604645,
+            "Accuracy": 0.25,
+            "MissAngle": 4.0,
+            "MaxRange": 300.0,
+            "CoaxAccuracy": 0.3499999940395355,
+            "CoaxMissAngle": 4.0,
+            "CoaxMaxRange": 250.0,
+            "AmmoClass": "Bullet_762x39",
+            "DamageMultiplier": 1.5,
+            "BurstSize": 8,
+            "ReloadTime": 3.0,
+            "StopToShoot": 1,
+            "CoaxOnly": 0,
+            "ExplosiveCannon": 1,
+            "CannonExplosionAmmo": "Explosion_40mm_Ammo",
+            "FellTreesRadius": 6.0
+        },
+        "Grenade": {
+            "Enabled": 0,
+            "Cooldown": 8.0,
+            "Range": 150.0,
+            "MinRange": 30.0,
+            "Speed": 700,
+            "ExplosionAmmo": "Explosion_40mm_Ammo",
+            "FellTreesRadius": 6.0
+        },
+        "Combat": {
+            "DetectionRadius": 250.0,
+            "EngageRadius": 200.0,
+            "DisengageRadius": 350.0,
+            "LostSightTimeout": 15.0,
+            "OrbitRadius": 80.0,
+            "OrbitSpeed": 4.0,
+            "AggroWhilePatrolling": 1,
+            "PatrolAggroRange": 150.0,
+            "PatrolScanInterval": 1.0,
+            "EnableSuppression": 1,
+            "SuppressionSpread": 6.0,
+            "SuppressionDuration": 4.0,
+            "ChasePlayers": 0,
+            "CloseRangeAutoLOS": 0.0,
+            "IgnoreGodmodePlayers": 1,
+            "SnapDistance": 4.0
+        },
+        "Faction": {
+            "Name": "Hostile",
+            "AttackPlayers": 1,
+            "AttackOtherBTRs": 1,
+            "Enemies": [
+                "ALL"
+            ],
+            "Allies": []
+        },
+        "Markers": {
+            "EnableMapMarker": 1,
+            "Enable3DMarker": 1,
+            "Enable2DMarker": 1,
+            "ShowHealthOnMarker": 1,
+            "Name": "Hostile BTR-82A",
+            "IconName": "BTR BS",
+            "IconPath": "BTR_82A/icon/iconbtr.paa",
+            "KeepMarkerOnWreck": 0,
+            "PatrolMarkerColor": "255,255,50,0",
+            "WreckMarkerColor": "255,140,140,140"
+        },
+        "Notifications": {
+            "Enable": 1,
+            "Title": "#STR_BS_BTR_notif_title",
+            "SpawnMsg": "#STR_BS_BTR_spawn",
+            "DestroyedMsg": "#STR_BS_BTR_destroyed",
+            "DespawnMsg": "#STR_BS_BTR_despawn",
+            "Icon": "BTR_82A/icon/iconbtr.paa",
+            "EnablePlayerKilled": 1,
+            "ShowVictimName": 1,
+            "PlayerKilledMsg": "#STR_BS_BTR_player_killed",
+            "PlayerKilledNoNameMsg": "#STR_BS_BTR_player_killed_anon",
+            "ShowKillerName": 1,
+            "DestroyedByMsg": "#STR_BS_BTR_destroyed_by"
+        },
+        "Effects": {
+            "EnableWheelDust": 1
+        },
+        "SmokeScreen": {
+            "Enabled": 1,
+            "TriggerAtHealth": 0.6499999761581421,
+            "RepeatEvery": 0.20000000298023225,
+            "MaxDeployments": 3,
+            "Cooldown": 12.0,
+            "Duration": 16.0,
+            "EmitterCount": 5,
+            "HunkerDown": 1,
+            "AccuracyWhileSmoked": 0.3499999940395355
+        },
+        "Loot": {
+            "UseCrateLoot": 1,
+            "CrateBurningTimeMin": 20,
+            "CrateBurningTimeMax": 40,
+            "CrateSpawnRadiusMin": 5.0,
+            "CrateSpawnRadiusMax": 8.0,
+            "CratesMin": 1,
+            "CratesMax": 2,
+            "CrateClasses": [
+                "BS_Tank_Box1",
+                "BS_Tank_Box2_Black"
+            ],
+            "LootCategories": {
+                "Weapons": {
+                    "Min": 1,
+                    "Max": 2,
+                    "Items": [
+                        {
+                            "LootClass": "AKM",
+                            "LootAttachments": [
+                                "Mag_AKM_30Rnd",
+                                "AK_WoodBttstck",
+                                "AK_WoodHndgrd"
+                            ],
+                            "SpawnChance": 1.0
+                        },
+                        {
+                            "LootClass": "SVD",
+                            "LootAttachments": [
+                                "Mag_SVD_10Rnd",
+                                "PSO1Optic"
+                            ],
+                            "SpawnChance": 0.4000000059604645
+                        }
+                    ]
+                },
+                "Ammo": {
+                    "Min": 2,
+                    "Max": 4,
+                    "Items": [
+                        {
+                            "LootClass": "Ammo_762x39",
+                            "LootAttachments": [],
+                            "SpawnChance": 1.0
+                        },
+                        {
+                            "LootClass": "Mag_AKM_Drum75Rnd",
+                            "LootAttachments": [],
+                            "SpawnChance": 0.5
+                        }
+                    ]
+                },
+                "Medical": {
+                    "Min": 2,
+                    "Max": 4,
+                    "Items": [
+                        {
+                            "LootClass": "BandageDressing",
+                            "LootAttachments": [],
+                            "SpawnChance": 1.0
+                        },
+                        {
+                            "LootClass": "Morphine",
+                            "LootAttachments": [],
+                            "SpawnChance": 1.0
+                        },
+                        {
+                            "LootClass": "SalineBagIV",
+                            "LootAttachments": [],
+                            "SpawnChance": 0.699999988079071
+                        }
+                    ]
+                },
+                "Gear": {
+                    "Min": 1,
+                    "Max": 2,
+                    "Items": [
+                        {
+                            "LootClass": "PlateCarrierVest",
+                            "LootAttachments": [],
+                            "SpawnChance": 1.0
+                        },
+                        {
+                            "LootClass": "NVGoggles",
+                            "LootAttachments": [],
+                            "SpawnChance": 0.3499999940395355
+                        },
+                        {
+                            "LootClass": "Mich2001Helmet",
+                            "LootAttachments": [],
+                            "SpawnChance": 1.0
+                        }
+                    ]
+                }
+            },
+            "LootCrates": [
+                {
+                    "ClassName": "BS_Tank_Box1",
+                    "LBPresetName": "",
+                    "Presets": [
+                        "Weapons",
+                        "Ammo"
+                    ]
+                },
+                {
+                    "ClassName": "BS_Tank_Box2_Black",
+                    "LBPresetName": "",
+                    "Presets": [
+                        "Medical",
+                        "Gear"
+                    ]
+                }
+            ],
+            "DeathLoot": [
+                {
+                    "ClassName": "AKM",
+                    "Quantity": 1,
+                    "SpawnChance": 0.800000011920929
+                },
+                {
+                    "ClassName": "Mag_AKM_30Rnd",
+                    "Quantity": 3,
+                    "SpawnChance": 1.0
+                },
+                {
+                    "ClassName": "Ammo_762x39",
+                    "Quantity": 2,
+                    "SpawnChance": 0.8999999761581421
+                },
+                {
+                    "ClassName": "PlateCarrierVest",
+                    "Quantity": 1,
+                    "SpawnChance": 0.5
+                },
+                {
+                    "ClassName": "NVGoggles",
+                    "Quantity": 1,
+                    "SpawnChance": 0.30000001192092898
+                },
+                {
+                    "ClassName": "Canteen",
+                    "Quantity": 1,
+                    "SpawnChance": 0.699999988079071
+                },
+                {
+                    "ClassName": "BandageDressing",
+                    "Quantity": 3,
+                    "SpawnChance": 0.800000011920929
+                }
+            ]
+        },
+        "Defenders": {
+            "EnableDefenders": 0,
+            "DespawnRadius": 800.0,
+            "DespawnCheckInterval": 60.0,
+            "Defenders": [
+                {
+                    "ClassName": "ZmbM_SoldierNormal",
+                    "Count": 5,
+                    "AdditionalNight": 2,
+                    "SpawnRadius": 25.0,
+                    "IsExpansionBot": 0,
+                    "ExpansionFaction": "",
+                    "ExpansionLoadout": "",
+                    "ExpansionUnlimitedAmmo": 0,
+                    "ExpansionCanBeLooted": 1,
+                    "DamageMultiplier": 1.0,
+                    "DamageReceivedMultiplier": 1.0
+                },
+                {
+                    "ClassName": "ZmbM_usSoldier_Heavy_Woodland",
+                    "Count": 3,
+                    "AdditionalNight": 1,
+                    "SpawnRadius": 20.0,
+                    "IsExpansionBot": 0,
+                    "ExpansionFaction": "",
+                    "ExpansionLoadout": "",
+                    "ExpansionUnlimitedAmmo": 0,
+                    "ExpansionCanBeLooted": 1,
+                    "DamageMultiplier": 1.0,
+                    "DamageReceivedMultiplier": 1.0
+                }
+            ]
+        }
+    },
+    "PatrolRoutes": [
+        {
+            "RouteName": "Airfield Chernarus",
+            "Waypoints": [
+                [
+                    4926.7001953125,
+                    339.0260009765625,
+                    9673.349609375
+                ],
+                [
+                    4826.509765625,
+                    339.1990051269531,
+                    9615.5
+                ],
+                [
+                    4706.2099609375,
+                    339.0,
+                    9558.4404296875
+                ],
+                [
+                    4411.3798828125,
+                    339.0400085449219,
+                    10057.7001953125
+                ],
+                [
+                    4110.18994140625,
+                    339.0,
+                    10582.099609375
+                ],
+                [
+                    4001.610107421875,
+                    339.0,
+                    10777.900390625
+                ],
+                [
+                    4260.58984375,
+                    339.0,
+                    10919.599609375
+                ],
+                [
+                    4586.27001953125,
+                    339.0,
+                    10374.7001953125
+                ],
+                [
+                    4875.77001953125,
+                    339.0,
+                    9858.73046875
+                ]
+            ]
+        }
+    ]
+}

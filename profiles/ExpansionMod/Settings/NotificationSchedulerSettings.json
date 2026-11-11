@@ -1,0 +1,170 @@
+{
+  "m_Version": 2,
+  "Enabled": 1,
+  "UTC": 0,
+  "UseMissionTime": 0,
+  "Notifications": [
+    {
+      "Hour": 2,
+      "Minute": 50,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有10分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFFFFFFF"
+    },
+    {
+      "Hour": 2,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有5分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFD800FF"
+    },
+    {
+      "Hour": 2,
+      "Minute": 59,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有1分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FF0000FF"
+    },
+    {
+      "Hour": 6,
+      "Minute": 50,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有10分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFFFFFFF"
+    },
+    {
+      "Hour": 6,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有5分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFD800FF"
+    },
+    {
+      "Hour": 6,
+      "Minute": 59,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有1分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FF0000FF"
+    },
+    {
+      "Hour": 10,
+      "Minute": 50,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有10分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFFFFFFF"
+    },
+    {
+      "Hour": 10,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有5分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFD800FF"
+    },
+    {
+      "Hour": 10,
+      "Minute": 59,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有1分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FF0000FF"
+    },
+    {
+      "Hour": 14,
+      "Minute": 50,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有10分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFFFFFFF"
+    },
+    {
+      "Hour": 14,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有5分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFD800FF"
+    },
+    {
+      "Hour": 14,
+      "Minute": 59,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有1分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FF0000FF"
+    },
+    {
+      "Hour": 18,
+      "Minute": 50,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有10分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFFFFFFF"
+    },
+    {
+      "Hour": 18,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有5分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFD800FF"
+    },
+    {
+      "Hour": 18,
+      "Minute": 59,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有1分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FF0000FF"
+    },
+    {
+      "Hour": 23,
+      "Minute": 50,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有10分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFFFFFFF"
+    },
+    {
+      "Hour": 23,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有5分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FFD800FF"
+    },
+    {
+      "Hour": 23,
+      "Minute": 59,
+      "Second": 0,
+      "Title": "服务器重启提醒",
+      "Text": "还有1分钟重启服务器",
+      "Icon": "Info",
+      "Color": "FF0000FF"
+    }
+  ]
+}

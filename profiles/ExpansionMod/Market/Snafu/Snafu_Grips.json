@@ -1,0 +1,78 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SNAFU握把",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "sa58_fgrip",
+            "MaxPriceThreshold": 5400,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_afg_02_black",
+            "MaxPriceThreshold": 8100,
+            "MinPriceThreshold": 6600,
+            "SellPricePercent": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "snafu_afg_02_tan"
+            ]
+        },
+        {
+            "ClassName": "snafu_afg_02_od",
+            "MaxPriceThreshold": 8100,
+            "MinPriceThreshold": 6600,
+            "SellPricePercent": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_fgcr_grip",
+            "MaxPriceThreshold": 8100,
+            "MinPriceThreshold": 6600,
+            "SellPricePercent": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_fgkac_grip",
+            "MaxPriceThreshold": 8100,
+            "MinPriceThreshold": 6600,
+            "SellPricePercent": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafumpx_grip",
+            "MaxPriceThreshold": 3600,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

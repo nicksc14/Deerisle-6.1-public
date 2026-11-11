@@ -1,0 +1,368 @@
+{
+    "TeleportEntries": [
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Building_Island_Teleport_to_Safezone",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                9697.6025390625,
+                37.775943756103519,
+                1224.85791015625
+            ],
+            "ObjectOrientation": [
+                -86.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                5644.1904296875,
+                28.904560089111329,
+                5402.08984375
+            ],
+            "CheckRadius": 15.0,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Safezone_Teleport_to_Building_Island",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                5376.12353515625,
+                10.172043800354004,
+                5433.9404296875
+            ],
+            "ObjectOrientation": [
+                -107.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                9688.1142578125,
+                37.73253631591797,
+                1248.1995849609376
+            ],
+            "CheckRadius": 15.0,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Stonington_Prison_Out",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                5829.9345703125,
+                41.01582336425781,
+                728.6679077148438
+            ],
+            "ObjectOrientation": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                5512.45947265625,
+                34.846099853515628,
+                671.9754028320313
+            ],
+            "CheckRadius": 15.0,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "T1_Teleport_Back",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                12687.7802734375,
+                43.17007064819336,
+                2048.874755859375
+            ],
+            "ObjectOrientation": [
+                35.99999237060547,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                6107.86328125,
+                8.349224090576172,
+                4970.31494140625
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "T1_Teleport_Entry",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                5974.39208984375,
+                13.5269193649292,
+                4984.693359375
+            ],
+            "ObjectOrientation": [
+                -107.99999237060547,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                12862.677734375,
+                5.643743515014648,
+                862.1209716796875
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T2_South_Heaven_Entry_Groots",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                7521.6611328125,
+                87.66996002197266,
+                4597.6923828125
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                1122.675171,
+                55.701607,
+                10639.914063
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T2_South_Heaven_Extraction",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                1189.83642578125,
+                27.20004653930664,
+                13253.578125
+            ],
+            "ObjectOrientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                7547.952148,
+                87.695007,
+                4610.515137
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T3_North_Heaven_Entry_PowerPlant",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                4636.96875,
+                20.42999839782715,
+                7072.28076171875
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                158.701706,
+                6.470069,
+                15231.617188
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T3_North_Heaven_Extraction_PowerPlant",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                1236.17041015625,
+                40.205474853515625,
+                15666.138671875
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                4614.708496,
+                34.494194,
+                7052.918945
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T5_Alcatraz_Entry_Paris",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                2547.07470703125,
+                35.09999084472656,
+                3529.933349609375
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                15776.644531,
+                2.447261,
+                4309.559082
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T5_Alcatraz_Extraction_Paris",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                15764.9072265625,
+                22.495410919189453,
+                5183.27197265625
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                2576.623535,
+                44.035629,
+                3485.217285
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T4_LostIsland_Entry_RCFI",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                3770.26171875,
+                9.010906219482422,
+                9110.490234375
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                9212.2666015625,
+                3.3302454948425293,
+                14509.9140625
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Run_T4_LostIsland_Extraction_RCFI",
+            "ObjectType": "Land_jmc_facility_pipe_tank",
+            "ObjectCoordinates": [
+                8953.0849609375,
+                58.500858306884766,
+                15474.642578125
+            ],
+            "ObjectOrientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                3684.1044921875,
+                18.391674041748047,
+                8719.203125
+            ],
+            "CheckRadius": 10.0,
+            "RequiredItem": "CJ_Key4",
+            "RequiredItemDamagePercent": 25.0,
+            "TeleportActiveTimeSeconds": 30,
+            "TeleportCooldownSeconds": 5,
+            "MissingItemMessage": "你手里缺少[跑刀传送钥匙]!!"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport_Submarine",
+            "ObjectType": "StaticObj_Furniture_pokladna",
+            "ObjectCoordinates": [
+                16048.873047,
+                27.807974,
+                10876.28418
+            ],
+            "ObjectOrientation": [
+                -143.999985,
+                0.0,
+                0.0
+            ],
+            "TeleportPosition": [
+                15336.15625,
+                2.795083,
+                10787.316406
+            ],
+            "CheckRadius": 15.0,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 10.0,
+            "TeleportActiveTimeSeconds": 60,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        }
+    ]
+}

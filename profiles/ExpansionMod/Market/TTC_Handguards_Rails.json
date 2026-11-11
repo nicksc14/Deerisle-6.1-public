@@ -1,0 +1,128 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TTC步枪导轨",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ttc_akmod_afg",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_akmod_hndguard",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_akmod_gold_hndguard",
+        "ttc_akmod_snow_hndguard",
+        "ttc_akmod_multi_hndguard",
+        "ttc_akmod_digi_hndguard",
+        "ttc_akmod_tan_hndguard"
+      ]
+    },
+    {
+      "ClassName": "ttc_dmr_afg",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_dmr_afg_green",
+        "ttc_dmr_afg_tan"
+      ]
+    },
+    {
+      "ClassName": "ttc_dmr_bipod",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_dmr_hndguard",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_dmr_hndguardod",
+        "ttc_dmr_hndguarddesert",
+        "ttc_dmr_hndguardsnow"
+      ]
+    },
+    {
+      "ClassName": "ttc_dmr_vfg",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_dmr_vfg_green",
+        "ttc_dmr_vfg_tan"
+      ]
+    },
+    {
+      "ClassName": "ttc_fal_ris_hndgrd",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ttc_fal_wood_hndgrd",
+        "ttc_fal_poly_hndgrd"
+      ]
+    },
+    {
+      "ClassName": "ttc_pistol_light",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ttc_svt40_bayonet",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

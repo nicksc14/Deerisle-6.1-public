@@ -1,0 +1,472 @@
+{
+    "circleZones": [
+        {
+            "zoneName": "跑刀区域T1|陨石坑外围",
+            "zonePosition": [
+                12896.47,
+                15.0,
+                1309.08
+            ],
+            "zoneRadius": 350.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 90,
+            "zoneRed": 46,
+            "zoneGreen": 204,
+            "zoneBlue": 113,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "T1",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "跑刀区域T2|天堂南岛",
+            "zonePosition": [
+                945.451599,
+                51.204998,
+                12646.503906
+            ],
+            "zoneRadius": 950.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 140,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "T2",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "跑刀区域T3|天堂北岛",
+            "zonePosition": [
+                1237.76001,
+                16.891193,
+                15273.299805
+            ],
+            "zoneRadius": 800.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 140,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "T3",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "跑刀区域T5|Alcatraz恶魔岛",
+            "zonePosition": [
+                15757.852539,
+                57.523796,
+                4813.666992
+            ],
+            "zoneRadius": 550.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 105,
+            "zoneRed": 138,
+            "zoneGreen": 43,
+            "zoneBlue": 226,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "T5",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "跑刀区域T4|失落岛",
+            "zonePosition": [
+                9975.663086,
+                49.794353,
+                15115.107422
+            ],
+            "zoneRadius": 1000.0,
+            "zoneSize": 1000.0,
+            "zoneAlpha": 100,
+            "zoneRed": 255,
+            "zoneGreen": 0,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "T4",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "新手岛",
+            "zonePosition": [
+                9095.740234,
+                -0.158226,
+                4561.46582
+            ],
+            "zoneRadius": 1500.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 100,
+            "zoneRed": 0,
+            "zoneGreen": 255,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "新手城",
+            "zonePosition": [
+                7181.933105,
+                29.894951,
+                2167.336182
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 2000.0,
+            "zoneAlpha": 100,
+            "zoneRed": 0,
+            "zoneGreen": 255,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 0,
+            "zoneType": "",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "渔夫小镇安全区",
+            "zonePosition": [
+                10450.660156,
+                2.855675,
+                5641.042969
+            ],
+            "zoneRadius": 50.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 100,
+            "zoneRed": 0,
+            "zoneGreen": 255,
+            "zoneBlue": 255,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "暴徒互殴区",
+            "zonePosition": [
+                5483.0,
+                75.0,
+                3783.0
+            ],
+            "zoneRadius": 300.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 100,
+            "zoneRed": 255,
+            "zoneGreen": 215,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "黑市战争区",
+            "zonePosition": [
+                13395.0,
+                13.0,
+                9877.0
+            ],
+            "zoneRadius": 300.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 105,
+            "zoneRed": 200,
+            "zoneGreen": 50,
+            "zoneBlue": 50,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "钓鱼区｜南部大湖",
+            "zonePosition": [
+                6800.0,
+                0.0,
+                3020.0
+            ],
+            "zoneRadius": 300.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 85,
+            "zoneRed": 0,
+            "zoneGreen": 210,
+            "zoneBlue": 170,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "淡水",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "钓鱼区｜中央山地湖",
+            "zonePosition": [
+                5960.0,
+                0.0,
+                9740.0
+            ],
+            "zoneRadius": 220.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 85,
+            "zoneRed": 0,
+            "zoneGreen": 210,
+            "zoneBlue": 170,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "淡水",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "钓鱼区｜北部深海",
+            "zonePosition": [
+                11300.0,
+                0.0,
+                13200.0
+            ],
+            "zoneRadius": 650.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 85,
+            "zoneRed": 0,
+            "zoneGreen": 145,
+            "zoneBlue": 255,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "海水",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "钓鱼区｜东南远海",
+            "zonePosition": [
+                12300.0,
+                0.0,
+                4500.0
+            ],
+            "zoneRadius": 650.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 85,
+            "zoneRed": 0,
+            "zoneGreen": 145,
+            "zoneBlue": 255,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "海水",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "钓鱼区|北极峡湾",
+            "zonePosition": [
+                14000.0,
+                0.0,
+                14350.0
+            ],
+            "zoneRadius": 450.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 85,
+            "zoneRed": 0,
+            "zoneGreen": 145,
+            "zoneBlue": 255,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "海水",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "钓鱼区|西部深水",
+            "zonePosition": [
+                900.0,
+                0.0,
+                8500.0
+            ],
+            "zoneRadius": 650.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 85,
+            "zoneRed": 0,
+            "zoneGreen": 145,
+            "zoneBlue": 255,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "海水",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "高风险钓鱼区|钻井平台1/2",
+            "zonePosition": [
+                2575.0,
+                0.0,
+                12550.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "HC_NW_Oilfield_Belt_01",
+            "zonePosition": [
+                1950.0,
+                0.0,
+                12550.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 1000.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 0,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "HC_NW_Oilfield_Belt_02",
+            "zonePosition": [
+                2950.0,
+                0.0,
+                12550.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 1000.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 0,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "HC_NW_Oilfield_Belt_03",
+            "zonePosition": [
+                3575.0,
+                0.0,
+                12175.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 250.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 0,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "HC_NW_Oilfield_Belt_04",
+            "zonePosition": [
+                3575.0,
+                0.0,
+                12425.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 250.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 0,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "HC_NW_Oilfield_Belt_05",
+            "zonePosition": [
+                3575.0,
+                0.0,
+                12675.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 250.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 0,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "HC_NW_Oilfield_Belt_06",
+            "zonePosition": [
+                3575.0,
+                0.0,
+                12925.0
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 250.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 0,
+            "drawCircle": 0,
+            "zoneType": "高风险",
+            "zoneShape": "square"
+        },
+        {
+            "zoneName": "奖杯钓鱼区|钻井平台3",
+            "zonePosition": [
+                4300.0,
+                0.0,
+                15400.0
+            ],
+            "zoneRadius": 600.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 95,
+            "zoneRed": 255,
+            "zoneGreen": 120,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "高风险",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "[唯一建家区]社区岛屿",
+            "zonePosition": [
+                9625.178711,
+                37.755501,
+                1217.310547
+            ],
+            "zoneRadius": 0.0,
+            "zoneSize": 800.0,
+            "zoneAlpha": 255,
+            "zoneRed": 255,
+            "zoneGreen": 230,
+            "zoneBlue": 0,
+            "enable2DMarker": 1,
+            "drawCircle": 0,
+            "zoneType": "建家区",
+            "zoneShape": "circle"
+        },
+        {
+            "zoneName": "社区海湾·休闲渔场",
+            "zonePosition": [
+                8888.157227,
+                0.0,
+                1169.189453
+            ],
+            "zoneRadius": 300.0,
+            "zoneSize": 500.0,
+            "zoneAlpha": 230,
+            "zoneRed": 255,
+            "zoneGreen": 64,
+            "zoneBlue": 192,
+            "enable2DMarker": 1,
+            "drawCircle": 1,
+            "zoneType": "海水",
+            "zoneShape": "circle"
+        }
+    ]
+}

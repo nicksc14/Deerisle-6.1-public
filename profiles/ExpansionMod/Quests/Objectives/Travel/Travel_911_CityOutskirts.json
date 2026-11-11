@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 911,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往城市外围废墟区",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [6286.12793, 31.574984, 2276.740967],
+    "MaxDistance": 200.0,
+    "MarkerName": "城市外围感染区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

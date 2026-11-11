@@ -1,0 +1,79 @@
+{
+    "m_DNAConfig_Clothing": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Helm": "MMG_tactical_helmet_dark_woodland",
+            "dna_Shirt": "MMG_operatorshirt_dark_woodland",
+            "dna_Vest": "MMG_chestrig_erdl",
+            "dna_Pants": "mmg_tactical_pants_dark_woodland",
+            "dna_Shoes": "MMG_boots_dark_woodland",
+            "dna_Backpack": "MMG_carrier_backpack_dark_woodland",
+            "dna_Gloves": "mmg_tactical_gloves_dark_woodland",
+            "dna_Belt": "",
+            "dna_Facewear": "MMG_facemask_dark_woodland",
+            "dna_Eyewear": "mmg_boonie_dark_woodland",
+            "dna_Armband": "",
+            "dna_NVG": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Helm": "mmg_armored_helmet_green",
+            "dna_Shirt": "MMG_operatorshirt_green",
+            "dna_Vest": "MMG_tt_Vest_green",
+            "dna_Pants": "mmg_tactical_pants_green",
+            "dna_Shoes": "MMG_boots_green",
+            "dna_Backpack": "MMG_supplybag_green",
+            "dna_Gloves": "mmg_tactical_gloves_green",
+            "dna_Belt": "",
+            "dna_Facewear": "MMG_facemask_green",
+            "dna_Eyewear": "",
+            "dna_Armband": "mmg_armored_helmet_visor_green",
+            "dna_NVG": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Helm": "MMG_tactical_helmet_erdl",
+            "dna_Shirt": "MMG_combatshirt_erdl",
+            "dna_Vest": "MMG_JPC_Vest_erdl",
+            "dna_Pants": "MMG_combatpants_erdl",
+            "dna_Shoes": "MMG_boots_erdl",
+            "dna_Backpack": "MMG_supplybag_erdl",
+            "dna_Gloves": "mmg_tactical_gloves_erdl",
+            "dna_Belt": "MMG_falcon_b1_belt_erdl",
+            "dna_Facewear": "MMG_facemask_erdl",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": ""
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Helm": "MMG_tactical_helmet_tan",
+            "dna_Shirt": "MMG_tactical_shirt_tan",
+            "dna_Vest": "MMG_MK_III_Armor_tan",
+            "dna_Pants": "mmg_tactical_pants_tan",
+            "dna_Shoes": "MMG_boots_tan",
+            "dna_Backpack": "MMG_carrier_backpack_tan",
+            "dna_Gloves": "mmg_tactical_gloves_tan",
+            "dna_Belt": "mmg_cargobelt_tan",
+            "dna_Facewear": "MMG_headphones_tan",
+            "dna_Eyewear": "MMG_facemask_tan",
+            "dna_Armband": "mmg_armored_helmet_visor_tan",
+            "dna_NVG": "mmg_tac_goggles_red_tan"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Helm": "MMG_striker_helmet_ucp",
+            "dna_Shirt": "MMG_combatshirt_ucp",
+            "dna_Vest": "MMG_MK_III_Armor_ucp",
+            "dna_Pants": "MMG_combatpants_ucp",
+            "dna_Shoes": "MMG_boots_ucp",
+            "dna_Backpack": "MMG_mmps_bag_ucp",
+            "dna_Gloves": "mmg_tactical_gloves_ucp",
+            "dna_Belt": "MMG_falcon_b1_belt_ucp",
+            "dna_Facewear": "",
+            "dna_Eyewear": "MMG_facemask_joker",
+            "dna_Armband": "MMG_patch_rubber_dayz",
+            "dna_NVG": "MMG_carbine_blue"
+        }
+    ]
+}

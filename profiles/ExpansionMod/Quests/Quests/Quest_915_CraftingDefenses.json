@@ -1,0 +1,87 @@
+{
+    "ConfigVersion": 22,
+    "ID": 915,
+    "Type": 1,
+    "Title": "领地旗套件准备",
+    "Descriptions": [
+        "在这座城里生存不光靠开枪。想建立长期据点，先准备并上交1个未损坏的Expansion领地旗套件样品。现成成品或自行制作的TerritoryFlagKit都可以。",
+        "准备并提交1个未损坏的TerritoryFlagKit。任务只验证你身上的成品，不能证明是否亲手制作；交付时套件会被收取。",
+        "样品已验收。真正建立领地时，你还需要再准备1个TerritoryFlagKit，放置后与旗杆交互即可创建领地。ExpansionCodeLock和一箱钉子是起步物资；另外2份螺栓和1份金属零件属于HP CRAFTER基础合成材料，可带到合成工作台查看A1装备配方。它们不是领地建造材料，A1装备还需要其他基础材料和副本阶段核心。真正搭墙前，先确认位置不在禁建区。"
+    ],
+    "ObjectiveText": "准备并提交1个Expansion领地旗套件",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionCodeLock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "NailBox",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_Bolts",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "QPK_MetalParts",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 915,
+            "ObjectiveType": 11
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

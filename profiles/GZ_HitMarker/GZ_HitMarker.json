@@ -1,0 +1,23 @@
+{
+    "ConfigVersion": 2,
+    "HitmarkersOnPlayers": 1,
+    "HitmarkersOnInfected": 1,
+    "HitmarkersOnAnimals": 1,
+    "MeleeHitmarkers": 1,
+    "HeadgearFlyOff": 1,
+    "HeadgearFlyOffOnMelee": 1,
+    "FlyOffSlots": [
+        "Headgear"
+    ],
+    "FlyUpForce": 10.0,
+    "FlyAwayForce": 6.0,
+    "FlySpin": 5.0,
+    "ArmorThreshold": 0.800000011920929,
+    "BodyHitSoundVolume": 1.0,
+    "ArmorHitSoundVolume": 1.0,
+    "HelmetHitSoundVolume": 1.0,
+    "MeleeHitSoundVolume": 1.0,
+    "KillSoundVolume": 0.20000000298023225,
+    "HeadshotSoundVolume": 1.0,
+    "DebugLog": 0
+}

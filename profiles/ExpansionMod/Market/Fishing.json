@@ -1,0 +1,227 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FISHING",
+  "Icon": "Fish",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "hook",
+      "MaxPriceThreshold": 462,
+      "MinPriceThreshold": 276,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "jig",
+      "MaxPriceThreshold": 483,
+      "MinPriceThreshold": 291,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "worm",
+      "MaxPriceThreshold": 9,
+      "MinPriceThreshold": 3,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_rod_common",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_reel_common",
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_line_1",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_hook_a",
+      "MaxPriceThreshold": 450,
+      "MinPriceThreshold": 450,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_line_2",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_hook_b",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_bread",
+      "MaxPriceThreshold": 180,
+      "MinPriceThreshold": 180,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_cheese",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_corn",
+      "MaxPriceThreshold": 180,
+      "MinPriceThreshold": 180,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_meat",
+      "MaxPriceThreshold": 240,
+      "MinPriceThreshold": 240,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_cricket",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 360,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_grasshopper",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 360,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_boilies",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_bait_boilies_pack",
+      "MaxPriceThreshold": 1620,
+      "MinPriceThreshold": 1620,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AP_fishing_box_green",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "AP_fishing_box_sand",
+        "AP_fishing_box_black",
+        "AP_fishing_box_blue"
+      ]
+    },
+    {
+      "ClassName": "AP_fishing_tacklebox_green",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "AP_fishing_tacklebox_blue",
+        "AP_fishing_tacklebox_orange",
+        "AP_fishing_tacklebox_white"
+      ]
+    }
+  ]
+}

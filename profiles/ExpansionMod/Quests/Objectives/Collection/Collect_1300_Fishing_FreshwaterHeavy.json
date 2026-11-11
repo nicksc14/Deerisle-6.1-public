@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1300,
+    "ObjectiveType": 4,
+    "ObjectiveText": "提交四种大型淡水鱼各1条",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {"Amount": 1, "ClassName": "AP_fish_common_carp_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_grass_carp_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_pike_large", "QuantityPercent": -1, "MinQuantityPercent": 1},
+        {"Amount": 1, "ClassName": "AP_fish_catfish_large", "QuantityPercent": -1, "MinQuantityPercent": 1}
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

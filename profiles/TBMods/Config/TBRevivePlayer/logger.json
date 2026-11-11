@@ -1,0 +1,8 @@
+{
+    "version": "1",
+    "isInitialized": 1,
+    "logSteamIdInLog": 1,
+    "logRevive": 1,
+    "logReviveToDiscord": 0,
+    "discordReviveWebhookURL": ""
+}

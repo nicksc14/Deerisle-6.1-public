@@ -1,0 +1,396 @@
+[
+        {
+                "ConfigUniqueID": "BSHC_Dynamic_Easy",
+                "UseExpansionMapMarker": 1,
+                "UseAdvancedGroupsMapMarker": 1,
+                "UseBasicMapMarker": 1,
+                "UseVPPMapMarker": 1,
+                "StaticSpawns": 0,
+                "ActiveCrateCount": 6,
+                "AutoRefresh": 1,
+                "RefreshInterval": 3600,
+                "CrateType": "BS_Hacked_Crate",
+                "LootCategoriesToUse": [
+                        "BSHC_Easy_WeaponPackage",
+                        "BSHC_Easy_Supplies",
+                        "BSHC_Easy_Key5Roll"
+                ],
+                "UseCrateNotifications": 1,
+                "CrateSpawnNotification_Key": "#STR_BSHC_Notification_Spawn_Default",
+                "CrateStartNotification_Key": "#STR_BSHC_Notification_Start_Default",
+                "CrateEndNotification_Key": "#STR_BSHC_Notification_End_Default",
+                "CrateDespawnNotification_Key": "#STR_BSHC_Notification_Despawn_Default",
+                "CrateWarningNotification_Key": "#STR_BSHC_Notification_Warning_Default",
+                "CrateSpawnNotification_Key_Located": "#STR_BSHC_Notification_Spawn_Located",
+                "CrateWarningNotification_Key_Located": "#STR_BSHC_Notification_Warning_Located",
+                "CrateStartNotification_Key_Located": "#STR_BSHC_Notification_Start_Located",
+                "CrateEndNotification_Key_Located": "#STR_BSHC_Notification_End_Located",
+                "CrateDespawnNotification_Key_Located": "#STR_BSHC_Notification_Despawn_Located",
+                "EnableSpawnNotification": 0,
+                "EnableStartNotification": 0,
+                "EnableEndNotification": 0,
+                "EnableDespawnNotification": 0,
+                "ShowLocationInNotifications": 0,
+                "WarningTimeMinutes": 5,
+                "IgnorePlayerCheckOnWarnedSpawn": 1,
+                "ExpansionMarkerColor": "255,50,205,50",
+                "AdvancedGroupsMarkerColor": "255,50,205,50",
+                "MarkerColor_Idle": "255,50,205,50",
+                "MarkerColor_Hacking": "255,255,200,0",
+                "MarkerColor_Unlocked": "255,0,200,0",
+                "UseStateBasedMarkerColor": 1,
+                "MarkerEnable2D": 1,
+                "MarkerEnable3D": 1,
+                "EnableMarkerHackingProgress": 1,
+                "EnableMarkerUnlockedStatus": 1,
+                "RequireAccessAction": 1,
+                "CountdownTime": 300,
+                "CrateLocations": [
+                        {
+                                "Position": "5250.66 4.93211 12374.8",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #1",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "10121.5 21.7701 10875.9",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #2",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "10199.8 6.13534 12109.6",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #3",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "8921.26 22.053 9830.82",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #4",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "5369.82 7.49515 8544.16",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #5",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "4396.69 3.31279 11823",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #6",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "727.613 8.23015 14900.1",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #7",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "8274.87 5.13012 8538.14",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #8",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "3333.35 22.3801 6148.5",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #9",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "4965.7 3.89012 2095.66",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #10",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "5570.29 34.8401 750.607",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Easy Crate #11",
+                                "AISpawnPositions": []
+                        }
+                ],
+                "AutoDespawnTimeMinutes": 30,
+                "MaxLifetimeMinutes_NotTouched": 0,
+                "MinPlayersToSpawnCrate": 0,
+                "EnablePlayerNearbyCheck": 1,
+                "PlayerNearbyCheckRadius": 10,
+                "SpawnAIOnHackStart": 0,
+                "AISpawnTypes": [
+                        "ZmbM_VillagerOld",
+                        "ZmbF_VillagerOld"
+                ],
+                "MinAIToSpawn": 3,
+                "MaxAIToSpawn": 5,
+                "AISpawnRadiusMin": 10,
+                "AISpawnRadiusMax": 25,
+                "SpawnAIOnCrateSpawn": 1,
+                "UseAIWaves": 1,
+                "NumberOfAIWaves": 3,
+                "TimeBetweenAIWavesSeconds": 100,
+                "AIWaveSpawnTypes": [
+                        "ZmbM_VillagerOld",
+                        "ZmbF_VillagerOld"
+                ],
+                "MinAIToSpawnPerWave": 3,
+                "MaxAIToSpawnPerWave": 5,
+                "AIWaveSpawnRadiusMin": 10,
+                "AIWaveSpawnRadiusMax": 20,
+                "AIWaveInitialDelaySeconds": 50,
+                "lb_preset_name": "",
+                "PersistActiveCrateOnRestart": 1
+        },
+        {
+                "ConfigUniqueID": "BSHC_Dynamic_Medium",
+                "UseExpansionMapMarker": 1,
+                "UseAdvancedGroupsMapMarker": 1,
+                "UseBasicMapMarker": 1,
+                "UseVPPMapMarker": 1,
+                "StaticSpawns": 0,
+                "ActiveCrateCount": 5,
+                "AutoRefresh": 1,
+                "RefreshInterval": 3600,
+                "CrateType": "BS_Hacked_Crate",
+                "LootCategoriesToUse": [
+                        "BSHC_Medium_WeaponPackage",
+                        "BSHC_Medium_Supplies",
+                        "BSHC_Medium_Key5Roll"
+                ],
+                "UseCrateNotifications": 1,
+                "CrateSpawnNotification_Key": "#STR_BSHC_Notification_Spawn_Default",
+                "CrateStartNotification_Key": "#STR_BSHC_Notification_Start_Default",
+                "CrateEndNotification_Key": "#STR_BSHC_Notification_End_Default",
+                "CrateDespawnNotification_Key": "#STR_BSHC_Notification_Despawn_Default",
+                "CrateWarningNotification_Key": "#STR_BSHC_Notification_Warning_Default",
+                "CrateSpawnNotification_Key_Located": "#STR_BSHC_Notification_Spawn_Located",
+                "CrateWarningNotification_Key_Located": "#STR_BSHC_Notification_Warning_Located",
+                "CrateStartNotification_Key_Located": "#STR_BSHC_Notification_Start_Located",
+                "CrateEndNotification_Key_Located": "#STR_BSHC_Notification_End_Located",
+                "CrateDespawnNotification_Key_Located": "#STR_BSHC_Notification_Despawn_Located",
+                "EnableSpawnNotification": 1,
+                "EnableStartNotification": 1,
+                "EnableEndNotification": 1,
+                "EnableDespawnNotification": 1,
+                "ShowLocationInNotifications": 1,
+                "WarningTimeMinutes": 5,
+                "IgnorePlayerCheckOnWarnedSpawn": 1,
+                "ExpansionMarkerColor": "255,30,144,255",
+                "AdvancedGroupsMarkerColor": "255,30,144,255",
+                "MarkerColor_Idle": "255,30,144,255",
+                "MarkerColor_Hacking": "255,255,200,0",
+                "MarkerColor_Unlocked": "255,0,200,0",
+                "UseStateBasedMarkerColor": 1,
+                "MarkerEnable2D": 1,
+                "MarkerEnable3D": 1,
+                "EnableMarkerHackingProgress": 1,
+                "EnableMarkerUnlockedStatus": 1,
+                "RequireAccessAction": 1,
+                "CountdownTime": 480,
+                "CrateLocations": [
+                        {
+                                "Position": "5556.51 34.8401 712.01",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #1",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "9961.11 36.7855 6756.13",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #2",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "9944.18 18.7901 12118.5",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #3",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "8377.13 5.13013 9274.51",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #4",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "3273.61 32.1504 6533.94",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #5",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "3170.34 22.4501 4202.73",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #6",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "5458.62 74.0001 3677.79",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #7",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "4158.91 24.6537 15422.4",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #8",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "3730.69 11.3803 8677.71",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #9",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "9498.36 24.2534 7621.95",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #10",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "11340.7 14.8786 10100.8",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Medium Crate #11",
+                                "AISpawnPositions": []
+                        }
+                ],
+                "AutoDespawnTimeMinutes": 30,
+                "MaxLifetimeMinutes_NotTouched": 0,
+                "MinPlayersToSpawnCrate": 0,
+                "EnablePlayerNearbyCheck": 1,
+                "PlayerNearbyCheckRadius": 10,
+                "SpawnAIOnHackStart": 0,
+                "AISpawnTypes": [
+                        "ZmbM_SoldierNormal"
+                ],
+                "MinAIToSpawn": 5,
+                "MaxAIToSpawn": 8,
+                "AISpawnRadiusMin": 10,
+                "AISpawnRadiusMax": 25,
+                "SpawnAIOnCrateSpawn": 1,
+                "UseAIWaves": 1,
+                "NumberOfAIWaves": 3,
+                "TimeBetweenAIWavesSeconds": 160,
+                "AIWaveSpawnTypes": [
+                        "ZmbM_SoldierNormal",
+                        "ZmbM_PolicemanNormal"
+                ],
+                "MinAIToSpawnPerWave": 5,
+                "MaxAIToSpawnPerWave": 7,
+                "AIWaveSpawnRadiusMin": 10,
+                "AIWaveSpawnRadiusMax": 20,
+                "AIWaveInitialDelaySeconds": 80,
+                "lb_preset_name": "",
+                "PersistActiveCrateOnRestart": 1
+        },
+        {
+                "ConfigUniqueID": "BSHC_Dynamic_Hard",
+                "UseExpansionMapMarker": 1,
+                "UseAdvancedGroupsMapMarker": 1,
+                "UseBasicMapMarker": 1,
+                "UseVPPMapMarker": 1,
+                "StaticSpawns": 0,
+                "ActiveCrateCount": 3,
+                "AutoRefresh": 1,
+                "RefreshInterval": 3600,
+                "CrateType": "BS_Hacked_Crate",
+                "LootCategoriesToUse": [
+                        "BSHC_Hard_WeaponPackage",
+                        "BSHC_Hard_Supplies",
+                        "BSHC_Hard_Key5Roll"
+                ],
+                "UseCrateNotifications": 1,
+                "CrateSpawnNotification_Key": "#STR_BSHC_Notification_Spawn_Default",
+                "CrateStartNotification_Key": "#STR_BSHC_Notification_Start_Default",
+                "CrateEndNotification_Key": "#STR_BSHC_Notification_End_Default",
+                "CrateDespawnNotification_Key": "#STR_BSHC_Notification_Despawn_Default",
+                "CrateWarningNotification_Key": "#STR_BSHC_Notification_Warning_Default",
+                "CrateSpawnNotification_Key_Located": "#STR_BSHC_Notification_Spawn_Located",
+                "CrateWarningNotification_Key_Located": "#STR_BSHC_Notification_Warning_Located",
+                "CrateStartNotification_Key_Located": "#STR_BSHC_Notification_Start_Located",
+                "CrateEndNotification_Key_Located": "#STR_BSHC_Notification_End_Located",
+                "CrateDespawnNotification_Key_Located": "#STR_BSHC_Notification_Despawn_Located",
+                "EnableSpawnNotification": 1,
+                "EnableStartNotification": 1,
+                "EnableEndNotification": 1,
+                "EnableDespawnNotification": 1,
+                "ShowLocationInNotifications": 1,
+                "WarningTimeMinutes": 5,
+                "IgnorePlayerCheckOnWarnedSpawn": 1,
+                "ExpansionMarkerColor": "255,147,112,219",
+                "AdvancedGroupsMarkerColor": "255,147,112,219",
+                "MarkerColor_Idle": "255,147,112,219",
+                "MarkerColor_Hacking": "255,255,200,0",
+                "MarkerColor_Unlocked": "255,0,200,0",
+                "UseStateBasedMarkerColor": 1,
+                "MarkerEnable2D": 1,
+                "MarkerEnable3D": 1,
+                "EnableMarkerHackingProgress": 1,
+                "EnableMarkerUnlockedStatus": 1,
+                "RequireAccessAction": 1,
+                "CountdownTime": 600,
+                "CrateLocations": [
+                        {
+                                "Position": "2397.57 50.2368 3272.53",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Hard Crate #1",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "1661.94 31.7624 12756.1",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Hard Crate #2",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "3729.91 14.3864 8921.3",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Hard Crate #3",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "13810 13.6378 9740.47",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Hard Crate #4",
+                                "AISpawnPositions": []
+                        },
+                        {
+                                "Position": "14161.9 1.86137 6517.7",
+                                "Rotation": "0.0 0.0 0.0",
+                                "LocationName": "Hard Crate #5",
+                                "AISpawnPositions": []
+                        }
+                ],
+                "AutoDespawnTimeMinutes": 30,
+                "MaxLifetimeMinutes_NotTouched": 0,
+                "MinPlayersToSpawnCrate": 0,
+                "EnablePlayerNearbyCheck": 1,
+                "PlayerNearbyCheckRadius": 10,
+                "SpawnAIOnHackStart": 0,
+                "AISpawnTypes": [
+                        "ZmbM_SoldierNormal",
+                        "ZmbM_SoldierHeavy"
+                ],
+                "MinAIToSpawn": 10,
+                "MaxAIToSpawn": 12,
+                "AISpawnRadiusMin": 10,
+                "AISpawnRadiusMax": 25,
+                "SpawnAIOnCrateSpawn": 1,
+                "UseAIWaves": 1,
+                "NumberOfAIWaves": 3,
+                "TimeBetweenAIWavesSeconds": 200,
+                "AIWaveSpawnTypes": [
+                        "eAI_SurvivorM_Mirek|loadout:AI_BASTARDO,faction:Shamans"
+                ],
+                "MinAIToSpawnPerWave": 1,
+                "MaxAIToSpawnPerWave": 1,
+                "AIWaveSpawnRadiusMin": 10,
+                "AIWaveSpawnRadiusMax": 20,
+                "AIWaveInitialDelaySeconds": 100,
+                "lb_preset_name": "",
+                "PersistActiveCrateOnRestart": 1
+        }
+]

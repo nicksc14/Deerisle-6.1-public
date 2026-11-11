@@ -1,0 +1,79 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SHOTGUNS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "mp133shotgun",
+      "MaxPriceThreshold": 4977,
+      "MinPriceThreshold": 2988,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "izh43shotgun",
+      "MaxPriceThreshold": 639,
+      "MinPriceThreshold": 384,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "izh18shotgun",
+      "MaxPriceThreshold": 519,
+      "MinPriceThreshold": 312,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "saiga",
+      "MaxPriceThreshold": 4164,
+      "MinPriceThreshold": 2499,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "saiga_bttstck",
+        "mag_saiga_8rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_benellim4",
+      "MaxPriceThreshold": 4164,
+      "MinPriceThreshold": 2496,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_dt11",
+      "MaxPriceThreshold": 636,
+      "MinPriceThreshold": 390,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

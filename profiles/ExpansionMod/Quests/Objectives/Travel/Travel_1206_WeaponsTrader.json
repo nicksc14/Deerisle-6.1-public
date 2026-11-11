@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1206,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往武器交易区",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9557.93,
+        0.0,
+        8937.80
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "武器交易区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

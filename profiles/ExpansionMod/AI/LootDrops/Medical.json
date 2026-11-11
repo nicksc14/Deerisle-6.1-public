@@ -1,0 +1,858 @@
+[
+  {
+    "ClassName": "FirstAidKit",
+    "Chance": 0.5,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [
+      {
+        "ClassName": "BandageDressing",
+        "Chance": 1.0,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "BandageDressing",
+        "Chance": 0.4,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "IodineTincture",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 1.0
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "Morphine",
+        "Chance": 0.1,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "Epinephrine",
+        "Chance": 0.25,
+        "Quantity": {
+          "Min": 0.0,
+          "Max": 0.0
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSalveFinalgon",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSalveCapsicum",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSalveViprosal",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjePillsMagnesiumSulfate",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjePillsAdepress",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleAlcohol",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleAmoxivan",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleNovacaine",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleNeirox",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleErythropoetin",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleAdrenalin",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleMetralindole",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleVaxicam",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleZerivax",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleRabivax",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleRabinoline",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeAmpouleNeirocetal",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeInjectorZivirol",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeInjectorAmoxiclav",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeInjectorNeirox",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeInjectorErythropoietin",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeInjectorNovichek",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeInjectorPropital",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSyringeNew",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSyringeEmpty",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeBandageHemostatic",
+        "Chance": 0.02,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSurgicalKit",
+        "Chance": 0.01,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSurgicalTool_White",
+        "Chance": 0.01,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      },
+      {
+        "ClassName": "TerjeSurgicalTool_Ceramic",
+        "Chance": 0.01,
+        "Quantity": {
+          "Min": 0.2,
+          "Max": 0.8
+        },
+        "Health": [
+          {
+            "Min": 0.7,
+            "Max": 1.0,
+            "Zone": ""
+          }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+      }
+    ],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitAdvance_Black",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitAdvance_Brown",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitAdvance_Green",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitAdvance_Camo",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitIndividual_Black",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitIndividual_Brown",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitIndividual_Green",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitIndividual_Camo",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitMedium",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "TerjeFirstAidKitLarge",
+    "Chance": 0.02,
+    "Quantity": {
+      "Min": 0.0,
+      "Max": 0.0
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1.0,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  }
+]

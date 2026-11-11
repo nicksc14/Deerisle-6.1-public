@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-12",
+  "trader_changes": [
+    {
+      "file": "AP_Armor.json",
+      "category_replacements": {
+        "Bitcoin-AP-Helmet-Parts:0": "Bitcoin-AP-Helmet-Parts:3"
+      }
+    },
+    {
+      "file": "Better_Cars.json",
+      "category_replacements": {
+        "Bitcoin_Batteries:3": "Batteries:3",
+        "Bitcoin_Vehicle_Parts:3": "Vehicle_Parts:3"
+      }
+    },
+    {
+      "file": "MagLoader.json",
+      "category_replacements": {
+        "Bitcoin_CDS_Suppressor": "Bitcoin_CDS_Suppressor:0",
+        "Bitcoin_CDS_Supp_Special": "Bitcoin_CDS_Supp_Special:0"
+      }
+    },
+    {
+      "file": "Clothing.json",
+      "sell_only_items": [
+        "nbcbootsgray",
+        "nbcbootsyellow",
+        "nbcbootswhite",
+        "nbcjacketgray",
+        "nbcjacketyellow",
+        "nbcjacketwhite",
+        "nbcpantsgray",
+        "nbcpantsyellow",
+        "nbcpantswhite"
+      ]
+    },
+    {
+      "file": "Clothing_Accessories.json",
+      "sell_only_items": [
+        "nbcglovesgray",
+        "nbcglovesyellow",
+        "nbchoodgray",
+        "nbchoodyellow",
+        "nbchoodwhite",
+        "gasmask",
+        "gp5gasmask"
+      ]
+    }
+  ],
+  "market_changes": [
+    {
+      "file": "Boots_And_Shoes.json",
+      "normal_stock_sell_only_bases": [
+        "nbcbootsgray"
+      ]
+    },
+    {
+      "file": "Coats_And_Jackets.json",
+      "normal_stock_sell_only_bases": [
+        "nbcjacketgray"
+      ]
+    },
+    {
+      "file": "Pants_And_Shorts.json",
+      "normal_stock_sell_only_bases": [
+        "nbcpantsgray"
+      ]
+    },
+    {
+      "file": "Gloves.json",
+      "normal_stock_sell_only_bases": [
+        "nbcglovesgray"
+      ]
+    },
+    {
+      "file": "Hats_And_Hoods.json",
+      "normal_stock_sell_only_bases": [
+        "nbchoodgray"
+      ]
+    },
+    {
+      "file": "Masks.json",
+      "normal_stock_sell_only_bases": [
+        "gasmask",
+        "gp5gasmask"
+      ]
+    },
+    {
+      "file": "Bitcoin_CDS_Suppressor.json",
+      "sell_percent_20": [
+        "cds_suppressor_ak_01",
+        "cds_suppressor_m4_camo925"
+      ]
+    },
+    {
+      "file": "Bitcoin_CDS_Supp_Special.json",
+      "sell_percent_20": [
+        "cds_sodapipsi_suppressor",
+        "cds_teddy_suppressor_pink"
+      ]
+    },
+    {
+      "file": "Muzzles.json",
+      "sell_percent_20": [
+        "ak_suppressor",
+        "m4_suppressor"
+      ]
+    },
+    {
+      "file": "Vehicle_Parts.json",
+      "zero_price_dependency": "expansionhydraulichoses"
+    }
+  ],
+  "archived": {
+    "whole_files": [
+      "Bitcoin_Batteries.json",
+      "Bitcoin_Vehicle_Parts.json",
+      "Bitcoin-Helicopters.json",
+      "Pelts.json",
+      "Sweaters_And_Hoodies.json"
+    ],
+    "partial_files": {
+      "Ammo.json": [
+        "ammo_12gapellets",
+        "ammo_12gaslug",
+        "ammo_22",
+        "ammo_308win",
+        "ammo_308wintracer",
+        "ammo_357",
+        "ammo_380",
+        "ammo_40mm_explosive",
+        "ammo_45acp",
+        "ammo_556x45",
+        "ammo_556x45tracer",
+        "ammo_762x39",
+        "ammo_762x39tracer",
+        "ammo_762x54",
+        "ammo_762x54tracer",
+        "ammo_9x19",
+        "ammo_9x39",
+        "ammo_9x39ap",
+        "ammo_flare"
+      ],
+      "Helicopters.json": [
+        "expansionmerlin",
+        "expansionmh6",
+        "expansionuh1h"
+      ],
+      "Launchers.json": [
+        "flaregun",
+        "m79"
+      ],
+      "Liquids.json": [
+        "engineoil"
+      ],
+      "Magazines.json": [
+        "mag_akm_drum75rnd",
+        "mag_akm_palm30rnd",
+        "mag_cmag_10rnd",
+        "mag_cmag_20rnd",
+        "mag_cmag_30rnd",
+        "mag_cmag_40rnd",
+        "mag_mp5_15rnd",
+        "mag_stanag_60rnd",
+        "mag_stanagcoupled_30rnd"
+      ]
+    }
+  },
+  "traderzones": {
+    "42.json": {
+      "before": 649,
+      "after": 637,
+      "removed_orphans": 12,
+      "removed_nbc_for_reinit": 0,
+      "clamped_dynamic_over_max": 0,
+      "normalized_negative": 0
+    },
+    "Boat_Trader_Rookie.json": {
+      "before": 239,
+      "after": 233,
+      "removed_orphans": 6,
+      "removed_nbc_for_reinit": 0,
+      "clamped_dynamic_over_max": 0,
+      "normalized_negative": 0
+    },
+    "Boat_Trader_Spire.json": {
+      "before": 239,
+      "after": 233,
+      "removed_orphans": 6,
+      "removed_nbc_for_reinit": 0,
+      "clamped_dynamic_over_max": 4,
+      "normalized_negative": 0
+    },
+    "Rookie_Trader.json": {
+      "before": 5997,
+      "after": 5132,
+      "removed_orphans": 849,
+      "removed_nbc_for_reinit": 16,
+      "clamped_dynamic_over_max": 1469,
+      "normalized_negative": 0
+    },
+    "Waldoboro.json": {
+      "before": 1081,
+      "after": 1067,
+      "removed_orphans": 14,
+      "removed_nbc_for_reinit": 0,
+      "clamped_dynamic_over_max": 0,
+      "normalized_negative": 0
+    },
+    "WestBrook.json": {
+      "before": 2897,
+      "after": 2897,
+      "removed_orphans": 0,
+      "removed_nbc_for_reinit": 0,
+      "clamped_dynamic_over_max": 0,
+      "normalized_negative": 0
+    },
+    "World.json": {
+      "before": 2326,
+      "after": 1831,
+      "removed_orphans": 495,
+      "removed_nbc_for_reinit": 0,
+      "clamped_dynamic_over_max": 0,
+      "normalized_negative": 0
+    }
+  },
+  "migration_manifest": {
+    "file": "EXPANSION_MARKET_REBUILD_MIGRATION.csv",
+    "rows": 312
+  }
+}

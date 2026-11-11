@@ -1,0 +1,36 @@
+{
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_COMPONENTS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Hammer",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Electronics:1",
+    "Electronic_Repair_Kits:1",
+    "Supplies:1",
+    "Navigation:1",
+    "Tools:1",
+    "Lights:1",
+    "Locks:1",
+    "Kits:1"
+  ],
+  "Items": {
+    "nvgoggles": 1,
+    "rangefinder": 1,
+    "lockpick": 1,
+    "tlrlight": 1,
+    "universallight": 1,
+    "battery9v": 1,
+    "carbattery": 1,
+    "nail": 1,
+    "nailbox": 1
+  }
+}

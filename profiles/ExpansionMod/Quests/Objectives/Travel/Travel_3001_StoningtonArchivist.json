@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3001,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往Stonington档案馆",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7091.908203,
+        45.497459,
+        1929.982422
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Stonington档案馆",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

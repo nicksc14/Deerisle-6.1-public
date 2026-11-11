@@ -1,0 +1,32 @@
+{
+  "m_Version": 13,
+  "DisplayName": "高级护甲商人",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "hm_plus_bitcoin"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Bitcoin-AP-Helmet-Parts:0",
+    "Bitcoin-Ap-headphones:0",
+    "Bitcoin-AP-Helmet:0",
+    "Bitcoin-Ap-repairkits:0",
+    "Bitcoin-Ap-armoredpants:0",
+    "Bitcoin-Ap-Vest:0",
+    "MMG_Retex_Canvas:0",
+    "Set_Baby:0",
+    "MMG_Retex_City:0",
+    "MMG_Retex_LW:0",
+    "MMG_Retex_RR:0",
+    "MMG_Retex_Stick:0",
+    "MMG_Retex_Admin:0",
+    "Bitcoin-hNz_pathfinder_bag:0"
+  ],
+  "Items": {}
+}

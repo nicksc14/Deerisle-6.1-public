@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2001,
+    "Type": 1,
+    "Title": "吃喝无忧",
+    "Descriptions": [
+        "鹿岛捕猎协会会先检查你处理普通猎物的基础能力。去猎取一只羊、一只赤鹿、一只狍鹿、一头牛和一头家猪，并亲手完成5次剥皮处理。雌雄和毛色不影响任务，但野猪不算家猪。",
+        "羊、赤鹿、狍鹿、牛和家猪必须各猎取一只。击杀与剥皮目标同时生效；每具动物尸体完成一次剥皮可累计一次处理进度。",
+        "基础考核通过。普通动物、兽皮和掠食者委托现已开放。顶级Strongarm猎刀和T2医疗包不属于本次基础奖励；要获得它们，你必须继续完成六段“鹿岛传奇猎证”特殊物种主线。"
+    ],
+    "ObjectiveText": "分别猎取羊、赤鹿、狍鹿、牛和家猪各1只，并完成5次剥皮",
+    "FollowUpQuest": 210,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [11],
+    "QuestTurnInIDs": [11],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20011,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20012,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20013,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20014,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20015,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20016,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

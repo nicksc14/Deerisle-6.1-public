@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40015,
+    "ObjectiveType": 3,
+    "ObjectiveText": "拜访Stonington档案鉴定员，了解稀有物品与收藏鉴定委托",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7091.908203,
+        45.497459,
+        1929.982422
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "稀有物品与收藏任务｜Stonington档案鉴定员",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

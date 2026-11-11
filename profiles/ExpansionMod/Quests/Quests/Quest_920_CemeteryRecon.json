@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 920,
+    "Type": 1,
+    "Title": "墓地外围勘察",
+    "Descriptions": [
+        "新手岛墓地是这一带的重要地标。先按地图标记走一趟，认清从营地到墓地的路线。",
+        "前往墓地外围，进入标记范围即可完成。这项任务只负责引路，不要求搜索随机宝箱。",
+        "墓地路线已记录。这是导航任务，不发放额外奖励。"
+    ],
+    "ObjectiveText": "前往新手岛墓地",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [3],
+    "QuestTurnInIDs": [3],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 920,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

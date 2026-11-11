@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 11,
+    "ClassName": "ExpansionQuestNPCMirek",
+    "Position": [
+        5640.434570,
+        28.787548,
+        5391.005859
+    ],
+    "Orientation": [
+        168.191971,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "鹿岛捕猎协会",
+  "DefaultNPCText": "这里受理普通捕猎、兽皮收集、掠食者管制和特殊物种追猎。先通过“吃喝无忧”基础考核，再依次完成六段“鹿岛传奇猎证”；只有首次猎获全部六类特殊目标并交付证物，才能领取顶级猎刀与T2医疗包并解锁特殊物种周常。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_011_Hunting_Ghost_Gold",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "",
+    "NPCType": 0,
+    "Active": 1
+}

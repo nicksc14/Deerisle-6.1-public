@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 1,
+    "ClassName": "ExpansionQuestBoardSmall",
+    "Position": [
+        5637.8798828125,
+        29.94646453857422,
+        5389.2001953125
+    ],
+    "Orientation": [
+        45.15903854370117,
+        0.0,
+        0.0
+    ],
+    "NPCName": "任务看板",
+    "DefaultNPCText": "祝你好运，探索鹿岛的外来者。领取并完成任务，获得奖励！",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}

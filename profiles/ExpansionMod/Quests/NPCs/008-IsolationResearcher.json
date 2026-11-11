@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 8,
+    "ClassName": "ExpansionQuestNPCIrena",
+    "Position": [
+        5220.657715,
+        4.998015,
+        9271.924805
+    ],
+    "Orientation": [
+        -49.82465,
+        0.0,
+        0.0
+    ],
+    "NPCName": "艾琳娜·维尔博士｜隔离研究主管",
+    "DefaultNPCText": "把 Tesla 头部、BM 组织、良子家族头手和其他高危生物样本直接交给我。样本来源、完整度和污染情况都要登记；破损容器和无法确认来源的组织一律拒收。",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC_008_Isolation_AP_Grey",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

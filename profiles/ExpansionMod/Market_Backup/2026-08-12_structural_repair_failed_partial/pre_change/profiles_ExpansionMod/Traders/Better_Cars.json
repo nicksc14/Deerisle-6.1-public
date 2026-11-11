@@ -1,0 +1,46 @@
+{
+  "m_Version": 13,
+  "DisplayName": "高端载具商人",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "hm_plus_bitcoin"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Bitcoin_Batteries:3",
+    "Bitcoin_Vehicle_Parts:3",
+    "Bitcoin-FordRaptor_Scorpio_Cars:0",
+    "Bitcoin-FordRaptor_Scorpio_Parts:3",
+    "Bitcoin-MBM_2000FordF350_Cars:0",
+    "Bitcoin-MBM_2000FordF350_Parts:3",
+    "Bitcoin-MBM_JLTV_Cars:0",
+    "Bitcoin-MBM_JLTV_Parts:3",
+    "Bitcoin-MBM_LandCruiser100_Cars:0",
+    "Bitcoin-MBM_LandCruiser100_Parts:3",
+    "Bitcoin-MBM_Porsche918Spyder_Car:0",
+    "Bitcoin-MBM_Porsche918Spyder_Parts:3",
+    "Bitcoin-MBM_MercedesSprinter_Car:0",
+    "Bitcoin-MBM_MercedesSprinter_Parts:3",
+    "NamantH_BoxTruck_Cars:0",
+    "NamantH_BoxTruck_Parts:3",
+    "Bitcoin-Escalade2003_Cars:0",
+    "Bitcoin-Escalade2003_Parts:3",
+    "Bitcoin-Mercedes-Benz_S63AMG_Cars:0",
+    "Bitcoin-Mercedes-Benz_S63AMG_Parts:3",
+    "Bitcoin-Mercedes-Benz_Yachting_Cars:0",
+    "Bitcoin-Mercedes-Benz_Yachting_Parts:3",
+    "Bitcoin-Vodnik:0"
+  ],
+  "Items": {
+    "glowplug": 3,
+    "expansionvodnikwheel": 3,
+    "expansionvodnikdoordriver": 3,
+    "expansionvodnikdoorcodriver": 3
+  }
+}

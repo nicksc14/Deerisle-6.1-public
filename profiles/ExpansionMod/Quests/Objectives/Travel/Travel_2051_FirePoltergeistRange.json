@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2051,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往火山岛的焦痕猎区",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        15041.013672,
+        50.264500,
+        1280.370117
+    ],
+    "MaxDistance": 800.0,
+    "MarkerName": "火山岛｜焦痕猎区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

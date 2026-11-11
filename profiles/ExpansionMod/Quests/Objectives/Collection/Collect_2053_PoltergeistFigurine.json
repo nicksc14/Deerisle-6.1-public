@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2053,
+    "ObjectiveType": 4,
+    "ObjectiveText": "拾取并携带1件Poltergeist收藏雕像",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "QPK_PoltergeystCollection",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

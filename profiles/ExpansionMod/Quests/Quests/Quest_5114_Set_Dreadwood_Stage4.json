@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5114,
+    "Type": 1,
+    "Title": "枯林·捕猎协会4",
+    "Descriptions": [
+        "捕猎协会第4阶段：全图击杀4只巨型犀牛｜铁角巨兽，并缴交1件非毁坏状态的犀牛首级。本阶段仅统计接取后的符合条件击杀。完成后返回战备军需官，领取本阶段固定部件。证物可从对应猎物剥解获得，交付时会被消耗。",
+        "当前目标：全图击杀4只巨型犀牛｜铁角巨兽，并缴交1件非毁坏状态的犀牛首级。满足条件后返回战备军需官提交。",
+        "目标已完成。提交任务后领取本阶段的固定套装部件；本任务每个玩家存档只能完成一次。"
+    ],
+    "ObjectiveText": "全图击杀4只巨型犀牛｜铁角巨兽，并缴交1件非毁坏状态的犀牛首级",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TNRJ_Dreadwood_Vest",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TNRJ_Dreadwood_Ghillie",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        12
+    ],
+    "QuestTurnInIDs": [
+        12
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 51141,
+            "ObjectiveType": 2
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 51142,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        5113
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,9 @@
+{
+    "DuneShield_ConfigVersion": "3",
+    "aIDs": [],
+    "DuneShieldMaxValueHandleDamage": 200,
+    "DuneShieldDepleteEnergyAfterHit": 0,
+    "DuneShieldPercentageOfDamageApplied": 90,
+    "DuneShieldEnableTimeConsumptionEnergy": 1,
+    "DuneShieldTimeConsumptionAmount": 0.2
+}

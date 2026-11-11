@@ -1,0 +1,12 @@
+{
+    "Version": 1,
+    "_notes": [
+        "Enable: 1 = spawn protection enabled, 0 = disabled",
+        "ImmunitySeconds: duration of protection after login",
+        "ApplyOnEveryLogin: 1 = Spawn protection is given every login, 0 = Only new character creation",
+        "https://nooblandz.com for any questions on setup."
+    ],
+    "Enable": 1,
+    "ImmunitySeconds": 6,
+    "ApplyOnEveryLogin": 1
+}

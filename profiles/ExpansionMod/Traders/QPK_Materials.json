@@ -1,0 +1,20 @@
+{
+  "m_Version": 13,
+  "DisplayName": "材料与杂物回收商人",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Deliver",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "QPK\\QPK_Materials:1",
+    "QPK\\QPK_Salvage:1"
+  ],
+  "Items": {}
+}

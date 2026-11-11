@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 除颤器",
+  "Icon": "Crowbar",
+  "Color": "4CFF00FF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "defibrillator",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

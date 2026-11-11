@@ -1,0 +1,20 @@
+{
+    "IceClothDamage": [
+        {
+            "pristineProtection": 1.0,
+            "wornProtection": 0.75,
+            "damagedProtection": 0.5,
+            "badlyDamagedProtection": 0.25
+        }
+    ],
+    "IceClothAll": [
+        {
+            "clothNameI": "GasMask",
+            "protectionI": 75
+        },
+        {
+            "clothNameI": "GP5GasMask",
+            "protectionI": 25
+        }
+    ]
+}

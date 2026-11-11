@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_ce_animal" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+		<default name="randomloot_deloot_perevent" value="3" />
+	</defaults>
+	<ce folder="db">
+		<file name="types_jmc.xml" type="types" />
+	</ce>
+	<ce folder="Inedia_ce">
+		<file name="inedia_types.xml" type="types" />
+		<file name="inedia_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="cfgrandompresets.xml" type="randompresets" />
+	</ce>
+	<ce folder="aj_ce">
+		<file name="AJsWeaponsTypes.xml" type="types" />
+		<file name="AJWeaponSpawnableTypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="ap_mods">
+		<file name="AP_equipment_types_1.5.xml" type="types" />
+		<file name="AP_equipment_types_1.6_new.xml" type="types" />
+		<file name="AWEAR_types_boots.xml" type="types" />
+		<file name="AWEAR_types_eyewear.xml" type="types" />
+		<file name="AWEAR_types_gloves.xml" type="types" />
+		<file name="AWEAR_types_headgears.xml" type="types" />
+		<file name="AWEAR_types_hood.xml" type="types" />
+		<file name="AWEAR_types_mask.xml" type="types" />
+		<file name="AWEAR_types_pants.xml" type="types" />
+		<file name="AWEAR_types_tops.xml" type="types" />
+		<file name="types_AzraelFishing.xml" type="types" />
+		<file name="types_AzraelFishing_DLC1.xml" type="types" />
+		<file name="types_Event_Forester.xml" type="types" />
+		<file name="types_Event_Outpost.xml" type="types" />
+		<file name="Vests_SpawnableTypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="backpacks_ce">
+		<file name="backpack_types.xml" type="types" />
+		<file name="hNz_pathfinder_bag_types.xml" type="types" />
+		<file name="ssm_backpack_ce_types.xml" type="types" />
+		<file name="types_nomadbackpack.xml" type="types"/>
+		<file name="cfgSpawnAbleTypes_NomadBackpack_Example.xml" type="spawnabletypes"/>
+	</ce>
+	<ce folder="cds_suppressors">
+		<file name="types_AK.xml" type="types" />
+		<file name="types_M4.xml" type="types"/>
+		<file name="types_Pistol.xml" type="types" />
+		<file name="types_SodaCans.xml" type="types" />
+		<file name="types_TeddyBears.xml" type="types" />
+	</ce>
+	<ce folder="CJ_ce">
+		<file name="Lootchest_types.xml" type="types" />
+		<file name="Lootchest_cfgspawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<ce folder="BS_KeyRoom_ce">
+		<file name="BS_KeyRoom_SearchExtraction_Types.xml" type="types" />
+	</ce>
+	<ce folder="cz_optics">
+		<file name="cz_optics_types.xml" type="types" />
+	</ce>
+	<ce folder="df_collection_ce">
+		<file name="df_collection_types.xml" type="types" />
+	</ce>
+	<ce folder="dog_ce">
+		<file name="dog_types.xml" type="types" />
+	</ce>
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+	<ce folder="fog_ce">
+		<file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="FOG_Types.xml" type="types" />
+	</ce>
+	<ce folder="hm_ce">
+		<file name="hm_ambulance_types.xml" type="types" />
+		<file name="hm_bunker_event_types.xml" type="types" />
+		<file name="hm_food_types.xml" type="types" />
+		<file name="hm_loader_types.xml" type="types" />
+		<file name="hm_pc_bitcoin_types.xml" type="types" />
+		<file name="hm_secure_types.xml" type="types" />
+		<file name="hm_wd40_types.xml" type="types" />
+		<file name="hm_safezone_assets_types.xml" type="types" />
+		<file name="mystery_box_types.xml" type="types" />
+	</ce>
+	<ce folder="hp_crafter_ce">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="magloader_ce">
+		<file name="magloader_types.xml" type="types"/>
+	</ce>
+	<ce folder="morepackmaterial_ce">
+		<file name="morepackmaterial_types.xml" type="types" />
+	</ce>
+	<ce folder="mmg_ce">
+		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes"/>
+		<file name="MMG_Storage_Types.xml" type="types" />
+		<file name="mmg_types_ADMINGEAR.xml" type="types" />
+		<file name="mmg_types_alpine.xml" type="types" />
+		<file name="mmg_types_atacs.xml" type="types" />
+		<file name="mmg_types_black.xml" type="types" />
+		<file name="mmg_types_carbines.xml" type="types" />
+		<file name="mmg_types_dark_woodland.xml" type="types" />
+		<file name="mmg_types_erdl.xml" type="types" />
+		<file name="mmg_types_green.xml" type="types" />
+		<file name="mmg_types_lv.xml" type="types" />
+		<file name="mmg_types_multicam.xml" type="types" />
+		<file name="mmg_types_multicam_tropic.xml" type="types" />
+		<file name="mmg_types_multicamblack.xml" type="types" />
+		<file name="mmg_types_NBC+NVG.xml" type="types" />
+		<file name="mmg_types_patches.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
+		<file name="mmg_types_red_rose.xml" type="types" />
+		<file name="mmg_types_tan.xml" type="types" />
+		<file name="mmg_types_ucp.xml" type="types" />
+		<file name="mmg_types_white_sticker.xml" type="types" />
+		<file name="MMGCC_types.xml" type="types" />
+	</ce>
+	<ce folder="Terje_Types">
+		<file name="Terje_Optional_items.xml" type="types" />
+		<file name="Terje_Required_items.xml" type="types" />
+		<file name="TerjeSkills_compatible_items.xml" type="types" />
+		<file name="Terje_Skills_Types.xml" type="types" />
+	</ce>
+	<ce folder="trash_bin_ce">
+		<file name="trash_bin_types.xml" type="types" />
+	</ce>
+	<ce folder="vehicles_ce">
+		<file name="CarPack_Types.xml" type="types" />
+		<file name="escalade2003_Vehicle_Types.xml" type="types" />
+		<file name="Escalade2003_Parts_Types.xml" type="types" />
+		<file name="JGC_G63W463_types.xml" type="types" />
+		<file name="MBM_Dune_Buggy.xml" type="types" />
+		<file name="MBM_yamaha450_types.xml" type="types" />
+		<file name="Types_FordRaptor_Scorpio_Update123.xml" type="types" />
+		<file name="Types_Mercedes-Benz_Yachting.xml" type="types" />
+		<file name="Types_Mercedes-Benz_S63AMG.xml" type="types" />
+	</ce>
+	<ce folder="vip_cloth_ce">
+		<file name="mmg_types_canvas.xml" type="types" />
+		<file name="mmg_types_city.xml" type="types" />
+		<file name="TGK_RussianSoldier_V2_types.xml" type="types" />
+		<file name="TGK_FSB_Alpha_types.xml" type="types" />
+		<file name="HW_Zryachi_types.xml" type="types" />
+		<file name="YOJ_Ghost_types.xml" type="types" />
+		<file name="set_Ghost_types.xml" type="types" />
+		<file name="set_Legion_types.xml" type="types" />
+		<file name="set_bat_baby_types.xml" type="types" />
+		<file name="set_duck_types.xml" type="types" />
+		<file name="SM_Set_Rabbit_types.xml" type="types" />
+		<file name="lipesinoff_Rev9_types.xml" type="types" />
+		<file name="terminator_rev_9_types.xml" type="types" />
+		<file name="types_ZZSA_FOG_Sponsor.xml" type="types" />
+		<file name="types_ZZSA_FOG_HuntingReward.xml" type="types" />
+		<file name="types_ZZSA_MMG_Sponsor.xml" type="types" />
+		<file name="types_Candy_Set_BCAA.xml" type="types" />
+		<file name="types_Candy_Set_Roxxon_Guard.xml" type="types" />
+		<file name="types_Candy_Set_Ghost_BlackGold.xml" type="types" />
+		<file name="types_Candy_Set_Jagger.xml" type="types" />
+		<file name="types_TNRJ_Characters_CAJ.xml" type="types" />
+		<file name="types_TNRJ_Characters_Dreadwood.xml" type="types" />
+		<file name="types_TNRJ_Characters_Gasman.xml" type="types" />
+		<file name="types_TNRJ_Characters_Ghost.xml" type="types" />
+		<file name="types_TNRJ_Characters_Nova.xml" type="types" />
+		<file name="types_TNRJ_Characters_Quebec.xml" type="types" />
+		<file name="types_TNRJ_Characters_Shadow.xml" type="types" />
+		<file name="types_TNRJ_Characters_Taiga.xml" type="types" />
+		<file name="types_TNRJ_Characters_WoodMan.xml" type="types" />
+	</ce>
+	<ce folder="weapons_ce">
+		<file name="types_HCL_Vudu.xml" type="types" />
+		<file name="types_ZZ_M4_16IN.xml" type="types" />
+		<file name="types_ZZ_HKG28_50.xml" type="types" />
+		<file name="types_ZZ_MK47.xml" type="types" />
+		<file name="types_ZZ_DMR556.xml" type="types" />
+		<file name="types_ZZ_AKMOD.xml" type="types" />
+		<file name="types_Barret_m107a1.xml" type="types" />
+		<file name="types_SSM_AEK971.xml" type="types" />
+		<file name="Ak_12_types.xml" type="types" />
+		<file name="SNAFU_Deerisle_types.xml" type="types" />
+		<file name="snafuspawnabletypes25percent.xml" type="spawnabletypes" />
+		<file name="Morty_types.xml" type="types" />
+		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="Aligator_types.xml" type="types" />
+		<file name="DMT_Thermal_ce_types.xml" type="types" />
+		<file name="Kivaari_types.xml" type="types" />
+		<file name="ScarH_types.xml" type="types" />
+		<file name="M4_Custom_types.xml" type="types" />
+		<file name="M4_Custom_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="AK74U_ND_types.xml" type="types" />
+		<file name="zfaMinigun_types.xml" type="types" />
+	</ce>
+	<ce folder="zmb_ce">
+		<file name="zmb_types.xml" type="types" />
+		<file name="zmb_spawnabletypes.xml" type="spawnabletypes"/>
+		<file name="AnimalPack_Types.xml" type="types" />
+		<file name="Yeti_Types.xml" type="types" />
+		<file name="Polter_Types.xml" type="types" />
+		<file name="ZMB_CHAPPIE_Types.xml" type="types" />
+	</ce>
+	<ce folder="dada_foods_ce">
+		<file name="types.xml" type="types" />
+	</ce>
+</economycore>

@@ -1,0 +1,608 @@
+{
+  "m_Version": 12,
+  "DisplayName": "新手 - AP背包",
+  "Icon": "Deliver",
+  "Color": "0094FFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ap_bag_6sh118_emr",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_bag_amp12_sand",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_amp12_green",
+        "ap_bag_amp12_black",
+        "ap_bag_amp12_blue",
+        "ap_bag_amp12_atacs",
+        "ap_bag_amp12_mc",
+        "ap_bag_amp12_urban"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_assault_sand",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_assault_green",
+        "ap_bag_assault_black",
+        "ap_bag_assault_blue",
+        "ap_bag_assault_camo",
+        "ap_bag_assault_mc",
+        "ap_bag_assault_ucp"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_ataka_green",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_ataka_grey",
+        "ap_bag_ataka_mc",
+        "ap_bag_ataka_urban",
+        "ap_bag_ataka_frost",
+        "ap_bag_ataka_emr",
+        "ap_bag_ataka_khaki",
+        "ap_bag_ataka_atacs",
+        "ap_bag_ataka_ttsko"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_casual_big_green",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_casual_big_black",
+        "ap_bag_casual_big_blue",
+        "ap_bag_casual_big_yellow"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_casual_brown",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_casual_red",
+        "ap_bag_casual_blue",
+        "ap_bag_casual_green"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_child_1",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_child_2",
+        "ap_bag_child_3",
+        "ap_bag_child_4"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_compact_sand",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_compact_green",
+        "ap_bag_compact_black",
+        "ap_bag_compact_atacs",
+        "ap_bag_compact_mc",
+        "ap_bag_compact_snake"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_drawstring_blue",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_drawstring_red",
+        "ap_bag_drawstring_green",
+        "ap_bag_drawstring_black"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_drysack_orange",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_drysack_blue",
+        "ap_bag_drysack_green",
+        "ap_bag_drysack_yellow",
+        "ap_bag_drysack_camo1",
+        "ap_bag_drysack_camo2"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_duffel_blue",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_duffel_red",
+        "ap_bag_duffel_green",
+        "ap_bag_duffel_atacs"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_embag_red",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_bag_fabric_classic",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_bag_falang_red",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_falang_blue",
+        "ap_bag_falang_green",
+        "ap_bag_falang_grey",
+        "ap_bag_falang_orange",
+        "ap_bag_falang_camo1",
+        "ap_bag_falang_camo2"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_hunting_classic",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_bag_jden_blue",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_jden_red",
+        "ap_bag_jden_green",
+        "ap_bag_jden_brown",
+        "ap_bag_jden_grey"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_military_green",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_military_white"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_modular_camo",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_bag_mountain_green",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_mountain_blue",
+        "ap_bag_mountain_red",
+        "ap_bag_mountain_black",
+        "ap_bag_mountain_camo1",
+        "ap_bag_mountain_camo2",
+        "ap_bag_mountain_camo3"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_oldtravel_blue",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_oldtravel_orange",
+        "ap_bag_oldtravel_brown",
+        "ap_bag_oldtravel_green",
+        "ap_bag_oldtravel_violet"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_raid_green",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_raid_white"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_raid2_green",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_raid2_sand",
+        "ap_bag_raid2_black",
+        "ap_bag_raid2_winter",
+        "ap_bag_raid2_mc"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_raid3_sand",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_raid3_green",
+        "ap_bag_raid3_black",
+        "ap_bag_raid3_atacs",
+        "ap_bag_raid3_mc"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_razor_sand",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_razor_green",
+        "ap_bag_razor_black",
+        "ap_bag_razor_atacs",
+        "ap_bag_razor_ucp",
+        "ap_bag_razor_mc",
+        "ap_bag_razor_mcb"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_riflebag_camo",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_riflebag_green",
+        "ap_bag_riflebag_white"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_rush72_grey",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_rush72_sand",
+        "ap_bag_rush72_green",
+        "ap_bag_rush72_black",
+        "ap_bag_rush72_mc",
+        "ap_bag_rush72_ucp",
+        "ap_bag_rush72_forest",
+        "ap_bag_rush72_urban"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_scav_black",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_scav_brown",
+        "ap_bag_scav_green",
+        "ap_bag_scav_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_sniper_mc",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_sniper_green",
+        "ap_bag_sniper_sand",
+        "ap_bag_sniper_black",
+        "ap_bag_sniper_emr",
+        "ap_bag_sniper_leaves",
+        "ap_bag_sniper_snake",
+        "ap_bag_sniper_swamp",
+        "ap_bag_sniper_winter"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_soviet_khaki",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ap_bag_sport_black",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_sport_blue",
+        "ap_bag_sport_green",
+        "ap_bag_sport_red"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_storm_olive",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_storm_city",
+        "ap_bag_storm_black"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_surv_khaki",
+      "MaxPriceThreshold": 153000,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_surv_winter",
+        "ap_bag_surv_green",
+        "ap_bag_surv_blue",
+        "ap_bag_surv_camo1",
+        "ap_bag_surv_camo2"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_tacbag_khaki",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_tacbag_black"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_tacsling_orig",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_tacsling_atacs",
+        "ap_bag_tacsling_black",
+        "ap_bag_tacsling_polar"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_tacsmall_black",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_tacsmall_sand",
+        "ap_bag_tacsmall_mc",
+        "ap_bag_tacsmall_city"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_tacticul_sand",
+      "MaxPriceThreshold": 126000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_tacticul_green",
+        "ap_bag_tacticul_black",
+        "ap_bag_tacticul_winter",
+        "ap_bag_tacticul_mc",
+        "ap_bag_tacticul_atacs"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_tourist_red",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_tourist_blue",
+        "ap_bag_tourist_green",
+        "ap_bag_tourist_white"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_travel_green",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_travel_blue",
+        "ap_bag_travel_red",
+        "ap_bag_travel_white",
+        "ap_bag_travel_camo1",
+        "ap_bag_travel_camo2",
+        "ap_bag_travel_camo3"
+      ]
+    },
+    {
+      "ClassName": "ap_bag_treksport_orange",
+      "MaxPriceThreshold": 54000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ap_bag_treksport_blue",
+        "ap_bag_treksport_red",
+        "ap_bag_treksport_green",
+        "ap_bag_treksport_grey"
+      ]
+    }
+  ]
+}

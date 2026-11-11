@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 51012,
+    "ObjectiveType": 4,
+    "ObjectiveText": "交付芳纶布40单位、Fleece布料40单位（非毁坏）",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 40,
+            "ClassName": "QPK_Cloth_Aramid",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 40,
+            "ClassName": "QPK_Cloth_Fleece",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

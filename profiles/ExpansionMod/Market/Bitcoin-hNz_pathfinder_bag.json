@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - 追踪者背包套装",
+  "Icon": "Deliver",
+  "Color": "F5A623FF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "hnz_pf_bag",
+      "MaxPriceThreshold": 13000000,
+      "MinPriceThreshold": 13000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hnz_protectorcase_black",
+      "MaxPriceThreshold": 5000000,
+      "MinPriceThreshold": 5000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hnz_waterproofbag_black",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

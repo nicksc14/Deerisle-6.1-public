@@ -1,0 +1,5177 @@
+{
+    "enableRandomContainerRespawn": 0,
+    "maxRandomContainers": 50,
+    "debug_build": 1,
+    "admin_log": 1,
+    "showDoorTimerText": 1,
+    "KeyCard_Locations": [],
+    "lootPools": [
+        {
+            "lootPoolName": "RUN_T1_MATERIALS",
+            "rewards": [
+                {
+                    "name": "QPK_Bolts",
+                    "chanceToSpawn": 0.309090909,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Calibrator",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Cloth_Aramid",
+                    "chanceToSpawn": 0.3636363637,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MetalParts",
+                    "chanceToSpawn": 0.1030303031,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_WeaponParts",
+                    "chanceToSpawn": 0.2242424242,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MilitaryBoard",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T1_SUPPORT",
+            "rewards": [
+                {
+                    "name": "DF_Collect_Carbon",
+                    "chanceToSpawn": 0.006109908553,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Dustcatcher",
+                    "chanceToSpawn": 0.006109908553,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Oil",
+                    "chanceToSpawn": 0.006109908553,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Carbattery",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Radio",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Dailyessentials",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Camera",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Computer",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_FlashdiskAdv",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Laptop",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Pocket",
+                    "chanceToSpawn": 0.004580734883,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Chess",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Guitar",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Precoffeebean",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Badge",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Buoyancy",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Breathing",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Server",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Sweeper",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Tankbattery",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Terrarium",
+                    "chanceToSpawn": 0.003052672671,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Ventilator",
+                    "chanceToSpawn": 0.003052672552,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ZombikCollection",
+                    "chanceToSpawn": 0.002950842106,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_RatCollection",
+                    "chanceToSpawn": 0.002950842106,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_CrowCollection",
+                    "chanceToSpawn": 0.002950842106,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_BoarCollection",
+                    "chanceToSpawn": 0.002950842106,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_CatCollection",
+                    "chanceToSpawn": 0.002950842106,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_TushkanoCollection",
+                    "chanceToSpawn": 0.002950842106,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "GCGN_Ammo_3006",
+                    "chanceToSpawn": 0.041256544511,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_3006",
+                    "chanceToSpawn": 0.034866217389,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x54",
+                    "chanceToSpawn": 0.093031438559,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "Battery9V",
+                    "chanceToSpawn": 0.053812511494,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "chanceToSpawn": 0.053812511494,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "EpoxyPutty",
+                    "chanceToSpawn": 0.053812511494,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Morphine",
+                    "chanceToSpawn": 0.034842572781,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Epinephrine",
+                    "chanceToSpawn": 0.028648256859,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Crafter_Kit",
+                    "chanceToSpawn": 0.006603060497,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_napilnik",
+                    "chanceToSpawn": 0.003278980974,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Oiler",
+                    "chanceToSpawn": 0.003278980915,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeBandageHemostatic",
+                    "chanceToSpawn": 0.101353486269,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleAlcohol",
+                    "chanceToSpawn": 0.041222323301,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSyringeNew",
+                    "chanceToSpawn": 0.044486723679,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_303",
+                    "chanceToSpawn": 0.034237804824,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "chanceToSpawn": 0.110661712067,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_545x39",
+                    "chanceToSpawn": 0.092846686116,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Ammo_762x25",
+                    "chanceToSpawn": 0.061687620159,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T1_WEAPONS",
+            "rewards": [
+                {
+                    "name": "AJW_M4A1_10",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_M4_RISHndgrd",
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M4A1_10_AOR2",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_M4_RISHndgrd",
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M4A1_10_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_M4_RISHndgrd",
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M4A1_AOR2",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_HKGen2PM_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M4A1_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_HKGen2PM_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_SCARL_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_PMAG_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ReflexOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M1918A2",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_M1918A2_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_AVS36",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_AVS36_Mag_10rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_BAR",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_BAR_Magazine_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T2_MATERIALS",
+            "rewards": [
+                {
+                    "name": "QPK_Bolts",
+                    "chanceToSpawn": 0.313609467309,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Calibrator",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Cloth_Aramid",
+                    "chanceToSpawn": 0.420118343274,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MetalParts",
+                    "chanceToSpawn": 0.100591715945,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_WeaponParts",
+                    "chanceToSpawn": 0.165680473472,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PowerFilter",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T2_SUPPORT",
+            "rewards": [
+                {
+                    "name": "DF_Collect_Pocket",
+                    "chanceToSpawn": 0.019684150636,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Graphicscard",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Cloudstorage",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Portableradar",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Blackbox",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Armilla",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_RareCaviar",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Phonograph",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Handgun",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_MilitaryPDA",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_SMU",
+                    "chanceToSpawn": 0.006543304668,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Topserver",
+                    "chanceToSpawn": 0.006543304791,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_DogCollection",
+                    "chanceToSpawn": 0.003050987176,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PlotCollection",
+                    "chanceToSpawn": 0.003050987176,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PsevdodogCollection",
+                    "chanceToSpawn": 0.003050987176,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_SnorkCollection",
+                    "chanceToSpawn": 0.003050987176,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_KarlikCollection",
+                    "chanceToSpawn": 0.003050987176,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_IzlomCollection",
+                    "chanceToSpawn": 0.003050987176,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_545x39",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_9x19",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Battery9V",
+                    "chanceToSpawn": 0.015296945395,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "chanceToSpawn": 0.015296945395,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "UniversalLight",
+                    "chanceToSpawn": 0.015296945395,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TLRLight",
+                    "chanceToSpawn": 0.015296945395,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "PistolOptic",
+                    "chanceToSpawn": 0.015296945395,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Morphine",
+                    "chanceToSpawn": 0.0120531083,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Payalnik",
+                    "chanceToSpawn": 0.001742857652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Epinephrine",
+                    "chanceToSpawn": 0.0120531083,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeBandageHemostatic",
+                    "chanceToSpawn": 0.0120531083,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleAlcohol",
+                    "chanceToSpawn": 0.0120531083,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSyringeNew",
+                    "chanceToSpawn": 0.0120531083,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleAmoxivan",
+                    "chanceToSpawn": 0.0120531083,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_308Win",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x54",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "GCGN_Ammo_3006",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_3006",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_303",
+                    "chanceToSpawn": 0.073948734041,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Ammo_8mm",
+                    "chanceToSpawn": 0.07394873404100033,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T2_WEAPONS",
+            "rewards": [
+                {
+                    "name": "AJW_AK101_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AK101_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AKHNG_AK100",
+                                "AJW_AKHNG_B10_Plastic",
+                                "AJW_AKHNG_MagpulS_Black",
+                                "AJW_Magpul_MOE_Black",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_MOE_Black",
+                                "AJW_SurefireRC2_Black_Suppressor"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AK102_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AK101_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AKHNG_AK100",
+                                "AJW_AKHNG_B10_Plastic",
+                                "AJW_AKHNG_MagpulS_Black",
+                                "AJW_Magpul_MOE_Black",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_MOE_Black",
+                                "AJW_SurefireRC2_Black_Suppressor"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AK103_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AKM_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AKHNG_AK100",
+                                "AJW_AKHNG_B10_Plastic",
+                                "AJW_AKHNG_MagpulS_Black",
+                                "AJW_AK12_Bttstock_Black",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_AK12_Black",
+                                "AJW_PBS1_Suppressor",
+                                "AJW_AK74M_Comp"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AK104_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AKM_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AKHNG_AK100",
+                                "AJW_AKHNG_B10_Plastic",
+                                "AJW_AKHNG_MagpulS_Black",
+                                "AJW_AK12_Bttstock_Black",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_AK12_Black",
+                                "AJW_PBS1_Suppressor",
+                                "AJW_AK74M_Comp"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AK105_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AK74_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AKHNG_AK100",
+                                "AJW_AKHNG_B10_Plastic",
+                                "AJW_AKHNG_MagpulS_Black",
+                                "AJW_AK12_Bttstock_Black",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_AK12_Black",
+                                "AJW_PBS4_Suppressor",
+                                "AJW_AK74M_Comp"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AK74M_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AK74_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AKHNG_AK100",
+                                "AJW_AKHNG_B10_Plastic",
+                                "AJW_AKHNG_MagpulS_Black",
+                                "AJW_AK12_Bttstock_Black",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_AK12_Black",
+                                "AJW_PBS4_Suppressor",
+                                "AJW_AK74M_Comp"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AKS74U_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AK74_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AK74U_HNG_STD",
+                                "AJW_AK74U_HNG_B11",
+                                "AJW_AK74M_PT1_Stock_Black",
+                                "AJW_AK74M_Plastic_Stock",
+                                "AJW_AK_PG_TD_Black",
+                                "AJW_AK_PG_AK12_Black",
+                                "AJW_PBS4_Suppressor",
+                                "AJW_AK74M_Comp"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_Car15_BD",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_EOTech_EXPS3_Black",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_Surefire_Gunlight_Black",
+                                "AJW_BD_Car15_Bttstck"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M40A3_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Optic_Leupold_M3A",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_Gemtech_Suppressor_Black",
+                                "AJW_AACSDN_Suppressor_Black"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M4A1_10_Rattle",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_M4_RISHndgrd",
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M4A1_Rattle",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_HKGen2PM_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_Bttstock_Crane"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_R700",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_R700_10Rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_Leupold_M3A",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_SCARL_TAN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_PMAG_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ReflexOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_SurefireRC2_Tan_Suppressor"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_SV98",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_SV98_10Rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_Accupower",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "GCGN_M700",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M700_Mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUSA80",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUTAR21_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_CMAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_AEK545_Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_AK12_Mag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK103A",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_AK103_Mag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_KAC_Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_KAC_Mag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M70",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AKM_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_KAC",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "M4_OEBttstck"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_AACHoney_300blk",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock_Honey"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_AACHoney_300blk_B",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_300Stanag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock_Honey"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_CAR15",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_Aimpoint2000",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "M4_OEBttstck",
+                                "M4_PlasticHndgrd"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_R700_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T3_MATERIALS",
+            "rewards": [
+                {
+                    "name": "QPK_Bolts",
+                    "chanceToSpawn": 0.138888888983,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Calibrator",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Cloth_Aramid",
+                    "chanceToSpawn": 0.190972222351,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MetalParts",
+                    "chanceToSpawn": 0.052083333369,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MilitaryCable",
+                    "chanceToSpawn": 0.291666666647,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Poxeram",
+                    "chanceToSpawn": 0.239583333278,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_WeaponParts",
+                    "chanceToSpawn": 0.08680555537200013,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_GyroScope",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T3_SUPPORT",
+            "rewards": [
+                {
+                    "name": "DF_Collect_AED",
+                    "chanceToSpawn": 0.008918308898,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Alienware",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Graphicscard",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Cloudstorage",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Portableradar",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Blackbox",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_BlackTortoise",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Champagne",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Armilla",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_RareCaviar",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Phonograph",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Handgun",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_MilitaryPDA",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_SMU",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Topserver",
+                    "chanceToSpawn": 0.004455743248,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_ECMO",
+                    "chanceToSpawn": 0.002226938179,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Medrobot",
+                    "chanceToSpawn": 0.002226938179,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Hyperdisk",
+                    "chanceToSpawn": 0.002226938179,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_APCmodel",
+                    "chanceToSpawn": 0.002226938179,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_MBTmodel",
+                    "chanceToSpawn": 0.002226938179,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ZombikCollection",
+                    "chanceToSpawn": 0.00228882493,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_RatCollection",
+                    "chanceToSpawn": 0.00228882493,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_CrowCollection",
+                    "chanceToSpawn": 0.00228882493,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_BoarCollection",
+                    "chanceToSpawn": 0.00228882493,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_CatCollection",
+                    "chanceToSpawn": 0.00228882493,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_TushkanoCollection",
+                    "chanceToSpawn": 0.00228882493,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_DogCollection",
+                    "chanceToSpawn": 0.001144156365,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PlotCollection",
+                    "chanceToSpawn": 0.001144156365,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PsevdodogCollection",
+                    "chanceToSpawn": 0.001144156365,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_SnorkCollection",
+                    "chanceToSpawn": 0.001144156365,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_KarlikCollection",
+                    "chanceToSpawn": 0.001144156365,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_IzlomCollection",
+                    "chanceToSpawn": 0.001144156365,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_308Win",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x54",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_338",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 5,
+                    "quantityMax": 10,
+                    "attachments": []
+                },
+                {
+                    "name": "Battery9V",
+                    "chanceToSpawn": 0.017205686492,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "EpoxyPutty",
+                    "chanceToSpawn": 0.017205686492,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "M68Optic",
+                    "chanceToSpawn": 0.017205686492,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ReflexOptic",
+                    "chanceToSpawn": 0.017205686492,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ACOGOptic",
+                    "chanceToSpawn": 0.017205686492,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "chanceToSpawn": 0.017205686492,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Drill",
+                    "chanceToSpawn": 0.002034410926,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Grinde",
+                    "chanceToSpawn": 0.002034410858,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Morphine",
+                    "chanceToSpawn": 0.007196355184,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Epinephrine",
+                    "chanceToSpawn": 0.007196355184,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeBandageHemostatic",
+                    "chanceToSpawn": 0.007196355184,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleAmoxivan",
+                    "chanceToSpawn": 0.007196355184,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleNovacaine",
+                    "chanceToSpawn": 0.007196355184,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSyringeNew",
+                    "chanceToSpawn": 0.007196355184,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_545x39",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_762x39",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_300ACC",
+                    "chanceToSpawn": 0.093310954391,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_300blk",
+                    "chanceToSpawn": 0.09331095438799995,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T3_WEAPONS",
+            "rewards": [
+                {
+                    "name": "AJW_DMK12_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_DMK12_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_EoTechVudu",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_B5_Bttstock_FDE",
+                                "AJW_DD_Bttstock_FDE"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_EVO3_Grey",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_EVO3_35rnd",
+                            "random_names": [],
+                            "quantity": 35,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_MicroT2_Black",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_EVO3_Stock_Standard_Black",
+                                "AJW_EVO3_Stock_Standard_Grey",
+                                "AJW_EVO3_Stock_Mini",
+                                "AJW_CZEVO3_Barrel_Long",
+                                "AJW_CZEVO3_Barrel_Micro"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_MK14_EBR_SASS_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_M14_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_LRHS_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AACSDN_Suppressor_Black",
+                                "AJW_AACSDN_Suppressor_FDE",
+                                "AJW_PRS2_FDE",
+                                "AJW_PRS2_Black"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_PKM_Worn",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_PKM_200Rnd_Worn",
+                            "random_names": [],
+                            "quantity": 200,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KobraOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_SCARH_White",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_SCARH_20rnd_Black",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ReflexOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_SVD_Rattle",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_SVD_10Rnd_Rattle",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "KashtanOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUGevar_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUGevar_10rdMag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUGevar_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUGevar_10rdMag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUGevar_Grey",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUGevar_10rdMag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUKH9",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUKH9_30rdMag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM1A_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM1A_20rdMag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM1A_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM1A_20rdMag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_ModBipod",
+                                "Snafu_ScarH_SIL_Tan"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM1A_Tan",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM1A_20rdMag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_AtlasBipod",
+                                "Snafu_ScarH_SIL_Tan"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM24_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM24_Mag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM98B_Atac_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM98B_Mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM98B_Digi_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM98B_Mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM98B_Mc_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM98B_Mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFURSASS_Wood_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFURSASS_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "Snafu_ScarH_SIL_Black",
+                                "SNAFU_FGCR_Grip"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFURSASS_dkmc_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFURSASS_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUSRSA2",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUSRSA2_10rdMag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUT5000_Dkmcc_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUT5000_Mag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUT5000_Snow_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUT5000_Mag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUT5000_Wood_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUT5000_Mag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUTac21",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUTac21_5rdMag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M76",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_M76_Mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_U100",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_U100_Mag",
+                            "random_names": [],
+                            "quantity": 100,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNSA58_Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SA58_DrumMag",
+                            "random_names": [],
+                            "quantity": 50,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SA58_Stock",
+                                "M4_Suppressor"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Snafu_ScarH_Black_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_ScarH_100RND_Mag_Black",
+                            "random_names": [],
+                            "quantity": 100,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Snafu_ScarH_DKMC_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Snafu_ScarH_25RND_Mag_DKMC",
+                            "random_names": [],
+                            "quantity": 25,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Snafu_ScarH_OD_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Snafu_ScarH_25RND_Mag_OD",
+                            "random_names": [],
+                            "quantity": 25,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Snafu_ScarH_Snow_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Snafu_ScarH_25RND_Mag_Snow",
+                            "random_names": [],
+                            "quantity": 25,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_Beowulf",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_50Beo_mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock3"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_HK417",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_HK417_Magazine_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_Holo",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock2"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M1A_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M14_Mag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M1A_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M14_Mag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_Bjorn",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_NEW_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24New_mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_NEW_Camo",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24New_mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_NEW_CamoW",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24New_mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_NEW_Wood",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24New_mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_Woodland",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M24_WoodlandOld",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M24mag_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_MP5SD",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_MP5_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_Holo",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T4_MATERIALS",
+            "rewards": [
+                {
+                    "name": "QPK_Bolts",
+                    "chanceToSpawn": 0.097826086922,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Calibrator",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Cloth_Aramid",
+                    "chanceToSpawn": 0.149456521743,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MetalParts",
+                    "chanceToSpawn": 0.038043478225,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MilitaryCable",
+                    "chanceToSpawn": 0.364130434802,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Poxeram",
+                    "chanceToSpawn": 0.298913043487,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_WeaponParts",
+                    "chanceToSpawn": 0.051630434821,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_FlashStorage",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T4_SUPPORT",
+            "rewards": [
+                {
+                    "name": "DF_Collect_Alienware",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_BlackTortoise",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Champagne",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_ECMO",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Medrobot",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Hyperdisk",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_APCmodel",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_MBTmodel",
+                    "chanceToSpawn": 0.006010539652,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Experimental",
+                    "chanceToSpawn": 0.003003473827,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_MilitaryUAV",
+                    "chanceToSpawn": 0.003003473827,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Missile",
+                    "chanceToSpawn": 0.003003473827,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Golden",
+                    "chanceToSpawn": 0.003003473827,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Luxurywatch",
+                    "chanceToSpawn": 0.003003473827,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Quantum",
+                    "chanceToSpawn": 0.000300173495,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Reactor",
+                    "chanceToSpawn": 0.000300173495,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_SATCOM",
+                    "chanceToSpawn": 0.000300173495,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Diamond",
+                    "chanceToSpawn": 0.000300173388,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_BloodsuckerCollection",
+                    "chanceToSpawn": 0.001784940838,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PoltergeystCollection",
+                    "chanceToSpawn": 0.001784940838,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_BurerCollection",
+                    "chanceToSpawn": 0.001784940838,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ControllerCollection",
+                    "chanceToSpawn": 0.001784940838,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_KAB3685Collection",
+                    "chanceToSpawn": 0.001784940838,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ZazCollection",
+                    "chanceToSpawn": 0.001784940838,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ChimeraCollection",
+                    "chanceToSpawn": 0.000892298438,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_GigantCollection",
+                    "chanceToSpawn": 0.000892298438,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Mi24Collection",
+                    "chanceToSpawn": 0.000892298438,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_KamazCollection",
+                    "chanceToSpawn": 0.000892298438,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_UazCollection",
+                    "chanceToSpawn": 0.000892298438,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ZiL131Collection",
+                    "chanceToSpawn": 0.000892298438,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_308Win",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_300ACC",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_300blk",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_338",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_338",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "Battery9V",
+                    "chanceToSpawn": 0.010727745056,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "EpoxyPutty",
+                    "chanceToSpawn": 0.010727745056,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "chanceToSpawn": 0.016104326108,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ACOGOptic",
+                    "chanceToSpawn": 0.016104326108,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ACOGOptic_6x",
+                    "chanceToSpawn": 0.013415270873,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HuntingOptic",
+                    "chanceToSpawn": 0.013415270873,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Anvil",
+                    "chanceToSpawn": 0.001487355844,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Mag_STANAG_30Rnd",
+                    "chanceToSpawn": 0.00535872621,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Mag_PMAG_30Rnd_Black",
+                    "chanceToSpawn": 0.00535872621,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_AK12_Mag",
+                    "chanceToSpawn": 0.00535872621,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_AK308_Mag",
+                    "chanceToSpawn": 0.00535872621,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_308Stanag",
+                    "chanceToSpawn": 0.00535872621,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeBandageHemostatic",
+                    "chanceToSpawn": 0.00715876987,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSurgicalKit",
+                    "chanceToSpawn": 0.00715876987,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleAdrenalin",
+                    "chanceToSpawn": 0.00715876987,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleAmoxivan",
+                    "chanceToSpawn": 0.00715876987,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeAmpouleNovacaine",
+                    "chanceToSpawn": 0.00715876987,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSyringeNew",
+                    "chanceToSpawn": 0.00715876987,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Ammo_338",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_Expansion_338",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "GCGN_Ammo_408Chey",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 2,
+                    "quantityMax": 4,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_50BMG",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 1,
+                    "quantityMax": 3,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Ammo_50BMG",
+                    "chanceToSpawn": 0.063992157828,
+                    "quantityMin": 1,
+                    "quantityMax": 3,
+                    "attachments": []
+                },
+                {
+                    "name": "GCGN_Ammo_50Cal",
+                    "chanceToSpawn": 0.06399215782400008,
+                    "quantityMin": 1,
+                    "quantityMax": 3,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T4_WEAPONS",
+            "rewards": [
+                {
+                    "name": "AJW_ACR_Tan",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_AK5C_KHK",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_EOTech_EXPS3_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_MOE_FG_Black",
+                                "AJW_Surefire_Gunlight_Black"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_HK416_10_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_PMAG_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_EOTech_EXPS3_TwoTone",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_HK_HG_STD_Quad_FDE",
+                                "AJW_Magpul_MOE_FDE",
+                                "AJW_Bttstock_Crane_FDE",
+                                "AJW_HKG28_BTQD_Suppressor_Tan",
+                                "AJW_Optic_ACOG_Chevron"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_HK416_14_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_PMAG_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_EOTech_EXPS3_TwoTone",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_HK_HG_STD_Quad_FDE",
+                                "AJW_Magpul_MOE_FDE",
+                                "AJW_Bttstock_Crane_FDE",
+                                "AJW_HKG28_BTQD_Suppressor_Tan",
+                                "AJW_Optic_ACOG_Chevron"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_HKG28_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_HKG28_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_EOTech_EXPS3_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_HKG28_BTQD_Suppressor_Black",
+                                "AJW_HKG28_BTQD_Suppressor_Tan",
+                                "AJW_HKG28_Stock_FDE",
+                                "AJW_HKG28_Stock_Black"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_MCX_Rattlecan",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_HKGen2PM_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_StrikeFire_FDE",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_MK12_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_CMAG_20Rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ReflexOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_SurefireRC2_Tan_Suppressor",
+                                "AJW_Optic_ACOG_Chevron",
+                                "AJW_Optic_LRHS"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "GCGN_M110_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M110_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "SNAFU_EOTech_EXPS3",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_FGKAC_Grip"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "GCGN_M110_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M110_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "MK18_Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_HK416_Mag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUHoneyBadger_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUHoneyBadger_30rdMag_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUHoneyBadger_Tan",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUHoneyBadger_30rdMag_Tan",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUMk12",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_CMAG60556_Black",
+                            "random_names": [],
+                            "quantity": 60,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "Snafu_ScarH_SIL_Black",
+                                "SNAFU_FGKAC_Grip",
+                                "SNAFU_AtlasBipod"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK12A",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_AK12_Mag",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK19",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AK101_30Rnd_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_AK308",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_AK308_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_BR18",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_CALI_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_PMAG556_Black",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_CZ805_Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_LVOA556_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_CMAG60556_Black",
+                            "random_names": [],
+                            "quantity": 60,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_SADAR_Stock",
+                                "SNAFU_TACGripColtA2_BK",
+                                "SNAFU_LVOAHG"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M14",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM1A_20rdMag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular10_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_CMAG_40Rnd_Green",
+                            "random_names": [],
+                            "quantity": 40,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_MCMR10",
+                                "SNAFU_SCQR_Stock"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M4556_Modular14_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_CMAG40556_Black",
+                            "random_names": [],
+                            "quantity": 40,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_M4SS_Stock",
+                                "SNAFU_MK47HG"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_MK4716Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AKM_Drum75Rnd_Black",
+                            "random_names": [],
+                            "quantity": 75,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "SNAFU_UBR_Stock",
+                                "SNAFU_MK47HG"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_SR25_Gun",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_SR25_Mag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTCSR25",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_FAL_20Rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock2"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTCSR25_OD",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_FAL_20Rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock2"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_AACHoney_B",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock_Honey"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_HK416Comp",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "M4_OEBttstck"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M110",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_FAL_20Rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M110_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_FAL_20Rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M14",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M14_Mag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M14_Camo",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_M14_Mag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_BugBuster",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M4DMR",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_308Stanag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock3",
+                                "TTC_DMR_Hndguard"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_M4DMROD",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_308Stanag",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock3",
+                                "TTC_DMR_HndguardOD"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_MCX_300blk",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_300Cmag",
+                            "random_names": [],
+                            "quantity": 60,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_Holo",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": [
+                                {
+                                    "name": "Battery9V",
+                                    "random_names": [],
+                                    "quantity": 1,
+                                    "attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_MPXMCX1_Bttstck"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_MCX_Spear",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_MCX_Spear_Magazine_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_Elcan",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_MPXMCXSPEAR_Bttstck"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_MCX_Spear_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_MCX_Spear_Magazine_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_Elcan",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_MPXMCXSPEAR_Bttstck"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_ModDMRCamo_762",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_DMR_762Stanag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_ModDMRDigiTan_762",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_DMR_762Stanag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_ModDMRTwotone_762",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_DMR_762Stanag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_ModDMRUPC_762",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_DMR_762Stanag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_ModDMR_762",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_DMR_762Stanag_20rnd",
+                            "random_names": [],
+                            "quantity": 20,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_HAMR",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "TTC_Buttstock"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_SG552",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_SG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_SG552_Black",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_SG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_SG552_Wood",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_SG_30Rnd",
+                            "random_names": [],
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_XM2010",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_XM2010_10rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T5_MATERIALS",
+            "rewards": [
+                {
+                    "name": "QPK_Bolts",
+                    "chanceToSpawn": 0.110062893,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Calibrator",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Cloth_Aramid",
+                    "chanceToSpawn": 0.1981132076,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MetalParts",
+                    "chanceToSpawn": 0.0440251573,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_MilitaryCable",
+                    "chanceToSpawn": 0.2672955975,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Poxeram",
+                    "chanceToSpawn": 0.3270440252,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_WeaponParts",
+                    "chanceToSpawn": 0.0534591194,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_FlashStorage",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T5_SUPPORT",
+            "rewards": [
+                {
+                    "name": "DF_Collect_ECMO",
+                    "chanceToSpawn": 0.011724393013,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Experimental",
+                    "chanceToSpawn": 0.00573353663,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_MilitaryUAV",
+                    "chanceToSpawn": 0.00573353663,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Missile",
+                    "chanceToSpawn": 0.00573353663,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Golden",
+                    "chanceToSpawn": 0.00573353663,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Luxurywatch",
+                    "chanceToSpawn": 0.00573353663,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Quantum",
+                    "chanceToSpawn": 0.000562610062,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Reactor",
+                    "chanceToSpawn": 0.000562610062,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_SATCOM",
+                    "chanceToSpawn": 0.000562610062,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "DF_Collect_Diamond",
+                    "chanceToSpawn": 0.000562610062,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_BloodsuckerCollection",
+                    "chanceToSpawn": 0.001742180927,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_PoltergeystCollection",
+                    "chanceToSpawn": 0.001742180927,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_BurerCollection",
+                    "chanceToSpawn": 0.001742180927,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ControllerCollection",
+                    "chanceToSpawn": 0.001742180927,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_KAB3685Collection",
+                    "chanceToSpawn": 0.001742180927,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ZazCollection",
+                    "chanceToSpawn": 0.001742180927,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ChimeraCollection",
+                    "chanceToSpawn": 0.000868322212,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_GigantCollection",
+                    "chanceToSpawn": 0.000868322212,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_Mi24Collection",
+                    "chanceToSpawn": 0.000868322212,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_KamazCollection",
+                    "chanceToSpawn": 0.000868322212,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_UazCollection",
+                    "chanceToSpawn": 0.000868322212,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "QPK_ZiL131Collection",
+                    "chanceToSpawn": 0.000868322212,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_308Win",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_556x45",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 15,
+                    "quantityMax": 25,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_338",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_300ACC",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_127x55mm",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 5,
+                    "quantityMax": 10,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_127x55mmAP",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 5,
+                    "quantityMax": 10,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_277",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_300blk",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 10,
+                    "quantityMax": 20,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_338",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_Ammo_50BMG",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 1,
+                    "quantityMax": 3,
+                    "attachments": []
+                },
+                {
+                    "name": "GCGN_Ammo_408Chey",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 2,
+                    "quantityMax": 4,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_Ammo_145Cal",
+                    "chanceToSpawn": 0.006839614833,
+                    "quantityMin": 3,
+                    "quantityMax": 6,
+                    "attachments": []
+                },
+                {
+                    "name": "GCGN_Ammo_50Cal",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 1,
+                    "quantityMax": 3,
+                    "attachments": []
+                },
+                {
+                    "name": "Battery9V",
+                    "chanceToSpawn": 0.005655464606,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "chanceToSpawn": 0.011561025433,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "KazuarOptic",
+                    "chanceToSpawn": 0.017748692412,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ACOGOptic_6x",
+                    "chanceToSpawn": 0.017748692412,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HuntingOptic",
+                    "chanceToSpawn": 0.017748692412,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "M4_T3NRDSOptic",
+                    "chanceToSpawn": 0.017748692412,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "HP_Vise",
+                    "chanceToSpawn": 0.001103575891,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Mag_STANAG_30Rnd",
+                    "chanceToSpawn": 0.006379380154,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Mag_PMAG_30Rnd_Black",
+                    "chanceToSpawn": 0.006379380154,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_AK12_Mag",
+                    "chanceToSpawn": 0.006379380154,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "SNAFU_AK308_Mag",
+                    "chanceToSpawn": 0.006379380154,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TTC_308Stanag",
+                    "chanceToSpawn": 0.006379380154,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeBandageHemostatic",
+                    "chanceToSpawn": 0.01291044025,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSurgicalKit",
+                    "chanceToSpawn": 0.01291044025,
+                    "quantityMin": 5,
+                    "quantityMax": 5,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeInjectorPropital",
+                    "chanceToSpawn": 0.01291044025,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeInjectorAmoxiclav",
+                    "chanceToSpawn": 0.01291044025,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSurgicalTool_Ceramic",
+                    "chanceToSpawn": 0.01291044025,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "TerjeSyringeNew",
+                    "chanceToSpawn": 0.01291044025,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Ammo_338",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "Ammo_Expansion_338",
+                    "chanceToSpawn": 0.049078698138,
+                    "quantityMin": 4,
+                    "quantityMax": 8,
+                    "attachments": []
+                },
+                {
+                    "name": "AJW_Ammo_50BMG",
+                    "chanceToSpawn": 0.04907869814200002,
+                    "quantityMin": 1,
+                    "quantityMax": 3,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "RUN_T5_WEAPONS",
+            "rewards": [
+                {
+                    "name": "SNAFU_RPK16_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_RPK16_Green_Mag",
+                            "random_names": [],
+                            "quantity": 95,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "AJW_M60E6_FDE",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "AJW_Mag_M60_100rnd",
+                            "random_names": [],
+                            "quantity": 100,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AJW_Optic_Leupold_M3A",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "",
+                            "random_names": [
+                                "AJW_AACSDN_Suppressor_Black",
+                                "AJW_AACSDN_Suppressor_FDE"
+                            ],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_AWM_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_AWM_Mag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_MAR10_Black_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_Mar10_15rnd_Mag",
+                            "random_names": [],
+                            "quantity": 15,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_AWM",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_AWM_Magazine_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_MRAD",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_338_5rnd",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUKivaari_Black_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUKivaari_10rdMag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUKivaari_Tan_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUKivaari_25rdMag",
+                            "random_names": [],
+                            "quantity": 25,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_FD338",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_338mag_10rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_GEVAR43",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_GEVAR43_Magazine_10rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_VortexRHDAMG_Optic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_GEVAR43_Green",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_GEVAR43_Magazine_10rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_VortexRHDAMG_Optic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TTC_GEVAR43_silver",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "TTC_GEVAR43_Magazine_10rnd",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        },
+                        {
+                            "name": "TTC_VortexRHDAMG_Optic",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "GCGN_M200_Tan",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M200_Mag",
+                            "random_names": [],
+                            "quantity": 7,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "GCGN_M82_Barret",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M82_Mag",
+                            "random_names": [],
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUAX50_GUN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUAX50_Mag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUAlligator",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUAlligator_5rdMag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUGM6Lynx",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUGM6Lynx_5rdMag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFUM96",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUM96_5rdMag",
+                            "random_names": [],
+                            "quantity": 5,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SNAFU_M300TAN",
+                    "chanceToSpawn": 0.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M200_Mag",
+                            "random_names": [],
+                            "quantity": 7,
+                            "attachments": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

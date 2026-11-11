@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "比特币 - Inedia T2 高级医疗工具",
+  "Icon": "Deliver",
+  "Color": "FF6A00FF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "InediaPain_HemostaticDressing_T2",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_SurgicalKit_T2",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "InediaPain_SplintKit_T2",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

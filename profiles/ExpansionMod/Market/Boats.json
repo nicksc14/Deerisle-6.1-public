@@ -1,0 +1,80 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOATS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "boat_01_orange",
+      "MaxPriceThreshold": 250800,
+      "MinPriceThreshold": 160380,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": [
+        "boat_01_black",
+        "boat_01_blue",
+        "boat_01_camo"
+      ]
+    },
+    {
+      "ClassName": "expansionutilityboat",
+      "MaxPriceThreshold": 301500,
+      "MinPriceThreshold": 169800,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "truckbattery",
+        "glowplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "jmc_boat_stag_black",
+      "MaxPriceThreshold": 324000,
+      "MinPriceThreshold": 294300,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "jmc_boat_stag_red",
+      "MaxPriceThreshold": 324000,
+      "MinPriceThreshold": 294300,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "jmc_boat_stag_white",
+      "MaxPriceThreshold": 324000,
+      "MinPriceThreshold": 294300,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    }
+  ]
+}

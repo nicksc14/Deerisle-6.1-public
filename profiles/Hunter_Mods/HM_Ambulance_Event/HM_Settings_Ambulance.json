@@ -1,0 +1,934 @@
+{
+    "enablePVEZ": 0,
+    "pvezZoneRadius": 100.0,
+    "pvezZoneName": "Ambulance Event",
+    "pvezZoneShowZoneName": 0,
+    "pvezZoneShowZoneBorder": 1,
+    "enableMarkers": 1,
+    "enable3D": 1,
+    "markerName": "医疗车",
+    "markerIcon_Expansion": "Medic Box",
+    "markerColor_Expansion": -9371904,
+    "markerIcon_LBMaster": "heli",
+    "markerColorA_LBMaster": 255,
+    "markerColorR_LBMaster": 255,
+    "markerColorG_LBMaster": 255,
+    "markerColorB_LBMaster": 0,
+    "enableNotifications": 1,
+    "titleNotification": "医疗车事件",
+    "spawnNotification": "一辆医疗车在被军队截击了,消除威胁获取医疗物资!",
+    "discordWebhookUrl": "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_LINK_HERE",
+    "discordThumbnailUrl": "https://huntermods.online/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F2s7q5UpamTQcIZ9NvP5wlQ0RB3XdhOfrSqVkmYytDK1HGgax&w=640&q=75",
+    "enableDiscordViewOnMapLink": 1,
+    "discordTierCoordinatesLabel": "Coordinates",
+    "discordViewOnMapLabel": "View on Map",
+    "discordEmbedColor": 15844367,
+    "minPlayers": 0,
+    "maximumNumberOfEventsToSpawn": 20,
+    "minimumNumberOfEventsToSpawn": 12,
+    "delayInSecondsBetweenSpawns": 600,
+    "deleteTimer": 3600,
+    "zombiesList": [
+        "ZmbM_ParamedicNormal_Blue",
+        "ZmbM_ParamedicNormal_Green",
+        "ZmbM_ParamedicNormal_Red",
+        "ZmbM_PatientSkinny",
+        "ZmbM_PatientSkinny",
+        "ZmbM_PatientSkinny",
+        "ZmbM_NBC_Yellow",
+        "ZmbF_DoctorSkinny",
+        "ZmbF_NurseFat"
+    ],
+    "zombiesRadius": 30.0,
+    "zombiesNumber": 16,
+    "enableExpansionAI": 1,
+    "unlimitedReloadExpansionAI": 1,
+    "canLootBodyExpansionAI": 1,
+    "expansionMinAccuracy": 0.5,
+    "expansionMaxAccuracy": 0.7,
+    "expansionThreatDistanceLimit": 200.0,
+    "expansionNoiseInvestigationDistanceLimit": 100.0,
+    "expansionMaxFlankingDistance": 50.0,
+    "expansionDamageMultiplier": 1.0,
+    "expansionDamageReceivedMultiplier": 0.8,
+    "factionExpansionAI": "Shamans",
+    "factionLoadoutExpansionAI": "AI_HM_AMBULANCE_MEDIC",
+    "numberExpansionAI": 2,
+    "radiusExpansionAI": 20.0,
+    "minimumAmountOfLoot": 10,
+    "maximumAmountOfLoot": 14,
+    "lootItems": [
+        {
+            "name": "BandageDressing",
+            "quantity": 1,
+            "chance": 1.0,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "BloodBagEmpty",
+            "quantity": 1,
+            "chance": 0.65,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "SalineBag",
+            "quantity": 1,
+            "chance": 1.0,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "Thermometer",
+            "quantity": 1,
+            "chance": 0.7,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "DisinfectantSpray",
+            "quantity": 1,
+            "chance": 0.75,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "IodineTincture",
+            "quantity": 1,
+            "chance": 0.85,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSalveFinalgon",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSalveCapsicum",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSalveViprosal",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSyringeEmpty",
+            "quantity": 1,
+            "chance": 0.35,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleAlcohol",
+            "quantity": 1,
+            "chance": 0.35,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "StartKitIV",
+            "quantity": 1,
+            "chance": 0.85,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "BloodTestKit",
+            "quantity": 1,
+            "chance": 0.65,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "ChelatingTablets",
+            "quantity": 1,
+            "chance": 0.35,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "Epinephrine",
+            "quantity": 1,
+            "chance": 0.75,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "Morphine",
+            "quantity": 1,
+            "chance": 0.75,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "CharcoalTablets",
+            "quantity": 1,
+            "chance": 0.8,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "PurificationTablets",
+            "quantity": 1,
+            "chance": 0.6,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "PainkillerTablets",
+            "quantity": 1,
+            "chance": 0.65,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TetracyclineAntibiotics",
+            "quantity": 1,
+            "chance": 0.65,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "VitaminBottle",
+            "quantity": 1,
+            "chance": 0.6,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjePillsMagnesiumSulfate",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjePillsAdepress",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleAmoxivan",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleNovacaine",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleNeirox",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleErythropoetin",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleAdrenalin",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleMetralindole",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleVaxicam",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleZerivax",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleRabivax",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleRabinoline",
+            "quantity": 1,
+            "chance": 0.2,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeAmpouleNeirocetal",
+            "quantity": 1,
+            "chance": 0.12,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSyringeNew",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeBandageHemostatic",
+            "quantity": 1,
+            "chance": 0.35,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitIndividual_Black",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitIndividual_Brown",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitIndividual_Green",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitIndividual_Camo",
+            "quantity": 1,
+            "chance": 0.3,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitMedium",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "InediaPain_FirstAidKit_White",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "InediaPain_FirstAidKit_Black",
+            "quantity": 1,
+            "chance": 0.25,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeInjectorZivirol",
+            "quantity": 1,
+            "chance": 0.04,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeInjectorAmoxiclav",
+            "quantity": 1,
+            "chance": 0.06,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeInjectorNeirox",
+            "quantity": 1,
+            "chance": 0.05,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeInjectorErythropoietin",
+            "quantity": 1,
+            "chance": 0.06,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitAdvance_Black",
+            "quantity": 1,
+            "chance": 0.05,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitAdvance_Brown",
+            "quantity": 1,
+            "chance": 0.05,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitAdvance_Green",
+            "quantity": 1,
+            "chance": 0.05,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitAdvance_Camo",
+            "quantity": 1,
+            "chance": 0.05,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeFirstAidKitLarge",
+            "quantity": 1,
+            "chance": 0.08,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSurgicalKit",
+            "quantity": 1,
+            "chance": 0.08,
+            "minHealth": 1.0,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSurgicalTool_White",
+            "quantity": 1,
+            "chance": 0.06,
+            "minHealth": 1.0,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeSurgicalTool_Ceramic",
+            "quantity": 1,
+            "chance": 0.04,
+            "minHealth": 1.0,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "InediaPain_FirstAidCase_White",
+            "quantity": 1,
+            "chance": 0.08,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "InediaPain_FirstAidCase_Black",
+            "quantity": 1,
+            "chance": 0.08,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeInjectorNovichek",
+            "quantity": 1,
+            "chance": 0.02,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "TerjeInjectorPropital",
+            "quantity": 1,
+            "chance": 0.04,
+            "minHealth": 0.5,
+            "maxHealth": 1.0,
+            "attachments": []
+        },
+        {
+            "name": "Defibrillator",
+            "quantity": 1,
+            "chance": 0.08,
+            "minHealth": 1.0,
+            "maxHealth": 1.0,
+            "attachments": []
+        }
+    ],
+    "ambulanceZones": [
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                1937.584351,
+                9.19,
+                8989.433594
+            ],
+            "orientation": [
+                45.003937,
+                0.000946,
+                0.002285
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                3730.017334,
+                9.438736,
+                8839.396484
+            ],
+            "orientation": [
+                -0.141633,
+                0.001751,
+                0.001746
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                5663.57959,
+                4.921198,
+                9285.851563
+            ],
+            "orientation": [
+                -58.185627,
+                -0.0,
+                -0.0
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                6244.450684,
+                4.971054,
+                9592.268555
+            ],
+            "orientation": [
+                102.128479,
+                0.0,
+                -0.0
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                7937.460449,
+                5.140954,
+                9507.103516
+            ],
+            "orientation": [
+                38.662395,
+                0.270657,
+                -0.333107
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                8311.254883,
+                5.121199,
+                9152.53125
+            ],
+            "orientation": [
+                -40.120533,
+                -0.0,
+                -0.0
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                8267.629883,
+                5.129931,
+                8810.616211
+            ],
+            "orientation": [
+                23.906183,
+                0.001348,
+                0.002073
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                9755.581055,
+                2.943007,
+                9599.917969
+            ],
+            "orientation": [
+                90.899597,
+                -0.129964,
+                -0.613076
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                10031.782227,
+                28.82,
+                12646.573242
+            ],
+            "orientation": [
+                34.299046,
+                0.001155,
+                0.002186
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                10226.865234,
+                21.77,
+                10931.769531
+            ],
+            "orientation": [
+                -79.0895,
+                0.001348,
+                -0.001113
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                5273.09082,
+                4.761199,
+                12423.998047
+            ],
+            "orientation": [
+                163.062958,
+                0.0,
+                -0.0
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                11012.853516,
+                5.38,
+                10261.480469
+            ],
+            "orientation": [
+                -169.632675,
+                -0.001741,
+                -0.000158
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                13009.225586,
+                12.939955,
+                9710.222656
+            ],
+            "orientation": [
+                -144.694962,
+                -0.001666,
+                -0.00053
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                12091.166992,
+                2.283707,
+                7820.124023
+            ],
+            "orientation": [
+                -56.854347,
+                1.668125,
+                -2.734467
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                10377.24707,
+                24.80525,
+                7696.819336
+            ],
+            "orientation": [
+                146.209595,
+                0.477514,
+                0.200356
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                9489.402344,
+                24.196096,
+                7650.970703
+            ],
+            "orientation": [
+                1.944671,
+                0.689792,
+                0.884393
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                10716.902344,
+                90.256386,
+                6149.955566
+            ],
+            "orientation": [
+                122.333092,
+                0.682751,
+                0.264869
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                8117.134277,
+                4.01,
+                7495.726563
+            ],
+            "orientation": [
+                40.553173,
+                0.001034,
+                0.002246
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                4592.012207,
+                20.4212,
+                6993.516602
+            ],
+            "orientation": [
+                29.525038,
+                0.0,
+                -0.0
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                3280.424316,
+                22.365917,
+                6168.301758
+            ],
+            "orientation": [
+                25.032516,
+                -0.907247,
+                -0.423514
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                3171.637939,
+                22.450001,
+                4166.192383
+            ],
+            "orientation": [
+                54.930305,
+                0.000745,
+                0.002358
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                5735.698242,
+                73.998718,
+                3245.20459
+            ],
+            "orientation": [
+                132.354996,
+                -0.077069,
+                0.513799
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                7797.539063,
+                3.588877,
+                3937.421143
+            ],
+            "orientation": [
+                162.755722,
+                -1.486597,
+                -0.437845
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                4658.212402,
+                6.563526,
+                1412.003662
+            ],
+            "orientation": [
+                -132.434845,
+                -0.265777,
+                0.276072
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                3213.546875,
+                2.743145,
+                1716.821167
+            ],
+            "orientation": [
+                -86.38295,
+                0.030099,
+                -0.169757
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        },
+        {
+            "chanceToSpawn": 1.0,
+            "position": [
+                4464.126465,
+                5.063325,
+                1412.345581
+            ],
+            "orientation": [
+                77.754501,
+                0.0,
+                -0.0
+            ],
+            "spawnWindowStartSecondsAfterServerStart": 0,
+            "spawnWindowEndSecondsAfterServerStart": 480
+        }
+    ]
+}

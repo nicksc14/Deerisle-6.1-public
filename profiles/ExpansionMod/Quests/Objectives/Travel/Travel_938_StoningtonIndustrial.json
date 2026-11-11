@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 938,
+    "ObjectiveType": 3,
+    "ObjectiveText": "团队前往Stonington工业区",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6775.401855,
+        42.387737,
+        2403.410889
+    ],
+    "MaxDistance": 80.0,
+    "MarkerName": "Stonington工业区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

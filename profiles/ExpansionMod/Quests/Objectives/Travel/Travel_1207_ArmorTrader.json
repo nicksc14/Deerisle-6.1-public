@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1207,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往护甲交易区",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3445.0,
+        0.0,
+        6424.0
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "护甲交易区",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

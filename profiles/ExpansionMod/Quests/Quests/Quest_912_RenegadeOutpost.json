@@ -1,0 +1,78 @@
+{
+    "ConfigVersion": 22,
+    "ID": 912,
+    "Type": 1,
+    "Title": "叛逃者据点：击杀3名任务AI",
+    "Descriptions": [
+        "Stonington地下工厂被3名武装叛逃者占据。进入据点并击杀全部3名任务AI。",
+        "进入叛逃者据点，击杀3名任务AI。地下空间注意利用掩体推进。",
+        "3名任务AI已经全部击杀。这120发5.56弹药和两只原版30发STANAG弹匣与后续获得的原版M4A1兼容。"
+    ],
+    "ObjectiveText": "在叛逃者据点击杀3名任务AI",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Ammo_556x45",
+            "Amount": 120,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Mag_STANAG_30Rnd",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        6
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 912,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 912,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": -16728802,
+    "ReputationReward": 400,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

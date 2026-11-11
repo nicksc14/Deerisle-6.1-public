@@ -1,0 +1,552 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Yamaha_F450",
+  "Icon": "Car",
+  "Color": "00FF90FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "mbm_yamaha450_blue",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_camo",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_camopink",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_green",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_grey",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_mbm",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_monsterenergy",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_orange",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_pink",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_red",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_red",
+        "mbm_yamaha450_wheel_rear_red",
+        "mbm_yamaha450_wheel_front_red",
+        "mbm_yamaha450_wheel_rear_red"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_splatterblue",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_splatterred",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_red",
+        "mbm_yamaha450_wheel_rear_red",
+        "mbm_yamaha450_wheel_front_red",
+        "mbm_yamaha450_wheel_rear_red"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_blue",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_camo",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_camopink",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_rear_pink",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink",
+        "mbm_yamaha450_wheel_front_pink"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_green",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_rear_green",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green",
+        "mbm_yamaha450_wheel_front_green"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_grey",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_mbm",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_monsterenergy",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green",
+        "mbm_yamaha450_wheel_front_green",
+        "mbm_yamaha450_wheel_rear_green"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_orange",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_pink",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink",
+        "mbm_yamaha450_wheel_front_pink",
+        "mbm_yamaha450_wheel_rear_pink"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_red",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_front_red",
+        "mbm_yamaha450_wheel_rear_red",
+        "mbm_yamaha450_wheel_front_red",
+        "mbm_yamaha450_wheel_rear_red"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_splatterblue",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue",
+        "mbm_yamaha450_wheel_rear_blue",
+        "mbm_yamaha450_wheel_front_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_w_splatterred",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "mbm_yamaha450_wheel_front",
+        "mbm_yamaha450_wheel_rear",
+        "sparkplug",
+        "carbattery"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_front",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_front_blue",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_front_green",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_front_pink",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_front_red",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_rear",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_rear_blue",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_rear_green",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_rear_pink",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_yamaha450_wheel_rear_red",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

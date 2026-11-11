@@ -1,0 +1,3345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="ADM_Compressor">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3600</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Firefighter" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="ADM_Divinghelmet">
+    <nominal>4</nominal>
+    <lifetime>28800</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Coast" />
+    <value name="Tier4" />
+  </type>
+  <type name="ADM_Divinghelmet_Old">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+  </type>
+  <type name="ADM_Divingsuit">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Coast" />
+    <value name="Tier4" />
+  </type>
+  <type name="ADM_Divingtank">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <value name="Tier4" />
+  </type>
+  <type name="ADM_Flippers">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Coast" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="ADM_Snorkel">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Coast" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="aek">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="Animal_CanisLupus_Winter">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Animal_Polarbear">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="avs36">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Hunting" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="BarrelHoles_Stagb">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0" />
+  </type>
+  <type name="boomstick">
+    <nominal>6</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Hunting" />
+    <usage name="Military" />
+    <usage name="Police" />
+  </type>
+  <type name="ESP_G36C">
+    <nominal>15</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>15</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="ESP_Hunter">
+    <nominal>3</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Hunting" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_Long_Range">
+    <nominal>3</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="ESP_M110">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>2</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Underground" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_M110_Green">
+    <nominal>3</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>3</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_M110_Tan">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_M14">
+    <nominal>4</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>4</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_M14_Black">
+    <nominal>5</nominal>
+    <lifetime>28800</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="ESP_RedDot">
+    <nominal>3</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="ESP_RIS_Adapter">
+    <nominal>6</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="ESP_SCAR_Collapse_Stck_Black">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_SCAR_Collapse_Stck_Tan">
+    <nominal>6</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_SCAR_RIS_HNDGRD_Black">
+    <nominal>6</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_SCAR_Stck_black">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_SCAR_Stck_Tan">
+    <nominal>6</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_SCAR_URGI_HNDGRD_Black">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_SCAR_URGI_HNDGRD_Tan">
+    <nominal>6</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ESP_Short_Range">
+    <nominal>3</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_Spectre">
+    <nominal>3</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_Tac_Craftsmen">
+    <nominal>5</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_Wrapped_Suppressor">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ESP_Wrapped_Suppressor_Black">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="ESP_Wrapped_Suppressor_Green">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="Fwinkies">
+    <nominal>16</nominal>
+    <lifetime>5600</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="food" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="higgins">
+    <nominal>15</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>15</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Coast" />
+    <usage name="Hunting" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="InfectedSoldierHardJMC">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="InfectedSoldierHardJMCWinter">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Aqua">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Blue">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Green">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Grey">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Pink">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Red">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_STAG_Black">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_STAG_Red">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_STAG_White">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_atv_Wheel">
+    <nominal>40</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="jmc_BearPeltGhillieBrown_m">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="jmc_BearPeltGhillieWhite">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="jmc_BearPeltPolar">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="jmc_Boat_STAG_Black">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_Boat_STAG_Red">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_Boat_STAG_White">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="jmc_boatticket">
+    <nominal>30</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <value name="Tier3" />
+  </type>
+  <type name="JMC_Book_ARCTICA">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_BRIEFCASE">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_DIARYBARINGER">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="JMC_Book_DIARYCARGO">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="JMC_Book_DIARYFROST">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="JMC_Book_DIARYHCRINCI">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="JMC_Book_DIARYLOVE">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier2" />
+  </type>
+  <type name="JMC_Book_DIARYTELEPORT">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_ENTERNALFLAME">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_KMUC">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="JMC_Book_NAMALSK">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="JMC_Book_QIS">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_Reactor3">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_STAFF">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_THEMACHINE1">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_Book_THERAT">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="JMC_BoxCerealCrunchin_Paulies">
+    <nominal>1</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="JMC_CassettePlayer">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
+  <type name="jmc_GPSReceiver">
+    <nominal>10</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>999</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="jmc_grenade_b">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_grenade_l">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_grenade_s">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_grenade_smokey">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="SMK" />
+  </type>
+  <type name="jmc_grenade_t">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_grenade_w">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_grenade_z">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="Jmc_Keycard">
+    <nominal>1</nominal>
+    <lifetime>5600</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="KMUCKeycard" />
+    <usage name="Special" />
+  </type>
+  <type name="Jmc_Keycard2">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+    <value name="Tier8" />
+  </type>
+  <type name="jmc_Military_Mountain_Boots_Black">
+    <nominal>15</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <usage name="Hunting" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier8" />
+  </type>
+  <type name="jmc_Military_Mountain_Boots_Bluerock">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="jmc_Military_Mountain_Boots_Brown">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_Military_Mountain_Boots_Redpunk">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier6" />
+  </type>
+  <type name="Jmc_Mjolnir">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="weapons" />
+  </type>
+  <type name="jmc_mjolnir_handle">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>999</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="TempleMjHandle" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_mjolnir_head">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>999</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="TempleMjHead" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_plant_ab">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="jmc_plant_abc">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="jmc_plant_ac">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="jmc_plant_bc">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="jmc_plants_fern_a_leaf">
+    <nominal>0</nominal>
+    <lifetime>600</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="food" />
+    <usage name="PlantsA" />
+  </type>
+  <type name="jmc_plants_fern_b_leaf">
+    <nominal>0</nominal>
+    <lifetime>600</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="food" />
+    <usage name="PlantsB" />
+  </type>
+  <type name="jmc_plants_fern_c_leaf">
+    <nominal>0</nominal>
+    <lifetime>600</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="food" />
+    <usage name="PlantsC" />
+  </type>
+  <type name="jmc_Prototype_Blue">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+    <value name="Tier8" />
+  </type>
+  <type name="jmc_Prototype_Mag">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_Prototype_Optic_Blue">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_Prototype_Optic_Red">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="jmc_Prototype_Optic_White">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="jmc_Prototype_Red">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_Prototype_White">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Underground" />
+    <value name="Tier7" />
+  </type>
+  <type name="JMC_Radio_CassetteTape_MusicTape2">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <value name="Tier7" />
+  </type>
+  <type name="JMC_Radio_CassetteTape_MusicTape3">
+    <nominal>3</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="jmc_SnowOwl">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+  </type>
+  <type name="jmc_SnowOwl_Ammo">
+    <nominal>15</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>15</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_SnowOwl_Mag">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_SnowOwl_Optic">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>28800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="jmc_tankticket">
+    <nominal>40</nominal>
+    <lifetime>1800</lifetime>
+    <restock>900</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="junkak">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier6" />
+  </type>
+  <type name="kar98">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Hunting" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Land_jmc_plant_fern_a">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Land_jmc_plant_fern_b">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Land_jmc_plant_fern_c">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Land_jmc_van_ambulance">
+    <nominal>0</nominal>
+    <lifetime>5600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Land_jmc_van_pinkies">
+    <nominal>0</nominal>
+    <lifetime>5600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="marlin">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="ots71">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Prison" />
+    <value name="Tier2" />
+  </type>
+  <type name="RFMosquito">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="RFMosquito_aviation_toolbox">
+    <nominal>4</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+    <value name="Tier4" />
+  </type>
+  <type name="RFMosquito_DriveBelt">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <value name="Tier9" />
+  </type>
+  <type name="RFMosquito_OilFilter">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+    <value name="Tier5" />
+  </type>
+  <type name="RFMosquito_Replacement_Avionics">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RFMosquito_Replacement_Engine">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RFMosquito_Replacement_Fuel_Tanks">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RFMosquito_Replacement_Main_Rotor">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RFMosquito_Replacement_Tail_Rotor">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RFMosquito_wiring_harness">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <value name="Tier8" />
+  </type>
+  <type name="RFMosquito_wreck">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SRP_BeanBasher">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Industrial" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="SRP_BerserkSword">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+    <value name="Tier8" />
+  </type>
+  <type name="SRP_Dynamite_Stack">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="SRP_Dynamite_Stick">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="SRP_FireyGreatsword_Basic">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_GladiusSword_Ornamental">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+    <value name="Tier8" />
+  </type>
+  <type name="SRP_GreatBattleAxe">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_GreatBattleAxe_Phantom">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_KarambitKnife">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_KarambitKnife_Blue">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_KarambitKnife_Red">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="SRP_KatanaSlim">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_KatanaSlim_Sheath">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_PistolSuppressor_Golden">
+    <nominal>1</nominal>
+    <lifetime>1800</lifetime>
+    <restock>7200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="SRP_SnakeDagger">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <value name="Tier4" />
+    <value name="Tier8" />
+  </type>
+  <type name="SRP_Staff_Skull_Basic">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Staff" />
+    <value name="Tier7" />
+  </type>
+  <type name="SRP_Trenchknife">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="SRP_Viking_Axe">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Crypt" />
+    <value name="Tier8" />
+  </type>
+  <type name="SRP_WarCleaver">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Industrial" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_WarHammer_Basic_Wood">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_WarHammer_Brutal_Basic">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="SRP_WitcherSword_Basic">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_AmmoBox_SnowOwl">
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="STAG_BalaclavaMask">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="STAG_Barrel_B">
+    <nominal>3</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+    <tag name="ground" />
+  </type>
+  <type name="STAG_Battery9V">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Canteen">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>90</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Canteen_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>90</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_6sh118">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_Armband">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_ArmyBackpack">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="STAG_Clothing_BallisticHelmet">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier7" />
+  </type>
+  <type name="STAG_Clothing_Beret">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="STAG_Clothing_Boots">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_Boots_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_Cap">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="STAG_Clothing_Cargo_Pants">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_Cargo_Pants_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_CoyoteBag">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="STAG_Clothing_DryBag">
+    <nominal>0</nominal>
+    <lifetime>86400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+  </type>
+  <type name="STAG_Clothing_M65_Jacket">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_M65_Jacket_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_MountainBag">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Hunting" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="STAG_Clothing_PlateCarrier">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_PlateCarrier_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_PlateCarrierHolster">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_PlateCarrierHolster_PT">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_Pouches">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_Pouches_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_TacticalGloves">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_TacticalGloves_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Clothing_Vest">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Clothing_Vest_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_CombatKnife">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier7" />
+  </type>
+  <type name="STAG_CreamCheese">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <tag name="shelves" />
+  </type>
+  <type name="STAG_CreamCheese_Opened">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Crossbow">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+  </type>
+  <type name="STAG_FirstAidKit">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Flag">
+    <nominal>5</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Flag_Mirrored">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Heatpack">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_LargeGasCanister">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_Matchbox">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>90</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <tag name="shelves" />
+  </type>
+  <type name="STAG_NBC_Boots_Black">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_NBC_Hood_Black">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_NBC_Jacket_Black">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_NBC_Pants_Black">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_NitroCan">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="STAG_PeanutButter">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <tag name="shelves" />
+  </type>
+  <type name="STAG_PetrolLighter">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>20</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier5" />
+    <value name="Tier7" />
+  </type>
+  <type name="STAG_PotatoChips">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <tag name="shelves" />
+  </type>
+  <type name="STAG_Protein_cookie">
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <tag name="shelves" />
+  </type>
+  <type name="STAG_PunchedCard">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Punchedcard" />
+  </type>
+  <type name="STAG_SmershBag">
+    <nominal>0</nominal>
+    <lifetime>21600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_SmershBag_PT">
+    <nominal>0</nominal>
+    <lifetime>21600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_SmershVest">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_SmershVest_PT">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_SodaCan">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_TacticalBaconCan">
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+  </type>
+  <type name="STAG_TacticalBaconCan_Opened">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Teddybear_black">
+    <nominal>5</nominal>
+    <lifetime>86400</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Teddybear_brown">
+    <nominal>5</nominal>
+    <lifetime>86400</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="STAG_Waffle">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Military" />
+    <tag name="shelves" />
+  </type>
+  <type name="STG_AK_RIS_Adapter">
+    <nominal>6</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="STG_AK_Stck_Adapter">
+    <nominal>3</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="STG_PBS5_Suppressor">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="tantosword_Simple">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="tbladed_Simple">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <value name="Tier1" />
+  </type>
+  <type name="tt870">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>8</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="ttagram">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>8</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="ttak458">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier9" />
+  </type>
+  <type name="ttak458_Gold">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="ttak458poli">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+  </type>
+  <type name="ttar9">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="ttbar">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ttbaseballbat_Simple">
+    <nominal>5</nominal>
+    <lifetime>28800</lifetime>
+    <restock>14400</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+    <usage name="Village" />
+    <value name="Tier1" />
+  </type>
+  <type name="ttcelticaxe_Simple">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier9" />
+  </type>
+  <type name="ttgarand">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="ttp90">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ttp90_Tan">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ttp90mag">
+    <nominal>9</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>9</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="ttr700">
+    <nominal>3</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ttr700mag">
+    <nominal>6</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ttrpd">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="ttrpdmag">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>2</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+  <type name="ttscarl">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+  </type>
+  <type name="ttscarl_Tan">
+    <nominal>5</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>5</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ttsok94">
+    <nominal>5</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>5</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+  </type>
+  <type name="ttstg44">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>7200</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+  </type>
+</types>

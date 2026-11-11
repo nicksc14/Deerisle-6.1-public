@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Event Foresters]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "text1": "====== COORD PRESETS",
+    "EventCoordPresetsList": [
+        {
+            "PresetName": "deerisle_camp_pool_01",
+            "CoordList": [
+                "12847.641 0 2558.410",
+                "9759.281 0 3299.211",
+                "9819.188 0 3839.174",
+                "5695.625 0 4765.100"
+            ]
+        },
+        {
+            "PresetName": "deerisle_camp_pool_02",
+            "CoordList": [
+                "8877.109 0 5014.320",
+                "10377.891 0 5156.207",
+                "8789.922 0 5343.360",
+                "4406.219 0 5630.816"
+            ]
+        },
+        {
+            "PresetName": "deerisle_camp_pool_03",
+            "CoordList": [
+                "6026.500 0 5679.635",
+                "5199.594 0 5784.471",
+                "10739.813 0 6189.884",
+                "13079.625 0 6233.891"
+            ]
+        },
+        {
+            "PresetName": "deerisle_camp_pool_04",
+            "CoordList": [
+                "4477.531 0 6583.898",
+                "5454.953 0 6797.935",
+                "8610.438 0 6857.820",
+                "10455.109 0 7353.781"
+            ]
+        },
+        {
+            "PresetName": "deerisle_camp_pool_05",
+            "CoordList": [
+                "3102.641 0 7381.630",
+                "11218.203 0 9013.731",
+                "7071.313 0 9392.521",
+                "5836.844 0 10507.854"
+            ]
+        },
+        {
+            "PresetName": "deerisle_camp_pool_06",
+            "CoordList": [
+                "8801.609 0 10584.793",
+                "1977.469 0 10753.499",
+                "8414.203 0 11330.297",
+                "1892.109 0 12006.021"
+            ]
+        },
+        {
+            "PresetName": "deerisle_camp_pool_07",
+            "CoordList": [
+                "6184.906 0 12058.124",
+                "7707.266 0 12888.431",
+                "4214.375 0 13846.506",
+                "2644.047 0 14520.172",
+                "3387.844 0 15352.182"
+            ]
+        }
+    ]
+}

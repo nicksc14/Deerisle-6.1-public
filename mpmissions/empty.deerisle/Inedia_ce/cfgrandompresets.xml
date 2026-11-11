@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+    <!-- ... -->
+    <cargo chance="0.35" name="toolsMedic">
+            <!-- ... -->
+            <!-- Inedia medical items are intentionally disabled for random
+                 zombie/cargo spawning. Keep these entries documented so they
+                 can be re-enabled explicitly later if desired. -->
+            <item name="InediaPain_HemostaticDressing" chance="0" />
+            <item name="InediaPain_Tramadol" chance="0" />
+            <item name="InediaPain_Vikasol" chance="0" />
+            <item name="InediaPain_Calcium" chance="0" />
+            <item name="InediaPain_Metoclopramide" chance="0" />
+            <item name="InediaPain_Sorbifer" chance="0" />
+            <item name="InediaPain_SurgicalKit" chance="0" />
+            <item name="InediaPain_SplintKit" chance="0" />
+    </cargo>
+    <!-- ... -->
+</randompresets>

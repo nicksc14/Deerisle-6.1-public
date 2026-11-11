@@ -1,0 +1,52 @@
+{
+    "ConfigVersion": 22,
+    "ID": 215,
+    "Type": 1,
+    "Title": "鹿岛传奇猎证 VI：雪原巨足",
+    "Descriptions": [
+        "五类特殊目标的证物已经归档。传奇猎证的最终考核是东北雪原的大脚雪怪；它的生命力和攻击强度都远超普通猎物。",
+        "进入雪怪猎区，猎杀1只“大脚雪怪｜雪原巨足”，随后取下并携带1件完整雪怪头颅返回协会。这是领取顶级猎人装备和开放六项特殊物种周常的最后条件。",
+        "六类特殊目标的首次猎获记录已全部归档。鹿岛捕猎协会现在授予你传奇猎证：发放顶级Strongarm猎刀、10,000 Hryvnia和T2迷彩Inedia小型医疗包，并永久解锁六项特殊物种周常合同。"
+    ],
+    "ObjectiveText": "首次追踪并猎杀雪原巨足，交付1件雪怪头颅，完成传奇猎证",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {"ClassName": "ZZSA_FOG_Strongarm_Knife", "Amount": 1, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0},
+        {"ClassName": "ExpansionBanknoteHryvnia", "Amount": 10000, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0},
+        {"ClassName": "InediaPain_FirstAidKit_T2_Camouflage", "Amount": 1, "Attachments": [], "DamagePercent": 0, "HealthPercent": 0, "QuestID": -1, "Chance": 1.0}
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [11],
+    "QuestTurnInIDs": [11],
+    "IsAchievement": 0,
+    "Objectives": [
+        {"ConfigVersion": 28, "ID": 2091, "ObjectiveType": 3},
+        {"ConfigVersion": 28, "ID": 2092, "ObjectiveType": 2},
+        {"ConfigVersion": 28, "ID": 2093, "ObjectiveType": 4}
+    ],
+    "QuestColor": -10902817,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [214],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

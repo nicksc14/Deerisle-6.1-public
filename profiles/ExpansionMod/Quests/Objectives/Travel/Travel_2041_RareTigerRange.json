@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2041,
+    "ObjectiveType": 3,
+    "ObjectiveText": "前往灰脊山林的虎踪范围",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6288.309570,
+        259.185028,
+        10437.160156
+    ],
+    "MaxDistance": 800.0,
+    "MarkerName": "灰脊山林｜虎踪范围",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
